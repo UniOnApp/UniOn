@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>&Eacute; t&atilde;o calmo e t&atilde;o fresco!&nbsp; <\/strong>- It&rsquo;s so calm and so fresh!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Habitualmente <\/strong>vou ao Parque Verde ao fim de semana.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Frequency words<\/strong><\/p>\r\n<p>Sempre - <em>always<\/em><\/p>\r\n<p>Habitualmente - <em>usually<\/em><\/p>\r\n<p>&Agrave;s vezes - <em>sometimes<\/em><\/p>\r\n<p>Nunca - <em>never<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

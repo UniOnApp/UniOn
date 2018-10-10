@@ -1,0 +1,13 @@
+{
+  "title": "Ethnic food",
+  "latitude": "66.500560",
+  "longitude": "25.726796",
+  "difficulty": "",
+  "keyword": ["groceries","etninen ruoka","culture"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

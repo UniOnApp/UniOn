@@ -1,0 +1,13 @@
+{
+  "title": "Glassware",
+  "latitude": "66.543375",
+  "longitude": "25.847274",
+  "difficulty": "",
+  "keyword": ["design","glass","art","lasitaide","taidelasi"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

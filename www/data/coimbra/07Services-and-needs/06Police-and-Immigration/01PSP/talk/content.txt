@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Agente da pol&iacute;cia<\/strong> &ndash; police officer<\/p>\r\n<p>- O seu documento de identifica&ccedil;&atilde;o, se faz favor.<em> &ndash; Your id, please.<\/em><\/p>\r\n<p>- Aqui tem<em> &ndash; Here you are.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Por favor, ajude.<em> - Please help. <\/em><\/p>\r\n<p>- O que &eacute; que aconteceu?<em> - What has happened?<\/em><\/p>\r\n<p>- Fui assaltado\/a.<em> - I've been robbed.<\/em><\/p>\r\n<p>- Roubaram-me a carteira.<em> - My wallet has been stolen.<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

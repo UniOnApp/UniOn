@@ -1,0 +1,13 @@
+{
+  "title": "For the Brave",
+  "latitude": "52.433297",
+  "longitude": "16.853350",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

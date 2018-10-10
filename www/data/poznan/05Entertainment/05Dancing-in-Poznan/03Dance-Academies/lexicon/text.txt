@@ -1,0 +1,204 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>szkoła tańca</p>
+</td>
+<td>
+<p>dance school</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>proponuje (proponować)</p>
+</td>
+<td>
+<p>offers (to offer)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kursy tańca towarzyskiego</p>
+</td>
+<td>
+<p>courses of partner dances</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>elegancja walca</p>
+</td>
+<td>
+<p>elegance of the English waltz</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gwałtowność tanga</p>
+</td>
+<td>
+<p>the fierceness of tango</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>najtrudniejszy spacer świata</em></p>
+</td>
+<td>
+<p>the <em>hardest walk in the world</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>energetyczność</p>
+</td>
+<td>
+<p>energy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>tańce kochank&oacute;w</em></p>
+</td>
+<td>
+<p>dances of lovers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zmysłowa samba</p>
+</td>
+<td>
+<p>The sensual samba</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>namiętna rumba</p>
+</td>
+<td>
+<p>The passionate rumba</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>taniec nowoczesny</p>
+</td>
+<td>
+<p>contemporary dance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>doświadczony instruktor</p>
+</td>
+<td>
+<p>experienced dance instructor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poprowadzi (poprowadzić) treningi</p>
+</td>
+<td>
+<p>will give (to give) you training </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>turniejowa przyszłość</p>
+</td>
+<td>
+<p>destined to enter dance tournament</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spotykać się cyklicznie</p>
+</td>
+<td>
+<p>to meet regularly</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na deskach klubu</p>
+</td>
+<td>
+<p>in the club&rsquo;s premises</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Niepowtarzalne atuty</p>
+</td>
+<td>
+<p>unique assets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uzależnieni od ruchu</p>
+</td>
+<td>
+<p>addicted to motion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rzadka technika</p>
+</td>
+<td>
+<p>rare technique</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>instruktor-mistrz</p>
+</td>
+<td>
+<p>instructor-master</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>profesjonalnie przygotowana przestrzeń taneczna</p>
+</td>
+<td>
+<p>professional dance space</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>formacja taneczna</p>
+</td>
+<td>
+<p>dance ensemble</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>harmonogram</p>
+</td>
+<td>
+<p>schedule</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kategorie zajęć</p>
+</td>
+<td>
+<p>class categories</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ponoć hipnotyzująca</p>
+</td>
+<td>
+<p>reportedly hypnotizing</p>
+</td>
+</tr>
+</tbody>
+</table>

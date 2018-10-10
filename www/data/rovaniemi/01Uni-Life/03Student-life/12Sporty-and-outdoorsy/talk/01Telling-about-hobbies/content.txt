@@ -1,0 +1,13 @@
+{
+  "title": "Telling about hobbies",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Telling what your hobbies are<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p><strong>Min\u00E4 harrastan j\u00E4\u00E4kiekkoa. <\/strong>Ice hockey is my hobby. \/ I\u2019m interested in ice hockey. \/ I go in for ice hockey.<\/p>\r\n<p>\u00A0<\/p>\r\n<p>harrastaa to be interested in, to go in for, to do an activity as a hobby<\/p>\r\n<p>harrastus a hobby<\/p>\r\n<p>j\u00E4\u00E4kiekko ice hockey<\/p>\r\n<p>\u00A0<\/p>\r\n<p>The extra a\/\u00E4 is the ending of an object (j\u00E4\u00E4kiekkoa) signifying partitive.<\/p>\r\n<p><br \/><br \/><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

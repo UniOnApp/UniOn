@@ -1,0 +1,14 @@
+{
+  "title": "San Francesco",
+  "latitude": "44.494803",
+  "longitude": "11.335705",
+  "difficulty": "high",
+  "keyword": ["Basilica di San Francesco",
+"Tombe dei Glossatori"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

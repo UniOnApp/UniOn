@@ -1,0 +1,13 @@
+{
+  "title": "Festive food",
+  "latitude": "66.501855",
+  "longitude": "25.734324",
+  "difficulty": "",
+  "keyword": ["holiday","celebration","food","christmas","joulu","juhannus","piparkakku","glögi","laskiainen"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

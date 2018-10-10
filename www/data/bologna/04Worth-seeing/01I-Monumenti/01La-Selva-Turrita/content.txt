@@ -1,0 +1,22 @@
+{
+  "title": "La Selva Turrita",
+  "latitude": "44.494332",
+  "longitude": "11.347075",
+  "difficulty": "mid",
+  "keyword": ["torre",
+"torri",
+"Lambertini",
+"Ramponi",
+"Catalani",
+"Le due torri",
+"Garisenda",
+"Asinelli",
+"Azzoguidi",
+"Prendiparte"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

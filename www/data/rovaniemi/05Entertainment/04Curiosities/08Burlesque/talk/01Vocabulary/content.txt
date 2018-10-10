@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>A burlesque show undoubtedly makes one think of the beautiful, ornamental, overstated outfits: the dresses, hats, gloves &ndash; and the unmentionables beneath! Here&rsquo;s a bit of vocabulary about them.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>alushousut <\/strong>underpants, panties, knickers<\/p>\r\n<p><strong>asusteet<\/strong> accessories<\/p>\r\n<p><strong>hame<\/strong> a skirt<\/p>\r\n<p><strong>hattu<\/strong> a hat<\/p>\r\n<p><strong>helmet, helmi<\/strong> pearls, a pearl<\/p>\r\n<p><strong>huivi<\/strong> a scarf<\/p>\r\n<p><strong>h&ouml;yhen<\/strong> a feather<\/p>\r\n<p><strong>kaula-aukko <\/strong>a cleavage<\/p>\r\n<p><strong>kaulakoru <\/strong>a necklace<\/p>\r\n<p><strong>korkokeng&auml;t<\/strong> high-heel shoes<\/p>\r\n<p><strong>korsetti<\/strong> a corset<\/p>\r\n<p><strong>korvakorut<\/strong> earrings<\/p>\r\n<p><strong>k&auml;sineet<\/strong> gloves<\/p>\r\n<p><strong>leninki; mekko<\/strong> a dress<\/p>\r\n<p><strong>minihame<\/strong> a mini skirt<\/p>\r\n<p><strong>nilkka<\/strong> an ankle<\/p>\r\n<p><strong>pitsi<\/strong> lace<\/p>\r\n<p><strong>rintaliivit<\/strong> a bra<\/p>\r\n<p><strong>rusetti<\/strong> a bow<\/p>\r\n<p><strong>r&ouml;yhel&ouml;t<\/strong> ruffles, frills<\/p>\r\n<p><strong>sametti <\/strong>velvet<\/p>\r\n<p><strong>silkki <\/strong>silk<\/p>\r\n<p><strong>sukat<\/strong> stockings; socks<\/p>\r\n<p><strong>sukka<\/strong> a stocking; sock<\/p>\r\n<p><strong>sukkahousut<\/strong> tights<\/p>\r\n<p><strong>sukkanauhat<\/strong> suspenders (Br.), garters (Am.)<\/p>\r\n<p><strong>s&auml;&auml;ri <\/strong>a leg<\/p>\r\n<p><strong>vy&ouml;t&auml;r&ouml;<\/strong> waistline<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

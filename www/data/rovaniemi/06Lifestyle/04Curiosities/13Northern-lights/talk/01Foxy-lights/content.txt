@@ -1,0 +1,13 @@
+{
+  "title": "Foxy lights",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>The etymology, meaning the historical background, of the word <strong>revontulet <\/strong>lies deep in Finnish folklore. The word <strong>revon-<\/strong> refers to a <em>fox<\/em> and the word <strong>tulet <\/strong>is the Finnish word for <em>fire<\/em> in plural. So, <strong>revontulet<\/strong> refers to <em>fox fire<\/em>, <em>fire of a fox<\/em>?<\/p>\r\n<p>Yes, indeed! Another word for <em>fox<\/em> is <strong>kettu<\/strong>. The <em>fire fox<\/em>, <strong>tulikettu<\/strong>, is a mythical creature in Finnish folklore. It has a fiery fur, and it runs wildly on the fells of Lapland, whisking its beautiful furry tail in the snow as it goes! <\/p>\r\n<p>The snow that&rsquo;s lifted up in the sky by the tail glimmers, reflecting the fire of the magical fur onto the dark winter sky. The reflection has therefore become known as <strong>revontulet<\/strong>, the fire of (the) fox.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

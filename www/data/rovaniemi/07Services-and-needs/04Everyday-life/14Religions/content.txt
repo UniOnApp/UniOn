@@ -1,0 +1,13 @@
+{
+  "title": "Religions",
+  "latitude": "66.493547",
+  "longitude": "25.729108",
+  "difficulty": "",
+  "keyword": ["religion","uskonto","Lutheran","church","chaplain"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Cenią (cenić)</p>
+</td>
+<td>
+<p>to appreciate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dobre maniery</p>
+</td>
+<td>
+<p>good manners</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zasady etykiety</p>
+</td>
+<td>
+<p>rules of etiquette</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przestrzegają (przestrzegać)</p>
+</td>
+<td>
+<p>abide by</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>święte</p>
+</td>
+<td>
+<p>to be a must</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>otwierają (otwierać) drzwi</p>
+</td>
+<td>
+<p>open doors</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przepuszczają (przepuszczać) przodem kogoś</p>
+</td>
+<td>
+<p>let somebody pass first</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>relikt</p>
+</td>
+<td>
+<p>pass&eacute;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>całowanie w rękę</p>
+</td>
+<td>
+<p>kissing a hand</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przywitanie</p>
+</td>
+<td>
+<p>greeting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>starej daty</p>
+</td>
+<td>
+<p>old-fashioned</p>
+</td>
+</tr>
+</tbody>
+</table>

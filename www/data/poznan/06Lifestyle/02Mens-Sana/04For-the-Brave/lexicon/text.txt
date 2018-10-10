@@ -1,0 +1,132 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Koń/konie</p>
+</td>
+<td>
+<p>horse/ horses</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jeździć konno/jazda konna</p>
+</td>
+<td>
+<p>to ride a horse/ horse riding</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podszkolić swoje umiejętności jeździeckie</p>
+</td>
+<td>
+<p>to improve one&rsquo;s riding skills</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>łąka/łąki</p>
+</td>
+<td>
+<p>meadow/ meadows</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>las/lasy</p>
+</td>
+<td>
+<p>forest/ forests</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zawody konne</p>
+</td>
+<td>
+<p>horse championship</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gościć</p>
+</td>
+<td>
+<p>to host</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bać się</p>
+</td>
+<td>
+<p>to be afraid of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyzwanie</p>
+</td>
+<td>
+<p>challenge</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lęk wysokości</p>
+</td>
+<td>
+<p>acrophobia</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>park linowy</p>
+</td>
+<td>
+<p>high ropes course</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dla dorosłych</p>
+</td>
+<td>
+<p>for adults</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prawdziwy twardziel</p>
+</td>
+<td>
+<p>true tough guy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>trasa łatwiejsza/trudniejsza</p>
+</td>
+<td>
+<p>easier/more difficult path</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>urządzenie</p>
+</td>
+<td>
+<p>machine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szkolenie pilot&oacute;w</p>
+</td>
+<td>
+<p>pilot training</p>
+</td>
+</tr>
+</tbody>
+</table>

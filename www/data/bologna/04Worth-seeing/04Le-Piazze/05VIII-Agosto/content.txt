@@ -1,0 +1,18 @@
+{
+  "title": "VIII Agosto",
+  "latitude": "44.500310",
+  "longitude": "11.345265",
+  "difficulty": "high",
+  "keyword": ["Piazza VIII agosto",
+"Piazza del Mercato",
+"Montagnola",
+"Popolano",
+"Parco della Montagnola",
+"La Piazzola"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

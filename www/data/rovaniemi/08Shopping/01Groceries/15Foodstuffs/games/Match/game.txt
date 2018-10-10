@@ -1,0 +1,11 @@
+Combine the Finnish name of fruit or vegetable with its proper equivalent in English. Some Finnish words here are of international origin and therefore easy to recognise, but not all of them!
+[pair]p&auml;&auml;ryn&auml;_pear
+[pair]appelsiini_orange
+[pair]omena_apple
+[pair]porkkana_carrot
+[pair]peruna_potato
+[pair]kurkku_cucumber
+[pair]sipuli_onion
+[pair]sitruuna_lemon
+[pair]viiniryp&auml;le_grape
+[pair]persikka_peach

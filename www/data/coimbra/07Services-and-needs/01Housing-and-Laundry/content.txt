@@ -1,0 +1,13 @@
+{
+  "title": "Housing & Laundry",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["laundry","housing","alojamento","SASUC","alugar","lavandaria","arrendar","rent"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

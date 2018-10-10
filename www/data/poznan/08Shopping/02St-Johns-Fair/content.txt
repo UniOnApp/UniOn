@@ -1,0 +1,13 @@
+{
+  "title": "St. John's Fair",
+  "latitude": "52.408333",
+  "longitude": "16.934444",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

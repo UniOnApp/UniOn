@@ -1,0 +1,68 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Kochać</p>
+</td>
+<td>
+<p>to love</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>korzystać</p>
+</td>
+<td>
+<p>to use</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pływalnia</p>
+</td>
+<td>
+<p>swimming pool</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>boisko</p>
+</td>
+<td>
+<p>field</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gra zespołowa</p>
+</td>
+<td>
+<p>team game</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piłka ręczna</p>
+</td>
+<td>
+<p>handball</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piłka nożna</p>
+</td>
+<td>
+<p>soccer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kulturystyka</p>
+</td>
+<td>
+<p>weight lifting</p>
+</td>
+</tr>
+</tbody>
+</table>

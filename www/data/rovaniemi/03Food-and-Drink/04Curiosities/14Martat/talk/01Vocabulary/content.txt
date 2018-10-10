@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Some cooking vocabulary for you!<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>esiliina<\/strong> an apron<\/p>\r\n<p><strong>haarukka<\/strong> a fork<\/p>\r\n<p><strong>herkku<\/strong> a delicacy<\/p>\r\n<p><strong>hernekeitto<\/strong> pea soup<\/p>\r\n<p><strong>hernekeittopurkki<\/strong> a can of pea soup<\/p>\r\n<p><strong>hillo<\/strong> jam, marmalade<\/p>\r\n<p><strong>karjalanpiirakka<\/strong> a Carelian pie<\/p>\r\n<p><strong>kattila<\/strong> a pot, a cauldron<\/p>\r\n<p><strong>lautanen<\/strong> a plate<\/p>\r\n<ul>\r\n<li><strong>kahvilautanen<\/strong> a coffee saucer<\/li>\r\n<li><strong>keittolautanen<\/strong> a soup plate<\/li>\r\n<li><strong>lent&auml;v&auml; lautanen<\/strong> a flying saucer \/ U.F.O.<\/li>\r\n<\/ul>\r\n<p><strong>lusikka<\/strong> a spoon, a tablespoon<\/p>\r\n<ul>\r\n<li><strong>pikkulusikka, kahvilusikka<\/strong> a coffee spoon, a teaspoon<\/li>\r\n<\/ul>\r\n<p><strong>Nam nam!<\/strong> Yum yum!<\/p>\r\n<p><strong>n&auml;kkileip&auml;<\/strong> crispbread<\/p>\r\n<p><strong>pannukakku, pannari<\/strong> a pancake<\/p>\r\n<p><strong>patakinnas<\/strong> an oven mitten<\/p>\r\n<p><strong>sinappi<\/strong> mustard<\/p>\r\n<p><strong>uuni<\/strong> an oven<\/p>\r\n<p><strong>veitsi <\/strong>a knife<\/p>\r\n<p><strong>voi<\/strong> butter<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

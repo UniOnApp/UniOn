@@ -1,0 +1,13 @@
+{
+  "title": "Consonant gradation",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>With some Finnish verbs &ndash; like <span style=\"text-decoration: underline;\">hiiht&auml;&auml;<\/span> (to ski) &ndash; you bump into the phenomenon called consonant gradation. It&rsquo;s a type of consonant mutation in which consonants alternate between <span style=\"background-color: #99ccff;\">strong<\/span> and <span style=\"background-color: #99ccff;\">weak<\/span>. This means that a certain letter changes to another one, and it&rsquo;s only after the change when you add the personal ending into the verb.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Consonant gradation can be called higher mathematics of the Finnish language, but don&rsquo;t be alarmed. You can gradually get to know it and, oh, what a great feeling you get when you start learning it.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Please look at the following verbs. They all belong to the first verb type. There&rsquo;s the basic form on the left and the first person singular form on the right. You can see a certain change in the stem of the verb before the personal ending.<\/p>\r\n<p><span style=\"text-decoration: underline;\">hiiht&auml;&auml;<\/span> (to ski) &gt; <strong>min&auml; hiihd&auml;n<\/strong> (I ski)<\/p>\r\n<p><span style=\"text-decoration: underline;\">l&auml;hte&auml;<\/span> (to leave) &gt; <strong>min&auml; l&auml;hden<\/strong> (I leave)<\/p>\r\n<p><span style=\"text-decoration: underline;\">pys&auml;hty&auml;<\/span> (to stop) &gt; <strong>min&auml; pys&auml;hdyn<\/strong> (I stop)<\/p>\r\n<p><span style=\"text-decoration: underline;\">l&ouml;yt&auml;&auml;<\/span> (to find) &gt; <strong>min&auml; l&ouml;yd&auml;n<\/strong> (I find)<\/p>\r\n<p>The letter <span style=\"background-color: #99ccff;\">t<\/span> changes into <span style=\"background-color: #99ccff;\">d<\/span>. This phenomenon is called <span style=\"background-color: #99ccff;\">consonant gradation<\/span>.<\/p>\r\n<p>At first, it&rsquo;s quite enough for you to be able to recognize consonant gradation in certain Finnish verbs. You can start producing them later!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

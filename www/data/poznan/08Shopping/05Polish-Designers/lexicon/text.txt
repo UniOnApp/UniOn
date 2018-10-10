@@ -1,0 +1,172 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Marki odzieżowe</p>
+</td>
+<td>
+<p>clothing brands</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>polscy producenci odzieży</p>
+</td>
+<td>
+<p>Polish clothing manufacturers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odzież damska/męska</p>
+</td>
+<td>
+<p>women&rsquo;s/men&rsquo;s clothing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>garnitury</p>
+</td>
+<td>
+<p>suits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>marynarki</p>
+</td>
+<td>
+<p>jackets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spodnie</p>
+</td>
+<td>
+<p>trousers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koszule</p>
+</td>
+<td>
+<p>shirts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koszulka funkcyjna</p>
+</td>
+<td>
+<p>training top</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spodenki na rower</p>
+</td>
+<td>
+<p>bicycle shorts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kurtka narciarska</p>
+</td>
+<td>
+<p>skiing jacket</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odzież elegancka</p>
+</td>
+<td>
+<p>elegant clothing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w dobrym gatunku</p>
+</td>
+<td>
+<p>good quality </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dopasować krawat do&hellip;</p>
+</td>
+<td>
+<p>to match the tie to&hellip;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>osoby szukające własnego stylu</p>
+</td>
+<td>
+<p>for those who search their unique style</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stroje na każdą okazję</p>
+</td>
+<td>
+<p>garments for every occasion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szeroka oferta płaszczy i kurtek zimowych</p>
+</td>
+<td>
+<p>vast offer of coats and winter jackets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wytworne sukienki, żakiety i płaszcze</p>
+</td>
+<td>
+<p>smart dresses, jackets and coats</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odpowiednie akcesoria</p>
+</td>
+<td>
+<p>matching accessories</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>elegancja</p>
+</td>
+<td>
+<p>elegance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>perfekcyjne wykonanie</p>
+</td>
+<td>
+<p>perfect worksmanship</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świetny design</p>
+</td>
+<td>
+<p>great design</p>
+</td>
+</tr>
+</tbody>
+</table>

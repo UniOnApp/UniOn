@@ -1,0 +1,13 @@
+{
+  "title": "Squares",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["statue","aqueduct","history","square","Praça","Baixa","Largo"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Dyspozytor: <strong>Pogotowie ratunkowe<\/strong>, s\u0142ucham.<\/p>\r\n<p>Antonio: Moja kole\u017Canka <strong>mia\u0142a wypadek<\/strong>. Prosz\u0119 tu przyjecha\u0107.<\/p>\r\n<p>Dyspozytor: Prosz\u0119 poda\u0107 adres.<\/p>\r\n<p>Jeste\u015Bmy nad Wart\u0105, naprzeciw Politechniki.<\/p>\r\n<p>Dyspozytor: A co si\u0119 sta\u0142o?<\/p>\r\n<p>Antonio: Spad\u0142a z roweru i bardzo boli j\u0105 g\u0142owa i r\u0119ka.<\/p>\r\n<p>Dyspozytor: Prosz\u0119 sprawdzi\u0107, <strong>czy mo\u017Ce oddycha\u0107<\/strong>.<\/p>\r\n<p>Antonio: Tak, oddycha. Ca\u0142y czas krzyczy.<\/p>\r\n<p>Dyspozytor: Czy ma jakie\u015B inne <strong>zranienia<\/strong>?<\/p>\r\n<p>Antonio: Tak, <strong>krwawi<\/strong> r\u0119ka.<\/p>\r\n<p>Dyspozytor: Prosz\u0119 poda\u0107 imi\u0119 i nazwisko.<\/p>\r\n<p>Antonio: Isabel Garc&iacute;a S&aacute;nchez.<\/p>\r\n<p>Dyspozytor: Prosz\u0119 po\u0142o\u017Cy\u0107 kole\u017Cank\u0119 w bezpiecznym miejscu.<\/p>\r\n<p>Antonio: Kiedy przyjedziecie?<\/p>\r\n<p>Dyspozytor: <strong>Karetka<\/strong> b\u0119dzie za 10 minut. Prosz\u0119 czeka\u0107.<\/p>\r\n<p>Antonio: Dzi\u0119kuj\u0119 bardzo. Do widzenia.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk&amp;Tips to Talk:<\/strong><\/p>\r\n<p>Pogotowie ratunkowe, mia\u0142a (mie\u0107) wypadek, czy mo\u017Ce oddycha\u0107, zranienia, krwawi (krwawi\u0107), karetka, stacja pogotowia ratunkowego.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

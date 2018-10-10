@@ -1,0 +1,13 @@
+{
+  "title": "Northern lights",
+  "latitude": "66.509854",
+  "longitude": "25.726230",
+  "difficulty": "",
+  "keyword": ["revontulet","aurora"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

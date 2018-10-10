@@ -1,0 +1,18 @@
+{
+  "title": "Il DIRI",
+  "latitude": "44.499961",
+  "longitude": "11.354040",
+  "difficulty": "mid",
+  "keyword": ["DIRI ",
+"Dipartimento Relazioni Internazionali",
+"relazioni internazionali",
+"studenti in mobilit\u00E0",
+"sportello utenti internazionali",
+"Palazzina della Viola"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Un cocktail alla frutta",
+  "latitude": "44.498071",
+  "longitude": "11.347931",
+  "difficulty": "mid",
+  "keyword": ["aperitivo"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

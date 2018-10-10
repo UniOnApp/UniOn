@@ -1,0 +1,13 @@
+{
+  "title": "Karaoke",
+  "latitude": "66.501589",
+  "longitude": "25.730396",
+  "difficulty": "",
+  "keyword": ["karaoke","sing","laulaa","bar","restaurant"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

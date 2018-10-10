@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Joasiu, lubisz je\u017Adzi\u0107 na \u0142y\u017Cwach?<\/p>\r\n<p>- Prawd\u0119 m&oacute;wi\u0105c, nigdy jeszcze nie je\u017Adzi\u0142am...<\/p>\r\n<p>- Naprawd\u0119?! To koniecznie musisz spr&oacute;bowa\u0107.<\/p>\r\n<p>- Je\u015Bli jest taka mo\u017Cliwo\u015B\u0107, to bardzo ch\u0119tnie.<\/p>\r\n<p>- Pewnie, \u017Ce jest! Mo\u017Ce dzisiaj p&oacute;jdziemy? Mam wolny wiecz&oacute;r, a Ty?<\/p>\r\n<p>- Ja te\u017C. Mo\u017Cemy i\u015B\u0107. Ile kosztuje bilet studencki?<\/p>\r\n<p>- Od poniedzia\u0142ku do pi\u0105tku 8 PLN, a w weekendy 10 PLN. Ale musisz jeszcze doliczy\u0107 wypo\u017Cyczenie \u0142y\u017Cew, kt&oacute;re kosztuje 8 PLN.<\/p>\r\n<p>- Dobrze. To um&oacute;wmy si\u0119 przy bankomacie na ul. P&oacute;\u0142wiejskiej. Musz\u0119 wyp\u0142aci\u0107 pieni\u0105dze.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Prawd\u0119 m&oacute;wi\u0105c, naprawd\u0119, koniecznie, spr&oacute;bowa\u0107, mie\u0107 mo\u017Cliwo\u015B\u0107, p&oacute;jdziemy (p&oacute;j\u015B\u0107), i\u015B\u0107, musz\u0119 (musie\u0107), doliczy\u0107, wypo\u017Cyczenie, um&oacute;wi\u0107 si\u0119, wyp\u0142aci\u0107 pieni\u0105dze, widzimy si\u0119 (widzie\u0107 si\u0119) o ...., do zobaczenia.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

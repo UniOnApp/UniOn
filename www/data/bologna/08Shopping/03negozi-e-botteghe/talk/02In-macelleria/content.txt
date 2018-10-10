@@ -1,0 +1,13 @@
+{
+  "title": "In macelleria",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p style=\"text-align: center;\"><em>Talk<\/em><\/p><\/th><th><p style=\"text-align: center;\"><em>Answer Models<\/em><\/p><\/th><\/tr><tr><td><p>Vorrei 300 grammi di carne macinata sceltissima<\/p><\/td><td><\/td><\/tr><tr><td><p>Devo preparare il rag&ugrave; per cinque persone. Mi prepara la carne, per favore?<\/p><\/td><td><\/td><\/tr><tr><td><p>Avete carne di cavallo?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

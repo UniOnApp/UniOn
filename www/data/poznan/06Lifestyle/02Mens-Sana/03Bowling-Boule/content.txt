@@ -1,0 +1,13 @@
+{
+  "title": "Bowling, Boule",
+  "latitude": "52.400210",
+  "longitude": "16.980459",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

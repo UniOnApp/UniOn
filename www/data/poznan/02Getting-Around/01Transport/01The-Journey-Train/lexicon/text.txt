@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Zwiedzić</p>
+</td>
+<td>
+<p>to explore/ do sightseeing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skorzystać z</p>
+</td>
+<td>
+<p>to use</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podr&oacute;ż pociągiem</p>
+</td>
+<td>
+<p>travel by train</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>usługi transportowe</p>
+</td>
+<td>
+<p>transport services</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>krajowa</p>
+</td>
+<td>
+<p>domestic</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zagraniczna</p>
+</td>
+<td>
+<p>international</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wybrać się</p>
+</td>
+<td>
+<p>to set out</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dworzec kolejowy</p>
+</td>
+<td>
+<p>railway station</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zniżka</p>
+</td>
+<td>
+<p>discount</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bilety okresowe</p>
+</td>
+<td>
+<p>season tickets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyszukiwarka połączeń</p>
+</td>
+<td>
+<p>online search engine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozkład jazdy</p>
+</td>
+<td>
+<p>timetable</p>
+</td>
+</tr>
+</tbody>
+</table>

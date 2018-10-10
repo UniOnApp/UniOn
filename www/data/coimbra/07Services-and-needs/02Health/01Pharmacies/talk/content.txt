@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Sintomas <\/strong>&ndash; <em>symptoms <\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Acordei maldisposto\/a. &ndash; <em>I woke up feeling poorly.<\/em><\/p>\r\n<p><em>N&atilde;o me sinto muito bem. Tenho febre. &ndash; I don't feel so good. I have a temperature.<\/em><\/p>\r\n<p>Torci o p&eacute;. &ndash; <em>I twisted my ankle.<\/em><\/p>\r\n<p>Estou com uma rea&ccedil;&atilde;o al&eacute;rgica.- <em>I&rsquo;m having an allergic reaction.<\/em><\/p>\r\n<p>Sinto comich&atilde;o. - <em>I&rsquo;m itchy.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>D&oacute;i-me + singular word<\/strong><\/p>\r\n<p>a cabe&ccedil;a\/ a garganta. <em>&ndash; My head\/ throat hurts.<\/em><\/p>\r\n<p><strong>Doem-me + plural word<\/strong><\/p>\r\n<p>as costas. <em>&ndash; My back hurts.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Estou com falta de ar.<em> &ndash; I&rsquo;m short of breath<\/em>.<\/p>\r\n<p>Tenho tonturas. &ndash; <em>I feel dizzy.<\/em><\/p>\r\n<p>Tenho tosse. <em>&ndash; I have a cough.<\/em><\/p>\r\n<p>Espirro muito. <em>&ndash; I sneeze a lot.<\/em><\/p>\r\n<p>Estou <strong>constipado &ndash; <em>I have a cold.<\/em><\/strong><\/p>\r\n<p>Estou obstipado &ndash; <em>I am constipated<\/em> &ne; Estou com diarreia. <em>&ndash; I have diarrhea<\/em>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Deve tomar um comprimido \/uma c&aacute;psula\/ o xarope durante uma semana,<\/p>\r\n<p><em>You should take a tablet\/ capsule\/ syrup for&hellip; a week.<\/em><\/p>\r\n<p><em>&hellip;<\/em>de 8 (oito) em (8) oito horas &ndash; <em>every 8 hours<\/em><\/p>\r\n<p>&hellip;depois das refei&ccedil;&otilde;es &ndash; <em>after meals<\/em><\/p>\r\n<p>&hellip;antes de se deitar &ndash; <em>before going to bed<\/em><\/p>\r\n<p>&hellip;ao acordar &ndash; <em>when you wake up<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

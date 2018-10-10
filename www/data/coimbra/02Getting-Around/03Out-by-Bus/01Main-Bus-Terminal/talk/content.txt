@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Website expressions:<\/strong><\/p>\r\n<p>Clique aqui para aceder &agrave; p&aacute;gina. - <em>Click here to access the page<\/em>.<\/p>\r\n<p>Aceda aqui a descontos e campanhas - <em>Access here to discounts and campaigns<\/em><\/p>\r\n<p>Fa&ccedil;a o download da app - <em>Download the app.<\/em><\/p>\r\n<p>Pague com Paypal\/ no multibanco - <em>Pay with Paypal\/ ATM<\/em><\/p>\r\n<p>Compre por telefone - <em>Buy on the phone.<\/em><\/p>\r\n<p>Embarque diretamente - <em>Immediate boarding <\/em><\/p>\r\n<p>carreira - <em>itinerary<\/em><\/p>\r\n<p>autocarro\/camioneta &rarr; pista - <em>bus\/coach&rarr; line<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Ingresso in discoteca",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p >Talk<\/p><\/th><th><p >Answer Models<\/p><\/th><\/tr><tr><td><p>Buonasera. Non sono in lista. Quanto costa il biglietto?<\/p><\/td><td><\/td><\/tr><tr><td><p>Salve, Lista Papido + 2, grazie.<\/p><\/td><td><\/td><\/tr><tr><td><p>Ho un tavolo prenotato a nome Conrad, per 6.<\/p><\/td><td><\/td><\/tr><tr><td><p>Ho due entrate per stasera. C&rsquo;&egrave; un codice di abbigliamento da rispettare?<\/p><\/td><td><\/td><\/tr><tr><td><p>Nel biglietto di ingresso &egrave; inclusa la consumazione?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

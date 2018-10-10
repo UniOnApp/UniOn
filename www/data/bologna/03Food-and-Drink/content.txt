@@ -1,0 +1,17 @@
+{
+  "title": "Mangiare e bere",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["cibo",
+"mangiare",
+"bere",
+"pasto",
+"cucina"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Small talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>If you listen to an informal discussion, you&rsquo;ll soon spot that some expressions occur time and time again. Some of them are ways of greeting, some express agreement or disagreement, and some are just ways to indicate that you&rsquo;re listening attentively.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Do you recognise any of the expressions listed below?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>No, miten menee?<\/strong> Well, how&rsquo;s it going?<\/p>\r\n<p><strong>Mit&auml; mies?<\/strong> What&rsquo;s up dude?<\/p>\r\n<p><strong>Mit&auml;p&auml; t&auml;ss&auml;.<\/strong> Nothing much. \/ I&rsquo;m all right. <\/p>\r\n<p><strong>Eip&auml; kummempia<\/strong>. Nothing special.<\/p>\r\n<p><strong>Niin kuin j&auml;it&auml; polttelis<\/strong>. Not good at all. [lit. Like burning ice.]<\/p>\r\n<p><strong>No niin! <\/strong>OK! [lit. Well, so!] This is a magic phrase. It&rsquo;s suitable for every situation. Depending on the tone of voice, it can express positive reinforcement, agreement, disagreement or a sarcastic attitude. Often it&rsquo;s also used at the beginning of a discussion or situation, meaning something like <em>Well, OK, let&rsquo;s get started!<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Niink&ouml;?<\/strong> Really?<\/p>\r\n<p><strong>Kyll&auml; kyll&auml;. <\/strong>Yeah, yeah.<\/p>\r\n<p><strong>Ei ei ei<\/strong>. No no no.<\/p>\r\n<p><strong>Oho!<\/strong> Oops! Whoa!<\/p>\r\n<p><strong>&Auml;l&auml; viitti!<\/strong> Come on! Don&rsquo;t say! <\/p>\r\n<p><strong>H&ouml;p&ouml; h&ouml;p&ouml;!<\/strong> Nonsense! Rubbish! Bollocks!<\/p>\r\n",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

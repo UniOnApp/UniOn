@@ -1,0 +1,13 @@
+{
+  "title": "Taczaka Street",
+  "latitude": "52.405491",
+  "longitude": "16.923224",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

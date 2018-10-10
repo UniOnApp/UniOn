@@ -1,0 +1,13 @@
+{
+  "title": "Taking a pic",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>It&rsquo;s easy enough to take a selfie while standing on the bridge. But what if you want to ask someone for help? Try the following sentences, and remember to post your pics online! #Rovaniemi #Ulapland #UniOn<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Anteeksi, voisitteko ottaa meist&auml; kuvan?<\/strong><\/p>\r\n<p>Excuse me, could you take a picture of us?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Hei, voitko auttaa?<\/strong><\/p>\r\n<p>Hi, can you help us?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Ota monta kuvaa!<\/strong><\/p>\r\n<p>Take many pictures!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Menk&auml;&auml; v&auml;h&auml;n l&auml;hemm&auml;ksi toisianne.<\/strong><\/p>\r\n<p>Please stand a bit closer to each other.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Sanokaa &ldquo;muikku&rdquo;!<\/strong><\/p>\r\n<p>Say &ldquo;cheese&rdquo;! [literal translation of <strong>muikku<\/strong>: vendace]<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Why people say <strong>muikku<\/strong> when taking pictures is quite a mystery. In many other languages, the word is chosen to result in a big, nice smile &ndash; take English and its <em>cheese<\/em> for example. <em>Muikku<\/em>, on the other hand, leaves people with an expression more suitable for kissing than for pictures. Perhaps there lies the explanation: the expression better known from selfies, the <em>duck-face<\/em>, might have been a Finnish innovation!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Oho! Hyv&auml; kuva!<\/strong><\/p>\r\n<p>Wow! A good picture!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

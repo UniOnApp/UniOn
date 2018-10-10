@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Nie zapomnij zatrzymać się</p>
+</td>
+<td>
+<p>don&rsquo;t forget to stop by</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>popularny pomnik</p>
+</td>
+<td>
+<p>popular monument</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>publiczna studnia</p>
+</td>
+<td>
+<p>public well</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>osadnicy</p>
+</td>
+<td>
+<p>colonists</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zasiedlić wyludnione wojnami i chorobami wsie</p>
+</td>
+<td>
+<p>colonize the villages desolated due to war and deseases</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ufundować</p>
+</td>
+<td>
+<p>to found</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>handel winem</p>
+</td>
+<td>
+<p>wine trade</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>figura</p>
+</td>
+<td>
+<p>statue</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przedstawiać</p>
+</td>
+<td>
+<p>to depict</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>str&oacute;j bamberski</p>
+</td>
+<td>
+<p>Bamber woman outfit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poidła dla ps&oacute;w</p>
+</td>
+<td>
+<p>pots with water for dogs</p>
+</td>
+</tr>
+</tbody>
+</table>

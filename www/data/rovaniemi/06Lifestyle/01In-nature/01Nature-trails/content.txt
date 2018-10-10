@@ -1,0 +1,13 @@
+{
+  "title": "Nature trails",
+  "latitude": "66.490661",
+  "longitude": "25.841076",
+  "difficulty": "",
+  "keyword": ["outdoors","healthy","lifestyle","hiking","Ounasvaara","mosquito","code of conduct"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

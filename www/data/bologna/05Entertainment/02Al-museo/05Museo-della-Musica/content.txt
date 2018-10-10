@@ -1,0 +1,14 @@
+{
+  "title": "Museo della Musica",
+  "latitude": "44.492847",
+  "longitude": "11.350317",
+  "difficulty": "high",
+  "keyword": ["Museo internazionale della Musica",
+"Palazzo Sanguinetti"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

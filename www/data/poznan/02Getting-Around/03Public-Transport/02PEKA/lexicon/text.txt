@@ -1,0 +1,124 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Jednorazowe bilety</p>
+</td>
+<td>
+<p>paper tickets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>karta PEKA</p>
+</td>
+<td>
+<p>PEKA card</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dostępna</p>
+</td>
+<td>
+<p>available</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wersja imienna</p>
+</td>
+<td>
+<p>personalized card</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>aplikacja płatnicza</p>
+</td>
+<td>
+<p>e-wallet</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>okaziciel</p>
+</td>
+<td>
+<p>bearer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>doładowanie biletu okresowego</p>
+</td>
+<td>
+<p>to top up season ticket</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>określona trasa</p>
+</td>
+<td>
+<p>chosen route</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cała sieć</p>
+</td>
+<td>
+<p>whole network</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kaucja</p>
+</td>
+<td>
+<p>deposit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>transport publiczny</p>
+</td>
+<td>
+<p>public transport</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bezterminowo</p>
+</td>
+<td>
+<p>without a deadline</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>punkt sprzedaży bilet&oacute;w</p>
+</td>
+<td>
+<p>customer service points</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>aktywować</p>
+</td>
+<td>
+<p>to activate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>taryfa biletowa</p>
+</td>
+<td>
+<p>fares</p>
+</td>
+</tr>
+</tbody>
+</table>

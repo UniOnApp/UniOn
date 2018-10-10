@@ -1,0 +1,84 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Dzień Studenta I roku</p>
+</td>
+<td>
+<p>Freshman&rsquo;s Day</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uroczysta inauguracja roku akademickiego</p>
+</td>
+<td>
+<p>formal inauguration of the academic year</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>władze uniwersyteckie</p>
+</td>
+<td>
+<p>university authorities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być przyjętym w poczet student&oacute;w</p>
+</td>
+<td>
+<p>to be admitted to the university</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>składać ślubowanie</p>
+</td>
+<td>
+<p>to give an oath</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>śpiewać łaciński hymn</p>
+</td>
+<td>
+<p>sings the Latin hymn</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wykład inauguracyjny</p>
+</td>
+<td>
+<p>inaugural lecture</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oprawa muzyczna</p>
+</td>
+<td>
+<p>musical setting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wręczać uniwersyteckie odznaczenia</p>
+</td>
+<td>
+<p>to give University decorations</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nagrody</p>
+</td>
+<td>
+<p>awards</p>
+</td>
+</tr>
+</tbody>
+</table>

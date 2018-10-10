@@ -1,0 +1,15 @@
+{
+  "title": "Questione di gusti",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "low",
+  "keyword": ["pizza",
+"calzone",
+"asporto"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

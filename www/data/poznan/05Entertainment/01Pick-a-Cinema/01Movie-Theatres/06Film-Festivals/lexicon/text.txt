@@ -1,0 +1,124 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Nie brakować</p>
+</td>
+<td>
+<p>there is no lack of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przenosić w czasy dzieciństwa</p>
+</td>
+<td>
+<p>transport back to childhood</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>festiwal dla dzieci i młodzieży</p>
+</td>
+<td>
+<p>young audience festival</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>fani gatunku</p>
+</td>
+<td>
+<p>fans of the genre</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>filmy dokumentalne</p>
+</td>
+<td>
+<p>documentaries</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wybrać się</p>
+</td>
+<td>
+<p>to set off to</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>charakter konkursowy</p>
+</td>
+<td>
+<p>to be a competition</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warto walczyć o nagrodę gł&oacute;wną</p>
+</td>
+<td>
+<p>it is worth fighting for the main prize</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miłośnicy gatunku</p>
+</td>
+<td>
+<p>genre enthusiasts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>blok filmowo-serialowy</p>
+</td>
+<td>
+<p>film&amp;TV marathon</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>atrakcje</p>
+</td>
+<td>
+<p>attractions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gry</p>
+</td>
+<td>
+<p>games</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>komiksy</p>
+</td>
+<td>
+<p>comics</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>literatura</p>
+</td>
+<td>
+<p>literature</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nauka</p>
+</td>
+<td>
+<p>science</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,164 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>swobodna ekspresja</p>
+</td>
+<td>
+<p>free expression</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>naturalność ruchu</p>
+</td>
+<td>
+<p>simplicity of motion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przekaz symboliczny</p>
+</td>
+<td>
+<p>symbolic message</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>improwizacja taneczna</p>
+</td>
+<td>
+<p>dance improvisation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>doceniać precyzję</p>
+</td>
+<td>
+<p>to value precision</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niedopowiedziane</p>
+</td>
+<td>
+<p>unstated</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poruszyć</p>
+</td>
+<td>
+<p>to move</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dosłownie i metaforycznie</p>
+</td>
+<td>
+<p>literally and metaphorically</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poetycka ekspresja</p>
+</td>
+<td>
+<p>poetic expression</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>awangardowa potrzeba eksperymentu</p>
+</td>
+<td>
+<p>Avant-garde need for experimentation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wizualnie niepowtarzalne</p>
+</td>
+<td>
+<p>visually unique</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>laboratorium</p>
+</td>
+<td>
+<p>lab</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>formy przekazu</p>
+</td>
+<td>
+<p>forms of expression</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>interdyscyplinarność</p>
+</td>
+<td>
+<p>interdisciplinarity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ingerujący w rzeczywistość społeczną</p>
+</td>
+<td>
+<p>influencing the social context</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spektakle</p>
+</td>
+<td>
+<p>spectacles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>repertuar</p>
+</td>
+<td>
+<p>repertoire/ program</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>retrospektywne widowiska</p>
+</td>
+<td>
+<p>retrospective performances</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wybitne</p>
+</td>
+<td>
+<p>outstanding</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>potańc&oacute;wka</p>
+</td>
+<td>
+<p>hop</p>
+</td>
+</tr>
+</tbody>
+</table>

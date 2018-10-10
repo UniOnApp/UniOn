@@ -1,0 +1,13 @@
+{
+  "title": "Traditional Foods",
+  "latitude": "52.411406",
+  "longitude": "16.952950",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

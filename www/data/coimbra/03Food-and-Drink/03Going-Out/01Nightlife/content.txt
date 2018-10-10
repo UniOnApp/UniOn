@@ -1,0 +1,13 @@
+{
+  "title": "Nightlife",
+  "latitude": "40.2090159",
+  "longitude": "-8.4195614",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

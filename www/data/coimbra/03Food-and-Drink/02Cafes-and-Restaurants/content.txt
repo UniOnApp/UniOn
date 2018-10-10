@@ -1,0 +1,13 @@
+{
+  "title": "Caf\u00E9s & Restaurants",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["cafeteria","esplanada","tipping","gorjeta","bar","restaurant"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

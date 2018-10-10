@@ -1,0 +1,68 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Smakosz kawy</p>
+</td>
+<td>
+<p>coffee connoisseur</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pominąć</p>
+</td>
+<td>
+<p>to miss</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyrządzać</p>
+</td>
+<td>
+<p>to brew</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kawa w ziarnach</p>
+</td>
+<td>
+<p>grinded coffee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mielić</p>
+</td>
+<td>
+<p>to grind</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podawać</p>
+</td>
+<td>
+<p>to serve</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>według uznania</p>
+</td>
+<td>
+<p>as one likes it</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kawowe akcesoria</p>
+</td>
+<td>
+<p>coffee accessories</p>
+</td>
+</tr>
+</tbody>
+</table>

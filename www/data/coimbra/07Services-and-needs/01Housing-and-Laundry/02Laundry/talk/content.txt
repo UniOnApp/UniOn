@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Queria&hellip;<\/strong> - <em>I would like to &hellip;<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Lavandaria<\/strong> &ndash;<em> laundry services<\/em><\/p>\r\n<p>lavar e secar roupa <em>&ndash; clothes washing and drying<\/em><\/p>\r\n<p>roupa de cama <em>&ndash; bed linen<\/em><\/p>\r\n<p>tapetes &ndash;<em> rugs <\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Engomadoria<\/strong><em> &ndash; ironing services<\/em><\/p>\r\n<p>passar a ferro\/ engomar &ndash; <em>to iron<\/em><\/p>\r\n<p>&bull; pe&ccedil;as comuns (cal&ccedil;as, camisas, saias, blusas) <em>&ndash; normal clothes (trousers, shirts, skirts, blouses)<\/em><\/p>\r\n<p>&bull; pe&ccedil;as delicadas (em seda) <em>&ndash; delicate clothes (in silk)<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Servi&ccedil;o de costura &ndash; <\/strong><em>sewing\/clothes repair and alteration services<\/em><\/p>\r\n<p>subir a bainha de umas cal&ccedil;as &ndash; <em>hem trousers <\/em><\/p>\r\n<p>coser um bot&atilde;o <em>&ndash; sew a button<\/em><\/p>\r\n<p>apertar\/ajustar ou alargar um casaco\/ um vestido &ndash; <em>adjust a coat or a dress<\/em><\/p>\r\n<p>remendar bolsos <em>&ndash; mend pockets<\/em><\/p>\r\n<p>substituir fecho de blus&atilde;o <em>&ndash; replace a jackets zip<\/em><\/p>\r\n<p>fazer um vestido por medida &ndash; <em>make a tailored dress<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

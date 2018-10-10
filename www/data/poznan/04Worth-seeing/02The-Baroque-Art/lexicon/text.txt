@@ -1,0 +1,164 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>wałęsać się</p>
+</td>
+<td>
+<p>to hang out</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie możesz przegapić</p>
+</td>
+<td>
+<p>don&rsquo;t miss out on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nazwa może onieśmielać</p>
+</td>
+<td>
+<p>the name can be overwhelming</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kości&oacute;ł parafialny</p>
+</td>
+<td>
+<p>parish church</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nosić zaszczytny tytuł</p>
+</td>
+<td>
+<p>to be given honorary title</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyjątkowa wartość</p>
+</td>
+<td>
+<p>unique value</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jeśli przyjrzysz się uważnie</p>
+</td>
+<td>
+<p>if you take a closer look</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>perła baroku</p>
+</td>
+<td>
+<p>the pearl of Baroque</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pozwala dostrzec</p>
+</td>
+<td>
+<p>to reveal/ to enable to see</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wspaniałość tego zabytku</p>
+</td>
+<td>
+<p>the magnificence of the monument</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na planie krzyża łacińskiego</p>
+</td>
+<td>
+<p>on the cruciform groundplan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>charakterystyczne barokowe elementy</p>
+</td>
+<td>
+<p>charakterystyczne barokowe element</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zawdzięczać sławę</p>
+</td>
+<td>
+<p>to owe its fame to</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>organy</p>
+</td>
+<td>
+<p>pipe organ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jeśli jesteś miłośnikiem muzyki</p>
+</td>
+<td>
+<p>if you are a fan of music</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koniecznie odwiedź</p>
+</td>
+<td>
+<p>don&rsquo;t pass on the opportunity to visit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jeśli będziesz miał szczęście/pecha</p>
+</td>
+<td>
+<p>if you are lucky/unlucky</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zależnie jak na to spojrzysz</p>
+</td>
+<td>
+<p>depending how you look at it</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>anonimowa fundatorka instrument</p>
+</td>
+<td>
+<p>anonymous founder of the instrument</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stać się tradycją</p>
+</td>
+<td>
+<p>to become tradition</p>
+</td>
+</tr>
+</tbody>
+</table>

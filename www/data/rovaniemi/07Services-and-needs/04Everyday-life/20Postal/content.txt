@@ -1,0 +1,13 @@
+{
+  "title": "Postal",
+  "latitude": "66.497802",
+  "longitude": "25.754051",
+  "difficulty": "",
+  "keyword": ["post","posti","parcel","paketti","shipping","address"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

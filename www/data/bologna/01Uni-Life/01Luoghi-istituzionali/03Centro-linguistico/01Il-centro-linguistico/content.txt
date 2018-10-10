@@ -1,0 +1,17 @@
+{
+  "title": "Il CLA",
+  "latitude": "44.490920",
+  "longitude": "11.348365",
+  "difficulty": "mid",
+  "keyword": ["CLA",
+"Centro Linguistico di Ateneo",
+"Piazza San Giovanni in Monte ",
+"corso di lingua",
+"corsi di lingua "],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

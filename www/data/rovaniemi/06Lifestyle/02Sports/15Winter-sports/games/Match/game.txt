@@ -1,0 +1,6 @@
+Combine the garment with its proper equivalent in English. The point here is to see if you can understand the meaning of the words.
+[pair]pipo_a beanie
+[pair]hanskat_gloves
+[pair]housut_trousers
+[pair]lapaset_mittens
+[pair]takki_a coat

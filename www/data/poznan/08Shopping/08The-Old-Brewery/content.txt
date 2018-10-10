@@ -1,0 +1,13 @@
+{
+  "title": "The Old Brewery",
+  "latitude": "52.401226",
+  "longitude": "16.928425",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

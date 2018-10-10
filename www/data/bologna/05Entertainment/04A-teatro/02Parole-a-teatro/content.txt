@@ -1,0 +1,16 @@
+{
+  "title": "Parole a teatro",
+  "latitude": "44.499541",
+  "longitude": "11.343765",
+  "difficulty": "mid",
+  "keyword": ["biglietto",
+"biglietti",
+"spettacolo",
+"Arena del Sole"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

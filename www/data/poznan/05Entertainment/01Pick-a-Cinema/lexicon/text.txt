@@ -1,0 +1,132 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Amatorzy</p>
+</td>
+<td>
+<p>enthusiasts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na dużym ekranie</p>
+</td>
+<td>
+<p>on huge screens</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z pewnością</p>
+</td>
+<td>
+<p>surely</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>coś dla siebie</p>
+</td>
+<td>
+<p>everything they need</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>superprodukcje</p>
+</td>
+<td>
+<p>blockbusters</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ogromny</p>
+</td>
+<td>
+<p>huge</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ambitne kino</p>
+</td>
+<td>
+<p>ambitious repertoire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kameralne</p>
+</td>
+<td>
+<p>cosy one-screen theater</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kino z dawnych lat</p>
+</td>
+<td>
+<p>pre-war era cinema</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nawiązywać</p>
+</td>
+<td>
+<p>to resemble</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wystr&oacute;j</p>
+</td>
+<td>
+<p>interiors</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>supernowoczesna sala</p>
+</td>
+<td>
+<p>ultra modern</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kino pod chmurką</p>
+</td>
+<td>
+<p>outdoor movie theater</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pogoda nie dopisuje</p>
+</td>
+<td>
+<p>when it&rsquo;s cold and rainy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozgwieżdżone niebo</p>
+</td>
+<td>
+<p>starlit sky</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>seans czas zacząć</p>
+</td>
+<td>
+<p>let the screening begin</p>
+</td>
+</tr>
+</tbody>
+</table>

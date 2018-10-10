@@ -1,0 +1,13 @@
+{
+  "title": "Genitive ending",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Basically, the genitive case ending is the letter n.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"text-decoration: underline;\">Yliopisto<\/span> University<\/p>\r\n<p><span style=\"text-decoration: underline;\">Yliopisto<span style=\"background-color: #99ccff;\">n<\/span><\/span> University&rsquo;s<\/p>\r\n<p><span style=\"text-decoration: underline;\">Yliopisto<span style=\"background-color: #99ccff;\">n<\/span>katu<\/span> University&rsquo;s street<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Some street vocabulary in Rovaniemi:<\/p>\r\n<p><span style=\"text-decoration: underline;\">katu<\/span> a street<\/p>\r\n<p><span style=\"text-decoration: underline;\">tie<\/span> a road<\/p>\r\n<p><span style=\"text-decoration: underline;\">polku<\/span> a pathway<\/p>\r\n<p><span style=\"text-decoration: underline;\">kuja<\/span> a lane, an alley<\/p>\r\n<p><span style=\"text-decoration: underline;\">Yliopistonkatu<\/span> University&rsquo;s street<\/p>\r\n<p><span style=\"text-decoration: underline;\">Pohjolankatu<\/span> Street of the North<\/p>\r\n<p><span style=\"text-decoration: underline;\">Kuusamontie<\/span> Road of Kuusamo<\/p>\r\n<p><span style=\"text-decoration: underline;\">J&auml;&auml;merentie<\/span> Road of &ldquo;Ice Sea&rdquo;, Road of Arctic Ocean<\/p>\r\n<p><span style=\"text-decoration: underline;\">Opintie<\/span> Road of Learning<\/p>\r\n<p><span style=\"text-decoration: underline;\">Joulutontunpolku<\/span> Pathway of Christmas elf<\/p>\r\n<p><span style=\"text-decoration: underline;\">Hiihtomajankuja<\/span> Lane of Ski Lodge<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>There&rsquo;s a neighbourhood with street names about Finnish wild animals, such as bear (<span style=\"text-decoration: underline;\">karhu<\/span>) and wolf (<span style=\"text-decoration: underline;\">susi<\/span>). Can you figure out where in Rovaniemi this neighbourhood is? What other animals can you find there? There are at least twelve!<\/p>\r\n<p>&nbsp;<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

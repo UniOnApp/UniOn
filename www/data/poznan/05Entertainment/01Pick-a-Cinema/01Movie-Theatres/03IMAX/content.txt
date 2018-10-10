@@ -1,0 +1,13 @@
+{
+  "title": "IMAX",
+  "latitude": "52.440642",
+  "longitude": "16.919345",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

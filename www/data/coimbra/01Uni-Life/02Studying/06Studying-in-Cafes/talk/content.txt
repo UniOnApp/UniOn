@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Queria<\/strong> um caf&eacute;, por favor!<\/p>\r\n<p><em>I would like a coffee, please!<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Tudo bem?<\/p>\r\n<p><em>How&rsquo;s it going?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Queria<\/strong> + verb<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pronounciation<\/strong><\/p>\r\n<p>Queria um caf&eacute;, por favor!<\/p>\r\n<p>[k\u0268\u027Ei\u0250u\u0303k\u0250f\u025B pu\u027Ef\u0250vo\u027E]<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Coffee Survival Guide<\/strong><\/p>\r\n<p>Gal&atilde;o = <em>coffee and milk in a tall glass<\/em><\/p>\r\n<p>Meia de leite = <em>coffee and milk in a tea-size cup<\/em><\/p>\r\n<p>Abatanado = <em>watered down coffee in a tea-size cup<\/em><\/p>\r\n<p>Caf&eacute; duplo<em> = double espresso<\/em><\/p>\r\n<p>Caf&eacute;\/ caf&eacute;zinho\/ expresso\/ bica = <em>espresso<\/em><\/p>\r\n<p>Pingado\/ pingo = <em>espresso with a drop of milk<\/em><\/p>\r\n<p>Carioca de caf&eacute; = <em>watered down espresso<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Caf&eacute; cheio = <em>long coffee<\/em><\/p>\r\n<p>Caf&eacute; curto = <em>short coffee<\/em><\/p>\r\n<p>Caf&eacute; claro = <em>light, more milk than coffee<\/em><\/p>\r\n<p>Caf&eacute; escuro = <em>dark, more coffee than milk<\/em><\/p>\r\n<p>Ch&aacute;vena escaldada = <em>steamed cup<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

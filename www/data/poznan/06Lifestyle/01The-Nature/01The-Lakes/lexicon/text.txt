@@ -1,0 +1,332 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Sztuczny akwen</p>
+</td>
+<td>
+<p>artificial reservoir</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pomost</p>
+</td>
+<td>
+<p>pier</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozległość jeziora</p>
+</td>
+<td>
+<p>vastness of the lake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>urozmaicona linia brzegowa</p>
+</td>
+<td>
+<p>variegated shoreline</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strzeżone kąpielisko</p>
+</td>
+<td>
+<p>guarded beach</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>plaża</p>
+</td>
+<td>
+<p>beach</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsce piknikowe</p>
+</td>
+<td>
+<p>picnic spot</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>biegi przełajowe</p>
+</td>
+<td>
+<p>cross-country running</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>narciarze biegowi</p>
+</td>
+<td>
+<p>cross-country skiing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>frajda = radość</p>
+</td>
+<td>
+<p>joy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stali bywalcy</p>
+</td>
+<td>
+<p>habitu&eacute;s </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odsyłać nazwą</p>
+</td>
+<td>
+<p>the name refers to</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nimfa wodna</p>
+</td>
+<td>
+<p>water nymph</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>trudna przeszłość</p>
+</td>
+<td>
+<p>dramatic past</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>plenerowe imprezy</p>
+</td>
+<td>
+<p>outdoor events</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powołać do istnienia</p>
+</td>
+<td>
+<p>to create</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozbrzmiewać</p>
+</td>
+<td>
+<p>to reverberate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>muzyka jazzowa</p>
+</td>
+<td>
+<p>jazz music</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wzmacniać muzyczne doznania</p>
+</td>
+<td>
+<p>to intensify music impressions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nocna sceneria</p>
+</td>
+<td>
+<p>nocturnal scenery</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>park rzeźby wsp&oacute;łczesnej</p>
+</td>
+<td>
+<p>park of contemporary sculpture</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nowoczesne formy przestrzenne</p>
+</td>
+<td>
+<p>contemporary art of spatial forms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nieoczywiste kształty</p>
+</td>
+<td>
+<p>vaguely-shaped</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wkomponowane w zieleń</p>
+</td>
+<td>
+<p>composed in the green</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>teoretycy sztuki</p>
+</td>
+<td>
+<p>art theoreticians</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rower wodny</p>
+</td>
+<td>
+<p>water bike</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>małe punkty gastronomiczne</p>
+</td>
+<td>
+<p>small food venues</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>serferzy</p>
+</td>
+<td>
+<p>surfers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>paralotniarze</p>
+</td>
+<td>
+<p>paragliders</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprzyjające wiatry</p>
+</td>
+<td>
+<p>favorable winds</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>maraton pływacki</p>
+</td>
+<td>
+<p>swimming marathon</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przystań</p>
+</td>
+<td>
+<p>marina</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szk&oacute;łki żeglarskie</p>
+</td>
+<td>
+<p>yacht schools/clubs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>żagl&oacute;wki</p>
+</td>
+<td>
+<p>yachts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprzęt wodny</p>
+</td>
+<td>
+<p>water equipment</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bycie morsem</p>
+</td>
+<td>
+<p>to be a winterbather</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>amatorzy chłodnych kąpieli</p>
+</td>
+<td>
+<p>amateurs of cold baths</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>unieważniać temperaturę</p>
+</td>
+<td>
+<p>to defy temperature</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zamarznięta tafla jeziora</p>
+</td>
+<td>
+<p>frozen surface of the lake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bojery</p>
+</td>
+<td>
+<p>ice boats</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podawany w chlebie</p>
+</td>
+<td>
+<p>served in bread</p>
+</td>
+</tr>
+</tbody>
+</table>

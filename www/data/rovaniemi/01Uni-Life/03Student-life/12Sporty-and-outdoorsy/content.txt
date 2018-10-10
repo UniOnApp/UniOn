@@ -1,0 +1,13 @@
+{
+  "title": "Sporty and outdoorsy",
+  "latitude": "66.498166",
+  "longitude": "25.765197",
+  "difficulty": "",
+  "keyword": ["sport","outdoor","student union","wellbeing","liikunta","hobby","harrastaa"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

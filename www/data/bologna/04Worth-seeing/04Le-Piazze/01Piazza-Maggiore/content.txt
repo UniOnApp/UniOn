@@ -1,0 +1,14 @@
+{
+  "title": "Piazza Maggiore",
+  "latitude": "44.493758",
+  "longitude": "11.343119",
+  "difficulty": "mid",
+  "keyword": ["Piazza Grande",
+"Sotto le Stelle del Cinema"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

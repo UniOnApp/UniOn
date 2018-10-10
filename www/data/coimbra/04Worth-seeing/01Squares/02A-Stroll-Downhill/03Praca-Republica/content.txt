@@ -1,0 +1,13 @@
+{
+  "title": "Prac\u0327a Repu\u0301blica",
+  "latitude": "40.2096366",
+  "longitude": "-8.422333",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

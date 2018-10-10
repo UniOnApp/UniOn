@@ -1,0 +1,13 @@
+{
+  "title": "Col\u00E9gio Trindade",
+  "latitude": "40.206734",
+  "longitude": "-8.4257081",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Try it yourself!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>With these given cities or places, are you able to answer to the question <strong>Mihin sin&auml; menet?<\/strong> Tap on the word to see the answer.<\/p>\r\n<div class=\"ht\">\r\n<p>Milano<\/p>\r\n<p>Min&auml; menen Milanoon.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Bremen<\/p>\r\n<p>Min&auml; menen Bremeniin.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Coimbra<\/p>\r\n<p>Min&auml; menen Coimbraan.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><span style=\"text-decoration: underline;\">Lontoo<\/span> (in English: London)<\/p>\r\n<p>Min&auml; menen Lontooseen.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Lyon<\/p>\r\n<p>Min&auml; menen Lyoniin.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Madrid<\/p>\r\n<p>Min&auml; menen Madridiin.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Turku<\/p>\r\n<p>Min&auml; menen Turkuun.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><span style=\"text-decoration: underline;\">kuu<\/span> (in English: the Moon)<\/p>\r\n<p>Min&auml; menen kuuhun.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

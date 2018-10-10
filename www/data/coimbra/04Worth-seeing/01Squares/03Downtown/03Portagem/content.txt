@@ -1,0 +1,13 @@
+{
+  "title": "Portagem",
+  "latitude": "40.2074695",
+  "longitude": "-8.4318321",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

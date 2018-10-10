@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Student: Dzie\u0144 dobry, mia\u0142em przyj\u015B\u0107 na spotkanie z koordynatorem.<\/p>\r\n<p><strong>Koordynator<\/strong>: Z kt&oacute;rego Wydzia\u0142u?<\/p>\r\n<p>Student: <strong>Wydzia\u0142 Prawa i Administracji.<\/strong><\/p>\r\n<p>Koordynator: A jak Pan si\u0119 nazywa?<\/p>\r\n<p>Student: Michael Lundt.<\/p>\r\n<p>Koordynator: <strong>Witam serdecznie<\/strong>, nazywam si\u0119 Robert Soko\u0142owski, jestem koordynatorem Wydzia\u0142u Prawa.<\/p>\r\n<p>Student: Bardzo mi mi\u0142o.<\/p>\r\n<p>Koordynator: Czy ma Pan ju\u017C plan zaj\u0119\u0107?<\/p>\r\n<p>Student: Tak, ale niestety lektorat z j\u0119zyka polskiego jest w tym samym czasie, co zaj\u0119cia z <strong>prawa cywilnego<\/strong>. Czy mo\u017Cna jeszcze <strong>zmieni\u0107 <\/strong>grup\u0119?<\/p>\r\n<p>Koordynator: Zaraz sprawdz\u0119 w <strong>systemie USOS<\/strong>. Tak, mo\u017Ce Pan chodzi\u0107 na zaj\u0119cia z grup\u0105 D, <strong>pasuje<\/strong> Panu czwartek, godz. 13.00?<\/p>\r\n<p>Student: Tak, lektorat jest rano o 9.00.<\/p>\r\n<p>Koordynator: Czy ma Pan jakie\u015B pytania?<\/p>\r\n<p>Student: Tak, <strong>kiedy b\u0119dzie spotkanie informacyjne<\/strong>?<\/p>\r\n<p>Koordynator: <strong>Za dwa tygodnie<\/strong>, w \u015Brod\u0119 o 12.30, w Collegium Iuridicum, sala 10.<\/p>\r\n<p>Student: Dzi\u0119kuj\u0119 bardzo, do widzenia.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Wydzia\u0142 Prawa i Administracji, z kt&oacute;rego Wydzia\u0142u?, serdecznie witam (wita\u0107), prawo cywilne, czy ma (mie\u0107) Pan ju\u017C plan zaj\u0119\u0107?, czy mo\u017Cna jeszcze zmieni\u0107 grup\u0119?, system USOS, pasuje (pasowa\u0107), kiedy b\u0119dzie spotkanie informacyjne?, za dwa tygodnie.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

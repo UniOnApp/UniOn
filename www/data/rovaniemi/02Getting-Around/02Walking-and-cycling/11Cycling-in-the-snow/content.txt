@@ -1,0 +1,13 @@
+{
+  "title": "Cycling in the snow",
+  "latitude": "66.493457",
+  "longitude": "25.754247",
+  "difficulty": "",
+  "keyword": ["pyörä","pyöräillä","cycling","snow","temperature","cold","street"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

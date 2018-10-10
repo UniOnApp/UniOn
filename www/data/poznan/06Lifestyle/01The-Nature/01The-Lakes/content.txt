@@ -1,0 +1,13 @@
+{
+  "title": "The Lakes",
+  "latitude": "52.423692",
+  "longitude": "16.888138",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

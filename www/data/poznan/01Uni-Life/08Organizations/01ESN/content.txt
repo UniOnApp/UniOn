@@ -1,0 +1,13 @@
+{
+  "title": "ESN",
+  "latitude": "52.406449",
+  "longitude": "16.905034",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

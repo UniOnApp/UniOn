@@ -1,0 +1,13 @@
+{
+  "title": "Cosy atmosphere",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["cafeteria","study","suomalainen","nationality","from"] ,
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

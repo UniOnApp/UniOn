@@ -1,0 +1,79 @@
+<p><strong>I luoghi</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>La Scuola</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>Il Dipartimento</span></p>
+<p>Il Campus</p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/05Curiosita/")'>L&rsquo;aula</span></p>
+<p>Il laboratorio</p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/03Professori-e-corsi/")'>Lo Studio/L&rsquo;ufficio</span></p>
+<p>La Portineria</p>
+<p>La Segreteria</p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/02Biblioteche/01Non-solo-libri/")'>La Biblioteca</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/02Biblioteche/01Non-solo-libri/")'>La Sala Studio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/02DIRI/01Il-dipartimento-relazioni-internazionali/")'>Il piano terra/Il primo/secondo piano</span></p>
+<p>&nbsp;</p>
+<p><strong>Il tempo</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/03Professori-e-corsi/")'>L&rsquo;anno accademico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/03Professori-e-corsi/")'>Il primo e il secondo semestre</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>La sessione di esami o di laurea (autunnale, estiva, invernale)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>Gli appelli d&rsquo;esame</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/05Curiosita/")'>Il quarto d&rsquo;ora accademico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>I corsi di laurea (triennale, magistrale, a ciclo unico)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/05Curiosita/")'>La lezione/Il corso</span></p>
+<p>&nbsp;</p>
+<p><strong>Le persone</strong></p>
+<p>Il professore/La professoressa (di inglese, di matematica...)</p>
+<p>Il docente/la docente</p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>Il direttore/la direttrice (del Dipartimento, del Laboratorio)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/04Esami-e-voti/")'>La commissione</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>Il Presidente/la Presidente</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>Il Rettore</span></p>
+<p>Il/la tutor</p>
+<p>Il Lettore/la Lettrice (di lingua francese, inglese, italiano L2, ecc.)</p>
+<p>Lo studente/la studentessa</p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/02DIRI/01Il-dipartimento-relazioni-internazionali/")'>Gli studenti in mobilit&agrave;</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/05Curiosita/")'>I compagni</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>La matricola</span></p>
+<p>Il laureando/la laureanda</p>
+<p>Il laureato/la laureata</p>
+<p>Il dottore/la dottoressa</p>
+<p>Il bibliotecario/La bibliotecaria</p>
+<p>&nbsp;</p>
+<p><strong>Gli oggetti</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/03Professori-e-corsi/")'
+ >La buchetta della posta</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/03Professori-e-corsi/")'
+ >Le slide</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/03Professori-e-corsi/")'
+ >Gli articoli</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/04Esami-e-voti/")'>La tesi di laurea</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/02DIRI/02Che-cosa-fare-allarrivo-a-bologna/")'>Il badge</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/02DIRI/02Che-cosa-fare-allarrivo-a-bologna/")'>Il piano di studi</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/02DIRI/02Che-cosa-fare-allarrivo-a-bologna/")'>La foto formato tessera</span></p>
+<p><strong>Le azioni</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>Iscriversi</span> all&rsquo;Universit&agrave;/a un corso di laurea/ in biblioteca/al laboratorio di elettronica/all&rsquo;esame</p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>Immatricolarsi</span> al primo anno di universit&agrave;</p>
+<p>Ritirare il badge universitario</p>
+<p>Vincere una borsa di studio/un premio</p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/02DIRI/02Che-cosa-fare-allarrivo-a-bologna/")'>Compilare il piano di studi</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>Frequentare le lezioni/i corsi</span></p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/05Curiosita/")'>Tenere un posto a lezione&nbsp;</span></p>
+<p>Prendere appunti durante la lezione</p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/01Dipartimenti-e-scuole/")'>Scambiarsi gli appunti</span></p>
+<p>Studiare per l&rsquo;esame&nbsp;</p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/02Unibo-online/")'>Andare al ricevimento studenti</span></p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/04Esami-e-voti/")'>Maturare i crediti formativi</span></p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/02Biblioteche/01Non-solo-libri/")'>Consultare/prendere i libri in prestito</span></p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/04Esami-e-voti/")'>Fare/sostenere/dare un esame (orale, scritto)</span></p>
+<p>Superare/passare l&rsquo;esame di linguistica</p>
+<p>Essere bocciati all&rsquo;esame di linguistica</p>
+<p>Verbalizzare il voto di un esame</p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/04Esami-e-voti/")'>Assegnare il voto di laurea</span></p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/04Esami-e-voti/")'>Discutere la tesi di laurea</span></p>
+<p>Laurearsi a pieni voti</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e Modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/01Uni-Life/")'>Stare in compagnia</span>: &ldquo;<em>che bello stare in compagnia degli amici</em>&rdquo;, &ldquo;<em>mi piace stare in tua compagnia</em>&rdquo;, &ldquo;<em>gli amici si ritrovano per stare in compagnia</em>&rdquo;<br />Sono tutte espressioni usate per dire stare insieme a qualcuno, stare insieme agli altri, cio&egrave; stare in compagnia di altre persone.</p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/02Unibo-online/")'>Cavarsela</span>: &ldquo;<em>spero di cavarmela all&rsquo;esame</em>&rdquo;, &ldquo;<em>ieri me la sono cavata da solo</em>&rdquo;, &ldquo;<em>dai che te la cavi</em>&rdquo;<br />Vuol dire riuscire a farcela da solo in una attivit&agrave;, in una impresa, in un evento. Cavarsela si usa per dire che siamo riusciti a superare una difficolt&agrave;.</p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/01Luoghi-istituzionali/01Studiare-a-UNIBO/02Unibo-online/")'>Ce n&rsquo;&egrave; per tutti i gusti</span>: &ldquo;<em>guarda che variet&agrave;, ce n&rsquo;&egrave; per tutti i gusti</em>&rdquo;, &ldquo;<em>quanti pasticcini, ce n&rsquo;&egrave; per tutti i gusti</em>&rdquo;.<br />Questa espressione si usa per indicare che tutti saranno soddisfatti perch&eacute; la proposta di qualcosa (articolo, oggetto, cibo, idea, ecc.) &egrave; molto varia ed eterogenea.</p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/03Incontrarsi/01Due-chiacchiere/")'>Fare due chiacchiere</span>: parlare in modo informale, colloquiale, di solito tra amici.</p>
+<p><span class="internalLink2" onclick='goto("data/bologna/01Uni-Life/03Incontrarsi/04Via-del-Pratello/")'>Essere a buon mercato</span>: &ldquo;<em>qui la frutta &egrave; a buon mercato</em>&rdquo;, &ldquo;<em>la mia valigia non vale molto, &egrave; a buon mercato</em>&rdquo;<br />Si usa per dire che &egrave; economica, che non &egrave; costata molto.</p>

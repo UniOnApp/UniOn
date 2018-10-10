@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Halo?<\/p>\r\n<p>- Cze\u015B\u0107 Agnieszko, co robisz?<\/p>\r\n<p>- Cze\u015B\u0107, w\u0142a\u015Bnie wr&oacute;ci\u0142am z pracy i odpoczywam. A co u Ciebie?<\/p>\r\n<p>- Kiepsko, mam z\u0142y humor, bo moja mama zachorowa\u0142a. Mo\u017Ce przesz\u0142aby\u015B si\u0119 ze mn\u0105 do <em>Posnanii<\/em>? Musz\u0119 sobie poprawi\u0107 humor, a zakupy to m&oacute;j sprawdzony spos&oacute;b.<\/p>\r\n<p>- Ojej, przykro mi. Mam nadziej\u0119, \u017Ce mama szybko wr&oacute;ci do zdrowia. Mog\u0119 i\u015B\u0107 z Tob\u0105 na zakupy. O kt&oacute;rej b\u0119dziesz w <em>Posnanii<\/em>?<\/p>\r\n<p>- Teraz jest 17.30... my\u015Bl\u0119, \u017Ce o 19.00 b\u0119d\u0119 ju\u017C na miejscu. Dzi\u0119kuj\u0119, \u017Ce p&oacute;jdziesz ze mn\u0105. B\u0119d\u0119 mia\u0142a z kim porozmawia\u0107...<\/p>\r\n<p>- Daj spok&oacute;j, nie dzi\u0119kuj. Ch\u0119tnie si\u0119 z Tob\u0105 spotkam, mam Ci du\u017Co do opowiedzenia, bo w pracy ci\u0105gle co\u015B si\u0119 dzieje. Widzimy si\u0119 o 19.00 w centrum. Do zobaczenia!<\/p>\r\n<p>- Pa, pa!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Wr&oacute;ci\u0107 (wr&oacute;ci\u0142am) z pracy, odpoczywa\u0107 (odpoczywam), kiepsko, mie\u0107 (mam) z\u0142y humor, zachorowa\u0107 (zachorowa\u0142a), przej\u015B\u0107 si\u0119 razem, poprawi\u0107 humor, zakupy, sprawdzony spos&oacute;b, przykro mi, mie\u0107 nadziej\u0119, szybko wr&oacute;ci\u0107 do zdrowia, by\u0107 na miejscu, mie\u0107 z kim porozmawia\u0107, da\u0107 (daj) spok&oacute;j!, mie\u0107 (mam) du\u017Co do opowiedzenia, ci\u0105gle co\u015B si\u0119 dzieje.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

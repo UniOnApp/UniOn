@@ -1,0 +1,13 @@
+{
+  "title": "Fly Finnair",
+  "latitude": "66.558159",
+  "longitude": "25.828494",
+  "difficulty": "",
+  "keyword": ["flying","lentokone","santa","airport","travel","christmas","joulupukki","illative","case"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

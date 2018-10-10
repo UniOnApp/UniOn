@@ -1,0 +1,164 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Narzekać</p>
+</td>
+<td>
+<p>to criticize</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odwr&oacute;cić się od rzeki</p>
+</td>
+<td>
+<p>to turn one&rsquo;s back on the river</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sporty wodne</p>
+</td>
+<td>
+<p>water sports</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obiekty</p>
+</td>
+<td>
+<p>facilities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powr&oacute;cić nad rzekę</p>
+</td>
+<td>
+<p>to look to the river again</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sezon letni</p>
+</td>
+<td>
+<p>summer season</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypożyczyć leżak</p>
+</td>
+<td>
+<p>to rent a deck chair</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pograć w siatk&oacute;wkę plażową</p>
+</td>
+<td>
+<p>to play volleyball</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poopalać się</p>
+</td>
+<td>
+<p>to sunbathe</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zrobić grilla</p>
+</td>
+<td>
+<p>to grill</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rowery wodne</p>
+</td>
+<td>
+<p>water bicycles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ł&oacute;dki</p>
+</td>
+<td>
+<p>rowing boats</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kajaki</p>
+</td>
+<td>
+<p>kayaks/ canoes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>popływać</p>
+</td>
+<td>
+<p>to swim</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stare koryto rzeki</p>
+</td>
+<td>
+<p>old riverbed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>port wodny</p>
+</td>
+<td>
+<p>river harbor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wiosłować</p>
+</td>
+<td>
+<p>to row/ paddle</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>popłynąć w rejs</p>
+</td>
+<td>
+<p>to go on a cruise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieć tradycję</p>
+</td>
+<td>
+<p>to have long tradition</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieć sukcesy na koncie</p>
+</td>
+<td>
+<p>to be successful/ to triumph</p>
+</td>
+</tr>
+</tbody>
+</table>

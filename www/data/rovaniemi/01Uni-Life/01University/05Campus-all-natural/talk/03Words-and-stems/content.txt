@@ -1,0 +1,13 @@
+{
+  "title": "Words and stems",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p class=\"p1\"><span class=\"s1\"><strong><em>Higher mathematics about Finnish<\/em><\/strong><\/span><\/p>\r\n<p class=\"p1\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\">The reindeer symbol means higher mathematics about Finnish! The stems of the words <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">joki<\/span><\/span><span class=\"s1\"> and <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">lampi<\/span><\/span><span class=\"s1\"> change quite a bit in expressions like these:<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Min&auml; olen joella. <\/strong>I&rsquo;m at\/on the river.<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Min&auml; olen lammella. <\/strong>I&rsquo;m at\/on the pond.<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\">This is how the stem changes in these words:<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">joki &gt; joe- <\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">lampi &gt; lamme-<\/span><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

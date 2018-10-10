@@ -1,0 +1,116 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Drogi dla rower&oacute;w</p>
+</td>
+<td>
+<p>bike paths</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>drogi pieszo-rowerowe</p>
+</td>
+<td>
+<p>shared-use paths for pedestrians and cyclists</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sieć dr&oacute;g</p>
+</td>
+<td>
+<p>road network</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>korzystać z komunikacji rowerowej</p>
+</td>
+<td>
+<p>to move around on a bicycle</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stacje rowerowe</p>
+</td>
+<td>
+<p>bicycle docking stations</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>formularz rejestracyjny</p>
+</td>
+<td>
+<p>registration form</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaakceptować regulamin</p>
+</td>
+<td>
+<p>to accept the provisions of the terms of service</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>doładować konto</p>
+</td>
+<td>
+<p>to top up the account</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opłata inicjalna</p>
+</td>
+<td>
+<p>initial fee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nacisnąć przycisk</p>
+</td>
+<td>
+<p>to push a buton</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zgodnie ze wskaz&oacute;wkami</p>
+</td>
+<td>
+<p>follow the instructions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na wyświetlaczu</p>
+</td>
+<td>
+<p>on the displayer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>automatycznie zwolniony</p>
+</td>
+<td>
+<p>automatically released</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>każda następna godzina</p>
+</td>
+<td>
+<p>every consecutive hour</p>
+</td>
+</tr>
+</tbody>
+</table>

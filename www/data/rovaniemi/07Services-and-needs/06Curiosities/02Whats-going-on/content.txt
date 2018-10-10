@@ -1,0 +1,13 @@
+{
+  "title": "What’s going on?",
+  "latitude": "66.507364",
+  "longitude": "25.724892",
+  "difficulty": "",
+  "keyword": ["newspaper","events","local life","tapahtumia","happening"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

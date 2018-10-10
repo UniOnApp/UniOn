@@ -1,0 +1,13 @@
+{
+  "title": "Summer theatre",
+  "latitude": "66.502885",
+  "longitude": "25.734795",
+  "difficulty": "",
+  "keyword": ["theatre","summer","kesä","teatteri","impro","show"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

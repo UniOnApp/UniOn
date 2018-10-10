@@ -1,0 +1,13 @@
+{
+  "title": "Salmon",
+  "latitude": "66.613428",
+  "longitude": "26.143962",
+  "difficulty": "",
+  "keyword": ["dish","supermarket","trout","lohi","taimen","wild","villi","fish","muikku"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

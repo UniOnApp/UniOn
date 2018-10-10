@@ -1,0 +1,13 @@
+{
+  "title": "World Garden",
+  "latitude": "52.419045",
+  "longitude": "16.878687",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

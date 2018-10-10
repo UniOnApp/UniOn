@@ -1,0 +1,13 @@
+{
+  "title": "Aqueduto",
+  "latitude": "40.2067342",
+  "longitude": "-8.4230848",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

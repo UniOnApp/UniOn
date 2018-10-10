@@ -1,0 +1,13 @@
+{
+  "title": "Jardim Bota\u0302nico",
+  "latitude": "40.205491",
+  "longitude": "-8.4229317",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,68 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Fan</p>
+</td>
+<td>
+<p>fan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sporty zimowe</p>
+</td>
+<td>
+<p>winter sports</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jazda na łyżwach</p>
+</td>
+<td>
+<p>ice skating</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>możliwość</p>
+</td>
+<td>
+<p>possibility/ chance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szlifować formę</p>
+</td>
+<td>
+<p>improve/shape skills</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lodowisko</p>
+</td>
+<td>
+<p>skating rink</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypożyczyć łyżwy</p>
+</td>
+<td>
+<p>to rent skates</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>naostrzyć łyżwy</p>
+</td>
+<td>
+<p>to sharpen skates</p>
+</td>
+</tr>
+</tbody>
+</table>

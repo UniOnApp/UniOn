@@ -1,0 +1,13 @@
+<p class="p1"><span class="s1">&ldquo;Gli autobus possono&nbsp;camminare&nbsp;lungo le corsie previdenziali / presidenziali.&rdquo; (frase divertente, autore ignoto)</span></p>
+<div class="bottomQuestion">
+<p class="p2">Hai riconosciuto il gioco di parole? Qual &egrave; il termine corretto?</p>
+</div>
+<p class="p2">&nbsp;</p>
+<p class="p4"><span class="s1">&ldquo;[In autobus] Scende o perseguita?&rdquo;<br /> (frase divertente, autore ignoto)</span></p>
+<div class="bottomQuestion">
+<p class="p5">Hai riconosciuto il gioco di parole? Qual &egrave; il termine corretto da usare al posto di &lsquo;perseguita&rsquo;?</p>
+</div>
+<p class="p5">&nbsp;</p>
+<p class="p6"><span class="s1">Metodi sicuri per far arrivare gli autobus:</span></p>
+<p class="p7"><span class="s1">1.&nbsp;<span class="s2">Accendere</span>&nbsp;una&nbsp;<span class="s2">sigaretta</span>.<br /> 2. Allontanarsi rapidamente dalla fermata.<br /> 3. Prendere un&nbsp;<span class="s2">taxi</span>.</span></p>
+<p class="p7"><span class="s1">(aneddoto di Arthur Bloch)</span></p>

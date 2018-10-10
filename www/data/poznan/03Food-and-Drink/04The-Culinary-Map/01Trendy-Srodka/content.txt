@@ -1,0 +1,13 @@
+{
+  "title": "Trendy Śródka",
+  "latitude": "52.411244",
+  "longitude": "16.953338",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

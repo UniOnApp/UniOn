@@ -1,0 +1,18 @@
+{
+  "title": "All'arrivo",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["arrivo all\u2019Universit\u00E0 di Bologna",
+"check-in",
+"badge ",
+"piano di studio online",
+"Learning Agreement",
+"AlmaRM "],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

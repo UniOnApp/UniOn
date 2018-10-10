@@ -1,0 +1,13 @@
+{
+  "title": "Reppu hukassa",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>When asking after your belongings, you have to provide some basic information about it. Here are some questions you might have to answer when losing, say, a backpack. Tap to see the translation in English. Please scroll further down for a basic vocabulary.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Mink&auml; v&auml;rinen reppu on?<\/strong><\/p>\r\n<p>What&rsquo;s the colour of the backpack?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Kuinka iso se on? Mink&auml; kokoinen reppu on?<\/strong><\/p>\r\n<p>How big is it? What&rsquo;s the size of the backpack?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Mink&auml; merkkinen reppu on?<\/strong><\/p>\r\n<p>What&rsquo;s the brand name of the backpack?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Mit&auml; siell&auml; on sis&auml;ll&auml;?<\/strong><\/p>\r\n<p>What&rsquo;s in there?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<p>&nbsp;<\/p>\r\n<p><strong>hukassa<\/strong> lost<\/p>\r\n<p><strong>hukata <\/strong>to lose<\/p>\r\n<p><strong>iso<\/strong> big<\/p>\r\n<p><strong>keskikokoinen<\/strong> medium-sized<\/p>\r\n<p><strong>koko<\/strong> size<\/p>\r\n<p><strong>kuvailla<\/strong> to describe<\/p>\r\n<p><strong>l&ouml;yt&auml;&auml;<\/strong> to find<\/p>\r\n<p><strong>l&ouml;yt&ouml;tavara<\/strong> lost property<\/p>\r\n<p><strong>l&ouml;yt&ouml;tavaratoimisto<\/strong> a lost property office<\/p>\r\n<p><strong>merkki<\/strong> a brand (also: a sign, a symbol)<\/p>\r\n<p><strong>pieni<\/strong> small<\/p>\r\n<p><strong>reppu <\/strong>a backpack<\/p>\r\n<p><strong>sis&auml;ll&auml;<\/strong> inside<\/p>\r\n<p><strong>v&auml;ri<\/strong> a colour<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

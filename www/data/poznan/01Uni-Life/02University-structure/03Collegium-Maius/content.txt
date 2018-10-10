@@ -1,0 +1,13 @@
+{
+  "title": "Collegium Maius",
+  "latitude": "52.409460",
+  "longitude": "16.918638",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

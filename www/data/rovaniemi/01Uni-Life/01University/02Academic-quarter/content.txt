@@ -1,0 +1,13 @@
+{
+  "title": "Academic quarter",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["time","lecture","meeting","kello","when","milloin","aika","luento"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

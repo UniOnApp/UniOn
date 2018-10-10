@@ -1,0 +1,13 @@
+{
+  "title": "About hierarchy",
+  "latitude": "66.485473",
+  "longitude": "25.716940",
+  "difficulty": "",
+  "keyword": ["hierarchy","e-mail","meeting","greeting","culture","phrase","opettaja"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

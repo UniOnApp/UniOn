@@ -1,0 +1,13 @@
+{
+  "title": "Conoscersi",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p >Talk<\/p><\/th><th><p >Answer Models<\/p><\/th><\/tr><tr><td><p>Ciao, piacere, mi chiamo Christian. Tu come ti chiami?<\/p><\/td><td><p>Piacere, io sono Adele.<\/p><\/td><\/tr><tr><td><p>Studi a Bologna?<\/p><\/td><td><p>S&igrave;, sono a Bologna per il progetto Erasmus.<\/p><p>No, sono qui per una visita turistica.<\/p><\/td><\/tr><tr><td><p>Che cosa studi?<\/p><\/td><td><p>Studio Giurisprudenza.<\/p><\/td><\/tr><tr><td><p>Quanti anni hai?<\/p><\/td><td><p>Ho ventidue anni.<\/p><\/td><\/tr><tr><td><p>Di che nazionalit&agrave; sei?<\/p><\/td><td><p>Sono tedesca.<\/p><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

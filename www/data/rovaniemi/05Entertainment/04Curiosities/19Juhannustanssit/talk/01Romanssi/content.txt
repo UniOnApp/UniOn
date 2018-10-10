@@ -1,0 +1,13 @@
+{
+  "title": "Romanssi",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Juhannus <\/strong>&ndash; Midsummer &ndash; represents a very romantic time of the year; an iconic time for a wedding. <strong>Juhannush&auml;&auml;t<\/strong> &ndash; a Midsummer wedding &ndash; is a concept that lives on. <\/p>\r\n<p>&nbsp;<\/p>\r\n<p>A very popular, and very romantic, piece of the time is <strong>Romanssi <\/strong>(Romance) originally performed by <strong>Leif<\/strong> <strong>Wager<\/strong> (1922&ndash;2002) in the movie <strong>Katariina ja Munkkiniemen kreivi <\/strong>(1943). Please find below a fraction of the lyrics, and a translation follows:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>Sua vain yli kaiken m&auml; rakastan<\/em><\/p>\r\n<p><em>sin&auml; taivaani p&auml;&auml;ll&auml; maan.<\/em><\/p>\r\n<p><em>Min&auml; maiset murheeni unohdan<\/em><\/p>\r\n<p><em>sinisilmiis kun katsoa saan.<\/em><\/p>\r\n<p><em>Min&auml; maiset murheeni unohdan<\/em><\/p>\r\n<p><em>sinisilmiis kun katsoa saan.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>Ylin riemuni oot mit&auml; toivoisin<\/em><\/p>\r\n<p><em>s&auml; kun istut mun rinnallain.<\/em><\/p>\r\n<p><em>Olet kaikkeni aarteeni kallehin<\/em><\/p>\r\n<p><em>olet onneni unelmain.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>You above of all I love<\/em><\/p>\r\n<p><em>you&rsquo;re my heaven on earth.<\/em><\/p>\r\n<p><em>I forget my worldly sorrows<\/em><\/p>\r\n<p><em>when I gaze into your blue eyes.<\/em><\/p>\r\n<p><em>I forget my worldly sorrows<\/em><\/p>\r\n<p><em>when I gaze into your blue eyes.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>You&rsquo;re the greatest joy I could wish for<\/em><\/p>\r\n<p><em>when you&rsquo;re sitting by my side.<\/em><\/p>\r\n<p><em>You&rsquo;re my treasure, my everything<\/em><\/p>\r\n<p><em>you&rsquo;re my happiness, my dream.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Composed by Nils-Eric Fougstedt (1910&ndash;1961). <\/p>\r\n<p>Lyrics by Reino Hirvisepp&auml; (1906&ndash;1992).<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

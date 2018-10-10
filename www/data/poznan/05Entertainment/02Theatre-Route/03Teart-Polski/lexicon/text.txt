@@ -1,0 +1,76 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Ostoja polskości</p>
+</td>
+<td>
+<p>haven of Polishness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zabory</p>
+</td>
+<td>
+<p>partitions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>deski teatru</p>
+</td>
+<td>
+<p>theater stage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kulisty teatru</p>
+</td>
+<td>
+<p>backstage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sztuka teatralna</p>
+</td>
+<td>
+<p>theater play</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kukiełki</p>
+</td>
+<td>
+<p>puppets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>maskotki</p>
+</td>
+<td>
+<p>mascot</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>marionetki</p>
+</td>
+<td>
+<p>dummy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stroje teatralne</p>
+</td>
+<td>
+<p>stage outfits</p>
+</td>
+</tr>
+</tbody>
+</table>

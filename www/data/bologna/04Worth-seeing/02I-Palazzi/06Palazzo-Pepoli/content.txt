@@ -1,0 +1,13 @@
+{
+  "title": "Palazzo Pepoli",
+  "latitude": "44.492304",
+  "longitude": "11.346793",
+  "difficulty": "high",
+  "keyword": ["Museo della Storia"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

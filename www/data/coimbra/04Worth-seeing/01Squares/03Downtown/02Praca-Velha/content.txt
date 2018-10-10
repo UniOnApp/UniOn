@@ -1,0 +1,13 @@
+{
+  "title": "Prac\u0327a Velha",
+  "latitude": "40.208925",
+  "longitude": "-8.4315788",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

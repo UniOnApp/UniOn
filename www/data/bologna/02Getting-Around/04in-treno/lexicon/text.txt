@@ -1,0 +1,43 @@
+<p><strong>I Luoghi</strong></p>
+<p>L&rsquo;Assistenza Clienti: ufficio di accoglienza, informazione e assistenza alla clientela.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/01la-stazione-di-Bologna-Centrale/")' >La biglietteria, La biglietteria automatica</span>: sportello o sistema automatico per acquistare i biglietti.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/01la-stazione-di-Bologna-Centrale/")' >Il deposito bagagli</span>: luogo custodito in cui lasciare le valigie alcune ore o una intera giornata, a pagamento.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/01la-stazione-di-Bologna-Centrale/")' >La sala d&rsquo;aspetto</span>: sala in cui i passeggeri possono sedersi in attesa del loro treno.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/01la-stazione-di-Bologna-Centrale/")' >I servizi igienici</span>: toilette, bagni.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/01la-stazione-di-Bologna-Centrale/")' >La stazione</span></p>
+<p>L&rsquo;ufficio oggetti smarriti: ufficio in cui si raccolgono gli oggetti dimenticati o persi nei treni o nella stazione.</p>
+<p>&nbsp;</p>
+<p><strong>In stazione</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/01la-stazione-di-Bologna-Centrale/")' >Il treno regionale/interregionale/ad alta velocit&agrave;/<em>intercity</em>/la freccia rossa</span>: il treno regionale &egrave; il pi&ugrave; lento perch&eacute; effettua molte fermate, anche in localit&agrave; minori. La freccia rossa (ma anche la freccia bianca e argento) &egrave; un treno ad alta velocit&agrave;, raggiunge oltre 300 km/h e effettua le fermate solo nei capoluoghi principali.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/")' >Il biglietto</span>: titolo di viaggio</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/")' >Il binario</span>: luogo fisico, costituito dalle rotaie su cui viaggia il treno, associato a un numero, a cui recarsi per prendere il treno.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/")' >La carrozza</span>: vagone del treno.</p>
+<p>Il codice PNR: Passenger Name Record, &egrave; il codice di prenotazione del biglietto, da comunicare al controllore.</p>
+<p>La macchinetta obliteratrice: macchinetta per timbrare o vidimare i biglietti dei treni.</p>
+<p>Il posto a sedere: poltrona, sedia.</p>
+<p>Il tabellone: schermo digitale per consultare gli orari di partenze, arrivi, numero di binario e ritardi.</p>
+<p>&nbsp;</p>
+<p><strong>Le persone</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/talk/02interagire-con-il-capo-treno/")' >Il capotreno</span>: capo del personale di servizio sul treno.</p>
+<p>Il capostazione: funzionario delle ferrovie, addetto alla direzione dei servizi della stazione.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/")' >Il controllore</span>: persona che si occupa di verificare che i passeggeri siano in regola con i titoli di viaggio.</p>
+<p>Il passeggero</p>
+<p>Il pendolare</p>
+<p>&nbsp;</p>
+<p><strong>Le Azioni</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/")' >Allontanarsi dalla linea gialla</span></p>
+<p>Cambiare il biglietto</p>
+<p>Chiedere il rimborso del biglietto</p>
+<p>Controllare gli orari sul tabellone</p>
+<p>Comprare il biglietto solo andata/andata e ritorno</p>
+<p>Fare un cambio di prenotazione</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/")' >Non oltrepassare la linea gialla</span></p>
+<p>Prendere il treno/ perdere il treno/salire sul treno/scendere dal treno</p>
+<p>Prenotare il posto a sedere</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/")' >Timbrare/convalidare/obliterare il biglietto</span></p>
+<p>Viaggiare in prima o seconda classe; viaggiare in business</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/")' >Al volo (eng. on the fly, very quicky)</span>: &ldquo;<em>salire al volo</em>&rdquo;, &ldquo;<em>salutare al volo</em>&rdquo;, &ldquo;<em>passare al volo</em>&rdquo;, &ldquo;<em>partire al volo</em>&rdquo;, &ldquo;<em>prendere il treno al volo</em>&rdquo;...&ldquo;<br />Al volo&rdquo; si utilizza per indicare azioni che si svolgono molto velocemente, di solito per mancanza di tempo.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/")' >Tenere d&rsquo;occhio (eng. keep an eye on)</span>: controllare, verificare, osservare...in stazione si tengono d&rsquo;occhio, cio&egrave; si presta attenzione, ai tabelloni, ai monitor, agli orari dei treni e, come in tutti i luoghi affollati, alle proprie borse, valigie, ecc.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/01la-stazione-di-Bologna-Centrale/")' >Fare il Pendolare/Essere pendolare (eng. to commute)</span>: &ldquo;<em>sono pendolare da Forl&igrave;</em>&rdquo;, &ldquo;<em>faccio la pendolare da Prato tutti i giorni</em>&rdquo;.<br />Il pendolare non abita nella citt&agrave; in cui lavora. Ogni giorno, oppure molto di frequente, si sposta in treno dalla citt&agrave; in cui vive alla citt&agrave; in cui lavora, andata e ritorno.</p>

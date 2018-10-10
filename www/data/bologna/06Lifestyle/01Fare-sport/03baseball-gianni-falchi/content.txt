@@ -1,0 +1,14 @@
+{
+  "title": "Baseball Gianni Falchi",
+  "latitude": "44.462536",
+  "longitude": "11.381117",
+  "difficulty": "mid",
+  "keyword": ["campo da baseball",
+"Fortitudo Baseball"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

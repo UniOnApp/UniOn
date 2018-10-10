@@ -1,0 +1,13 @@
+{
+  "title": "Croissant Museum",
+  "latitude": "52.408216",
+  "longitude": "16.935077",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

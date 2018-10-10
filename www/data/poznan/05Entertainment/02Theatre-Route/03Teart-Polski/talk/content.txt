@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Ma\u0107ku, zawsze chcia\u0142am zobaczy\u0107, jak wygl\u0105da teatr od \u015Brodka.<\/p>\r\n<p>- Nie ma problemu. Jest mo\u017Cliwo\u015B\u0107 zwiedzania zak\u0105tk&oacute;w Teatru Polskiego. Organizowane tam s\u0105 Przechadzki Teatralne.<\/p>\r\n<p>- A gdzie on si\u0119 znajduje?<\/p>\r\n<p>- W centrum miasta, na ul. 27 grudnia, blisko placu Wolno\u015Bci.<\/p>\r\n<p>- To si\u0119 dobrze sk\u0142ada. Mo\u017Ce chcia\u0142by\u015B p&oacute;j\u015B\u0107 ze mn\u0105?<\/p>\r\n<p>- Bardzo ch\u0119tnie! Zadzwoni\u0119 dzisiaj do teatru i zapytam, w jakie dni mo\u017Cna przyj\u015B\u0107.<\/p>\r\n<p>- Fajnie! To daj mi p&oacute;\u017Aniej zna\u0107.<\/p>\r\n<p>- Jasne! Zadzwoni\u0119, jak si\u0119 czego\u015B dowiem.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Od \u015Brodka\/od kuchni (w znaczeniu: od wewn\u0105trz), zak\u0105tek, przechadzka, dobrze si\u0119 sk\u0142ada (sk\u0142ada\u0107), przyj\u015B\u0107, p&oacute;j\u015B\u0107, fajnie, jasne (w znaczeniu: oczywi\u015Bcie), dam (da\u0107) zna\u0107, dowiem (dowiedzie\u0107) si\u0119.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

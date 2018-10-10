@@ -1,0 +1,13 @@
+{
+  "title": "Juhannustanssit",
+  "latitude": "66.501597",
+  "longitude": "25.745323",
+  "difficulty": "",
+  "keyword": ["juhannus","tanssi","Midsummer","häät","wedding"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

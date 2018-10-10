@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>Przepraszam, gdzie jest sala \u015Aniadeckich?<\/strong><\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Sala \u015Aniadeckich jest na drugim pi\u0119trze po prawej stronie. Tu jest <strong>winda<\/strong>, a tam <strong>schody<\/strong>.<\/p>\r\n<p>- <strong>Co znaczy <em>drugim pi\u0119trze<\/em>???<\/strong><\/p>\r\n<p>- No, drugie pi\u0119tro.<\/p>\r\n<p>- Acha. Dzi\u0119kuj\u0119 bardzo.<\/p>\r\n<p>- Przepraszam, gdzie s\u0105 <strong>zaj\u0119cia<\/strong> z j\u0119zyka polskiego?<\/p>\r\n<p>- Collegium Maius, parter sala numer 9 (dziewi\u0119\u0107) i 12 (dwana\u015Bcie) i sala 221 (dwa dwa jeden) drugie<strong> pi\u0119tro<\/strong>.<\/p>\r\n<p>- <strong>Parter?<\/strong> Co to znaczy?<\/p>\r\n<p>- Pierwszy poziom w wielu j\u0119zykach nazywa si\u0119 <em>pierwsze pi\u0119tro<\/em>, a u nas <em>parter<\/em>.<\/p>\r\n<p>- Dzi\u0119kuj\u0119.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Przepraszam, gdzie jest sala \u015Aniadeckich?, na drugim pi\u0119trze, po prawej stronie, tu jest winda, a tam schody, gdzie s\u0105 zaj\u0119cia z j\u0119zyka polskiego? parter - co to znaczy (znaczy\u0107)?, pierwszy poziom.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

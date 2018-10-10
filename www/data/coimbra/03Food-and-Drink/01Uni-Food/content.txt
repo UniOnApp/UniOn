@@ -1,0 +1,13 @@
+{
+  "title": "Uni Food",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["cuisine","canteen","restaurant","typical","cantina","Azuis","snack"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

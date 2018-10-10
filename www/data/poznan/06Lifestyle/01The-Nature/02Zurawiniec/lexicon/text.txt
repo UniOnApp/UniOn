@@ -1,0 +1,148 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Torfowisko</p>
+</td>
+<td>
+<p>peat moor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obrzeża</p>
+</td>
+<td>
+<p>outskirts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zagłębienie terenu</p>
+</td>
+<td>
+<p>ground depression</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rezerwat przyrody</p>
+</td>
+<td>
+<p>nature reserve</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rekonstrukcja czasu</p>
+</td>
+<td>
+<p>reconstruction of the past</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odtwarzanie</p>
+</td>
+<td>
+<p>the process of reconstruction</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>procesy geologiczne</p>
+</td>
+<td>
+<p>geological processes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szczeg&oacute;lny mikroklimat</p>
+</td>
+<td>
+<p>particular microclimate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>idea geoparku</p>
+</td>
+<td>
+<p>idea of setting up a geopark</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miłośnik biologii</p>
+</td>
+<td>
+<p>biology enthusiast</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bagno</p>
+</td>
+<td>
+<p>bog</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>preparaty owadob&oacute;jcze</p>
+</td>
+<td>
+<p>repellents</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obszary chronione</p>
+</td>
+<td>
+<p>reserve areas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zapobiegać utracie</p>
+</td>
+<td>
+<p>prevent the loss</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zagrożone gatunki</p>
+</td>
+<td>
+<p>endangered species</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>walory krajobrazowe</p>
+</td>
+<td>
+<p>geological value</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poszanowanie dla natury</p>
+</td>
+<td>
+<p>respect for nature</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prawnie strzeżone</p>
+</td>
+<td>
+<p>protected by law</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,22 @@
+{
+  "title": "Curiosità",
+  "latitude": "44.498571",
+  "longitude": "11.355768",
+  "difficulty": "mid",
+  "keyword": ["lezione",
+"lezioni ",
+"lezioni frontali",
+"lezioni laboratoriali",
+"appunti delle lezioni",
+"quarto d’ora accademico",
+"professori ",
+"professoresse ",
+"professoressa",
+"professore"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

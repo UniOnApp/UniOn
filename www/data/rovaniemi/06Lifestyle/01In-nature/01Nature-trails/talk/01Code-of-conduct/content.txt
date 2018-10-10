@@ -1,0 +1,13 @@
+{
+  "title": "Code of conduct",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>When you&rsquo;re on the hiking trails, there are some unwritten rules. It might be useful for you to be aware of them. <\/p>\r\n\r\n\r\n<ol>\r\n<li><strong>&Auml;l&auml; roskaa <\/strong>&ndash; Do not litter<p>What you can carry there, you can certainly bring back. Do not leave litter in nature.<\/p><\/li>\r\n\r\n<li><strong>Tervehdi muita <\/strong>&ndash; Greet people you meet<p>It&rsquo;s customary to greet people you meet on the trails. Smile and pronounce <strong>Hei!<\/strong> in your best Finnish. If <strong>Terve!<\/strong> or <strong>Moi!<\/strong> come more naturally to you, use either one.<\/p> <\/li>\r\n\r\n<li><strong>Pysy polulla <\/strong>&ndash; Stay on the trail<p>In national parks, it&rsquo;s highly recommended that hikers stay on the trails. This is to protect the environment, including the often rare fauna and flora that thrive there.<\/p><\/li>\r\n\r\n<li><strong>Ole huolellinen, kun teet tulet <\/strong>&ndash; Be mindful when making fire<p>If you&rsquo;re staying overnight at a wilderness hut (<strong>autiotupa<\/strong>), look for any instructions available. If none are available, think through things like making fire in the fireplace. A stove type of fireplace (<strong>kamiina<\/strong>) gets really hot on the exterior, too, so don&rsquo;t put things like more firewood, paper or clothes in its immediate proximity.<\/p><\/li>\r\n\r\n<li><strong>Ajattele seuraavaa k&auml;vij&auml;&auml; <\/strong>&ndash; Think about the next person<p>Before leaving a day trip hut (<strong>taukotupa<\/strong>), a wilderness hut (<strong>autiotupa<\/strong>) or a lean-to (<strong>laavu<\/strong>), tidy up after yourself. Bring more firewood from the shed into the hut for the next person who comes there.<\/p><\/li>\r\n\r\n<li><strong>&Auml;l&auml; melua liikaa <\/strong>&ndash; Don&rsquo;t make too much noise<p>Focus on listening to the sounds of nature, and respect them. The natural environment you&rsquo;re visiting is the home of animals and plants that thrive there, and behaving in a controlled manner is a way of showing respect to this fact.<\/p><\/li>\r\n\r\n<\/ol>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

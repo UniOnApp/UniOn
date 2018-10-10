@@ -1,0 +1,13 @@
+{
+  "title": "Interagire allo Sportello",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><td><p style=\"text-align: center;\"><em>Talk<\/em><\/p><\/td><td><p style=\"text-align: center;\"><em>Answer Models<\/em><\/p><\/td><\/tr><tr><td><p>Devo consegnare un pacco a Pisa entro domani sera. &Egrave; possibile?<\/p><\/td><td><\/td><\/tr><tr><td><p>Devo spedire una lettera raccomandata con ricevuta di ritorno. Quanto costa?<\/p><\/td><td><\/td><\/tr><tr><td><p>Vorrei pagare tre bollettini postali e acquistare cinque francobolli, per favore.<\/p><\/td><td><\/td><\/tr><tr><td><p>Vorrei versare un assegno sul mio conto Banco Posta. Come devo fare?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

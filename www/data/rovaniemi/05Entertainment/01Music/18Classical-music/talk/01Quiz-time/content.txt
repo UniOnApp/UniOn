@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Are these claims oikein (correct) or v&auml;&auml;rin (incorrect)? You&rsquo;ll know the answers to most questions based on the text about classical music<\/strong> <strong>&ndash; and maybe you can also guess some! Tap to check.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>The Lapland Chamber Orchestra is the northernmost professional chamber orchestra in the European Union.<\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> Together with the Lapland Military Band &ndash; the northernmost professional wind orchestra in the EU &ndash; the Lapland Chamber Orchestra offers a greatly appreciated selection of concerts for the friends of classical music in the North.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Sibelius&rsquo; <em>Finlandia<\/em> is the national anthem of Finland.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> The national anthem of Finland is <em>Maamme<\/em>, written by a German composer Fredrik Pacius, who spent most of his life in Finland. <em>Finlandia<\/em> is a highly appreciated tone poem, though, and especially its end section, the Finlandia Hymn, is considered as one of the most important national songs in Finland.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>A piano is called <em>piano<\/em> in Finnish.<\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> In fact, quite many musical instruments have retained their international root word, much like a lot of music terminology in general has been borrowed as such or integrated with minor changes into Finnish. Changes usually aim at easier pronunciation: the violin becomes <strong>viulu<\/strong>, and the cello becomes <strong>sello<\/strong>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>You have to go to Korundi to catch the Lapland Chamber Orchestra in action.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> Partly correct, though: Korundi is the home base of the Lapland Chamber Orchestra. However, the orchestra tours around Lapland, Finland, and even internationally quite a lot. Some of the more exotic venues include e.g. <em>Aittakuru<\/em> in Pyh&auml;tunturi, an open-air stage built in the middle of nowhere &ndash; in complete WILDERNESS. For this kind of an experience, try out Pyh&auml; Unplugged or LuostoClassic, classical music events organised every year in August.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

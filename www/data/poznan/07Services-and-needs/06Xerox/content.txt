@@ -1,0 +1,13 @@
+{
+  "title": "Xerox",
+  "latitude": "52.4104855",
+  "longitude": "16.9487919",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

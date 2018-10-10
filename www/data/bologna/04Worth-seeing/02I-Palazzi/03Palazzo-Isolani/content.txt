@@ -1,0 +1,15 @@
+{
+  "title": "Palazzo Isolani",
+  "latitude": "44.492665",
+  "longitude": "11.347903",
+  "difficulty": "high",
+  "keyword": ["Corte Isolani",
+"Strada Maggiore",
+"Piazza Santo Stefano"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

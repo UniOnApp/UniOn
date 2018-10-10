@@ -1,0 +1,164 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Niewielkie</p>
+</td>
+<td>
+<p>relatively small</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pieszy</p>
+</td>
+<td>
+<p>pedestrian</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>deptak</p>
+</td>
+<td>
+<p>pedestrian zone</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powałęsać się</p>
+</td>
+<td>
+<p>to hang around</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szlak</p>
+</td>
+<td>
+<p>trail</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyprawa</p>
+</td>
+<td>
+<p>tour</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>liczba mieszkańc&oacute;w</p>
+</td>
+<td>
+<p>number of inhabitants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jedno z największych miast</p>
+</td>
+<td>
+<p>one of the biggest cities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w śr&oacute;dmieściu</p>
+</td>
+<td>
+<p>in the downtown</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ograniczająca prędkość samochod&oacute;w</p>
+</td>
+<td>
+<p>limiting the speed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pozbawione są ruchu kołowego</p>
+</td>
+<td>
+<p>car-free</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oddany we władanie pieszym</p>
+</td>
+<td>
+<p>pedestrian zone</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tramwaje jeżdżą (jeździć) okrężnymi, dłuższymi trasami</p>
+</td>
+<td>
+<p>trams have long, roundabout ways</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Centrum Informacji Miejskiej</p>
+</td>
+<td>
+<p>City Information Center</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lokalni przewodnicy</p>
+</td>
+<td>
+<p>local guides</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>fortyfikacje miejskie</p>
+</td>
+<td>
+<p>city fortifications</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jakim czasem dysponujesz (dysponować)?</p>
+</td>
+<td>
+<p>How much time do you have?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>co Cię interesuje (interesować)?</p>
+</td>
+<td>
+<p>What iterests you? (to interest)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jakich atrakcji poszukujesz (poszukiwać)?</p>
+</td>
+<td>
+<p>What attractions are you looking for (to look for)?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ile masz (mieć) lat?</p>
+</td>
+<td>
+<p>How old are you?</p>
+</td>
+</tr>
+</tbody>
+</table>

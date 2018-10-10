@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- De quanto &eacute; o desconto? <\/p>\r\n<p>- De 40%.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>- How much is the discount?<\/em><\/p>\r\n<p>- 40%.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Qual &eacute; pre&ccedil;o final? <\/p>\r\n<p>- <em>What&rsquo;s the final price?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Este tamb&eacute;m faz parte da campanha promocional?<\/p>\r\n<p>- <em>Is this one also included in the promotional campaign? <\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

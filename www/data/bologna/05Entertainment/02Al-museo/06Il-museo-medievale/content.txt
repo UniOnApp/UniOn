@@ -1,0 +1,14 @@
+{
+  "title": "Il Museo Medievale",
+  "latitude": "44.496614",
+  "longitude": "11.342002",
+  "difficulty": "high",
+  "keyword": ["Welcome Card",
+"Museo Civico Medievale"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

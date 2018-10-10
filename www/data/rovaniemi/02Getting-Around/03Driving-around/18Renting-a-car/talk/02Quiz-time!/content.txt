@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Type in the correct word after each clue. Then check your answers.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>1 You&rsquo;re planning to go to North Cape with your friends but you don&rsquo;t have a car of your own. You need this.<\/p>\r\n<p>vuokra-auto<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>2 You get this if you drive too fast.<\/p>\r\n<p>sakko<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>3 Drive cautiously! There&rsquo;s some ice on the road.<\/p>\r\n<p>liukas keli<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>4 This might be attached on the roof of your car for skis.<\/p>\r\n<p>suksiboksi<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>5 Always fasten this when seated in a car.<\/p>\r\n<p>turvavy&ouml;<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

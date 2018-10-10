@@ -1,0 +1,13 @@
+{
+  "title": "Polish Dance Theatre",
+  "latitude": "52.406886",
+  "longitude": "16.934456",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

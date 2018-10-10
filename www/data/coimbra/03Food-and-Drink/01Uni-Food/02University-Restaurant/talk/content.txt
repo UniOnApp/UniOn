@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Tem uma mesa livre?<\/p>\r\n<p>- Tenho, sim. Para quantas pessoas?<\/p>\r\n<p>- Tr&ecirc;s.<\/p>\r\n<p>- Ali &agrave; janela.<\/p>\r\n<p>- Muito obrigado.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>- Is there a vacant table?<\/em><\/p>\r\n<p><em>- Yes, there is. For how many people?<\/em><\/p>\r\n<p><em>- Three.<\/em><\/p>\r\n<p><em>- There, by the window.<\/em><\/p>\r\n<p><em>- Many thanks.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>pr&eacute;-pagamento - <em>pre-payment<\/em><\/p>\r\n<p>reserva - <em>reservation<\/em><\/p>\r\n<p>reservado &ndash; <em>reserved<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Acompanhamentos &ndash; <em>sides<\/em><\/strong><\/p>\r\n<p>arroz &ndash; <em>rice<\/em><\/p>\r\n<p>batatas &ndash; <em>potatoes<\/em><\/p>\r\n<p>massa &ndash; <em>pasta<\/em><\/p>\r\n<p>cuscus &ndash; <em>cuscus<\/em><\/p>\r\n<p>lentilhas &ndash; <em>lentils<\/em><\/p>\r\n<p>feij&otilde;es &ndash; <em>beans<\/em><\/p>\r\n<p>salada &ndash; <em>salad<\/em><\/p>\r\n<p>legumes &ndash; <em>vegetables<\/em><\/p>\r\n<p>cogumelos &ndash; <em>mushrooms<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Salada e legumes &ndash; <em>salad and veggies<\/em><\/strong><\/p>\r\n<p>alface &ndash;<em> lettuce<\/em> <\/p>\r\n<p>tomate &ndash; <em>tomato<\/em><\/p>\r\n<p>ervilhas &ndash; <em>green peas<\/em><\/p>\r\n<p>cenoura &ndash; <em>carrot<\/em><\/p>\r\n<p>nabo &ndash; <em>turnip<\/em><\/p>\r\n<p>milho &ndash; <em>sweetcorn<\/em><\/p>\r\n<p>cebola &ndash; <em>onion<\/em><\/p>\r\n<p>br&oacute;culos &ndash; <em>broccoli<\/em><\/p>\r\n<p>couve &ndash; <em>cabbage<\/em><\/p>\r\n<p>alho-franc&ecirc;s &ndash;<em> leek<\/em><\/p>\r\n<p>pimento &ndash; <em>bell pepper<\/em><\/p>\r\n<p>couve-flor &ndash; <em>cauliflower<\/em><\/p>\r\n<p>alho &ndash; <em>garlic<\/em><\/p>\r\n<p>espinafres &ndash; <em>spinach<\/em><\/p>\r\n<p>nabi&ccedil;as &ndash; <em>turnip greens<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

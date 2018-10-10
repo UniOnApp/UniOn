@@ -1,0 +1,13 @@
+{
+  "title": "Try it yourself!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Now please type the following verbs in the correct personal forms and then check your answers. Even if you don&rsquo;t yet know all these verbs, you know how they work since they all belong to the third verb type. Twelve points available for this!<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>I cycle<\/br>\r\nmin&auml; (py&ouml;r&auml;ill&auml;)<\/p>\r\n<p>py&ouml;r&auml;ilen <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>you walk<\/br>\r\nsin&auml; (k&auml;vell&auml;)<\/p>\r\n<p>k&auml;velet<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>he\/she goes<\/br>\r\nh&auml;n (menn&auml;)<\/p>\r\n<p>menee <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>we come<\/br>\r\nme (tulla)<\/p>\r\n<p>tulemme <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>you (plural) get up \/ ascend<\/br>\r\nte (nousta)<\/p>\r\n<p>nousette <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>they grieve<\/br>\r\nhe (surra)<\/p>\r\n<p>surevat<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>I study<\/br>\r\nmin&auml; (opiskella)<\/p>\r\n<p>opiskelen<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>you smile<\/br>\r\nsin&auml; (hymyill&auml;)<\/p>\r\n<p>hymyilet <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>he\/she does sports<\/br>\r\nh&auml;n (urheilla)<\/p>\r\n<p>urheilee <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>we discuss<\/br>\r\nme (keskustella)<\/p>\r\n<p>keskustelemme <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>you skate<\/br>\r\nte (luistella)<\/p>\r\n<p>luistelette<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

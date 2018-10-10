@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry. Czy jest stolik dla czterech os&oacute;b <strong>w ogr&oacute;dku<\/strong>?<\/p>\r\n<p>- Zaraz sprawdz\u0119. <strong>Prosz\u0119 za mn\u0105.<\/strong><u> <\/u><\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> <strong>Czego Pa\u0144stwo si\u0119 napij\u0105<\/strong>?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> <strong>Poprosz\u0119<\/strong> \u015Bredni\u0105 kaw\u0119 z mlekiem i bez cukru.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> <strong>Dla mnie<\/strong> prosz\u0119 du\u017C\u0105 bia\u0142\u0105 kaw\u0119 z cukrem.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> <strong>Ja wezm\u0119<\/strong> ma\u0142e cappuccino.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> <strong>A ja zamawiam<\/strong> du\u017C\u0105 czarn\u0105 kaw\u0119 bez cukru.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Dzi\u0119kuj\u0119. <strong>Czy co\u015B jeszcze poda\u0107<\/strong>?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Nie, dzi\u0119kujemy, to wszystko.<\/p>\r\n<p>- Przepraszam, czy mog\u0119 prosi\u0107 o rachunek?<\/p>\r\n<p>- Oczywi\u015Bcie. P\u0142aci Pani kart\u0105 czy got&oacute;wk\u0105?<\/p>\r\n<p>- <strong>Got&oacute;wk\u0105<\/strong>.<\/p>\r\n<p>- To razem b\u0119dzie 48 PLN.<\/p>\r\n<p>- Prosz\u0119 bardzo. Reszta dla Pana.<\/p>\r\n<p>- Dzi\u0119kuj\u0119 bardzo, do widzenia!<\/p>\r\n<p>- Do widzenia!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Kawa bia\u0142a= kawa z mlekiem, kawa czarna = kawa bez mleka, ma\u0142a kawa, du\u017Ca kawa.<\/p>\r\n<p>poprosz\u0119...(poprosi\u0107), wezm\u0119... (wzi\u0105\u0107) , zamawiam... (zamawia\u0107), dla mnie..., czy poda\u0107 co\u015B jeszcze, p\u0142atno\u015B\u0107 kart\u0105\/p\u0142atno\u015B\u0107 got&oacute;wk\u0105.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

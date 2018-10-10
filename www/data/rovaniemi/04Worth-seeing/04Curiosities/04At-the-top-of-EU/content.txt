@@ -1,0 +1,13 @@
+{
+  "title": "At the top of the EU",
+  "latitude": "66.543550",
+  "longitude": "25.846673",
+  "difficulty": "",
+  "keyword": ["Arctic Circle","North","pohjoinen","exchange","merisää","radio","compass","weather"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

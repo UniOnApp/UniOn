@@ -1,0 +1,44 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Samorząd Studencki</p>
+</td>
+<td>
+<p>Parliament of Student Self-Government</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;łdecydować o kształcie edukacji, komponentach programu studi&oacute;w, strategii rozwoju uczelni</p>
+</td>
+<td>
+<p>be involved in forming the parameters of education, components of study programs and strategy of development</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;łpracują (wsp&oacute;łpracować)</p>
+</td>
+<td>
+<p>they collaborate (to collaborate)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dba (dbać) o społeczny wizerunek uczelni</p>
+</td>
+<td>
+<p>ensures (to ensure) the positive social image of the University</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przygotowuje (przygotowywać) wsp&oacute;lnotowe święta studenckie</p>
+</td>
+<td>
+<p>arranges (to arrange) holidays and events for all AMU students</p>
+</td>
+</tr>
+</tbody>
+</table>

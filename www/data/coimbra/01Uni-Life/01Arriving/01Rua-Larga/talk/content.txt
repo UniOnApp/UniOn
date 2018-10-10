@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Polite<\/strong> <strong>requests<\/strong><\/p>\r\n<p>Queria <strong>ir<\/strong> <strong>para<\/strong> o posto de turismo.<\/p>\r\n<p><em>I would like to go to the tourist information office.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Verb+preposition<\/strong><\/p>\r\n<p><strong>ir a |&nbsp; ir para<\/strong><\/p>\r\n<p>[i\u027E \u0250] | [i\u027E p\u0250\u027E\u0250]<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong><em>go+short while vs. go+ long term\/destination<\/em><\/strong><\/p>\r\n<p>ir a casa almo&ccedil;ar (ir e voltar)<\/p>\r\n<p><em>go home for lunch (and back)<\/em><\/p>\r\n<p>ir para casa (ir e ficar em casa)<\/p>\r\n<p><em>go home (and stay at home)<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>ir para o trabalho (ir trabalhar)<\/p>\r\n<p><em>go to work <\/em><\/p>\r\n<p>ir ao trabalho (buscar o casaco que deixou l&aacute;)<\/p>\r\n<p><em>stop by the workplace (get a coat you&rsquo;ve forgotten)<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>ir ao Porto (visitar a cidade; ter uma reuni&atilde;o)<\/p>\r\n<p><em>go to Porto (visit the city; have a meeting)<\/em><\/p>\r\n<p>ir para o Porto (1. dire&ccedil;&atilde;o; 2. ir viver)<\/p>\r\n<p><em>go to Porto (1. direction; 2. move there)<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pronounciation<\/strong><\/p>\r\n<p>&lt;a&gt;: [a],<\/p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; [\u0250] &mdash; c<strong>a<\/strong>s<strong>a<\/strong> [kaz\u0250]<\/p>\r\n<p>&lt;e&gt;:<\/p>\r\n<p>[\u025B] <strong>&eacute;<\/strong><\/p>\r\n<p>[e] t<strong>e<\/strong>r [te\u027E] (<em>to have<\/em>)<\/p>\r\n<p>[\u0268]\/&Oslash; cidad<strong>e <\/strong>[sidad\u0268] (<em>city<\/em>)<\/p>\r\n<p>&lt;i&gt;: [i]<\/p>\r\n<p>&lt;o&gt;:<\/p>\r\n<p>[\u0254] p<strong>o<\/strong>sso [p\u0254su],<\/p>\r\n<p>[o]<\/p>\r\n<p>[u]&nbsp; P<strong>o<\/strong>rt<strong>o<\/strong> [po\u027Etu]<\/p>\r\n<p>&lt;u&gt;: [u]<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>As vogais em final de palavra s&atilde;o quase sempre:<\/p>\r\n<p><em>Vowels that end words are almost always:<\/em><\/p>\r\n<p>&lt;a&gt; [\u0250]<\/p>\r\n<p>&lt;e&gt; [\u0268]\/&Oslash;<\/p>\r\n<p>&lt;o&gt; [u]<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

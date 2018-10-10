@@ -1,0 +1,13 @@
+{
+  "title": "Sitsit",
+  "latitude": "66.4978106",
+  "longitude": "25.71426",
+  "difficulty": "",
+  "keyword": ["sitsit","party","ESN Lapland","toasting","juomalaulu"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

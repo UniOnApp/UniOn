@@ -1,0 +1,220 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Pod strażą koziołk&oacute;w</p>
+</td>
+<td>
+<p>under the watchful eyes of the billy goats</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>renesansowa siedziba muzeum</p>
+</td>
+<td>
+<p>renaissance seat of the museum</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zmierzyć się</p>
+</td>
+<td>
+<p>to face</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cukiernicze wyzwanie</p>
+</td>
+<td>
+<p>sweet challenge</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przygotować</p>
+</td>
+<td>
+<p>to prepare</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zgodnie z tradycyjną recepturą</p>
+</td>
+<td>
+<p>according to a traditional recipe</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zawdzięczać</p>
+</td>
+<td>
+<p>to owe sth to</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nadzienie z białego maku</p>
+</td>
+<td>
+<p>poppy seed filling</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypieki</p>
+</td>
+<td>
+<p>pastries</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>degustacja</p>
+</td>
+<td>
+<p>tasting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skosztować</p>
+</td>
+<td>
+<p>to taste</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jedynie</p>
+</td>
+<td>
+<p>only</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gwara poznańska</p>
+</td>
+<td>
+<p>Poznań dialect</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zrozumieć język mieszkańc&oacute;w miasta</p>
+</td>
+<td>
+<p>to understand the language of city inhabitants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>specyficzna melodia mowy</p>
+</td>
+<td>
+<p>specific melody of speech</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pamiętać smak</p>
+</td>
+<td>
+<p>to remember the taste of&hellip;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warto zatrzymać na dłużej wspomnienie</p>
+</td>
+<td>
+<p>to intensify the memory of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wybrać się do...</p>
+</td>
+<td>
+<p>to visit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cieszyć się popularnością</p>
+</td>
+<td>
+<p>to be popular with</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zam&oacute;wić bilety</p>
+</td>
+<td>
+<p>to book tickets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obejrzeć pokaz</p>
+</td>
+<td>
+<p>to see a show</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieć przed sobą...</p>
+</td>
+<td>
+<p>to have in front of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świetna przygoda</p>
+</td>
+<td>
+<p>great adventure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spoglądać przez okna</p>
+</td>
+<td>
+<p>peek through the windows</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>widok</p>
+</td>
+<td>
+<p>view</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zdradzać sekret</p>
+</td>
+<td>
+<p>to let sb on a secret</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pamiątka</p>
+</td>
+<td>
+<p>keepsake</p>
+</td>
+</tr>
+</tbody>
+</table>

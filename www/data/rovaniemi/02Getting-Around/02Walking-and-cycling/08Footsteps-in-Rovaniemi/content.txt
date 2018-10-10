@@ -1,0 +1,13 @@
+{
+  "title": "Footsteps in Rovaniemi",
+  "latitude": "66.498810",
+  "longitude": "25.721474",
+  "difficulty": "",
+  "keyword": ["town plan","antlers","Alvar Aalto","reindeer","Arktikum","Pilke","directions"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,24 @@
+<p class="p1"><span class="s1">You&rsquo;ll quickly become familiar with some greetings and how to say thanks, because you&rsquo;ll often hear them. </span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span class="s1">Year after year, Finns are hovering at the top of coffee consumption statistics, along with other Nordic countries. Maybe that&rsquo;s why our everyday conversations often include </span><span class="s2">kahvi</span><span class="s1"> &ndash; our word for coffee.</span></p>
+<p class="p2">&nbsp;</p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">hei</span></span><span class="s1">, </span><span style="text-decoration: underline;"><span class="s2">moi</span></span><span class="s1">: hello, hi</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">mit&auml;</span></span><span class="s1">: what</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">Mit&auml; kuuluu?</span></span><span class="s1">: How are you?</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">hyv&auml;</span></span><span class="s1">: good</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">hyv&auml;&auml;</span></span><span class="s1">: good (partitive form)</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">kiitos</span></span><span class="s1">: thank you</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">kiitti</span></span><span class="s1">: thanks (informal)</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">menn&auml;&auml;n</span></span><span class="s1">: let&rsquo;s go</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">menn&auml;&auml;nk&ouml;</span></span><span class="s1">: let&rsquo;s go? (question)</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">kahvi</span></span><span class="s1">: coffee</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">kahville</span></span><span class="s1">: for coffee</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">joo</span></span><span class="s1">: yeah</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">okei</span></span><span class="s1">: OK, okay</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">no</span></span><span class="s1">: well</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">ei</span></span><span class="s1">: no</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">mik&auml;</span></span><span class="s1">: what</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">on</span></span><span class="s1">: is</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">ja</span></span><span class="s1">: and</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">niin</span></span><span class="s1">: so, then, in that case</span></p>
+<p class="p1"><span style="text-decoration: underline;"><span class="s2">harmi</span></span><span class="s1">: too bad</span></p>

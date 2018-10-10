@@ -1,0 +1,108 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p><em>Wzg&oacute;rze św. Wojciecha wieńczy kości&oacute;ł</em></p>
+</td>
+<td>
+<p><em>at the top of the St. Adalbert&rsquo;s Hill stands a church</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>pod wezwaniem</em></p>
+</td>
+<td>
+<p><em>dedicated to</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>wygłosić kazanie</em></p>
+</td>
+<td>
+<p><em>to preach a sermon</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>gotycki kości&oacute;ł</em></p>
+</td>
+<td>
+<p><em>Gothic church</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>fasada</em></p>
+</td>
+<td>
+<p><em>fa&ccedil;ade</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>kaplica</em></p>
+</td>
+<td>
+<p><em>chapel</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>zmiany inspirowane</em></p>
+</td>
+<td>
+<p><em>changes inspired by</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>ulec poważnym zniszczeniom</em></p>
+</td>
+<td>
+<p><em>to be heavily damaged</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>udało się ocalić</em></p>
+</td>
+<td>
+<p><em>succeeded to be saved</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Warto</em></p>
+</td>
+<td>
+<p><em>it is worth</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>zwr&oacute;cić uwagę na portrety trumienne</em></p>
+</td>
+<td>
+<p><em>take notice of the coffin portraits</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>dzwonnica</em></p>
+</td>
+<td>
+<p><em>tower bell</em></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>spoczywają tu szczątki</em></p>
+</td>
+<td>
+<p><em>remains are laid here</em></p>
+</td>
+</tr>
+</tbody>
+</table>

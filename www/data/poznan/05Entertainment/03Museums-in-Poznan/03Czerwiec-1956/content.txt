@@ -1,0 +1,13 @@
+{
+  "title": "Czerwiec 1956",
+  "latitude": "52.407489",
+  "longitude": "16.917875",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

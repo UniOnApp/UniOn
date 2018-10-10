@@ -1,0 +1,13 @@
+{
+  "title": "Snowshoeing vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><span style=\"text-decoration: underline;\">gl&ouml;gi<\/span> mulled wine (non-alcoholic)<\/p>\r\n<p><span style=\"text-decoration: underline;\">lumikeng&auml;t<\/span> snowshoes<\/p>\r\n<p><span style=\"text-decoration: underline;\">selk&auml;reppu<\/span>, <span style=\"text-decoration: underline;\">reppu<\/span> a backpack<\/p>\r\n<p><span style=\"text-decoration: underline;\">tie<\/span> a road<\/p>\r\n<p><span style=\"text-decoration: underline;\">tien<\/span> a road&rsquo;s<\/p>\r\n<p><span style=\"text-decoration: underline;\">tumput<\/span>, <span style=\"text-decoration: underline;\">lapaset<\/span>, <span style=\"text-decoration: underline;\">vanttuut<\/span> mittens<\/p>\r\n<p><span style=\"text-decoration: underline;\">umpihanki<\/span> (deep) virgin snow<\/p>\r\n<p><span style=\"text-decoration: underline;\">vanki<\/span> a prisoner<\/p>\r\n<p><span style=\"text-decoration: underline;\">vapaa<\/span> free<\/p>\r\n<p><span style=\"text-decoration: underline;\">vapaus<\/span> freedom<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Can you now understand the poem by Aaro Hellaakoski (1946):<\/p>\r\n<p><strong>&ldquo;Tiet&auml; k&auml;yden tien on vanki.<\/strong><\/p>\r\n<p><strong>Vapaa on vain umpihanki.&rdquo;<\/strong><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

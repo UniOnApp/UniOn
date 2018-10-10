@@ -1,0 +1,68 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Uczelniane bistro</p>
+</td>
+<td>
+<p>uni bistro</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przerwa obiadowa</p>
+</td>
+<td>
+<p>lunch time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stoł&oacute;wka studencka</p>
+</td>
+<td>
+<p>student canteen</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na studencką kieszeń</p>
+</td>
+<td>
+<p>on a student budget</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>akademiki</p>
+</td>
+<td>
+<p>dorms/ residence halls</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>domowe dania</p>
+</td>
+<td>
+<p>homemade meals</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zestawy obiadowe</p>
+</td>
+<td>
+<p>lunch sets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>samoobsługa</p>
+</td>
+<td>
+<p>self-service</p>
+</td>
+</tr>
+</tbody>
+</table>

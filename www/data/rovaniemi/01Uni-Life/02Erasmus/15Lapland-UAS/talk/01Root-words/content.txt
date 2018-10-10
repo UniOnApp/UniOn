@@ -1,0 +1,13 @@
+{
+  "title": "Root words",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Compound words and their roots<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p>The Finnish word for Lapland UAS is Lapin ammattikorkeakoulu (Lapin AMK).<\/p>\r\n<p>It consists of three words which could be literally translated as:<\/p>\r\n<p>ammatti a profession<\/p>\r\n<p>korkea high<\/p>\r\n<p>koulu a school<\/p>\r\n<p>\u00A0<\/p>\r\n<p>Below is a list of fields that you can study at Lapland UAS. As you\u2019ll see, many of the words are compounds. Further down, there are some Finnish root words to give you an idea of the structure of the compound words.<\/p>\r\n<p>\u00A0<\/p>\r\n<p>First, try to figure out what these fields could be. Then, tap on the field to see it in English.<\/p>\r\n<div class=\"ht\">\r\n<p>liiketalous<\/p>\r\n<p>business<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>maatalous<\/p>\r\n<p>agriculture<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>mets\u00E4talous<\/p>\r\n<p>forestry<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>porotalous<\/p>\r\n<p>reindeer husbandry<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>rakennustekniikka<\/p>\r\n<p>construction engineering<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>tieto ja viestint\u00E4tekniikka<\/p>\r\n<p>Information and communication technologies<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>fysioterapia<\/p>\r\n<p>physiotherapy<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>liikunnanohjaus<\/p>\r\n<p>physical education<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>sairaanhoitoala<\/p>\r\n<p>nursing<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>tietojenk\u00E4sittely<\/p>\r\n<p>data processing, computing<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>matkailu<\/p>\r\n<p>tourism<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<p>Root words:<\/p>\r\n<p>liike movement; a company<\/p>\r\n<p>talous economy<\/p>\r\n<p>maa earth, terrain, country<\/p>\r\n<p>mets\u00E4 forest<\/p>\r\n<p>poro reindeer<\/p>\r\n<p>rakennus building, construction<\/p>\r\n<p>tieto knowledge, data<\/p>\r\n<p>viestint\u00E4 communication<\/p>\r\n<p>liikunta exercise, sports<\/p>\r\n<p>ohjata to steer, to guide<\/p>\r\n<p>sairas sick, ill<\/p>\r\n<p>hoitaa take care of, nurse<\/p>\r\n<p>k\u00E4si hand<\/p>\r\n<p>k\u00E4sitell\u00E4 to handle, to process<\/p>\r\n<p>matka a journey, a trip, a travel<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

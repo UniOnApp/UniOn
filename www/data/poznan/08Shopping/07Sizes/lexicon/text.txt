@@ -1,0 +1,156 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Radzić sobie</p>
+</td>
+<td>
+<p>to cope</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie znać (nie znamy)</p>
+</td>
+<td>
+<p>to not know sth</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oznaczenia rozmiar&oacute;w</p>
+</td>
+<td>
+<p>label sizes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mierzone (mierzyć)</p>
+</td>
+<td>
+<p>to measure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podawać (podawane są)</p>
+</td>
+<td>
+<p>to give (to be given in)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w calach</p>
+</td>
+<td>
+<p>inches</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w centymetrach</p>
+</td>
+<td>
+<p>in centimeters</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ubrania</p>
+</td>
+<td>
+<p>clothes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>system rozmiar&oacute;w</p>
+</td>
+<td>
+<p>size charts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odzież</p>
+</td>
+<td>
+<p>garments/ apparel</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>r&oacute;żnić się</p>
+</td>
+<td>
+<p>to differ</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozmiar</p>
+</td>
+<td>
+<p>size</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>r&oacute;żnica sięga (sięgać)</p>
+</td>
+<td>
+<p>the difference is</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zawyżona numeracja</p>
+</td>
+<td>
+<p>the sizes are higher than</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odpowiada (odpowiadać)</p>
+</td>
+<td>
+<p>to correspond to </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sklep internetowy</p>
+</td>
+<td>
+<p>online shop</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stosować się</p>
+</td>
+<td>
+<p>to apply</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wskaz&oacute;wki z tabeli</p>
+</td>
+<td>
+<p>size guide</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strona danego sklepu</p>
+</td>
+<td>
+<p>retailer&rsquo;s website</p>
+</td>
+</tr>
+</tbody>
+</table>

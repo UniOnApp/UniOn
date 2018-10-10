@@ -1,0 +1,13 @@
+{
+  "title": "U Przyjaciół",
+  "latitude": "52.409457",
+  "longitude": "16.922492",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

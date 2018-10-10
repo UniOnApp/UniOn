@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Quem <strong>vive<\/strong> aqui?<\/p>\r\n<p><em>Who lives here?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Quem <strong>pode<\/strong> viver aqui?<\/p>\r\n<p><em>Who can live here?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>regular verb ending in &lsquo;-ER&rsquo; (viver)<\/strong><\/p>\r\n<p>eu viv<strong>o<\/strong> | I live<\/p>\r\n<p>tu viv<strong>es<\/strong> | you live<\/p>\r\n<p>ele\/ela\/voc&ecirc; viv<strong>e<\/strong><strong> | <\/strong>he\/she\/you lives<\/p>\r\n<p>n&oacute;s viv<strong>emos<\/strong><strong> | <\/strong>we live<\/p>\r\n<p>eles\/elas\/voc&ecirc;s viv<strong>em<\/strong> | they+masc., they+fem., you+pl.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>Poder<\/em> + verb = permission<\/p>\r\n<p><em>N&atilde;o poder<\/em> + verb = prohibition<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

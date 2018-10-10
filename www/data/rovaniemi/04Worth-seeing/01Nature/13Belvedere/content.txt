@@ -1,0 +1,13 @@
+{
+  "title": "Belvedere",
+  "latitude": "66.502274",
+  "longitude": "25.766752",
+  "difficulty": "",
+  "keyword": ["Ounasvaara","forest","Kemijoki","laavu","sausage","makkara","Northern","stone","bird"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

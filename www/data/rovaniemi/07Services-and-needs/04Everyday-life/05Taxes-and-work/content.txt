@@ -1,0 +1,13 @@
+{
+  "title": "Taxes and work",
+  "latitude": "66.496623",
+  "longitude": "25.728028",
+  "difficulty": "",
+  "keyword": ["vero","karhu","working","työ"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

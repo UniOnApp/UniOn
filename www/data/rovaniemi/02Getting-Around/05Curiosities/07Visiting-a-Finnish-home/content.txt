@@ -1,0 +1,13 @@
+{
+  "title": "Visiting a Finnish home",
+  "latitude": "66.485468",
+  "longitude": "25.824307",
+  "difficulty": "",
+  "keyword": ["home","koti","visit","pulla","shoes","punctuality","gift","small talk"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

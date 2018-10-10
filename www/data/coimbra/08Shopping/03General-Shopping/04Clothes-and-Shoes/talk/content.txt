@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Tamanho\/ n&uacute;mero &ndash; size\/ number<\/p>\r\n<p>Tem em XL? &ndash; <em>Do you have it in XL?<\/em><\/p>\r\n<p>Preciso de um tamanho abaixo\/ acima. &ndash;<em> I need a size down\/up.<\/em><\/p>\r\n<p>Est&aacute; muito apertado. Tem maior? &ndash; <em>It&rsquo;s very tight. Do you have a larger one?<\/em><\/p>\r\n<p>Fica-lhe muito bem\/mal. &ndash;<em> It suits you really well\/ it doesn&rsquo;t suit you at all.<\/em><\/p>\r\n<p>Que tal lhe fica?<em> &ndash; How does it fit you?<\/em><\/p>\r\n<p>Posso ver em azul? &ndash; <em>Can I see it in blue?<\/em><\/p>\r\n<p>Posso experimentar? Onde s&atilde;o os provadores? - <em>May I try it on? Where are the changing rooms? <\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

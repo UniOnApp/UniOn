@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry.<\/p>\r\n<p>- Dzie\u0144 dobry, s\u0142ucham Pana.<\/p>\r\n<p>- Jestem studentem programu Erasmus+.<\/p>\r\n<p>- Jak si\u0119 Pan nazywa?<\/p>\r\n<p>- Nazywam si\u0119 Marek Kowalski, jak <strong>mog\u0119<\/strong> dosta\u0107 legitymacj\u0119 studenck\u0105?<\/p>\r\n<p>- Je\u015Bli<strong> zdj\u0119cie<\/strong> jest w Pana aplikacji, <strong>legitymacja czeka<\/strong> u koordynatora programu.<\/p>\r\n<p>- Co daje legitymacja?<\/p>\r\n<p>- To te\u017C <strong>karta biblioteczna<\/strong>, <strong>ulgowy bilet<\/strong> <strong>na komunikacj\u0119 miejsk\u0105<\/strong>. Mo\u017Cna kupi\u0107 ulgowe bilety na <strong>poci\u0105g <\/strong>(-51%) i wiele innych rzeczy.<\/p>\r\n<p><u><a href=\"http:\/\/www.znizkistudenta.pl\/\">http:\/\/www.znizkistudenta.pl\/<\/a><\/u><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Zdj\u0119cie, poci\u0105g, legitymacja, czeka\u0107, m&oacute;c, karta biblioteczna, bilet ulgowy, komunikacja miejska.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

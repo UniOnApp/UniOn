@@ -1,0 +1,14 @@
+There are lots of international words in the Finnish food vocabulary, obviously. There are many words, though, which are either of Finnish origin or international words that have been modified to fit into our orthography.
+ Many of the international words below are have been modified to sound and look proper in our language, some of them so strongly that they&rsquo;re not even that easy to recognise. Try to combine the Finnish name of foodstuff with its proper equivalent in English.
+[pair]ilmakuivattu kinkku_air-cured ham
+[pair]inkiv&auml;&auml;ri_ginger
+[pair]kuskus_couscous
+[pair]oliivi&ouml;ljy_olive oil
+[pair]piirakka_pie
+[pair]pippuri_pepper
+[pair]p&auml;hkin&auml;_nut
+[pair]suola_salt
+[pair]valkoviini_white wine
+[pair]viikuna_fig
+[pair]villiriisi_wild rice
+[pair]vohveli_waffle

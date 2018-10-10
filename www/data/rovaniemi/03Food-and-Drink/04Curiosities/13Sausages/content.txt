@@ -1,0 +1,13 @@
+{
+  "title": "Sausages",
+  "latitude": "66.619050",
+  "longitude": "26.181592",
+  "difficulty": "",
+  "keyword": ["makkara","nature","paistaa","sinappi","tradition","supermarket","forest","mustard"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

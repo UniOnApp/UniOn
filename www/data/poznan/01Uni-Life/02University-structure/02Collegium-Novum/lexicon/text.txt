@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>znaczący ośrodek</p>
+</td>
+<td>
+<p>significant center</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jednostka badawcza, dydaktyczna i administracyjna</p>
+</td>
+<td>
+<p>research, teaching and administrative unit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieścić się</p>
+</td>
+<td>
+<p>to be situated</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nowoczesny budynek</p>
+</td>
+<td>
+<p>modern building</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>księgozbi&oacute;r</p>
+</td>
+<td>
+<p>collection of books</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>programy</p>
+</td>
+<td>
+<p>study programs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>projekty międzynarodowe</p>
+</td>
+<td>
+<p>international projects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jednostka badawcza</p>
+</td>
+<td>
+<p>research unit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>badania naukowe</p>
+</td>
+<td>
+<p>research</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>studia podyplomowe</p>
+</td>
+<td>
+<p>postgraduate studies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>studia doktorskie</p>
+</td>
+<td>
+<p>PhD studies</p>
+</td>
+</tr>
+</tbody>
+</table>

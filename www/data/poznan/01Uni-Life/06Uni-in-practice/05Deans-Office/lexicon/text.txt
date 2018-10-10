@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Dziekanat</p>
+</td>
+<td>
+<p>dean&rsquo;s office</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>administracja wydziałowa</p>
+</td>
+<td>
+<p>faculty administration</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tok studi&oacute;w</p>
+</td>
+<td>
+<p>course of learning</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozliczenie zajęć</p>
+</td>
+<td>
+<p>crediting a year</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaliczenie roku</p>
+</td>
+<td>
+<p>promotion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podania</p>
+</td>
+<td>
+<p>applications</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaświadczenia</p>
+</td>
+<td>
+<p>certificates</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>decyzje</p>
+</td>
+<td>
+<p>decisions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ważność legitymacji</p>
+</td>
+<td>
+<p>validity of student ID card</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przebieg studi&oacute;w</p>
+</td>
+<td>
+<p>formal course of studies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zdjęcie</p>
+</td>
+<td>
+<p>photograph</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pociąg</p>
+</td>
+<td>
+<p>train</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>legitymacja</p>
+</td>
+<td>
+<p>student ID card</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czekać</p>
+</td>
+<td>
+<p>to wait</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>karta biblioteczna</p>
+</td>
+<td>
+<p>library card</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bilet ulgowy</p>
+</td>
+<td>
+<p>reduced ticket</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>komunikacja miejska</p>
+</td>
+<td>
+<p>public transport system</p>
+</td>
+</tr>
+</tbody>
+</table>

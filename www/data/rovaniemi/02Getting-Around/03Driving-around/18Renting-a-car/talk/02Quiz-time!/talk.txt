@@ -1,0 +1,27 @@
+<p>Type in the correct word after each clue. Then check your answers.</p>
+<p>&nbsp;</p>
+<div class="ht">
+<p>1 You&rsquo;re planning to go to North Cape with your friends but you don&rsquo;t have a car of your own. You need this.</p>
+<p>vuokra-auto</p>
+<p>&nbsp;</p>
+</div>
+<div class="ht">
+<p>2 You get this if you drive too fast.</p>
+<p>sakko</p>
+<p>&nbsp;</p>
+  </div>
+<div class="ht">
+<p>3 Drive cautiously! There&rsquo;s some ice on the road.</p>
+<p>liukas keli</p>
+<p>&nbsp;</p>
+  </div>
+<div class="ht">
+<p>4 This might be attached on the roof of your car for skis.</p>
+<p>suksiboksi</p>
+<p>&nbsp;</p>
+  </div>
+<div class="ht">
+<p>5 Always fasten this when seated in a car.</p>
+<p>turvavy&ouml;</p>
+<p>&nbsp;</p>
+  </div>

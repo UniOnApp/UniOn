@@ -1,0 +1,13 @@
+{
+  "title": "Interagire con il professore",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p style=\"text-align: center;\"><em>Talk<\/em><\/p><\/th><th><p style=\"text-align: center;\"><em>Answer Models<\/em><\/p><\/th><\/tr><tr><td><p>Dove posso trovare il materiale che ha presentato a lezione?<\/p><\/td><td><p>Le slide sono su AMS Campus\/su Moodle<\/p><\/td><\/tr><tr><td><p>Dove posso trovare gli articoli per l&rsquo;esame?<\/p><\/td><td><p>Una copia degli articoli\/saggi &egrave; alla Fotocopisteria<\/p><\/td><\/tr><tr><td><p>Ho avuto difficolt&agrave; a seguire la lezione di oggi...<\/p><\/td><td><\/td><\/tr><tr><td><p>Non riesco\/Non posso frequentare la lezione del marted&igrave;...<\/p><\/td><td><\/td><\/tr><tr><td><p>Quando riceve il prof. di Matematica?<\/p><p>Quando fa ricevimento la prof.ssa di Fisica?<\/p><\/td><td><p>Riceve il marted&igrave; mattina alle 12.00;<\/p><p>Non ricordo, guarda sulla sua pagina web;<\/p><p>Il professore cambia giorno e orario ogni settimana.<\/p><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

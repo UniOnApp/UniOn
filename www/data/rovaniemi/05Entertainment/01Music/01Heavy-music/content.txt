@@ -1,0 +1,13 @@
+{
+  "title": "Heavy music",
+  "latitude": "66.502012",
+  "longitude": "25.728169",
+  "difficulty": "",
+  "keyword": ["heavy","music","bands","musiikki","song","laulu"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

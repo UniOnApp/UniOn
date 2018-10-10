@@ -1,0 +1,172 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>W cieniu drzew</p>
+</td>
+<td>
+<p>in the shadow of trees</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przy śpiewie ptak&oacute;w</p>
+</td>
+<td>
+<p>to the accompaniment of singing birds</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w ciszy</p>
+</td>
+<td>
+<p>in silence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>godny polecenia</p>
+</td>
+<td>
+<p>worth a visit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>park publiczny</p>
+</td>
+<td>
+<p>public park</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ciekawa roślinność cieszy oko</p>
+</td>
+<td>
+<p>unique plant vegetation is really appealing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>egzotyczne gatunki drzew</p>
+</td>
+<td>
+<p>exotic tree specimens</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stawy</p>
+</td>
+<td>
+<p>ponds</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tworzy (tworzyć) urokliwy klimat</p>
+</td>
+<td>
+<p>generate a delightful atmosphere</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>raj dla miłośnik&oacute;w flory</p>
+</td>
+<td>
+<p>paradise for the admirers of flora</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przer&oacute;żne gatunki</p>
+</td>
+<td>
+<p>species-diversified plants&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>park w stylu angielskim</p>
+</td>
+<td>
+<p>arranged in the style of an English park</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>drewniane mostki</p>
+</td>
+<td>
+<p>wooden bridges</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w świetle stylizowanych latarni</p>
+</td>
+<td>
+<p>in light of stylized lanterns</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>łąka</p>
+</td>
+<td>
+<p>meadow</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gromadki dzieci i ich rodzice</p>
+</td>
+<td>
+<p>groups of children with their parents</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>droga pieszo-rowerowa</p>
+</td>
+<td>
+<p>bicycle-pedestrian path</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zabytkowa</p>
+</td>
+<td>
+<p>historical</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>drewniana poczekalnia tramwajowa</p>
+</td>
+<td>
+<p>wooden tram waiting room</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rowery miejskie</p>
+</td>
+<td>
+<p>city bikes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>urządzić wycieczkę rowerową</p>
+</td>
+<td>
+<p>to go on a bike excursion</p>
+</td>
+</tr>
+</tbody>
+</table>

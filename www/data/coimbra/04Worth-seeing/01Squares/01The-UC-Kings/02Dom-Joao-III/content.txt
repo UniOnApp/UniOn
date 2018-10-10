@@ -1,0 +1,13 @@
+{
+  "title": "Dom Jo\u00E3o III",
+  "latitude": "40.207240",
+  "longitude": "-8.425907",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

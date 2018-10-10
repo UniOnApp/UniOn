@@ -1,0 +1,5 @@
+<p>There are three different ways of buying your train ticket:</p>
+<p>1) at the station ticket office;</p>
+<p>2) <a href="https://www.cp.pt/passageiros/en/buy-tickets">online</a> on CP website;</p>
+<p>3) at ATMs (<em>caixas Multibanco</em>), see "<em>Transportes</em>" </p>
+<p>There is a number of discounts available for students, groups and advance purchase tickets.</p>

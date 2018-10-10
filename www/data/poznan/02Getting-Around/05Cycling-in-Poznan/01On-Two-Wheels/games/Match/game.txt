@@ -1,0 +1,4 @@
+Match the correspondent Polish nouns with the English:
+[pair]pociąg_train
+[pair]autobus_bus
+[pair]rower_bike

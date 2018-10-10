@@ -1,0 +1,15 @@
+{
+  "title": "Archiginnasio",
+  "latitude": "44.492232",
+  "longitude": "11.343452",
+  "difficulty": "high",
+  "keyword": ["Biblioteca dell\u2019Archiginnasio",
+"Archiginnasio",
+"libri"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Marku, lubisz <strong>muzyk\u0119 organow\u0105<\/strong>?<\/p>\r\n<p>- Prawd\u0119 m&oacute;wi\u0105c, nigdy jeszcze nie s\u0142ucha\u0142em organ&oacute;w na \u017Cywo.<\/p>\r\n<p>- Jest <strong>kilka minut po dwunastej<\/strong>. Jak sko\u0144czymy pi\u0107 kaw\u0119, zapraszam do Fary. O 12.30 <strong>zaczyna si\u0119 koncert<\/strong>.<\/p>\r\n<p>- Mam tylko jedno pytanie: czy bilety b\u0119d\u0105 drogie? <strong>Zosta\u0142o mi tylko 10 z\u0142otych<\/strong>.<\/p>\r\n<p>-<strong> Nie martw si\u0119<\/strong>. <strong>Wst\u0119p jest wolny<\/strong>, a te 10 z\u0142otych mo\u017Cesz <strong>ofiarowa\u0107<\/strong> <strong>na konserwacj\u0119 zabytkowych organ&oacute;w<\/strong>.<\/p>\r\n<p>- Jasne, ch\u0119tnie zrobi\u0119 co\u015B dla pozna\u0144skich zabytk&oacute;w. A na wej\u015Bcie do Fary nie musz\u0119 kupi\u0107 biletu?<\/p>\r\n<p>- Nie, to nie muzeum.<\/p>\r\n<p>- Sko\u0144czy\u0142em. Mo\u017Cemy i\u015B\u0107.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk:<\/strong><\/p>\r\n<p>Muzyka organowa, prawd\u0119 m&oacute;wi\u0105c, s\u0142ucha\u0107 na \u017Cywo, zapraszam (zaprasza\u0107), zosta\u0142o (zostawa\u0107), nie martw si\u0119, wst\u0119p jest wolny, mo\u017Cesz ofiarowa\u0107, konserwacja zabytkowych organ&oacute;w, ch\u0119tnie, zrobi\u0119 (zrobi\u0107) co\u015B dla pozna\u0144skich zabytk&oacute;w.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

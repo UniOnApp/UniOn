@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Oh, desculpe!<\/p>\r\n<p>- N&atilde;o faz mal.<\/p>\r\n<p><em>- Oh, sorry!<\/em><\/p>\r\n<p><em>- It&rsquo;s fine.\/OK<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Desculpe, &hellip; (<em>formal)<\/em><\/p>\r\n<p>Desculpa, &hellip; <em>(informal)<\/em><\/p>\r\n<p><em>Sorry (apology).<\/em><\/p>\r\n<p><em>Pardon\/ Excuse me (call someone&rsquo;s attention)<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pronounciation<\/strong><\/p>\r\n<p>&lt;c&gt;:<\/p>\r\n<p>[k] escadas (before &lt;a&gt;, &lt;o&gt;, and &lt;u&gt;)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>[s] cem, licenciatura (before &lt;e&gt; and &lt;i&gt;)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&lt;&ccedil;&gt;: [s] Pa&ccedil;o (das Escolas)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Numbers<\/strong><\/p>\r\n<p>100 c<strong>em<\/strong><\/p>\r\n<p>101 c<strong>en<\/strong>to e <strong>um<\/strong><\/p>\r\n<p>125 c<strong>en<\/strong>to e v<strong>in<\/strong>te e c<strong>in<\/strong>co<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Here and there",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>How would you say in Finnish that <em>there are coats over there?<\/em> Or that <em>the shoes are here, not over there?<\/em> Let&rsquo;s take a look at these words:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>t&auml;&auml;ll&auml;<\/strong> here<\/p>\r\n<p><strong>tuolla<\/strong> there, over there (a place that you can point to)<\/p>\r\n<p><strong>siell&auml;<\/strong> there, over there (a place that&rsquo;s further away, or a place that has already been introduced in the conversation)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>These words are very usual in Finnish. Take a look at the following dialogue and the translation below.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>- Anteeksi, etsin talvitakkeja.<\/strong><\/p>\r\n<p><strong>Talvitakkeja on tuolla.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>- Tuolla nurkassako?<\/strong><\/p>\r\n<p><strong>Joo, siell&auml; on paljon takkeja ja k&auml;sineit&auml;.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>- Kiitos. Ent&auml; miss&auml; on talvikenki&auml;?<\/strong><\/p>\r\n<p><strong>Talvikenki&auml; on t&auml;&auml;ll&auml;, kassan l&auml;hell&auml;.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>- Kiitos paljon! <\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Excuse me, I&rsquo;m looking for winter coats.<\/p>\r\n<p>Winter coats are over there.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- There at the corner?<\/p>\r\n<p>Yeah, there are lots of coats and gloves over there.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Thanks. And where do you have winter boots?<\/p>\r\n<p>Winter boots are here, near the cashier.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Thanks a lot!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Please note that after a specific location is introduced in a conversation &ndash; after we have just pointed out the place with the word <strong>tuolla<\/strong> &ndash; we tend to refer to it then with the word <strong>siell&auml;<\/strong>. <\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Tuolla nurkassako? -Joo, siell&auml; on&hellip;<\/strong><\/p>\r\n<p><em>There at the corner? -Yeah, there is&hellip;<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Student Union",
+  "latitude": "40.2098141",
+  "longitude": "-8.4213281",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

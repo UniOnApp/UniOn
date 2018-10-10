@@ -1,0 +1,13 @@
+{
+  "title": "Design products",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Here you have some typical design products that you can find in a Marimekko shop. All these items are given in plural form below. As you can see, the plural ending in Finnish is the letter t. <\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>huivit<\/strong> scarfs<\/p>\r\n<p><strong>lahjat<\/strong> presents<\/p>\r\n<p><strong>kukkarot<\/strong> wallets<\/p>\r\n<p><strong>keng&auml;t <\/strong>shoes<\/p>\r\n<p><strong>laukut <\/strong>bags<\/p>\r\n<p><strong>maljakot <\/strong>vases<\/p>\r\n<p><strong>muistikirjat <\/strong>notebooks<\/p>\r\n<p><strong>sateenvarjot <\/strong>umbrellas<\/p>\r\n<p><strong>tyynyt <\/strong>pillows<\/p>\r\n<p><strong>takit <\/strong>coats<\/p>\r\n<p><strong>paidat <\/strong>shirts<\/p>\r\n<p><strong>viltit <\/strong>blankets<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Here&rsquo;s a vocabulary list for certain places at home.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>eteinen <\/strong>a hallway<\/p>\r\n<p><strong>kaappi<\/strong> a cabinet<\/p>\r\n<p><strong>kaula <\/strong>a neck<\/p>\r\n<p><strong>lattia<\/strong> a floor<\/p>\r\n<p><strong>sohva<\/strong> a sofa<\/p>\r\n<p><strong>piilo<\/strong> a hiding place<\/p>\r\n<p><strong>p&ouml;yt&auml;<\/strong> a table<\/p>\r\n<p><strong>tasku<\/strong> a pocket<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>In the following expressions, all items listed above are now located somewhere in a Finnish home. Can you understand where? In the phrases below, the words are in singular. Please note that the word order is quite flexible here.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Paita on kaapissa.<\/p>\r\n<p>Sateenvarjo on eteisess&auml;. <\/p>\r\n<p>Eteisess&auml; on takki.<\/p>\r\n<p>Eteisess&auml; on kenk&auml;.<\/p>\r\n<p>Toinen kenk&auml; on my&ouml;s eteisess&auml;.<\/p>\r\n<p>P&ouml;yd&auml;ll&auml; on maljakko.<\/p>\r\n<p>Muistikirja on taskussa.<\/p>\r\n<p>Viltti on sohvalla.<\/p>\r\n<p>Lattialla on laukku.<\/p>\r\n<p>Huivi on kaulalla.<\/p>\r\n<p>Kukkaro on taskussa.<\/p>\r\n<p>Sohvalla on tyyny.<\/p>\r\n<p>Lahja on piilossa.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Collegio di Spagna",
+  "latitude": "44.490907",
+  "longitude": "11.339350",
+  "difficulty": "high",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

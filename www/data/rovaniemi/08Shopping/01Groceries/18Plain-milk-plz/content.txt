@@ -1,0 +1,13 @@
+{
+  "title": "Plain milk, plz",
+  "latitude": "66.492360",
+  "longitude": "25.688800",
+  "difficulty": "",
+  "keyword": ["maito","food","groceries","kauppa"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- N&atilde;o se importa de ver quantas viagens ainda tenho neste cart&atilde;o?<\/p>\r\n<p>- Tem tr&ecirc;s viagens. Quer carregar mais?<\/p>\r\n<p>- N&atilde;o, obrigada.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- <em>Would you mind checking how many journeys do I have left in the card?<\/em><\/p>\r\n<p><em>- You have three journeys. Would you like to top it up?<\/em><\/p>\r\n<p><em>- No, thank you.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Dinheiro <\/strong>- moedas e notas <\/p>\r\n<p><strong>Money <\/strong>- coins and notes<\/p>\r\n<p><strong>Troco<\/strong> - change (what you&rsquo;re given back when you don&rsquo;t hand in the exact amount)<\/p>\r\n<p><strong>Trocado<\/strong> - small change or exact amount<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

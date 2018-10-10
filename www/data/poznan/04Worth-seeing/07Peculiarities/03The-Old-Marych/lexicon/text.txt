@@ -1,0 +1,124 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Prawdziwy</p>
+</td>
+<td>
+<p>true</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Fikcyjny</p>
+</td>
+<td>
+<p>fictional</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poznaniak</p>
+</td>
+<td>
+<p>inhabitant of Poznań</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kraniec ulicy</p>
+</td>
+<td>
+<p>edge of the street</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>można spotkać</p>
+</td>
+<td>
+<p>can be met</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>legendarna</p>
+</td>
+<td>
+<p>legendary</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>literacka postać</p>
+</td>
+<td>
+<p>literary protagonist</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pierwszy dzień wiosny</p>
+</td>
+<td>
+<p>first day of spring</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozpoczęcie sezonu rowerowego</p>
+</td>
+<td>
+<p>start of the bicycle season</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>typowy</p>
+</td>
+<td>
+<p>native</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozgłośnia radiowa</p>
+</td>
+<td>
+<p>radio station</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słuchowisko</p>
+</td>
+<td>
+<p>radio broadcast</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>twarz</p>
+</td>
+<td>
+<p>face</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tradycyjna poznańska teka</p>
+</td>
+<td>
+<p>traditional Poznań bag</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zmierzać</p>
+</td>
+<td>
+<p>to head for</p>
+</td>
+</tr>
+</tbody>
+</table>

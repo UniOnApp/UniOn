@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>There are literally hundreds of different religious and spiritual meetings and activities to choose from. Here&rsquo;s a short vocabulary to help you!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>ehtoollinen<\/strong> communion<\/p>\r\n<p><strong>harras<\/strong> devoted, devout<\/p>\r\n<p><strong>hautausmaa<\/strong> a cemetery, a graveyard<\/p>\r\n<p><strong>henkinen<\/strong> spiritual<\/p>\r\n<p><strong>jumalanpalvelus<\/strong> a (church) service<\/p>\r\n<p><strong>kappeli<\/strong> a chapel<\/p>\r\n<p><strong>kaste<\/strong> a baptism, a christening<\/p>\r\n<p><strong>kirkko<\/strong> a church<\/p>\r\n<p><strong>meditoida<\/strong> to meditate<\/p>\r\n<p><strong>messu<\/strong> a mass<\/p>\r\n<p><strong>pappi<\/strong> a priest<\/p>\r\n<p><strong>rukoilla<\/strong> to pray<\/p>\r\n<p><strong>seurakunta <\/strong>a congregation, a parish<\/p>\r\n<p><strong>uskonto<\/strong> a religion<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Qual &eacute; o trajeto\/ percurso?<\/p>\r\n<p><em>What&rsquo;s the itinerary?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Quanto tempo demora a viagem?<\/p>\r\n<p><em>How long is the ride?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Quanto custa a viagem?<\/p>\r\n<p><em>How much is the ride?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Por onde passa?<\/p>\r\n<p><em>Where does it go by?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Types of questions<\/strong><\/p>\r\n<p>1. Yes\/No questions<\/p>\r\n<p>O Tuk-Tuk parte agora?<\/p>\r\n<p><em>Is the Tuk-Tuk leaving now?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>2. &ldquo;Question word&rdquo; questions<\/p>\r\n<p>Quando &eacute; a pr&oacute;xima viagem?<\/p>\r\n<p><em>When is the next ride?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>3. Content questions<\/p>\r\n<p>Paga um ou dois bilhetes?<\/p>\r\n<p><em>Are you paying one or two tickets?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>dar - give<\/strong><\/p>\r\n<ul>\r\n<li>dar um passeio = go for a walk<\/li>\r\n<li>dar um presente = give a presente<\/li>\r\n<li>dar um conselho = give a piece of advice<\/li>\r\n<\/ul>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

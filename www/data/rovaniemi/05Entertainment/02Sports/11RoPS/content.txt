@@ -1,0 +1,13 @@
+{
+  "title": "RoPS",
+  "latitude": "66.500285",
+  "longitude": "25.720515",
+  "difficulty": "",
+  "keyword": ["jalkapallo","football","rops","stadium","railo","architecture"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

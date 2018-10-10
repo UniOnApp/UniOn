@@ -1,0 +1,50 @@
+<p><strong>I Luoghi</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/02in-bici/02dove-trovare-una-bici/")' >Il parcheggio delle bici, La velostazione</span></p>
+<p>La pista ciclabile</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/02in-bici/03essere-prudenti-in-bici/")' >La rastrelliera</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/02in-bici/02dove-trovare-una-bici/")' >La ciclofficina/Il meccanico della bici</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/02in-bici/02dove-trovare-una-bici/")' >L&rsquo;asta delle biciclette</span></p>
+<p>&nbsp;</p>
+<p><strong>Tanti modi per dire &lsquo;bicicletta&rsquo;</strong></p>
+<p>La bici (da corsa, da strada, elettrica)</p>
+<p>La <em>mountain bike</em></p>
+<p>Due ruote</p>
+<p>La graziella (<a href="https://it.wikipedia.org/wiki/Graziella_(bicicletta)">Wikipedia</a>)</p>
+<p>&nbsp;</p>
+<p><strong>Le parti della bicicletta</strong></p>
+<p>Il telaio</p>
+<p>La ruota/le ruote</p>
+<p>Il copertone</p>
+<p>Il manubrio</p>
+<p>La sella/Il sellino</p>
+<p>Il fanalino</p>
+<p>Il catarifrangente</p>
+<p>Il pedale/I pedali</p>
+<p>Il cestino</p>
+<p>Il portapacchi</p>
+<br><img src="data/bologna/02Getting-Around/02in-bici/lexicon/img.jpg" style="width:100%"/><br>
+<p>&nbsp;</p>
+<p><strong>Le azioni</strong></p>
+<p>andare/girare in bicicletta, prendere la bicicletta, salire in/sulla bicicletta</p>
+<p>avere una ruota sgonfia/bucata/</p>
+<p>avere le ruote gonfie/sgonfie/bucate</p>
+<p>bucare/cambiare/gonfiare una ruota</p>
+<p>cambiare la marcia</p>
+<p>caricare qualcuno in bicicletta</p>
+<p>frenare</p>
+<p>girare a sinistra/a destra</p>
+<p>mantenere la distanza di sicurezza</p>
+<p>mettere il lucchetto alla bicicletta/chiudere il lucchetto della bici</p>
+<p>pedalare forte/piano</p>
+<p>percorrere/prendere la pista ciclabile</p>
+<p>portare la bici in officina/dal meccanico della bici</p>
+<p>rallentare</p>
+<p>segnalare la svolta a sinistra/a destra</p>
+<p>tenere la destra/la sinistra</p>
+<p>&nbsp;</p>
+<p><strong>Espressioni e Modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/02in-bici/02dove-trovare-una-bici/")' >Usare il buon senso&nbsp;(eng. to use common sense)</span>: &ldquo;<em>Non sapevo cosa fare ed ho usato il buon senso</em>&rdquo;, &ldquo;<em>In quell&rsquo;occasione ho usato il buon senso...</em>&rdquo;<br />Il buon senso &egrave; frutto della ragione e dell&rsquo;intuito. Se agiamo o prendiamo una decisione in base al &ldquo;buon senso&rdquo; vuol dire che non abbiamo una soluzione o una strada chiara da seguire, ma che ci lasciamo guidare dalla razionalit&agrave; e dall&rsquo;istinto allo stesso tempo.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/02in-bici/02dove-trovare-una-bici/")' >Capitare qualcosa a qualcuno&nbsp;(eng. to happen)</span>: &ldquo;<em>Mi &egrave; capitata una cosa bella</em>&rdquo;, &ldquo;<em>Se ti capita di venire a Bologna, passa a trovarmi...</em>&rdquo;<br />Capitare &egrave; sinonimo di succedere, accadere.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/02in-bici/03essere-prudenti-in-bici/")' >Mantenere la distanza di sicurezza&nbsp;(eng. to keep the safety distance)</span>: La &ldquo;distanza di sicurezza&rdquo; &egrave; la distanza che dobbiamo tenere dal veicolo (automobile, bus, moto, bici o altro...) che procede davanti a noi, per evitare di tamponarlo in caso di frenata o rallentamento improvviso. Se piove o se le strade sono ghiacciate, la distanza di sicurezza deve essere pi&ugrave; ampia.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/02in-bici/03essere-prudenti-in-bici/")' >Avere un dubbio/dei dubbi (eng. to have a doubt)</span>: significa dubitare, essere incerti, non essere sicuri. Puoi avere dei dubbi su una persona, su una scelta, su una decisione da prendere, insomma su tutto.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/02in-bici/02dove-trovare-una-bici/")' >Il mercato nero (eng. black market)</span>: Il mercato nero &egrave; un mercato irregolare e spesso clandestino, cio&egrave; nascosto, in cui si vendono ed acquistano oggetti o beni di consumo senza seguire le regole del commercio legale. A volte le merci del mercato nero sono rubate.</p>

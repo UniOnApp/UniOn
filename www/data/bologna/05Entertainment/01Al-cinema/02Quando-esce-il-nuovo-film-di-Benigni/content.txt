@@ -1,0 +1,16 @@
+{
+  "title": "Quando esce il nuovo film di Benigni?",
+  "latitude": "44.502948",
+  "longitude": "11.344485",
+  "difficulty": "mid",
+  "keyword": ["doppiaggio",
+"recensione",
+"spettacolo",
+"schermo"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Cze\u015B\u0107! Czy wiesz, gdzie mog\u0119 kupi\u0107 bilety na Festiwal Teatralny Malta?<\/p>\r\n<p>- Cze\u015B\u0107! Nie wiedzia\u0142em, \u017Ce interesujesz si\u0119 sztuk\u0105.<\/p>\r\n<p>-Tak, bardzo lubi\u0119 projekty muzyczne i taneczne. Zw\u0142aszcza te du\u017Ce, kt&oacute;re odbywaj\u0105 si\u0119 w plenerze.<\/p>\r\n<p>- To si\u0119 dobrze sk\u0142ada, bo za miesi\u0105c b\u0119dzie w Poznaniu Festiwal Teatralny Malta, kt&oacute;ry zawsze ma bardzo bogat\u0105 ofert\u0119.<\/p>\r\n<p>- A mo\u017Cna ju\u017C gdzie\u015B obejrze\u0107 program?<\/p>\r\n<p>- Na pewno. Sprawd\u017A na stronie internetowej. Z tego, co si\u0119 orientuj\u0119, to w tym roku tematem przewodnim s\u0105 Ba\u0142kany.<\/p>\r\n<p>- To ciekawe. Niewiele wiem o tym rejonie.<\/p>\r\n<p>- To b\u0119dziesz mia\u0142a okazj\u0119 si\u0119 wiele nauczy\u0107.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Mie\u0107 okazj\u0119, zaprezentowa\u0107, sztuka teatralna, interesowa\u0107 si\u0119, obejrze\u0107 program, mie\u0107 okazj\u0119, dobrze si\u0119 sk\u0142ada, sprawdzi\u0107, orientowa\u0107 si\u0119.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

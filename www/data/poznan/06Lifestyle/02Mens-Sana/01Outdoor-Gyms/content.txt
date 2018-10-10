@@ -1,0 +1,13 @@
+{
+  "title": "Outdoor Gyms",
+  "latitude": "52.4139945",
+  "longitude": "16.9213174",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

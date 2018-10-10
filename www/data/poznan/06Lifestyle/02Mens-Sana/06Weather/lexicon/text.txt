@@ -1,0 +1,396 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>najsuchszy</p>
+</td>
+<td>
+<p>driest</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>deszcz</p>
+</td>
+<td>
+<p>rain</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lipiec</p>
+</td>
+<td>
+<p>July</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w styczniu</p>
+</td>
+<td>
+<p>in January</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czerwiec</p>
+</td>
+<td>
+<p>June</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sierpień</p>
+</td>
+<td>
+<p>August</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>klimat umiarkowany</p>
+</td>
+<td>
+<p>temperate climate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powietrze</p>
+</td>
+<td>
+<p>air</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wiatry wieją/wiatr wieje</p>
+</td>
+<td>
+<p>winds blow/ wind blows</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z zachodu</p>
+</td>
+<td>
+<p>from the West</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prędkość</p>
+</td>
+<td>
+<p>velocity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stwarzać warunki do czegoś</p>
+</td>
+<td>
+<p>generate conditions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wybierać się do</p>
+</td>
+<td>
+<p>to go to</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pamiętać o&hellip;</p>
+</td>
+<td>
+<p>remember about</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kr&oacute;tkie/długie spodnie</p>
+</td>
+<td>
+<p>shorts/ trousers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sukienka</p>
+</td>
+<td>
+<p>dress</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sandały</p>
+</td>
+<td>
+<p>sandals</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>buty ocieplane, wodoodporne</p>
+</td>
+<td>
+<p>waterproof/ heavyweight shoes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kurtka przeciwdeszczowa/ocieplana</p>
+</td>
+<td>
+<p>waterproof/ heavyweight jacket</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sweter</p>
+</td>
+<td>
+<p>sweater</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szalik</p>
+</td>
+<td>
+<p>scarf</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czapka</p>
+</td>
+<td>
+<p>hat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rękawiczki</p>
+</td>
+<td>
+<p>gloves</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>parasol</p>
+</td>
+<td>
+<p>umbrella</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>włożyć na siebie</p>
+</td>
+<td>
+<p>to put on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>co jest nie tak?</p>
+</td>
+<td>
+<p>what&rsquo;s wrong?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ubranie </p>
+</td>
+<td>
+<p>clothes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>marzec </p>
+</td>
+<td>
+<p>March</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nosić coś</p>
+</td>
+<td>
+<p>to wear</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>już wiosna</p>
+</td>
+<td>
+<p>it&rsquo;s spring</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mam dość</p>
+</td>
+<td>
+<p>I&rsquo;ve had enough</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>całkiem ładnie</p>
+</td>
+<td>
+<p>quite nice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chodzić w</p>
+</td>
+<td>
+<p>be dressed in</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ubierać się w </p>
+</td>
+<td>
+<p>clothe oneself</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kwiecień </p>
+</td>
+<td>
+<p>April</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>maj</p>
+</td>
+<td>
+<p>May</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lekka kurtka</p>
+</td>
+<td>
+<p>light jacket</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>żakiet</p>
+</td>
+<td>
+<p>tailor-coat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przydawać się</p>
+</td>
+<td>
+<p>come in handy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rano </p>
+</td>
+<td>
+<p>morning</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wieczorem</p>
+</td>
+<td>
+<p>evening</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chłodno</p>
+</td>
+<td>
+<p>chilly</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wziąć</p>
+</td>
+<td>
+<p>to take</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>może padać</p>
+</td>
+<td>
+<p>might rain</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odpowiednio</p>
+</td>
+<td>
+<p>adequately</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na pewno</p>
+</td>
+<td>
+<p>for sure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zobaczymy</p>
+</td>
+<td>
+<p>we&rsquo;ll see</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ciepło</p>
+</td>
+<td>
+<p>warm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mam nadzieję </p>
+</td>
+<td>
+<p>I hope</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>budzić strach i grozę</p>
+</td>
+<td>
+<p>to inspire fear and trepidation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dobrowolnie</p>
+</td>
+<td>
+<p>willingly</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zatrzymaj się na chwilę</p>
+</td>
+<td>
+<p>stop by for a moment</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wykonywać karę</p>
+</td>
+<td>
+<p>to perform chastisement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>popełnione przestępstwa</p>
+</td>
+<td>
+<p>commited crimes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>narożnik</p>
+</td>
+<td>
+<p>corner</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pręgierz</p>
+</td>
+<td>
+<p>pillory</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kat</p>
+</td>
+<td>
+<p>executioner</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rycerz</p>
+</td>
+<td>
+<p>knight</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kolumna</p>
+</td>
+<td>
+<p>column</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ferować wyroki</p>
+</td>
+<td>
+<p>to issue sentences</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nosić zbyt eleganckie stroje</p>
+</td>
+<td>
+<p>wear too elegant clothes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>płacić kary</p>
+</td>
+<td>
+<p>to pay fines</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przywiązywano (przywiązywać)</p>
+</td>
+<td>
+<p>to tie</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skazańcy</p>
+</td>
+<td>
+<p>convicts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chłosta</p>
+</td>
+<td>
+<p>lashing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obcinanie uszu/palc&oacute;w/ręki</p>
+</td>
+<td>
+<p>cutting off ears, fingers, or hands</p>
+</td>
+</tr>
+</tbody>
+</table>

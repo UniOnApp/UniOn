@@ -1,0 +1,13 @@
+{
+  "title": "Iscriversi a un corso sportivo",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p style=\"text-align: center;\"><em>Talk<\/em><\/p><\/th><th><p style=\"text-align: center;\"><em>Answer Models<\/em><\/p><\/th><\/tr><tr><td><p>Vorrei frequentare un corso di scherma. In quali giorni della settimana si svolge?<\/p><\/td><td><p>Il corso di scherma c&rsquo;&egrave; il luned&igrave; e il mercoled&igrave; sera, dalle 19.00 alle 20.00.<\/p><\/td><\/tr><tr><td><p>Cerco un corso serale di nuoto, livello master.<\/p><\/td><td><p>Mi dispiace, per il livello master &egrave; tutto pieno.<\/p><\/td><\/tr><tr><td><p>Vorrei iniziare un corso di karate. Sono principiante assoluto.<\/p><\/td><td><p>Per i principianti ci sono posti disponibili nel corso del luned&igrave; e del mercoled&igrave;<\/p><\/td><\/tr><tr><td><p>Quanto costa un corso di pallavolo? Qual &egrave; l&rsquo;abbigliamento richiesto?<\/p><\/td><td><p>20 lezioni da settembre a dicembre costano 120 euro. Devi portare solo le ginocchiere.<\/p><\/td><\/tr><tr><td><p>Occorre il certificato medico per iscriversi in palestra?<\/p><\/td><td><p>S&igrave;, &egrave; necessario il certificato medico di sana e robusta costituzione, per attivit&agrave; non agonistiche<\/p><\/td><\/tr><tr><td><p>Ci sono sconti per gli studenti universitari?<\/p><\/td><td><\/td><\/tr><tr><td><p>Ci sono strutture a Bologna che propongono calcio femminile?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

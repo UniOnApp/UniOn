@@ -1,0 +1,13 @@
+{
+  "title": "Africa!",
+  "latitude": "52.402415",
+  "longitude": "16.925610",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

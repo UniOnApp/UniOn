@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Jan: <strong>Masz ochot\u0119 na spacer<\/strong>?<\/p>\r\n<p>Maria: Ch\u0119tnie, ale nie mam wiele czasu. Za godzin\u0119 zaczynam zaj\u0119cia.<\/p>\r\n<p>Jan: To mo\u017Ce p&oacute;jdziemy do parku?<\/p>\r\n<p>Maria: \u015Awietnie! Mam tu niedaleko swoje ulubione miejsce.<\/p>\r\n<p>Jan: Tutaj? W tym <strong>t\u0142umie ludzi<\/strong>?<\/p>\r\n<p>Maria: To tylko dwie minuty st\u0105d. Trzeba <strong>przej\u015B\u0107 na drug\u0105 stron\u0119 ulicy<\/strong> i <strong>wej\u015B\u0107 na teren zamkowy<\/strong>.<\/p>\r\n<p>Jan: Codziennie t\u0119dy przechodz\u0119, ale nigdy tu si\u0119 nie zatrzymuj\u0119. O jaka fajna \u0142aweczka! Usi\u0105dziemy?<\/p>\r\n<p>Maria: To \u0142aweczka J&oacute;zefa Kostrzewskiego. To by\u0142 <strong>wybitny polski archeolog<\/strong>, <strong>tw&oacute;rca pozna\u0144skiej szko\u0142y archeologicznej<\/strong>.<\/p>\r\n<p>Jan: <strong>Sk\u0105d to wszystko wiesz?&nbsp;<\/strong><\/p>\r\n<p>Maria: Kiedy by\u0142am w Biskupinie, widzia\u0142am <strong>wykopaliska<\/strong>, gdzie profesor <strong>przeprowadza\u0142 swoje badania naukowe<\/strong>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Mie\u0107 ochot\u0119 na spacer, t\u0142um ludzi, przej\u015B\u0107 na drug\u0105 stron\u0119 ulicy, wej\u015B\u0107 na teren zamkowy, wybitny polski archeolog, tw&oacute;rca szko\u0142y archeologicznej, Sk\u0105d to wszystko wiesz?, wykopaliska, prowadzi\u0107 badania naukowe.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

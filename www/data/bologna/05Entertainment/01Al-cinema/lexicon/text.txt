@@ -1,0 +1,49 @@
+<p><strong>Persone</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/03Il-patrimonio-culturale/")' >L'attore/L'attrice</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Il cinefilo/La cinefila</span>: amante, spesso anche esperto, di cinema.</p>
+<p><span >La critica cinematografica</span>: scrittori, giornalisti, opinionisti impegnati nel scrivere commenti, giudizi, recensioni sui film.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Il nottambulo/La nottambula</span>: chi ama vivere di notte, o fare molto tardi.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/03Il-patrimonio-culturale/")' >Il produttore/La produttrice</span>: chi finanzia e organizza la produzione di un film.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/03Il-patrimonio-culturale/")' >Il regista/La regista</span>: chi si occupa della regia di uno spettacolo, direttore artistico.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Lo spettatore/La spettatrice</span>: chi guarda il film.</p>
+<p>&nbsp;</p>
+<p><strong>Generi di film</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Film d&rsquo;<em>essai</em></span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Commedia</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Film drammatico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Film d&rsquo;avventura</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Film horror</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Film poliziesco</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Film in 3D</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Cinepanettone</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/03Il-patrimonio-culturale/")' >Film muto</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Film in lingua originale</span></p>
+<p>&nbsp;</p>
+<p><strong>Parole al cinema</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/03Il-patrimonio-culturale/")' >L'anteprima</span>: proiezione anticipata del film, aperta solo ad alcuni invitati, prima dell’uscita pubblica nella sale cinematografiche.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Il doppiaggio</span>: traduzione del film in una lingua diversa dall’originale.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/03Il-patrimonio-culturale/")' >La pellicola</span>: sinonimo di ‘opera cinematografica’. Concretamente è il nastro su cui sono impresse le immagini.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/03Il-patrimonio-culturale/")' >La proiezione</span>: da ‘proiettare’ cioè riprodurre, visualizzare, su schermo, monitor, ecc. Con proiezione di un film’ si intende la sua diffusione, il suo inizio.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >La recensione</span>: critica, opinione, argomentazione delle caratteristiche di un film o di una opera.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >I sottotitoli</span>: trascrizione in lingua originale o in altre lingue dei dialoghi del film.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Il trailer</span>: video breve che consente agli spettatori di conoscere la trame e l’argomento del film.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >La sala cinematografica</span>: sinonimo di cinema.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Il primo spettacolo, secondo spettacolo</span>: orario di inizio delle proiezioni.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Il primo tempo, secondo tempo</span>: parti in cui si suddivide un film.</p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Il posto numerato</span>: sedia o poltrona associata a un numero.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >La fila</span>: al cinema o a teatro può indicare la collocazione dei posti numerati.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Lo schermo</span>: pannello dove si proiettano le immagini.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >La prima visione, seconda visione</span>: tutti i film appena usciti al cinema ‘in prima visione’, mentre dopo un po’ di tempo, passano ‘in seconda visione’ e dunque si riduce anche il prezzo del biglietto di ingresso.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >La pausa</span>: interruzione per esempio tra il primo e il secondo tempo.</p>
+<p>&nbsp;</p>
+<p><strong>I Cinema</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Cinema d&rsquo;<em>essai</em></span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Cinema parrocchiale</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Multisala</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Grande schermo</span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Gettonato (eng. popular)</span>: <em>&ldquo;&Egrave; un locale molto gettonato&rdquo;; &ldquo;&Egrave; una ragazza molto gettonata&rdquo;.</em><br /> Questa espressione deriva dal fatto che in passato per ascoltare un disco nei juke-box bisognava inserire un gettone, cos&igrave; i dischi pi&ugrave; ascoltati ricevevano molti gettoni. Oggi significa che ha molto successo e quindi &egrave; molto ricercato.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Fare/Saltare la fila (eng. to queue, to skip the queue)</span>: <em>&ldquo;Aspetta il tuo turno, non saltare la fila&rdquo;.</em> <br /> Fare la fila e saltare la fila sono due espressioni con significato contrario. Fare la fila significa mettersi in coda e aspettare il proprio turno, mentre saltare la fila &egrave; il suo contrario, cio&egrave; non fare attenzione al proprio turno e passare davanti a chi sta gi&agrave; aspettando.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/01Andiamo-al-cinema-stasera/")' >Urtare la sensibilit&agrave; (eng. to hurt his/her sensitivity)</span>: <em>&ldquo;Con quegli urli, hai urtato la sua sensibilit&agrave;</em>&rdquo;. <br /> Significa ferire, andare contro, non rispettare.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/01Al-cinema/02Quando-esce-il-nuovo-film-di-Benigni/")' >Doppio senso (eng. double meaning)</span>: <em>&ldquo;questa barzelletta &egrave; piena di doppi sensi&rdquo;.</em> <br /> Significa che pu&ograve; avere due interpretazioni. La seconda interpretazione di solito fa ridere, &egrave; sarcastica e ironica e a volte ha riferimenti impliciti al sesso.</p>

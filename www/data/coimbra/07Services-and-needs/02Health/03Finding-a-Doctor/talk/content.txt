@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>M&eacute;dico <\/strong>- <em>doctor<\/em><\/p>\r\n<p>Como tem passado? <em>&ndash; How have you been feeling lately?<\/em><\/p>\r\n<p>O que o\/a traz por c&aacute;? <em>&ndash; What brings you here?<\/em><\/p>\r\n<p>Onde lhe d&oacute;i? <em>&ndash; Where does it hurt?<\/em><\/p>\r\n<p>H&aacute; quanto tempo?<em> - For how long?<\/em><\/p>\r\n<p>Vou passar esta receita para &hellip; <em>- I am going to prescribe you&hellip;<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Consultas m&eacute;dicas<\/strong> <em>&ndash; medical appointments<\/em><\/p>\r\n<p>Queria marcar uma consulta. &ndash; <em>I would like to make an appointment.<\/em><\/p>\r\n<p>Especialidades m&eacute;dicas &ndash; <em>Medical specialties<\/em><\/p>\r\n<p>Cl&iacute;nica geral - <em>General practice<\/em><\/p>\r\n<p>Planeamento familiar - <em>Family planning<\/em><\/p>\r\n<p>Ginecologia - <em>Gynaecology<\/em><\/p>\r\n<p>Oftalmologia - <em>Ophtalmology<\/em><\/p>\r\n<p>Psiquiatria - <em>Psychiatry<\/em><\/p>\r\n<p>Medicina Dent&aacute;ria - <em>Dentistry<\/em><\/p>\r\n<p>Psicologia -<em> Psychology<\/em><\/p>\r\n<p>Nutri&ccedil;&atilde;o &ndash; <em>Nutrition<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>An&aacute;lises Cl&iacute;nicas<\/strong> &ndash; <em>medical tests<\/em><\/p>\r\n<p>Onde posso fazer an&aacute;lises ao sangue\/ teste &agrave; urina? &ndash; <em>Where can I make blood\/urine tests?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

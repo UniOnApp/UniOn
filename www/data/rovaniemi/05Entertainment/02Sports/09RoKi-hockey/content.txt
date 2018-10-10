@@ -1,0 +1,13 @@
+{
+  "title": "RoKi hockey",
+  "latitude": "66.496096",
+  "longitude": "25.771557",
+  "difficulty": "",
+  "keyword": ["jääkiekko","ice hockey","team","Lappi Areena","kiekko","game","Santasport"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

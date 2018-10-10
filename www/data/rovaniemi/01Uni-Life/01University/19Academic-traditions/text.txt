@@ -1,0 +1,4 @@
+<p class="p1"><span class="s1">Finnish academic traditions include doctoral candidates defending their doctoral thesis in a public defence. That&rsquo;s right, they&rsquo;re public: anyone interested is welcome to attend.</span></p>
+<p class="p1"><span class="s1">At the defence, the attire of the doctoral candidate, opponent and custos follow certain academic guidelines. There&rsquo;s no dress code for the audience, however.</span></p>
+<p class="p1"><span class="s1">You can see that a defence is coming up when there&rsquo;s a doctoral thesis on display in the main hall, along with a timetable of the defence. Usually a copy is placed on public display two weeks before the defence.</span></p>
+<p class="p1"><span class="s1">To read about the structure of the public defence, visit <a href="http://www.ulapland.fi/defence"><span class="s2">www.ulapland.fi/defence</span></a> </span></p>

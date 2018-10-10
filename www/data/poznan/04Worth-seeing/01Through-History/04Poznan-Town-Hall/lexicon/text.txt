@@ -1,0 +1,164 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>renesansowa postać</p>
+</td>
+<td>
+<p>Renaissance appearance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>projekt</p>
+</td>
+<td>
+<p>design concept</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zachwycać imponującą fasadą</p>
+</td>
+<td>
+<p>to impress with a monumental fa&ccedil;ade</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nazwać można</p>
+</td>
+<td>
+<p>may be called</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaszyfrowana</p>
+</td>
+<td>
+<p>encrypted</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>alegoryczna opowieść</p>
+</td>
+<td>
+<p>allegorical story</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prawa obywatelskie</p>
+</td>
+<td>
+<p>civic rights</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>porządek społeczny</p>
+</td>
+<td>
+<p>social order</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyjrzeć się wizerunkom</p>
+</td>
+<td>
+<p>to take a look at the images</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przypominać tradycję</p>
+</td>
+<td>
+<p>to remind of tradition</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szczyt wieży</p>
+</td>
+<td>
+<p>top of the tower</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kapsuła czasu</p>
+</td>
+<td>
+<p>time capsule</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pamiątki lokalnej historii</p>
+</td>
+<td>
+<p>relics of local history</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warto spojrzeć na</p>
+</td>
+<td>
+<p>worth to take a look at</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>błąd architekta</p>
+</td>
+<td>
+<p>architect&rsquo;s mistake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>celowy zabieg</p>
+</td>
+<td>
+<p>intended endeavor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>symbol zamożności</p>
+</td>
+<td>
+<p>symbol of affluence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>manifest znaczenia miasta</p>
+</td>
+<td>
+<p>manifest of city&rsquo;s greatness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zwr&oacute;cić uwagę</p>
+</td>
+<td>
+<p>to notice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obrady rady miejskiej</p>
+</td>
+<td>
+<p>city council meetings</p>
+</td>
+</tr>
+</tbody>
+</table>

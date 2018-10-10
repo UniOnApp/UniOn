@@ -1,0 +1,18 @@
+{
+  "title": "Cenni storici",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "high",
+  "keyword": ["stazione di Bologna",
+"piazzale ovest",
+"piazzale est",
+"binario",
+"binari",
+"strage di Bologna"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

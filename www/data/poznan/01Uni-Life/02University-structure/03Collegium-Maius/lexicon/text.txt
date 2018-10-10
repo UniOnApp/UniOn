@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Zlokalizowany</p>
+</td>
+<td>
+<p>located </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trakt Kr&oacute;lewsko-Cesarski</p>
+</td>
+<td>
+<p>Royal-Imperial Route</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ośrodek badań naukowych</p>
+</td>
+<td>
+<p>research center</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kierunek studi&oacute;w</p>
+</td>
+<td>
+<p>study program</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>neobarokowy styl</p>
+</td>
+<td>
+<p>Neo-Baroque style</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>malowidła ścienne</p>
+</td>
+<td>
+<p>wall paintings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>unikatowy hall</p>
+</td>
+<td>
+<p>unique hall</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Salon Mickiewicza</p>
+</td>
+<td>
+<p>Mickiewicz&rsquo;s Hall</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nowoczesna scena teatralna</p>
+</td>
+<td>
+<p>modern theater scene</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kamienno-szklana biblioteka</p>
+</td>
+<td>
+<p>a library building with its fa&ccedil;ade made of sandstone and glass</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niezapomniany widok</p>
+</td>
+<td>
+<p>unforgettable sight</p>
+</td>
+</tr>
+</tbody>
+</table>

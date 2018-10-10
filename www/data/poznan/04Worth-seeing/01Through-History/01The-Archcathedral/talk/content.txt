@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- \u0141adna pogoda dzisiaj. Dok\u0105d p&oacute;jdziemy?<\/p>\r\n<p>- Mo\u017Ce poka\u017Cesz mi dzisiaj Ostr&oacute;w Tumski?<\/p>\r\n<p>- Doskona\u0142y pomys\u0142, wsiadamy w tramwaj <em>17<\/em>, ta trasa nazywa si\u0119 Trakt Cesarsko-Kr&oacute;lewski. Masz PEK\u0118?<\/p>\r\n<p>- Mam, mo\u017Cemy jecha\u0107 tramwajem. A gdzie wysiadamy?<\/p>\r\n<p>- To nie jest skomplikowane. Przystanek <em>Katedra<\/em>.<\/p>\r\n<p>- O, to tylko 10 minut od centrum, \u015Bwietne po\u0142\u0105czenie!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

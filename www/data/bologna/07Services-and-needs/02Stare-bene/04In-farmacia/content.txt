@@ -1,0 +1,21 @@
+{
+  "title": "In farmacia",
+  "latitude": "44.493939",
+  "longitude": "11.342336",
+  "difficulty": "mid",
+  "keyword": ["esami di base",
+"Cup",
+"omeopatico",
+"omeopatici",
+"farmaco",
+"farmaci",
+"medicinale",
+"medicinali ",
+"Farmacia Comunale di Piazza Maggiore"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Casa da Lusofonia",
+  "latitude": "40.2074623",
+  "longitude": "-8.4226625",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

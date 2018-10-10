@@ -1,0 +1,156 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Poznań Gł&oacute;wny</p>
+</td>
+<td>
+<p>Poznań Main Station</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dworzec kolejowy</p>
+</td>
+<td>
+<p>railway station</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>połączenia regionalne, krajowe i międzynarodowe</p>
+</td>
+<td>
+<p>regional, domestic and international transport services</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>informacje są wyświetlane</p>
+</td>
+<td>
+<p>information is displayed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>całodobowy</p>
+</td>
+<td>
+<p>24-hour</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odjazdy</p>
+</td>
+<td>
+<p>departures</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyjazdy</p>
+</td>
+<td>
+<p>arrivals</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bilety kolejowe</p>
+</td>
+<td>
+<p>train tickets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kasy biletowe</p>
+</td>
+<td>
+<p>ticket windows</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>biletomaty</p>
+</td>
+<td>
+<p>ticket machines</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>punkty gastronomiczne i handlowe</p>
+</td>
+<td>
+<p>shopping, eating&amp;drinking facilities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><strong>s</strong>korzystać z</p>
+</td>
+<td>
+<p>to enjoy amenities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stacja</p>
+</td>
+<td>
+<p>station</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dotrzeć</p>
+</td>
+<td>
+<p>to get to</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>taks&oacute;wki na postoju</p>
+</td>
+<td>
+<p>taxi parking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niedaleko</p>
+</td>
+<td>
+<p>nearby</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>peron/perony</p>
+</td>
+<td>
+<p>platform/ platforms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>o każdej porze</p>
+</td>
+<td>
+<p>anytime</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaparkować auto</p>
+</td>
+<td>
+<p>to park a car</p>
+</td>
+</tr>
+</tbody>
+</table>

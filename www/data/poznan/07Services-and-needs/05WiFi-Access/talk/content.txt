@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Cze\u015B\u0107, co\u015B taki smutny?<\/p>\r\n<p>- Mam problem, m&oacute;j modem zosta\u0142 w domu i nie mam kontaktu z Internetem, a obieca\u0142em profesorowi przes\u0142a\u0107 esej na zaliczenie jeszcze dzi\u015B.<\/p>\r\n<p>- Jasne&hellip; Pewnie dawno nie by\u0142e\u015B na Facebooku i boisz si\u0119, \u017Ce ludzie pomy\u015Bl\u0105, \u017Ce nie \u017Cyjesz.<\/p>\r\n<p>- Daj spok&oacute;j! M&oacute;wi\u0119 serio.<\/p>\r\n<p>- W Maiusie jest WI-FI. Dlaczego z niego nie korzystasz?<\/p>\r\n<p>- Nie pomy\u015Bla\u0142em. A jak si\u0119 zalogowa\u0107?<\/p>\r\n<p><strong>-<\/strong> A masz konto na USOSie?<\/p>\r\n<p>- Mam, jak ka\u017Cdy student.<\/p>\r\n<p>- Je\u015Bli masz, to mo\u017Cesz korzysta\u0107 przez <strong>sie\u0107 bezprzewodow\u0105<\/strong>, tzw. WLAN lub Wi-Fi albo przez <strong>sie\u0107 bezprzewodow\u0105<\/strong> LAN, ale to w akademiku.<\/p>\r\n<p>- <strong>To bardzo m\u0105drze brzmi<\/strong>, a jak b\u0119d\u0119 mia\u0142 problem?<\/p>\r\n<p>- Dok\u0142adne informacje co i jak zrobi\u0107, znajdziesz na stronie: <a href=\"http:\/\/eduroam.amu.edu.pl\/\"><u>http:\/\/eduroam.amu.edu.pl\/<\/u><\/a><\/p>\r\n<p>- Dzi\u0119ki za pomoc!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Smutny, mam (mie\u0107) problem, nie mam kontaktu z Internetem, obieca\u0107, przes\u0142a\u0107, esej, zaliczenie, boisz si\u0119 (ba\u0107 si\u0119), nie \u017Cyj\u0119 (\u017Cy\u0107), korzystasz (korzysta\u0107), zalogowa\u0107, sie\u0107 bezprzewodowa, znajdziesz (znale\u017A\u0107).<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

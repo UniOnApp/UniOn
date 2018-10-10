@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Jestem wyko\u0144czona! Ca\u0142y tydzie\u0144 pracowa\u0142am po godzinach. Musz\u0119 odpocz\u0105\u0107.<\/p>\r\n<p>- Dobrze, \u017Ce ju\u017C pi\u0105tek. Zabieram Ci\u0119 do wodnego raju...<\/p>\r\n<p>- Ojej, a gdzie on jest?<\/p>\r\n<p>- Niedaleko. Ten raj nazywa si\u0119 Termy Malta\u0144skie. Kupi\u0142em dla nas pakiet relaksacyjny w \u015Bwiecie saun i masa\u017Ce w strefie spa.<\/p>\r\n<p>- Fantastycznie! Zrobi\u0142e\u015B mi najlepsz\u0105 niespodziank\u0119!<\/p>\r\n<p>- Ciesz\u0119 si\u0119, \u017Ce Ci si\u0119 podoba m&oacute;j pomys\u0142.<\/p>\r\n<p>- Bardzo mi si\u0119 podoba. W takim razie jed\u017Amy!<\/p>\r\n<p>- Tak jest. Jedziemy.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Pracowa\u0142am (pracowa\u0107) po godzinach, jestem (by\u0107) wyko\u0144czon\u0105, zabieram Ci\u0119 (zabra\u0107 kogo\u015B gdzie\u015B), niespodzianka, zrobi\u0142e\u015B (zrobi\u0107), fantastycznie, ciesz\u0119 (cieszy\u0107) si\u0119, podoba (podoba\u0107) si\u0119, jed\u017Amy!, jedziemy (jecha\u0107).<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

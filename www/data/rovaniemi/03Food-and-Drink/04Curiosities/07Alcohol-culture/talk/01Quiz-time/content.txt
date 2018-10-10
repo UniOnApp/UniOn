@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Some subtleties of Finnish alcohol culture. See if you can guess whether these claims are <strong>oikein<\/strong> (correct) or <strong>v&auml;&auml;rin<\/strong> (incorrect)? Tap to check.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Instead of coffee, you can expect to have a shot of vodka in an official meeting.<\/strong><\/p>\r\n<p> <strong>V&auml;&auml;rin. Incorrect.<\/strong> Finns are rather proud of their vodka. However, it is not a drink for work-related situations, at least if you&rsquo;re not working in a vodka distillery.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Having a sophisticated dinner with your friends? It&rsquo;s completely fine to have a glass of wine, or even to suggest sharing a bottle.<\/strong><\/p>\r\n<p> <strong>Oikein. Correct.<\/strong> Finns have had a reputation of choosing between vodka and beer. We&rsquo;re catching up, though, and wine is truly an essential part of dinner at least in restaurants. Some like to have a glass over dinner at home as well, as a natural part of the meal.<\/p>\r\n  <p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Finns often enjoy their lunch with a glass of wine.<\/strong><\/p>\r\n<p> <strong>V&auml;&auml;rin. Incorrect.<\/strong> For many Finns, it&rsquo;s still rather difficult to accept small portions of alcohol, in any form, as a part of everyday life. This means that it&rsquo;s not only unusual but sometimes logistically impossible to enjoy a glass of wine over lunch.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>The Finnish word for cheers is <em>salmari<\/em>. <\/strong><\/p>\r\n<p> <strong>V&auml;&auml;rin. Incorrect.<\/strong> You should try <strong>kippis<\/strong> instead. <strong>Salmari<\/strong> might prove interesting as well, though, since it&rsquo;s the name of a peculiar drink, also known as <strong>salmiakkikossu<\/strong>. It&rsquo;s a shot made of salty liquorice and vodka, something a local fellow student might offer you to taste.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Finns often prefer a glass of tap water instead of beer.<\/strong><\/p>\r\n<p> <strong>Oikein. Correct.<\/strong> Finnish tap water is considered to be among the best in the world, and in many regions tap water is ground water with virtually no irregularities whatsoever. Being conscious of their well-being, Finns like to drink water, and are not shy to offer it to their guests as well.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

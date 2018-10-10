@@ -1,0 +1,13 @@
+{
+  "title": "Telling about yourself",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><em><strong>How to tell people your name and what country you\u2019re from<\/strong><\/em><\/p>\r\n<p>\u00A0<\/p>\r\n<p>In Finnish you can tell people where you come from by adding the suffix <strong>-lainen \/-l\u00E4inen<\/strong> to the name of your country:<\/p>\r\n<p>\u00A0<\/p>\r\n<ul>\r\n<li><strong>Hei! Min\u00E4 olen Alex. Min\u00E4 olen portugalilainen.<\/strong> Hi! I am Alex. I am Portuguese.<\/li>\r\n<\/ul>\r\n<p>\u00A0<\/p>\r\n<ul>\r\n<li><strong>Hei! Min\u00E4 olen Alicia. Min\u00E4 olen puolalainen.<\/strong> Hi! I am Alicia. I am Polish.<\/li>\r\n<\/ul>\r\n<p>\u00A0<\/p>\r\n<p>Finnish has its own version of many countries\u2019 names. Some are quite obvious, whereas others can be rather surprising. Tap on the country names one by one and you\u2019ll see the word for someone from that country.<\/p>\r\n<p>\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p>Belgia<\/p>\r\n<p>belgialainen<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div><div class=\"ht\">\r\n<p>Espanja<\/p>\r\n<p>espanjalainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Islanti<\/p>\r\n<p>islantilainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Italia<\/p>\r\n<p>italialainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Japani<\/p>\r\n<p>japanilainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Kiina<\/p>\r\n<p>kiinalainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Portugali<\/p>\r\n<p>portugalilainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Puola<\/p>\r\n<p>puolalainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Ranska<\/p>\r\n<p>ranskalainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Ruotsi<\/p>\r\n<p>ruotsalainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Saksa<\/p>\r\n<p>saksalainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Suomi<\/p>\r\n<p>suomalainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Sveitsi<\/p>\r\n<p>sveitsil\u00E4inen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Tsekki<\/p>\r\n<p>tsekkil\u00E4inen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Unkari<\/p>\r\n<p>unkarilainen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Ven\u00E4j\u00E4<\/p>\r\n<p>ven\u00E4l\u00E4inen<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<p>Can you now tell someone your name and where you come from in Finnish? Try it!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

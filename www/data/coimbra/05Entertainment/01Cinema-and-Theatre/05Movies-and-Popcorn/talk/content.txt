@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Sess&atilde;o de cinema<\/strong> &ndash; <em>cinema session<\/em><\/p>\r\n<p>- Gostei\/ n&atilde;o gostei&hellip;<\/p>\r\n<p>&hellip;da fotografia<\/p>\r\n<p>&hellip;dos efeitos especiais<\/p>\r\n<p>&hellip;da banda sonora<\/p>\r\n<p>&hellip;da atriz principal<\/p>\r\n<p>&hellip;do ator secund&aacute;rio<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- I liked\/ did not like<\/p>\r\n<p>&hellip;the photography<\/p>\r\n<p>&hellip;the special effects<\/p>\r\n<p>&hellip;the soundtrack<\/p>\r\n<p>&hellip;the leading actress<\/p>\r\n<p>&hellip;the supporting actor<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Durante o intervalo - <\/strong>during the interval <\/p>\r\n<p>- Vou buscar pipocas e uma &aacute;gua. Queres alguma coisa?<\/p>\r\n<p><em>- I&rsquo;m going to get popcorn and a water. Would you like anything?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

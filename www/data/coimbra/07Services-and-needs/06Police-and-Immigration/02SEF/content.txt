@@ -1,0 +1,13 @@
+{
+  "title": "SEF",
+  "latitude": "40.2074623",
+  "longitude": "-8.4248512",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

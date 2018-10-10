@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Michael:<\/strong> - Cze\u015B\u0107 Ania!<\/p>\r\n<p><strong>Ania:<\/strong> - Cze\u015B\u0107 Michael! <strong>Pi\u0119kna pogoda<\/strong>! <strong>Masz czas<\/strong>? Mo\u017Ce <strong>pojedziemy nad Rusa\u0142k\u0119?<\/strong><\/p>\r\n<p><strong>M.<\/strong> - Fajnie, ale czym? Autobusem, tramwajem? Mam ju\u017C bilet.<\/p>\r\n<p><strong>A.<\/strong> - No co Ty? Taki <strong>\u0142adny dzie\u0144<\/strong>. Rowerem.<\/p>\r\n<p><strong>M<\/strong>. - No tak, ale ja nie mam roweru&hellip;<\/p>\r\n<p><strong>A.<\/strong> - Ja te\u017C nie, bo pok&oacute;j w akademiku jest <strong>za ma\u0142y<\/strong>. Mo\u017Cemy <strong>po\u017Cyczy\u0107 rower<\/strong>.<\/p>\r\n<p><strong>M.<\/strong> - Racja, ko\u0142o McDonald&rsquo;a jest taki punkt.<\/p>\r\n<p><strong>A<\/strong>. - Idziemy!<\/p>\r\n<p><strong>M.<\/strong> - A wiesz, jak po\u017Cyczy\u0107 rower?<\/p>\r\n<p><strong>A.<\/strong> - To chyba nie jest bardzo skomplikowane. O, tu jest instrukcja. Wy\u015Blij sms pod ten numer, a potem musisz <strong>post\u0119powa\u0107 zgodnie z instrukcj\u0105<\/strong>.<\/p>\r\n<p><strong>M.<\/strong> - Tak, to nie jest trudne. Jaki numer ma ten rower? Musz\u0119 to wpisa\u0107. No, gotowe!<\/p>\r\n<p><strong>A.<\/strong> &ndash; Jedziemy wi\u0119c <strong>nad jezioro<\/strong>, ale uwa\u017Caj, trzeba zjecha\u0107 na <strong>drog\u0119 rowerow\u0105<\/strong>!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Pi\u0119kna pogoda, masz (mie\u0107) czas, \u0142adny dzie\u0144, za ma\u0142y, po\u017Cyczy\u0107\/wypo\u017Cyczy\u0107 rower, post\u0119powa\u0107 zgodnie z instrukcj\u0105, nad jezioro, droga rowerowa.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Repeat, please",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p class=\"p1\"><span class=\"s1\"><strong><em>Confirming what you heard<\/em><\/strong><\/span><\/p>\r\n<p class=\"p1\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Anteeksi, voisitko toistaa? <\/strong>Excuse me, could you repeat that, please?<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Anteeksi, min&auml; en ymm&auml;rr&auml;. <\/strong>Excuse me, I don&rsquo;t understand.<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Anteeksi, mik&auml; &ldquo;teacher&rdquo; on suomeksi?<\/strong> Excuse me, what is &ldquo;teacher&rdquo; in Finnish?<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Se on suomeksi &ldquo;opettaja&rdquo;.<\/strong> It&rsquo;s &ldquo;opettaja&rdquo; in Finnish.<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>-Anteeksi, miten se kirjoitetaan? <\/strong>Excuse me, how do you spell it? (lit. How is it written?)<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>-Se kirjoitetaan o-p-i-s-k-e-l-i-j-a.<\/strong> It&rsquo;s spelled ...<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\">Can you see what these phrases mean?<\/span><\/p>\r\n<p class=\"p3\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Anteeksi, mik&auml; &ldquo;opiskelija&rdquo; on englanniksi?<\/strong><\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>-Se on englanniksi &ldquo;student&rdquo;.<\/strong><\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\">You can practise asking your Finnish teacher or friend something next time you meet them!<\/span><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

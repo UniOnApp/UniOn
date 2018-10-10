@@ -1,0 +1,13 @@
+{
+  "title": "My languages",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Telling what languages you speak<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p>Tap to see the translations.<\/p>\r\n<p>\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p>Min\u00E4 puhun saksaa, englantia ja v\u00E4h\u00E4n suomea.<\/p>\r\n<p>I speak German, English and a little bit of Finnish.<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div><div class=\"ht\">\r\n<p>Min\u00E4 en puhu espanjaa, mutta min\u00E4 puhun v\u00E4h\u00E4n italiaa.<\/p>\r\n<p>I don\u2019t speak Spanish, but I speak a bit of Italian.<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Min\u00E4 puhun jo aika hyvin suomea.<\/p>\r\n<p>I already speak quite good Finnish.<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

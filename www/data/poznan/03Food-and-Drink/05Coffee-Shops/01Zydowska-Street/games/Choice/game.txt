@@ -1,0 +1,5 @@
+[
+  { "question": "Nie do picia:", "answers": ["sos", "sok", "herbata", "kawa"] },
+  { "question": "Kawa z:", "answers": ["cytryn\u0105", "mlekiem", "cukrem", "\u015Bmietan\u0105"] },
+  { "question": "Zimy nap\u00F3j:", "answers": ["kakao", "woda", "sok", "cola"] }
+]

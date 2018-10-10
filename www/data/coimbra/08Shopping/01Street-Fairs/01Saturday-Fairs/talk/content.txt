@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Regatear o pre&ccedil;o &ndash;<em> to haggle the price<\/em><\/p>\r\n<p>Apre&ccedil;ar uma pe&ccedil;a.<em> &ndash; to check the price of an item.<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

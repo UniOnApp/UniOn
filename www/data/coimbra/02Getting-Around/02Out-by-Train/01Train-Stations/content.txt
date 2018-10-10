@@ -1,0 +1,13 @@
+{
+  "title": "Train Stations",
+  "latitude": "40.22471",
+  "longitude": "-8.44034",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

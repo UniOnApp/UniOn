@@ -1,0 +1,13 @@
+{
+  "title": "Porta F\u00E9rrea",
+  "latitude": "40.2078675",
+  "longitude": "-8.4249006",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

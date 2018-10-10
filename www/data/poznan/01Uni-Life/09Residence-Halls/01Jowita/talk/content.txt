@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>A)<\/p>\r\n<p>- Cze\u015B\u0107, mam na imi\u0119 Marek, a Ty?<\/p>\r\n<p>- Cze\u015B\u0107, jestem Adam.<\/p>\r\n<p>- <strong>Mieszkasz w tym akademiku?<\/strong><\/p>\r\n<p>- Tak, pok&oacute;j numer 222 (dwa, dwa, dwa).<\/p>\r\n<p>- A ja 101 (sto jeden).<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>Mieszkasz sam?<\/strong><\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Nie, mieszkam <strong>z koleg\u0105<\/strong>, ale chc\u0119 sam. Jak to zrobi\u0107?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>Musisz i\u015B\u0107 do kierownika<\/strong> <strong>i poprosi\u0107<\/strong>, ale <strong>to kosztuje<\/strong> wi\u0119cej&hellip;<\/p>\r\n<p>B)<\/p>\r\n<p>- Przepraszam, <strong>gdzie jest kuchnia?<\/strong><\/p>\r\n<p>- Kuchnia jest ko\u0142o windy i schod&oacute;w.<\/p>\r\n<p>- Dzi\u0119kuj\u0119.<\/p>\r\n<p>C)<\/p>\r\n<p>- <strong>Przepraszam, gdzie mog\u0119 pra\u0107?<\/strong><\/p>\r\n<p>- Na ko\u0144cu korytarza jest pralnia, tam s\u0105 pralki.<\/p>\r\n<p>- <strong>Dzi\u0119ki!<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Mieszkasz (mieszka\u0107) w tym akademiku? Mieszkasz sam? to kosztuje (kosztowa\u0107); Musisz (musie\u0107) i\u015B\u0107 do kierownika, poprosi\u0107; z koleg\u0105, chc\u0119 (chcie\u0107), gdzie jest kuchnia?, gdzie mog\u0119 pra\u0107? Na ko\u0144cu korytarza jest pralnia? dzi\u0119kuj\u0119\/dzi\u0119ki.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

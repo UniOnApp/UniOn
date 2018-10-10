@@ -1,0 +1,13 @@
+{
+  "title": "Proverbs",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Proverbs connected with trees or forests are very common in Finland. Let&rsquo;s see if it&rsquo;s possible to link the proverbs in a not-so-serious way to one possible story of a <strong>koskenlasku<\/strong> participant. Tap to see the proverbs translated in English.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Puulla p&auml;&auml;h&auml;n ly&ouml;ty.<\/strong><\/p>\r\n<p>Gobsmacked. [Lit. Hit on the head with a piece of wood.]<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Puusta pudonnut.<\/strong><\/p>\r\n<p>Stunned. [Lit. Fallen from the tree.]<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Ei k&ouml;yh&auml;nk&auml;&auml;n suu tuohesta ole.<\/strong><\/p>\r\n<p>What is good for the king is good for the peasant. [Lit. Not even a poor man&rsquo;s mouth is made of birch bark.]<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Parempi pyy pivossa kuin kymmenen oksalla.<\/strong><\/p>\r\n<p>A bird in the hand is worth two in the bush. (Lit. A grouse in the bag is worth ten on a tree branch.]<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>(H&auml;n) ei p&auml;&auml;se puusta pitk&auml;&auml;n.<\/strong><\/p>\r\n<p>(S\/he) is getting nowhere. [Lit. S\/he&rsquo;s not getting far away from the tree.]<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Kyll&auml; luonto tikanpojan puuhun ajaa.<\/strong><\/p>\r\n<p>[Lit. Nature will drive the young woodpecker to the tree.] The meaning of this proverb is that basic instincts are present in us all, and they&rsquo;ll drive even the inexperienced to lovemaking, for example.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Olla pihkassa.<\/strong><\/p>\r\n<p>To be in love. [Lit. To be in resin.]<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Nuorna vitsa v&auml;&auml;nnett&auml;v&auml;.<\/strong><\/p>\r\n<p>Bend the tree while it&rsquo;s young.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Lent&auml;&auml; kuin lepp&auml;keih&auml;s.<\/strong><\/p>\r\n<p>To go or be removed quickly and effectively. [Lit. To fly like a spear made of alder.]<\/p>\r\n  <p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

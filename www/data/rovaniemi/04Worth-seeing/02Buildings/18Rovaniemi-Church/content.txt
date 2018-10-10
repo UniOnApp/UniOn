@@ -1,0 +1,13 @@
+{
+  "title": "Rovaniemi Church",
+  "latitude": "66.494587",
+  "longitude": "25.729536",
+  "difficulty": "",
+  "keyword": ["lutheran","kirkko","christmas","architect","cross","concert","venue","joulu","sing"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

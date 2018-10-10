@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Opera&ccedil;&otilde;es<\/strong> - <em>operations<\/em><\/p>\r\n<p>&bull; levantamentos: &euro;10 a &euro;400 (m&aacute;ximo por dia)<\/p>\r\n<p><em>withdraw from &euro;10 to &euro;400 per day<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&bull; consultas: saldos, movimentos da conta, IBAN<\/p>\r\n<p><em>check your accounts movements, balance, IBAN<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&bull; pagamentos: servi&ccedil;os (faturas de luz, &aacute;gua, g&aacute;s), telecomunica&ccedil;&otilde;es<\/p>\r\n<p><em>pay utilily bills (electricity, water, gas), phones<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&bull; transfer&ecirc;ncias<\/p>\r\n<p><em>transfer money<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&bull; entrega e dep&oacute;sitos (em numer&aacute;rio e em cheques at&eacute; &euro;100.000)<\/p>\r\n<p><em>deposit money (checks up to &euro;100.000)<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&bull; telem&oacute;veis<\/p>\r\n<p><em>top up mobile phones<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&bull; d&eacute;bitos diretos<\/p>\r\n<p><em>set direct debits<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&bull; transportes: compra de bilhetes para a CP &mdash; comboios de Portugal; &ldquo;Lisboa Viva&rdquo;, &ldquo;Andante<\/p>\r\n<p>Gold&rdquo;<\/p>\r\n<p><em>Buy train tickets and metro cards<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

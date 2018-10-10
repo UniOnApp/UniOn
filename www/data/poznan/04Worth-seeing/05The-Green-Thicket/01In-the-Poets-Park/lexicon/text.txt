@@ -1,0 +1,148 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>zabytkowy park miejski</p>
+</td>
+<td>
+<p>historic city park</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Dzielnica Cesarska</p>
+</td>
+<td>
+<p>Imperial District</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dawne fortyfikacje</p>
+</td>
+<td>
+<p>former city fortifications</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyr&oacute;żniać się urodą</p>
+</td>
+<td>
+<p>to be outstandingly beautiful</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>m&oacute;c podziwiać</p>
+</td>
+<td>
+<p>to be able to admire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>starannie zaplanowana perspektywa</p>
+</td>
+<td>
+<p>carefully planned perspective</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>barwne rabaty</p>
+</td>
+<td>
+<p>colorful flowerbeds</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>monumentalne schody</p>
+</td>
+<td>
+<p>monumental stairs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprawiać wrażenie</p>
+</td>
+<td>
+<p>make and impression of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jeśli szukasz wytchnienia</p>
+</td>
+<td>
+<p>If you&rsquo;re looking for a respite</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>położyć się na trawie</p>
+</td>
+<td>
+<p>to lay on the grass</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>usiąść na ławce z ciekawą lekturą</p>
+</td>
+<td>
+<p>sit on a bench and enjoy a good read</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>upalny dzień</p>
+</td>
+<td>
+<p>hot day</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cieszyć oko</p>
+</td>
+<td>
+<p>sth is a sight for sore eyes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świeże powietrze</p>
+</td>
+<td>
+<p>fresh air</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miłośnicy jogi</p>
+</td>
+<td>
+<p>enthusiasts of yoga</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pod okiem instruktora</p>
+</td>
+<td>
+<p>under instructor&rsquo;s guidance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piękny plener</p>
+</td>
+<td>
+<p>beautiful site</p>
+</td>
+</tr>
+</tbody>
+</table>

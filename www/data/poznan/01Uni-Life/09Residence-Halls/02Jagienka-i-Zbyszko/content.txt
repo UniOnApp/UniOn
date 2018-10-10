@@ -1,0 +1,13 @@
+{
+  "title": "Jagienka i Zbyszko",
+  "latitude": "52.428287",
+  "longitude": "16.916488",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

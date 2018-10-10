@@ -1,0 +1,13 @@
+{
+  "title": "Counselling",
+  "latitude": "66.485369",
+  "longitude": "25.716913",
+  "difficulty": "",
+  "keyword": ["stress","motivation","motivaatio","ohjaus"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

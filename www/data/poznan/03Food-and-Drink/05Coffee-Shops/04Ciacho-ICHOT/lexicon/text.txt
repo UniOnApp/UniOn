@@ -1,0 +1,52 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Nowoczesny budynek</p>
+</td>
+<td>
+<p>state-of-the-art edifice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>katedralna wyspa</p>
+</td>
+<td>
+<p>the Cathedral Island</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zwiedzanie kompleksu</p>
+</td>
+<td>
+<p>sightseeing the complex</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wstąpić na kawę</p>
+</td>
+<td>
+<p>to grab a coffee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zgrubienie o zabawnym charakterze</p>
+</td>
+<td>
+<p>funny augumentative</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słodkości domowego wypieku</p>
+</td>
+<td>
+<p>homemade cakes</p>
+</td>
+</tr>
+</tbody>
+</table>

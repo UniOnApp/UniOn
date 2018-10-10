@@ -1,0 +1,13 @@
+{
+  "title": "ULapland is here for you",
+  "latitude": "66.485559",
+  "longitude": "25.717079",
+  "difficulty": "",
+  "keyword": ["international","service","learning agreement","course","äidinkieli"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

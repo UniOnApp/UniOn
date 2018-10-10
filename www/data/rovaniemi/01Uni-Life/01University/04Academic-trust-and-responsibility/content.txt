@@ -1,0 +1,13 @@
+{
+  "title": "Academic trust",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["responsibility","teacher","asking","polite","anteeksi","excuse","vowels","pronunciation"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

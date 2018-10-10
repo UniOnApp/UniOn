@@ -1,0 +1,13 @@
+{
+  "title": "The Baroque Art",
+  "latitude": "52.406392",
+  "longitude": "16.933837",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

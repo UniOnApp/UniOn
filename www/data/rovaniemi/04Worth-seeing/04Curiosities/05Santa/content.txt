@@ -1,0 +1,13 @@
+{
+  "title": "Santa!",
+  "latitude": "66.543437",
+  "longitude": "25.845816",
+  "difficulty": "",
+  "keyword": ["Claus","post","elf","tonttu","arctic","letter","joulupukki"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

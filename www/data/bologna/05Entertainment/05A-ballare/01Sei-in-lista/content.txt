@@ -1,0 +1,16 @@
+{
+  "title": "Sei in lista?",
+  "latitude": "44.494133",
+  "longitude": "11.349275",
+  "difficulty": "low",
+  "keyword": ["discoteca",
+"PR",
+"consumazione",
+"disco"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

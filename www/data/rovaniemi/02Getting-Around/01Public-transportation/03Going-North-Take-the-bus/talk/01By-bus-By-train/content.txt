@@ -1,0 +1,13 @@
+{
+  "title": "By bus? By train?",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>When you travel <span style=\"background-color: #99ccff;\">by<\/span> a vehicle or when you do something <span style=\"background-color: #99ccff;\">with<\/span> the help of an instrument or equipment, you should use the <span style=\"background-color: #99ccff;\">-lla<\/span> ending in Finnish.<\/p>\r\n<p>When asking about the method of transportation, the question is <strong>Mill&auml; sin&auml; matkustat? <\/strong>This construction translates badly into English, but it&rsquo;s more or less like this: By which (vehicle \/ mode of transport) are you travelling?<\/p>\r\n<p>bussi, linja-auto a bus<\/p>\r\n<p><strong>Min&auml; matkustan bussilla<\/strong>. I travel by bus.<\/p>\r\n<p>juna a train<\/p>\r\n<p><strong>H&auml;n matkustaa junalla<\/strong>. He\/She travels by train.<\/p>\r\n<p>laiva a boat<\/p>\r\n<p><strong>Me matkustamme laivalla.<\/strong> We travel by boat.<\/p>\r\n<p>lentokone an aeroplane<\/p>\r\n<p><strong>He matkustavat lentokoneella. <\/strong>They travel by aeroplane.<\/p>\r\n<p>Please note that Finnish words ending in the letter e have a specific stem to which you then add case endings. The stem of lentokone is <span style=\"background-color: #99ccff;\">lentokonee-<\/span> which becomes now lentokonee<span style=\"background-color: #99ccff;\">lla<\/span>.<\/p>\r\n<p>auto a car<\/p>\r\n<p><strong>Min&auml; matkustan autolla Ouluun.<\/strong> I travel by car to Oulu.<\/p>\r\n<p>Can you answer these questions:<\/p>\r\n<p><strong>Mill&auml; sin&auml; matkustat Kittil&auml;&auml;n? <\/strong><\/p>\r\n<p><strong>Mill&auml; sin&auml; matkustat Helsinkiin? <\/strong><\/p>\r\n<p><strong>Mill&auml; sin&auml; matkustat Berliiniin? <\/strong><\/p>\r\n<p><strong>Ent&auml; mill&auml; sin&auml; matkustat Tallinnaan?<\/strong><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

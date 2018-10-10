@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry. Co poda\u0107?<\/p>\r\n<p>- Dzie\u0144 dobry. <strong>Z czym<\/strong> jest kanapka <em>avocado<\/em>?<\/p>\r\n<p>- Z pomidorem, mozzarell\u0105, awokado oraz zio\u0142owym pesto.<\/p>\r\n<p>- To <strong>poprosz\u0119<\/strong> dwie kanapki <em>avocado<\/em> i dwa soki.<\/p>\r\n<p>- Jakie soki poda\u0107?<\/p>\r\n<p>- A co to znaczy sok <em>afterparty<\/em>?<\/p>\r\n<p>- Jest to sok zrobiony ze \u015Bwie\u017Cych jab\u0142ek, porzeczek i mi\u0119ty.<\/p>\r\n<p>- To prosz\u0119 r&oacute;wnie\u017C dwa soki.<\/p>\r\n<p>- Czy to wszystko?<\/p>\r\n<p>- Tak, dzi\u0119kuj\u0119.<\/p>\r\n<p>- Razem b\u0119dzie 39 z\u0142otych i 60 groszy.<\/p>\r\n<p>- Prosz\u0119.<\/p>\r\n<p>- Dzi\u0119kuj\u0119 i do zobaczenia!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk:<\/strong><\/p>\r\n<p>Co poda\u0107?, kanapka, z pomidorem\/ mozzarell\u0105\/ awokado\/zio\u0142owym pesto, dwa soki, jakie soki poda\u0107?, sok ze \u015Bwie\u017Cych jab\u0142ek\/porzeczek\/mi\u0119ty.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

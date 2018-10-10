@@ -1,0 +1,13 @@
+{
+  "title": "Medical help",
+  "latitude": "66.492531",
+  "longitude": "25.775162",
+  "difficulty": "",
+  "keyword": ["illness","sick","emergency","clinic","fever","hospital","sairaala","ambulance"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

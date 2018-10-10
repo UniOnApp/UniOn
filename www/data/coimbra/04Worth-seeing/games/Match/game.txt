@@ -1,0 +1,11 @@
+Have you been to these places? Do you know the name of the nearest garden or square? See if these words ring a bell.
+
+[pair]Manga_Garden named after a King’s sleeve; also the name of a fruit
+[pair]Portagem_Downtown square where tolls use to be paid
+[pair]Botânico_UC leisure and research garden
+[pair]Praça_In Portuguese, a square is called a…
+[pair]Arcos_Common name for the old Roman aqueduct
+[pair]Cidade_Park Dr. Manuel Braga aka Parque da…
+[pair]Sé Nova_Coimbra’s ‘new’ Jesuit cathedral
+[pair]Jardim_Place for enjoyment of plants and other forms of nature
+[pair]São Jerónimo_UC College that was once a hospital

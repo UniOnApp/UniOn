@@ -1,0 +1,17 @@
+{
+  "title": "Qual \u00E8 il piatto del giorno",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["ristorante",
+"trattoria ",
+"men\u00F9",
+"appetito",
+"tradizione culinaria"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

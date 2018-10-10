@@ -1,0 +1,13 @@
+{
+  "title": "Pubs",
+  "latitude": "66.501662",
+  "longitude": "25.732223",
+  "difficulty": "",
+  "keyword": ["original","atmosphere","karaoke","uitto","logging","pisto","hulibumba","beer","lonkero"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

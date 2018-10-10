@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Student: Cze\u015B\u0107 Julia!<\/p>\r\n<p>Studentka: Cze\u015B\u0107 Dymitr!<\/p>\r\n<p>Student: <strong>Wpadniesz dzisiaj wieczorem<\/strong> do pubu?<\/p>\r\n<p>Studentka: Dzisiaj nie mog\u0119, organizujemy spotkanie z ambasadorem Brazylii.<\/p>\r\n<p>Student: Ci\u0105gle jeste\u015B zaj\u0119ta, albo si\u0119 uczysz, albo ten <strong>samorz\u0105d student&oacute;w<\/strong>&hellip; Kiedy b\u0119dziesz mia\u0142a wi\u0119cej czasu?<\/p>\r\n<p>Studentka: Mo\u017Cesz Ty nam pom&oacute;c, <strong>wtedy b\u0119dziemy mieli mniej pracy<\/strong>.<\/p>\r\n<p>Student: A co tam trzeba robi\u0107?<\/p>\r\n<p>Studentka: Jutro <strong>roznosimy zaproszenia<\/strong> na spotkanie z ambasadorem. Za tydzie\u0144 zaczynamy akcj\u0119 <em>Wielkie Grillowanie<\/em>, p&oacute;\u017Aniej <strong>przygotowania do Juwenali&oacute;w<\/strong>, a potem&hellip;<\/p>\r\n<p>Student: Juwenaj&hellip;?<\/p>\r\n<p>Studentka: Juwenalia to najwi\u0119kszy festiwal muzyczny w tym mie\u015Bcie! Dima, <strong>nie \u017Cartuj sobie<\/strong>, na pewno wiesz!<\/p>\r\n<p>Student: <strong>Nigdy nawet nie s\u0142ysza\u0142em!<\/strong> U nas to si\u0119 nazywa <em>Dzie\u0144 Studenta<\/em> i niestety <strong>przypada w styczniu<\/strong>.<\/p>\r\n<p>Studentka: Musisz koniecznie przyj\u015B\u0107 we wtorek na <strong>zebranie samorz\u0105du<\/strong>! Poznasz wszystkich i od razu si\u0119 polubicie, a za miesi\u0105c pojedziemy organizowa\u0107 Campus Uniwersytecki, <strong>to dopiero jest zabawa!<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Wpadniesz (wpada\u0107) dzisiaj wieczorem?, wtedy b\u0119dziemy mieli (mie\u0107) mniej pracy, roznosimy (roznosi\u0107) zaproszenia, przygotowania do Juwenali&oacute;w, nie \u017Cartuj (\u017Cartowa\u0107) sobie!, nigdy nawet nie s\u0142ysza\u0142em (s\u0142ysze\u0107), przypada (przypada\u0107) w styczniu, zebranie samorz\u0105du, to dopiero jest zabawa!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

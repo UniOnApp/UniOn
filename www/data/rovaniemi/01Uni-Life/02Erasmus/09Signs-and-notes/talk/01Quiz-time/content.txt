@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Quiz time! Signs and notes<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p>Read the clue and guess what type of sign or note is referred to. Tap to check.<\/p>\r\n<p>\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p>1. You need to walk or cycle on the right if you see this.<\/p>\r\n<p>kulje oikealla<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>2. You can take stuff for free if you see this.<\/p>\r\n<p>saa ottaa<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>3. Best before.<\/p>\r\n<p>parasta ennen<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>4. This is a rescue way that should be kept clear of any obstacles.<\/p>\r\n<p>pelastustie<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

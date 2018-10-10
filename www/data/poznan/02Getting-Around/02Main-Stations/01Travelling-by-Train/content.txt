@@ -1,0 +1,13 @@
+{
+  "title": "Travelling by Train",
+  "latitude": "52.402369",
+  "longitude": "16.911884",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

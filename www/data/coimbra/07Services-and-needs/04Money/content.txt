@@ -1,0 +1,13 @@
+{
+  "title": "Money",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["bank","account","money","multibanco","conta","banco","bilhetes"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "The Uni terms",
+  "latitude": "66.485195",
+  "longitude": "25.716832",
+  "difficulty": "",
+  "keyword": ["university","system","opiskelija","student","course","luento","lecture","lukuvuosi"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

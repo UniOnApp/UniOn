@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Aberto &ne; Fechado<strong>\/<\/strong>Encerrado<\/p>\r\n<p><em>Open &ne; Closed<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Est&aacute;<\/strong> fechado aos <em>fins-de-semana. (weekends)<\/em><\/p>\r\n<p><em>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<\/em><\/p>\r\n<p>Dias &uacute;teis<\/p>\r\n<p><em>weekdays<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>segunda-feira (Monday)<\/p>\r\n<p>ter&ccedil;a-feira (Tuesday)<\/p>\r\n<p>quarta-feira (Wednesday)<\/p>\r\n<p>quinta-feira (Thursday)<\/p>\r\n<p>sexta-feira (Friday)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>s&aacute;bado (Saturday)<\/p>\r\n<p>domingo (Sunday)<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

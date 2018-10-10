@@ -1,0 +1,132 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>bazylika</p>
+</td>
+<td>
+<p>basilica</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oficjalna nazwa</p>
+</td>
+<td>
+<p>official name</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>budynek sakralny</p>
+</td>
+<td>
+<p>sacral edifice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uhonorować tytułem</p>
+</td>
+<td>
+<p>to honor the title of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>patronować</p>
+</td>
+<td>
+<p>to patron</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>o czym przypomina</p>
+</td>
+<td>
+<p>is a reminder</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>herb</p>
+</td>
+<td>
+<p>crest</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gr&oacute;d książęcy</p>
+</td>
+<td>
+<p>ducal settlement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyjąć chrzest</p>
+</td>
+<td>
+<p>to be baptized</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chrzcielnica</p>
+</td>
+<td>
+<p>baptismal font</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsce poch&oacute;wku</p>
+</td>
+<td>
+<p>burial</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>można podziwiać w podziemiach</p>
+</td>
+<td>
+<p>can be admired in the cellar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rekonstrukcja gotyckiej budowli</p>
+</td>
+<td>
+<p>reconstruction of the Gothic edifice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uczcić pierwszych polskich władc&oacute;w</p>
+</td>
+<td>
+<p>to commemorate the first Polish rulers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Trakt Kr&oacute;lewsko- Cesarski</p>
+</td>
+<td>
+<p>The Royal-Imperial Route</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>najnowsze i najnowocześniejsze muzeum</p>
+</td>
+<td>
+<p>the newest and most modern museum</p>
+</td>
+</tr>
+</tbody>
+</table>

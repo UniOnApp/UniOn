@@ -1,0 +1,13 @@
+{
+  "title": "I Like Jazz",
+  "latitude": "52.4083113",
+  "longitude": "16.9190035",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

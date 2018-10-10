@@ -1,0 +1,13 @@
+{
+  "title": "Train announcements",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>T&auml;m&auml; on Intercity-juna kaksi-sataa-seitsem&auml;nkymment&auml;-nelj&auml; Helsinki<\/strong><span style=\"background-color: #99ccff;\"><strong>in<\/strong><\/span><strong>.<\/strong><\/p>\r\n<p>This is the Intercity train two-hundred-seventy-four to Helsinki.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Saavumme hetken kuluttua Oulu<\/strong><span style=\"background-color: #99ccff;\"><strong>un<\/strong><\/span><strong>.<\/strong><\/p>\r\n<p>We will shortly arrive in Oulu.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Kemi<\/strong><span style=\"background-color: #99ccff;\"><strong>st&auml;<\/strong><\/span><strong> tulleiden matkaliput, kiitos!<\/strong><\/p>\r\n<p>Train tickets from people who boarded the train in Kemi, please! (This is something which is said by the conductor after each station)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Seuraavat pys&auml;htymispaikat ovat P&auml;nn&auml;inen, Sein&auml;joki, Parkano.<\/strong><\/p>\r\n<p>The next stations are P&auml;nn&auml;inen, Sein&auml;joki, Parkano.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pikajuna kaksikymment&auml;-yhdeks&auml;n saapuu raitee<\/strong><span style=\"background-color: #99ccff;\"><strong>lle<\/strong><\/span><strong> kolme.<\/strong><\/p>\r\n<p>The express train twenty-nine arrives to track three.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Saavumme hetken kuluttua Tamperee<\/strong><span style=\"background-color: #99ccff;\"><strong>lle<\/strong><\/span><strong>.<\/strong><\/p>\r\n<p>We will shortly arrive in Tampere.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Junassa on ravintolavaunu.<\/strong><\/p>\r\n<p>There&rsquo;s a restaurant car on the train.<\/p>\r\n<p>When you&rsquo;re travelling the whole way to Helsinki you&rsquo;ll have plenty of time to listen to the announcements!<\/p>\r\n<p>Here you have the list of all possible stations from Kemij&auml;rvi to Helsinki:<\/p>\r\n<p>Kemij&auml;rvi<\/p>\r\n<p>Misi<\/p>\r\n<p>Rovaniemi<\/p>\r\n<p>Muurola<\/p>\r\n<p>Tervola<\/p>\r\n<p>Kemi<\/p>\r\n<p>Oulu<\/p>\r\n<p>Kempele<\/p>\r\n<p>Ruukki<\/p>\r\n<p>Vihanti<\/p>\r\n<p>Oulainen<\/p>\r\n<p>Ylivieska<\/p>\r\n<p>Kannus<\/p>\r\n<p>Kokkola<\/p>\r\n<p>P&auml;nn&auml;inen<\/p>\r\n<p>Kauhava<\/p>\r\n<p>Lapua<\/p>\r\n<p>Sein&auml;joki<\/p>\r\n<p>Parkano<\/p>\r\n<p>Tampere<\/p>\r\n<p>Toijala<\/p>\r\n<p>H&auml;meenlinna<\/p>\r\n<p>Riihim&auml;ki<\/p>\r\n<p>Tikkurila<\/p>\r\n<p>Pasila<\/p>\r\n<p>Helsinki<\/p>\r\n<p><br \/> <strong>Hyv&auml;&auml; matkaa!<\/strong> (Have a nice trip!)<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

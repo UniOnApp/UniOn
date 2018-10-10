@@ -1,0 +1,13 @@
+{
+  "title": "Prints",
+  "latitude": "40.209525",
+  "longitude": "-8.423295",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

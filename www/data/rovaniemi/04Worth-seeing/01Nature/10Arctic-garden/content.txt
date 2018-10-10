@@ -1,0 +1,13 @@
+{
+  "title": "Arctic garden",
+  "latitude": "66.509211",
+  "longitude": "25.725508",
+  "difficulty": "",
+  "keyword": ["arktikum","park","plant","ruusu","rose","Nätti-Jussi","midnight","flower"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

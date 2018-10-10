@@ -1,0 +1,14 @@
+{
+  "title": "Palazzo Malvezzi",
+  "latitude": "44.495332",
+  "longitude": "11.348421",
+  "difficulty": "high",
+  "keyword": ["Palazzo Malvezzi De\u2019 Medici",
+"via Zamboni"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,7 @@
+<p>text to speech TEST</p>
+
+<p><span onclick="tts('Onde posso comprar bilhetes de época?')" >
+Onde posso comprar bilhetes de época?</span></p>
+
+<p><span onclick="tts('Estou com uma reação alérgica.')" >
+Estou com uma reação alérgica.</span></p>

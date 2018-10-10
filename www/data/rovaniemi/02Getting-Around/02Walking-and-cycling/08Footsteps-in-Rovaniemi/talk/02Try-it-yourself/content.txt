@@ -1,0 +1,13 @@
+{
+  "title": "Try it yourself!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Tap to see the translations.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>Anteeksi, tied&auml;ttek&ouml;, miss&auml; on posti?<\/p>\r\n<p>Excuse me, do you know where the post office is?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>K&auml;vele eteenp&auml;in.<\/p>\r\n<p>Walk straight ahead.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Mihin suuntaan?<\/p>\r\n<p>To which direction?<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Jatka 200 metri&auml; eteenp&auml;in.<\/p>\r\n<p>Continue 200 meters forward.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>K&auml;&auml;nny vasemmalle.<\/p>\r\n<p>Turn left.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>K&auml;&auml;nny oikealle.<\/p>\r\n<p>Turn right.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>K&auml;&auml;nny ymp&auml;ri.<\/p>\r\n<p>Turn around.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Onko se kaukana?<\/p>\r\n<p>Is it far away?<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Se on oikealla.<\/p>\r\n<p>It&rsquo;s on the right.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Se on vasemmalla.<\/p>\r\n<p>It&rsquo;s on the left.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

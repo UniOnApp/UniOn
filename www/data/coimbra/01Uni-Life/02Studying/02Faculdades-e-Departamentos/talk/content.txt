@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Formal request<\/strong><\/p>\r\n<p>- D&aacute;-me licen&ccedil;a?<\/p>\r\n<p>- Fa&ccedil;a favor.<\/p>\r\n<p><em>- May I?<\/em><\/p>\r\n<p><em>- Of course.\/ Be my guest.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Formal<\/strong> <strong>treatment<\/strong><\/p>\r\n<p>1. N&atilde;o se usa pronome: Tem cart&atilde;o de estudante?<\/p>\r\n<p><em>No personal pronoun: Do (you) have a student card?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>2. Quando n&atilde;o sabemos o nome, podemos usar senhor\/ senhora: O senhor tem cart&atilde;o s&eacute;nior?<\/p>\r\n<p><em>When we don&rsquo;t know the person&rsquo;s name we can use sir\/ madam: Do you (sir\/ madam) have a senior card?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>3. Quando sabemos o nome, podemos usar o nome: O Miguel tem cart&atilde;o de estudante?<\/p>\r\n<p><em>When we know the person&rsquo;s name, we can use it: Does Miguel have the student card?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

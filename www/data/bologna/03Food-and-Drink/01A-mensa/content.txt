@@ -1,0 +1,18 @@
+{
+  "title": "A mensa",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "low",
+  "keyword": ["pasto",
+"pasti ",
+"Servizio di Ristorazione",
+"Scuderia",
+"La Veneta",
+"punti ristoro"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

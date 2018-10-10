@@ -1,0 +1,13 @@
+{
+  "title": "Downtown",
+  "latitude": "40.208637",
+  "longitude": "-8.429114",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

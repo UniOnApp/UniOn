@@ -1,0 +1,180 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Charakterystyczna bryła</p>
+</td>
+<td>
+<p>characteristic edifice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lśniące metalowe elementy</p>
+</td>
+<td>
+<p>shiny metal elements</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wpisać się na trwałe</p>
+</td>
+<td>
+<p>to become an inherent part of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>krajobraz</p>
+</td>
+<td>
+<p>landscape</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niszczejący</p>
+</td>
+<td>
+<p>forlorn</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>budynek</p>
+</td>
+<td>
+<p>building</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>butiki projektant&oacute;w</p>
+</td>
+<td>
+<p>designers&rsquo; boutiques</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>punkty usługowe i gastronomiczne</p>
+</td>
+<td>
+<p>customers service points and restaurants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>towarzyskie spotkania</p>
+</td>
+<td>
+<p>friends&rsquo; meetings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niepostrzeżenie</p>
+</td>
+<td>
+<p>imperceptibly</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyprawa do sztuki świata</p>
+</td>
+<td>
+<p>voyage to the world of art</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przestrzeń galerii</p>
+</td>
+<td>
+<p>mall space</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyeksponować</p>
+</td>
+<td>
+<p>to exhibit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzieła sztuki wsp&oacute;łczesnej</p>
+</td>
+<td>
+<p>works of contemporary art</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>relief</p>
+</td>
+<td>
+<p>relief</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>fasada</p>
+</td>
+<td>
+<p>fa&ccedil;ade</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nowe skrzydło</p>
+</td>
+<td>
+<p>new wing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>okrzyknąć</p>
+</td>
+<td>
+<p>to win the recognition</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ikona polskiej architektury</p>
+</td>
+<td>
+<p>icon of Polish architecture</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przedsięwzięcie</p>
+</td>
+<td>
+<p>undertaking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nagrody</p>
+</td>
+<td>
+<p>awards</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wielopoziomowy parking</p>
+</td>
+<td>
+<p>multi-storey car park</p>
+</td>
+</tr>
+</tbody>
+</table>

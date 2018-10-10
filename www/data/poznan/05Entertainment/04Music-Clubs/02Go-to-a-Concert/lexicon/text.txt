@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Coś dla siebie</p>
+</td>
+<td>
+<p>Something for everyone</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>działa (działać)</p>
+</td>
+<td>
+<p>Are opened (to be opened)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>najczęściej</p>
+</td>
+<td>
+<p>Most frequently</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>młodzież</p>
+</td>
+<td>
+<p>Young people</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie zabraknie</p>
+</td>
+<td>
+<p>Won&rsquo;t miss</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koncerty na&nbsp;żywo</p>
+</td>
+<td>
+<p>Live concerts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sympatyk</p>
+</td>
+<td>
+<p>Fan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>elektroniczne brzmienie</p>
+</td>
+<td>
+<p>Electronic sounds</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warcaby</p>
+</td>
+<td>
+<p>Checkers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chińczyk</p>
+</td>
+<td>
+<p>Ludo</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szachy</p>
+</td>
+<td>
+<p>Chess</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piłkarzyki</p>
+</td>
+<td>
+<p>Toy football players</p>
+</td>
+</tr>
+</tbody>
+</table>

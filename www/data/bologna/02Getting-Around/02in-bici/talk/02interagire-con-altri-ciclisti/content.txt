@@ -1,0 +1,13 @@
+{
+  "title": "Interagire con altri ciclisti",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Ti va di andare a fare un giro in bicicletta domenica prossima?<\/p><\/td><td><\/td><\/tr><tr><td><p>Ti piace andare in bici?<\/p><\/td><td><\/td><\/tr><tr><td><p>Dove mi consigli di parcheggiare la bici? Cerco un posto sicuro<\/p><\/td><td><\/td><\/tr><tr><td><p>Possiamo legare le nostre biciclette insieme?<\/p><\/td><td><\/td><\/tr><tr><td><p>Sto dietro di te. Circolare in fila indiana \u00E8 pi\u00F9 prudente<\/p><\/td><td><\/td><\/tr><tr><td><p>Vieni, prendiamo la pista ciclabile<\/p><\/td><td><\/td><\/tr><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

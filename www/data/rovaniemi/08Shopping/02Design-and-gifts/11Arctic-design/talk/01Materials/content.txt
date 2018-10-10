@@ -1,0 +1,13 @@
+{
+  "title": "Materials",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Arctic design doesn&rsquo;t necessarily require arctic materials &ndash; but natural materials do play a huge role in it. Do you know the materials of which the following are made of? Tap to check.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>huovutetut korvakorut<\/strong><\/p>\r\n<p>Wool, more specifically felted wool. These earrings are sustainable, light to wear, and yet very beautiful.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>kihlasormus Lemmenjoen kullasta<\/strong><\/p>\r\n<p>Lappish gold. Lemmenjoki is a traditional area for panning and mining gold. In this particular case, Lemmenjoki gold has been used to create a unique engagement ring.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>koivupuinen tarjotin<\/strong><\/p>\r\n<p>Wood, more specifically birch. In this case, the tray &ndash; <strong>tarjotin<\/strong> &ndash; is made of birch wood, a particularly typical material for many types of wooden products.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>kynttil&auml;lyhty<\/strong><\/p>\r\n<p>Glass and metal. <strong>Kynttil&auml;lyhty<\/strong> stands for a lantern, and typically has glass embedded in a metal framing. There are variations, though.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>k&auml;silaukku poronnahasta<\/strong><\/p>\r\n<p>Reindeer leather. Reindeer leather is used in many ways in Lapland, from small accessories to complete dresses. In this case, it&rsquo;s a handbag.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>poronluinen kaulakoru<\/strong><\/p>\r\n<p>Reindeer bone. The bone is usually taken from &ldquo;discarded&rdquo; antlers, since reindeer drop their antlers every year. Now there&rsquo;s some renewable and sustainable material for a necklace!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

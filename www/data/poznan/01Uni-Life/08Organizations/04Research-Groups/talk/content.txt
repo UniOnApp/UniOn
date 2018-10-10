@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Student: Dzie\u0144 dobry, Pani Tereso.<\/p>\r\n<p>S\u0105siadka: Dzie\u0144 dobry, Panie Miko\u0142aju. Dawno Pana nie widzia\u0142am, co u Pana s\u0142ycha\u0107?<\/p>\r\n<p>Student: Dwa miesi\u0105ce temu <strong>zaanga\u017Cowa\u0142em si\u0119<\/strong> w prace ko\u0142a naukowego i mam du\u017Co zaj\u0119\u0107.<\/p>\r\n<p>S\u0105siadka: To jest <strong>Ko\u0142o Naukowe Przyrodnik&oacute;w?<\/strong> S\u0142ysza\u0142am, \u017Ce jest bardzo pr\u0119\u017Cne.<\/p>\r\n<p>Student: Tak, to najwi\u0119ksza organizacja studencka na naszej uczelni. <strong>Powsta\u0142o jeszcze przed wojn\u0105<\/strong><u>,<\/u> ma ponad 90 lat!<\/p>\r\n<p>S\u0105siadka: A kto jest teraz <strong>opiekunem naukowym<\/strong>?<\/p>\r\n<p>Student: Ca\u0142y czas Pan prof. Karol Latowski.<\/p>\r\n<p>S\u0105siadka: Oh, pami\u0119tam go jeszcze ze studi&oacute;w &ndash; to \u015Bwietny specjalista od taksonomii ro\u015Blin i pasjonat! Pewnie nie macie ju\u017C na nic wi\u0119cej czasu <strong>poza badaniami naukowymi<\/strong>!<\/p>\r\n<p>Student: <strong>Ale\u017C oczywi\u015Bcie<\/strong>, mamy - opr&oacute;cz bada\u0144, bierzemy udzia\u0142 w projektach edukacyjnych, piszemy teksty popularnonaukowe do naszej gazetki i <strong>wsp&oacute;\u0142pracujemy z administracj\u0105 miasta<\/strong>.<\/p>\r\n<p>S\u0105siadka: To znaczy, \u017Ce uniwersytet ju\u017C nie jest taki hermetyczny jak dawniej?<\/p>\r\n<p>Student: Nie! Nasz <strong>program jest bardzo nowoczesny<\/strong>! Regularnie odwiedzamy szko\u0142y \u015Brednie, organizujemy tam r&oacute;\u017Cne konkursy i lekcje pokazowe, a tak\u017Ce zapraszamy uczni&oacute;w na imprezy <strong>na&nbsp;naszym Wydziale<\/strong>. Najbardziej znan\u0105 imprez\u0105 jest <strong>Pozna\u0144ski Festiwal Nauki i&nbsp;Sztuki<\/strong>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Zaanga\u017Cowa\u0142em si\u0119 (zaanga\u017Cowa\u0107 si\u0119), Ko\u0142o Naukowe Przyrodnik&oacute;w<strong>, <\/strong>powsta\u0142o (powsta\u0107) jeszcze przed wojn\u0105, opiekun naukowy<strong>, <\/strong>poza badaniami naukowymi<strong>, <\/strong>ale\u017C oczywi\u015Bcie!<strong>, <\/strong>wsp&oacute;\u0142pracujemy (wsp&oacute;\u0142pracowa\u0107) z administracj\u0105 miasta<strong>, <\/strong>program jest bardzo nowoczesny<strong>, <\/strong>na&nbsp;naszym Wydziale<strong>, <\/strong>Pozna\u0144ski Festiwal Nauki i&nbsp;Sztuki.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

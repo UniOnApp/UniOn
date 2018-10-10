@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Preciso de imprimir um trabalho\/ um document. <em>&ndash; I need to print a paper\/ document.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Tenho o trabalho numa pen\/ no meu mail. &ndash; <em>I have the document in a USB memory stick\/ in my mail.<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

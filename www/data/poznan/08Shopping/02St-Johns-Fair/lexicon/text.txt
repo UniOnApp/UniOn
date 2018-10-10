@@ -1,0 +1,204 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Najkr&oacute;tsza noc w roku</p>
+</td>
+<td>
+<p>the shortest night in the year</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tradycja świętojańska</p>
+</td>
+<td>
+<p>St. John&rsquo;s traditions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Noc Kupały</p>
+</td>
+<td>
+<p>Kupała&rsquo;s Night</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słowiański odpowiednik</p>
+</td>
+<td>
+<p>Slavic counterpart</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przypominające dawne wierzenia i obrzędy</p>
+</td>
+<td>
+<p>reminding the old beliefs and customs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>początki sięgają</p>
+</td>
+<td>
+<p>origins date back to</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na przestrzeni wiek&oacute;w</p>
+</td>
+<td>
+<p>over the ages</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skosztować regionalnych przysmak&oacute;w</p>
+</td>
+<td>
+<p>to try local delicacies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oryginalne rękodzieło</p>
+</td>
+<td>
+<p>original handicraft</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kozi ser (oscypki)</p>
+</td>
+<td>
+<p>goat cheese</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z żurawiną</p>
+</td>
+<td>
+<p>with cranberry</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piekarze</p>
+</td>
+<td>
+<p>bakers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cukiernicy</p>
+</td>
+<td>
+<p>confectioners</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słodycze</p>
+</td>
+<td>
+<p>sweets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sękacz</p>
+</td>
+<td>
+<p>traditional spit cake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przysmak</p>
+</td>
+<td>
+<p>delicacy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wędliny</p>
+</td>
+<td>
+<p>ham</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyprawy</p>
+</td>
+<td>
+<p>spices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>malowana porcelana</p>
+</td>
+<td>
+<p>painted porcelain</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>haftowane obrusy</p>
+</td>
+<td>
+<p>embroidered tablecloths</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rzeźbione drewniane figurki</p>
+</td>
+<td>
+<p>sculpted wooden figures</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z minionych epok</p>
+</td>
+<td>
+<p>from the past</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wioska średniowieczna</p>
+</td>
+<td>
+<p>Medieval village</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kramiki</p>
+</td>
+<td>
+<p>stalls</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pamiątki</p>
+</td>
+<td>
+<p>souvenirs</p>
+</td>
+</tr>
+</tbody>
+</table>

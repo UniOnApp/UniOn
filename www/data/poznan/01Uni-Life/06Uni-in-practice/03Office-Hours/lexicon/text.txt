@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Dyżury</p>
+</td>
+<td>
+<p>office hours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spotkanie koła naukowego</p>
+</td>
+<td>
+<p>meetings of student research groups</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czas spotkań organizacyjnych i naukowych</p>
+</td>
+<td>
+<p>administrative and scientific meetings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>konsultacje pracownik&oacute;w</p>
+</td>
+<td>
+<p>instructors&rsquo; duty hours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>służyć radą i pomocą naukową</p>
+</td>
+<td>
+<p>to give counsel and supplementary help</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dwa razy w tygodniu</p>
+</td>
+<td>
+<p>twice a week</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>o tej samej porze</p>
+</td>
+<td>
+<p>at the same time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w gabinecie nauczyciela</p>
+</td>
+<td>
+<p>in the teacher&rsquo;s office</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przedyskutować pracę zaliczeniową</p>
+</td>
+<td>
+<p>to discuss the final essays</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nadrobić zaległości</p>
+</td>
+<td>
+<p>to make up for the lost classes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyjaśnić wątpliwości</p>
+</td>
+<td>
+<p>to resolve doubts</p>
+</td>
+</tr>
+</tbody>
+</table>

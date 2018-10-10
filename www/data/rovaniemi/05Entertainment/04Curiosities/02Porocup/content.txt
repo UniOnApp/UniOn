@@ -1,0 +1,13 @@
+{
+  "title": "Porocup",
+  "latitude": "66.511076",
+  "longitude": "25.604948",
+  "difficulty": "",
+  "keyword": ["poro","reindeer","race","Mäntyvaara","rally","orienteering"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

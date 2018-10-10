@@ -1,0 +1,13 @@
+{
+  "title": "Old words",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Usually the shortest and most simple words are the oldest layer of the language. You have noticed for sure that there are quite long words in Finnish, but there are also some short ones, even as short as two or three letters per word.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>The oldest layer of Finnish consists of words representing body parts or words related to nature, mainly. If you look at the following three-letter words, you can see that they all represent very fundamental elements of living, especially in Finland.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>puu<\/strong> a tree<\/p>\r\n<p><strong>luu<\/strong> a bone<\/p>\r\n<p><strong>suu<\/strong> a mouth<\/p>\r\n<p><strong>kuu<\/strong> a moon <\/p>\r\n<p><strong>muu<\/strong> another, the others<\/p>\r\n<p><strong>maa<\/strong> earth<\/p>\r\n<p><strong>suo<\/strong> peatland, bog, swamp<\/p>\r\n<p><strong>syy<\/strong> a fibre; (also) a reason <\/p>\r\n<p><strong>elo <\/strong>life, living<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>In addition to this, we have a couple of nouns and expressions that are even shorter. Basic stuff, right?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>y&ouml;<\/strong> night<\/p>\r\n<p><strong>ty&ouml;<\/strong> work<\/p>\r\n<p><strong>Sy&ouml;!<\/strong> Eat!<\/p>\r\n<p><strong>Hyi!<\/strong> Ugh! Yuck!<\/p>\r\n<p><strong>Ei!<\/strong> No!<\/p>\r\n<p><strong>Ai!<\/strong> Ouch! <\/p>\r\n<p><strong>Ui!<\/strong> Swim!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

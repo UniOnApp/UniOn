@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Jolka, jaki sport najbardziej lubisz?<\/p>\r\n<p>- Hmmm... niech pomy\u015Bl\u0119. Najbardziej lubi\u0119 p\u0142ywanie i jazd\u0119 na rowerze. A dlaczego pytasz?<\/p>\r\n<p>- Bo zrobi\u0142a si\u0119 ju\u017C \u0142adna pogoda i mo\u017Cna by j\u0105 wykorzysta\u0107. Mo\u017Ce w weekend p&oacute;jdziemy na basen albo na rower?<\/p>\r\n<p>- W sobot\u0119 musz\u0119 i\u015B\u0107 do pracy, ale w niedziel\u0119 bardzo ch\u0119tnie!<\/p>\r\n<p>- Ok, to ja sprawdz\u0119, czy na Chwia\u0142ce nie ma \u017Cadnych zawod&oacute;w p\u0142ywackich i dam Ci zna\u0107.<\/p>\r\n<p>- Super! Czekam na telefon!<\/p>\r\n<p>- Do us\u0142yszenia!<\/p>\r\n<p>- Pa, pa!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Dam (da\u0107) zna\u0107, lubisz (lubi\u0107) najbardziej, pomy\u015Bl\u0119 (pomy\u015Ble\u0107), p\u0142ywanie, jazda na rowerze, zawody p\u0142ywackie.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

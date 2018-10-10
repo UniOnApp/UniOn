@@ -1,0 +1,13 @@
+{
+  "title": "Ta\u0301xi",
+  "latitude": "40.2098533",
+  "longitude": "-8.4197872",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

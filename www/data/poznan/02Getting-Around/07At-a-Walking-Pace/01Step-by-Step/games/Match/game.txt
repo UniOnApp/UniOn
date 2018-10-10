@@ -1,0 +1,7 @@
+Match the correspondent Polish nouns with the English:
+[pair]bilet_ticket
+[pair]rozkład jazdy_timetable
+[pair]postój taksówek_taxi stand
+[pair]przystanek tramwajowy_tram stop
+[pair]ścieżka rowerowa_bicycle path
+[pair]dworzec główny_main station

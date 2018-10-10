@@ -1,0 +1,60 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Wycieczki zorganizowane (zorganizować)</p>
+</td>
+<td>
+<p>organized city walks</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z przewodnikiem</p>
+</td>
+<td>
+<p>with a guide</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odbywają się (odbywać się) niezawodnie</p>
+</td>
+<td>
+<p>take place</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bez względu na pogodę</p>
+</td>
+<td>
+<p>regardless of the weather</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>możesz skorzystać z comiesięcznych wypraw</p>
+</td>
+<td>
+<p>enjoy a city walk organized every month</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyprawy tematyczne</p>
+</td>
+<td>
+<p>theme city walks</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zdecyduj się (zdecydować się) na gry miejskie</p>
+</td>
+<td>
+<p>choose (to choose) urban games</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Studying",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["library","faculdade","year","departamento","inforestudante","biblioteca","inscrição","exame","prova"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

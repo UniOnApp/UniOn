@@ -1,0 +1,13 @@
+{
+  "title": "Makers of History",
+  "latitude": "52.408219",
+  "longitude": "16.917299",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Używany rower</p>
+</td>
+<td>
+<p>second-hand bicycle</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprawdź (sprawdzać)</p>
+</td>
+<td>
+<p>check (to check)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lista sklep&oacute;w rowerowych</p>
+</td>
+<td>
+<p>a list of bicycle shops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warsztaty naprawcze</p>
+</td>
+<td>
+<p>repair shops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>coniedzielne targi staroci</p>
+</td>
+<td>
+<p>a vintage flea held every Sunday</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stabilność ramy</p>
+</td>
+<td>
+<p>stability of the frame</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprawność amortyzator&oacute;w</p>
+</td>
+<td>
+<p>operating conditions of the shock absorbers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyprofilowanie k&oacute;ł</p>
+</td>
+<td>
+<p>wheel geometry</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bieżniki opon</p>
+</td>
+<td>
+<p>tire treads</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skuteczność hamulc&oacute;w</p>
+</td>
+<td>
+<p>effectiveness of brakes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zębatki przerzutek</p>
+</td>
+<td>
+<p>cogset</p>
+</td>
+</tr>
+</tbody>
+</table>

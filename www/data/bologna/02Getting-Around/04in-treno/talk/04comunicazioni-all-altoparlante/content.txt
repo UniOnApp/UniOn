@@ -1,0 +1,13 @@
+{
+  "title": "Comunicazioni all'altoparlante",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>\u201CIl treno Alta Velocit\u00E0 2345 proveniente da Milano Centrale e diretto a Venezia Santa Lucia delle ore 14.03 \u00E8 in arrivo al binario 16. Attenzione, allontanarsi dalla linea gialla. Ferma a Padova. La prima classe \u00E8 in testa\/in coda al treno. Per agevolare l\u2019accesso al treno, invitiamo i viaggiatori a disporsi lungo il marciapiede in base alla posizione della carrozza indicata dai monitor, consentendo, prima di salire, la discesa dei viaggiatori in arrivo\u201D.<\/p><\/td><td><\/td><\/tr><tr><td><p>\u201CAttenzione, si rammenta che \u00E8 vietato aprire le porte esterne dei treni e salire o scendere quando non sono completamente fermi\u201D.<\/p><\/td><td><\/td><\/tr><tr><td><p>\u201CIl treno Regionale Veloce 11536 per Porretta Terme \u00E8 in partenza dal binario 2\u201D.<\/p><\/td><td><\/td><\/tr><tr><td><p>\u201CAttenzione, \u00E8 vietato oltrepassare la linea gialla in attesa dei treni\u201D.<\/p><\/td><td><\/td><\/tr><tr><td><p>\u201CAttenzione, il treno in transito al binario 6 non fa servizio viaggiatori\u201D.<\/p><\/td><td><\/td><\/tr><tr><td><p>\u201CAnnuncio ritardo: il treno regionale veloce 1144 delle ore 17.32 partir\u00E0 con un ritardo previsto di 10 minuti per un guasto ad un treno precedente. Invitiamo i viaggiatori a prestare attenzione a successive comunicazioni\u201D.<\/p><\/td><td><\/td><\/tr><tr><td><p>\u201CAnnuncio ritardo: Il treno 1155 arriver\u00E0 con un ritardo previsto di 95 minuti diversamente da quanto gi\u00E0 annunciato. Ci scusiamo per il disagio\u201D.<\/p><\/td><td><\/td><\/tr><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

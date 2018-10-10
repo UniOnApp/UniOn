@@ -1,0 +1,13 @@
+{
+  "title": "Wielkopolski Sq.",
+  "latitude": "52.410556",
+  "longitude": "16.931389",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

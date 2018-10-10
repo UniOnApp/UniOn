@@ -1,0 +1,13 @@
+{
+  "title": "Malta Therms",
+  "latitude": "52.405194",
+  "longitude": "16.976058",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Fare acquisti",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["Negozi",
+"botteghe",
+"mercati",
+"supermercati",
+"acquisti",
+"negozio",
+"bottega",
+"mercato",
+"supermercato",
+"acquisto"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

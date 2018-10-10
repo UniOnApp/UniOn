@@ -1,0 +1,13 @@
+{
+  "title": "Main Bus Terminal",
+  "latitude": "40.2162879",
+  "longitude": "-8.4368065",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

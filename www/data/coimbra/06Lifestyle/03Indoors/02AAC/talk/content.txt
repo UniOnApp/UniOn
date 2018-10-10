@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Que atividade desportiva faz? &ndash; <em>What sport do you practice?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Com que frequ&ecirc;ncia? &ndash; <em>How frequently?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Durante quanto tempo? &ndash; <em>For how long?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Qual &eacute; a atividade cultural que procura? &ndash; <em>Which cultural activity are you looking for?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

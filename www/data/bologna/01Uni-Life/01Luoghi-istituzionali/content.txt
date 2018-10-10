@@ -1,0 +1,13 @@
+{
+  "title": "Luoghi istituzionali",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "data/bologna/01Uni-Life/lexicon/",
+  "lexiconTranslation": ""
+}

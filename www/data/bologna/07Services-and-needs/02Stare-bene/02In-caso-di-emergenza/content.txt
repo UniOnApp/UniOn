@@ -1,0 +1,16 @@
+{
+  "title": "In caso di emergenza",
+  "latitude": "44.490597",
+  "longitude": "11.364027",
+  "difficulty": "mid",
+  "keyword": ["emergenze",
+"emergenza",
+"Pronto Soccorso",
+"ambulanza"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

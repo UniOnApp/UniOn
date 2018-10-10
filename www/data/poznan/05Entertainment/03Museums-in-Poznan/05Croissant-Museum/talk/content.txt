@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Pami\u0119tasz smak \u015Bwi\u0119tomarci\u0144skiego rogala? Pomy\u015Bla\u0142am, \u017Ce warto na d\u0142u\u017Cej zatrzyma\u0107 to wspomnienie i wybra\u0107 si\u0119 do Muzeum Rogala.<\/p>\r\n<p>- Muzeum Rogala? Brzmi nieprawdopodobnie! Naprawd\u0119 istnieje takie muzeum?<\/p>\r\n<p>- Naturalnie, cieszy si\u0119 niezwyk\u0142\u0105 popularno\u015Bci\u0105 w\u015Br&oacute;d turyst&oacute;w.<\/p>\r\n<p>- Skoro tak, to mo\u017Ce zam&oacute;wimy wcze\u015Bniej bilety, by m&oacute;c obejrze\u0107 pokaz rogalowy.<\/p>\r\n<p>- Zatem mamy przed sob\u0105 \u015Bwietn\u0105 przygod\u0119 w renesansowej kamienicy! Pami\u0119taj, by spogl\u0105da\u0107 przez okna &ndash; pono\u0107 widok na ratusz jest st\u0105d najpi\u0119kniejszy!<\/p>\r\n<p>- My\u015Blisz, \u017Ce zdradz\u0105 nam sekret nadzienia? To by\u0142aby prawdziwa pami\u0105tka erasmusowa!<\/p>\r\n<p>-Nie s\u0105dz\u0119, raczej b\u0119dziemy wraca\u0107 tutaj tak\u017Ce ze wzgl\u0119du na smak rogali!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Pami\u0119tasz (pami\u0119ta\u0107) smak, warto zatrzyma\u0107 na d\u0142u\u017Cej wspomnienie, wybra\u0107 si\u0119 do..., cieszy (cieszy\u0107) si\u0119 popularno\u015Bci\u0105, zam&oacute;wimy (zam&oacute;wi\u0107) bilety, obejrze\u0107 pokaz, mamy (mie\u0107) przed sob\u0105..., \u015Bwietna przygoda, spogl\u0105da\u0107 przez okna, widok, zdradz\u0105 (zdradza\u0107) sekret, pami\u0105tka.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Uni Library",
+  "latitude": "52.407247",
+  "longitude": "16.925290",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

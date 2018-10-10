@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- No to jeste\u015Bmy <strong>na Starym Rynku<\/strong>.<\/p>\r\n<p>- Ratusz jest rzeczywi\u015Bcie pi\u0119kny, ale co teraz robimy?<\/p>\r\n<p>- Czekamy<strong>, jest za pi\u0119\u0107 dwunasta<\/strong> (11.55), za pi\u0119\u0107 minut b\u0119d\u0105 kozio\u0142ki.<\/p>\r\n<p>- Kozio\u0142ki??? A to co znowu? Najpierw pr\u0119gierz, teraz kozio\u0142ki!<\/p>\r\n<p>- O<strong>, popatrz w g&oacute;r\u0119<\/strong>, ju\u017C otwieraj\u0105 si\u0119 <strong>ma\u0142e drzwi<\/strong> i wyje\u017Cd\u017Caj\u0105 <strong>figurki dw&oacute;ch kozio\u0142k&oacute;w<\/strong>.<\/p>\r\n<p>- S\u0105 <strong>zabawne<\/strong>. <strong>Przypominam sobie<\/strong>, \u017Ce na lektoracie z polskiego czytali\u015Bmy <strong>legend\u0119<\/strong> o kozio\u0142kach. Teraz rozumiem, dlaczego na wielu <strong>pami\u0105tkach<\/strong> z Poznania mo\u017Cna zobaczy\u0107 kozio\u0142ki w\u0142a\u015Bnie.<\/p>\r\n<p>- Mo\u017Ce kupimy jakie\u015B pami\u0105tki dla Twoich koleg&oacute;w?<\/p>\r\n<p>- Fajnie. Kupi\u0119 drewniane kozio\u0142ki dla kolegi i <strong>ekologiczn\u0105 torb\u0119 z nadrukiem<\/strong> dla mojej dziewczyny.<\/p>\r\n<p>- O, tu jest <strong>du\u017Cy wyb&oacute;r<\/strong> pami\u0105tek. Kt&oacute;ra torba Ci si\u0119 podoba? Jest z kozio\u0142kami, z napisem <em>Pozna\u0144ska<\/em> <em>pyra<\/em>.<\/p>\r\n<p>- Bior\u0119 obie, mo\u017Ce siostrze dam jedn\u0105. A teraz dok\u0105d?<\/p>\r\n<p>- Poka\u017C\u0119 Ci pomnik starego Marycha.<\/p>\r\n<p>- Kogo? Dziwne tu macie pomniki&hellip;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Na Starym Rynku, za pi\u0119\u0107 dwunasta, popatrz w g&oacute;r\u0119, ma\u0142e drzwi, figurki dw&oacute;ch kozio\u0142k&oacute;w, zabawne, przypominam sobie, legenda, pami\u0105tka\/pami\u0105tki, drewniane, du\u017Cy wyb&oacute;r, ekologiczna torba z nadrukiem.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

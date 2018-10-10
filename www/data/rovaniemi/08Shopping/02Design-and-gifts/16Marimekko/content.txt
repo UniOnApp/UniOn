@@ -1,0 +1,13 @@
+{
+  "title": "Marimekko",
+  "latitude": "66.503026",
+  "longitude": "25.725718",
+  "difficulty": "",
+  "keyword": ["textile","tekstiili","clothes","design","shirt"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

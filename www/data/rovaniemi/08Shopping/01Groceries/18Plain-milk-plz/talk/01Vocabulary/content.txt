@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>The milk department of your local supermarket can be overwhelming. Here&rsquo;s a list of common dairy products to help you in your quest!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>jugurtti, jogurtti<\/strong> yogurt, yoghurt<\/p>\r\n<p><strong>juusto<\/strong> cheese<\/p>\r\n<p><strong>j&auml;&auml;tel&ouml;<\/strong> ice cream<\/p>\r\n<p><strong>kahvikerma<\/strong> coffee cream<\/p>\r\n<p><strong>kerma<\/strong> cream<\/p>\r\n<p><strong>kermavaahto<\/strong> whipped cream<\/p>\r\n<p><strong>kermaviili<\/strong> curd cream<\/p>\r\n<p><strong>kevytmaito<\/strong> semi-skimmed milk<\/p>\r\n<p><strong>kuohukerma<\/strong> whipping cream<\/p>\r\n<p><strong>laktoositon, EILA<\/strong> lactose-free<\/p>\r\n<p><strong>luomu<\/strong> organic<\/p>\r\n<p><strong>luonnonjugurtti<\/strong> natural yogurt<\/p>\r\n<p><strong>maito<\/strong> milk<\/p>\r\n<p><strong>piim&auml;<\/strong> buttermilk<\/p>\r\n<p><strong>pirtel&ouml;<\/strong> milkshake<\/p>\r\n<p><strong>raejuusto<\/strong> cottage cheese<\/p>\r\n<p><strong>rahka<\/strong> quark<\/p>\r\n<p><strong>ranskankerma<\/strong> cr&egrave;me fra&icirc;che<\/p>\r\n<p><strong>rasvaton<\/strong> fat-free<\/p>\r\n<p><strong>rasvaton maito<\/strong> skimmed milk<\/p>\r\n<p><strong>ruokakerma<\/strong> cooking cream<\/p>\r\n<p><strong>smetana<\/strong> smetana<\/p>\r\n<p><strong>tuorejuusto<\/strong> cream cheese<\/p>\r\n<p><strong>t&auml;ysmaito<\/strong> whole milk<\/p>\r\n<p><strong>vanukas<\/strong> pudding<\/p>\r\n<p><strong>viili<\/strong> curd milk<\/p>\r\n<p><strong>vispikerma<\/strong> whipping cream<\/p>\r\n<p><strong>voi<\/strong> butter<\/p>\r\n<p><strong>v&auml;h&auml;laktoosinen, HYLA<\/strong> low-lactose<\/p>\r\n<p><strong>v&auml;h&auml;rasvainen<\/strong> low-fat<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

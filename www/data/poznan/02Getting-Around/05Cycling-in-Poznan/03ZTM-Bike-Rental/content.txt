@@ -1,0 +1,13 @@
+{
+  "title": "ZTM Bike Rental",
+  "latitude": "52.464825",
+  "longitude": "16.916692",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

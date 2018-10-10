@@ -1,0 +1,13 @@
+{
+  "title": "Parque Verde",
+  "latitude": "40.202016",
+  "longitude": "-8.425699",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,172 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Fenomen</p>
+</td>
+<td>
+<p>phenomenon</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ponowny rozkwit</p>
+</td>
+<td>
+<p>Renaissance of sth</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zawdzięczać</p>
+</td>
+<td>
+<p>to owe sth to sth</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mural</p>
+</td>
+<td>
+<p>mural</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zburzyć</p>
+</td>
+<td>
+<p>to demolish</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>popadać w zapomnienie</p>
+</td>
+<td>
+<p>to fall into oblivion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odsłonić</p>
+</td>
+<td>
+<p>to uncover</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>trębacz na dachu</p>
+</td>
+<td>
+<p>trumpeter at a roof</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>malowidło</p>
+</td>
+<td>
+<p>painting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w oparciu o zdjęcie</p>
+</td>
+<td>
+<p>inspired by a photograph</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odbić się echem</p>
+</td>
+<td>
+<p>get a lot of publicity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>serwować</p>
+</td>
+<td>
+<p>to serve</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>harmonia</p>
+</td>
+<td>
+<p>harmony</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>klasztor</p>
+</td>
+<td>
+<p>cloister</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kości&oacute;ł</p>
+</td>
+<td>
+<p>church</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odczarować</p>
+</td>
+<td>
+<p>to brake the spell</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przywracać dawną świetność</p>
+</td>
+<td>
+<p>to bring back to prominence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podr&oacute;że w czasie</p>
+</td>
+<td>
+<p>time travels</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niedostępne</p>
+</td>
+<td>
+<p>inaccessible</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>smakołyki</p>
+</td>
+<td>
+<p>specialties</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zupa piwna</p>
+</td>
+<td>
+<p>beer soup</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Boutiquing",
+  "latitude": "66.502026",
+  "longitude": "25.725800",
+  "difficulty": "",
+  "keyword": ["clothes","clothing","vaatteet","vintage","design"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

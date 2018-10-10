@@ -1,0 +1,13 @@
+{
+  "title": "Ciacho (ICHOT)",
+  "latitude": "52.412321",
+  "longitude": "16.954777",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

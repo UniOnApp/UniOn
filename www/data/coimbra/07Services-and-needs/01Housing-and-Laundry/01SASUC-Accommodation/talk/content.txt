@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Resid&ecirc;ncia universit&aacute;ria &ndash; <\/strong><em>university residence<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>quarto duplo <em>&ndash; double room<\/em><\/p>\r\n<p>todas as despesas de &aacute;gua, luz, g&aacute;s, internet, televis&atilde;o &ndash; <em>all utility bills<\/em><\/p>\r\n<p>mudan&ccedil;a semanal de roupa de cama e atoalhados de banho &ndash; <em>weekly change of towels and bed linen<\/em><\/p>\r\n<p>utiliza&ccedil;&atilde;o de cozinha equipada com micro-ondas &ndash; <em>kitchen\/microwave use<\/em><\/p>\r\n<p>acesso a m&aacute;quina de lavar e secar roupa &ndash; <em>access to washer and drier<\/em><\/p>\r\n<p>t&aacute;bua e ferro de passar &ndash; <em>ironing board<\/em><\/p>\r\n<p>sala de estudo - <em>studyroom<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Arktikum",
+  "latitude": "66.507389",
+  "longitude": "25.726077",
+  "difficulty": "",
+  "keyword": ["museum","museo","arctic centre","exhibition","history","conference","research","architecture","war"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

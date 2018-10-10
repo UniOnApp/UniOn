@@ -1,0 +1,13 @@
+{
+  "title": "Try it yourself!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p class=\"p1\"><span class=\"s1\">Now, are you able to find out the acts of <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">hiking<\/span><\/span><span class=\"s1\">, <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">driving<\/span><\/span><span class=\"s1\">, <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">sleeping<\/span><\/span><span class=\"s1\">, <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">reading<\/span><\/span><span class=\"s1\"> and <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">studying<\/span><\/span><span class=\"s1\"> in Finnish if you&rsquo;re given the corresponding verbs: <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">vaeltaa<\/span><\/span><span class=\"s1\">, <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">ajaa<\/span><\/span><span class=\"s1\">, <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">nukkua<\/span><\/span><span class=\"s1\">, <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">lukea<\/span><\/span><span class=\"s1\"> and <\/span><span style=\"text-decoration: underline;\"><span class=\"s2\">opiskella<\/span><\/span><span class=\"s1\">?<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\">All these activities will become familiar to you during your stay in Rovaniemi!<\/span><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

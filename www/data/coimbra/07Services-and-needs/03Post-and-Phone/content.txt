@@ -1,0 +1,13 @@
+{
+  "title": "Post & Phone",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["post","correios","carta","encomenda","SIM-card","telemóvel"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

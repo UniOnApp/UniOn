@@ -1,0 +1,13 @@
+{
+  "title": "In Banca",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p style=\"text-align: center;\"><em>Talk<\/em><\/p><\/th><th><p style=\"text-align: center;\"><em>Answer Models<\/em><\/p><\/th><\/tr><tr><td><p>Buongiorno, che cosa devo fare per aprire un conto corrente?<\/p><\/td><td><\/td><\/tr><tr><td><p>Devo fare un bonifico su un conto inglese. Che dati occorrono?<\/p><\/td><td><\/td><\/tr><tr><td><p>Vorrei addebitare le bollette di acqua e gas sul mio conto corrente<\/p><\/td><td><\/td><\/tr><tr><td><p>Mi hanno rubato il bancomat e la carta di credito. Vorrei bloccarli subito. Che cosa devo fare?<\/p><\/td><td><\/td><\/tr><tr><td><p>Ho smarrito il codice segreto del bancomat. Come faccio a sostituirlo?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

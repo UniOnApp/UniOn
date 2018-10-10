@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>De que cor &eacute; a Faculdade de Letras?<\/p>\r\n<p>Qual &eacute; a cor da Faculdade de Medicina?<\/p>\r\n<p><em>What&rsquo;s the colour of the Faculty of Arts\/Medicine?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Cor\/ cores (colour\/ colours)<\/p>\r\n<p>Branco - white<\/p>\r\n<p>Preto - black<\/p>\r\n<p>Cinzento - grey<\/p>\r\n<p>Amarelo - yellow<\/p>\r\n<p>Vermelho - red<\/p>\r\n<p>Azul - blue<\/p>\r\n<p>Verde - green<\/p>\r\n<p>Cor de rosa - pink <\/p>\r\n<p>Cor de laranja - orange<\/p>\r\n<p>Roxo\/ lil&aacute;s - purple\/ lilac <\/p>\r\n<p>Castanho - brown <\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

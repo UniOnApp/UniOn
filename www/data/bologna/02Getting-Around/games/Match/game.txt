@@ -1,0 +1,8 @@
+<b>Ad ogni azione corrisponde un luogo:</b><br />
+se timbri il biglietto sei sull’autobus o in stazione, se chiedi informazioni al capotreno sei sul treno, e così via. Trova le associazioni più appropriate tra azioni e luoghi.
+[pair]Cedere il posto a sedere_Sull’autobus
+[pair]Non oltrepassare la linea gialla_Al binario
+[pair]Pedalare_Sulla pista ciclabile
+[pair]Camminare_Sotto i portici
+[pair]Prendere il treno_In stazione
+[pair]Salire sull’autobus_Alla fermata

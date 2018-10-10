@@ -1,0 +1,36 @@
+<p><strong>I luoghi</strong><strong><br /> </strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/01quanto-sei-sportivo/")' >Le strutture attrezzate</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/01quanto-sei-sportivo/")' >Gli impianti sportivi</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/02allo-stadio/")' >Il campo da calcio</span></p>
+<p><span>Il campo da baseball/tennis/pallavolo/basket</span></p>
+<p><span>Lo stadio</span></p>
+<p><span>Il palazzetto dello sport</span></p>
+<p><span>L'ippodromo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/02allo-stadio/")' >La pista di atletica</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/02allo-stadio/")' >La piscina olimpionica</span></p>
+<p>&nbsp;</p>
+<p><strong>Dove sedersi</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/02allo-stadio/")' >Il <em>parterre</em></span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/02allo-stadio/")'>Le gradinate</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/02allo-stadio/")' >Le tribune numerate</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/02allo-stadio/")' >La tribuna coperta</span></p>
+<p>&nbsp;</p>
+<p><strong>Tipi di sport</strong> </p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/01quanto-sei-sportivo/")' >Acquatico</span>: sport che si fa in acqua, come per esempio la pallanuoto, l’apnea, lo snorkeling.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/01quanto-sei-sportivo/")' >Di squadra</span>: sport in cui due squadre si sfidano, come per esempio nel calcio, nella pallavolo, nel basket.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/01quanto-sei-sportivo/")' >Di coppia</span>: si gioca in due, come nel tennis doppio, per esempio.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/01quanto-sei-sportivo/")' >Individuale</span>: si fa da soli, in autonomia, per esempio in atletica leggera ci sono diverse specialità individuali, o nello sci.</p>
+<p>&nbsp;</p>
+<p><strong>Altre parole dello sport</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/01quanto-sei-sportivo/")' >I posti a esaurimento</span>: <em>"bisogna affrettarsi a iscriversi, i posti sono in esaurimento".</em><br />I posti disponibili sono limitati a un certo numero e stanno terminando.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/01quanto-sei-sportivo/")'>Il certificato medico</span>: <em>"Per iscriversi in palestra occorre il certificato medico di sana e robusta costituzione per attività non agonistiche".</em><br />Documento rilasciato dal medico curante in cui si attestano le condizioni di buona salute della persona che inizier&agrave; a praticare uno sport.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/01quanto-sei-sportivo/")'>Lo sport agonistico</span>: uno sport viene praticato a livello agonistico quando il livello &egrave; alto e competitivo. I professionisti praticano sport a livello agonistico. Il suo contrario &egrave; &lsquo;per diletto&rsquo;, &lsquo;sportivo dilettante&rsquo;, praticare sport a livello &lsquo;dilettantistico&rsquo;, cio&egrave; per diletto, divertimento.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/02allo-stadio/")'>Lo scudetto</span>: <em>"Nel 2018 la Juventus ha vinto il 7° scudetto di fila, senza interruzioni".</em><br />Piccolo distintivo a forma di scudo; per estensione, ci si riferisce al titolo di campione d&rsquo;Italia, per esempio nel campionato nazionale di serie A di calcio, basket, rugby, ecc.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/04scommettiamo/")'> La puntata</span>: dal verbo puntare, cio&egrave; scommettere un certo importo di denaro su un numero, un cavallo, o altro.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/04scommettiamo/")'>Il montepremi</span>: <em>"Il montepremi in palio è molto alto".</em><br />Come dice la parola, monte+premi, si tratta dell&rsquo;importo di una vincita.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/05campioni-di-basket/")'>I tifosi</span>: sostenitori di una squadra, di un atleta, ecc. Per esempio i tifosi della Juventus, dell’Inter, ecc. </p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/05campioni-di-basket/")'>acerrimi</span>: superlativo di acre, che significa in questo contesto accanito, tenacemento avverso.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/02allo-stadio/")' >alla vigilia di</span>: poco tempo prima, il giorno prima.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/01Fare-sport/03baseball-gianni-falchi/")'>di nicchia</span>: solo per pochi, per alcune categorie di persona, molto ricercato.</p>

@@ -1,0 +1,148 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Kawa</p>
+</td>
+<td>
+<p>coffee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>herbata</p>
+</td>
+<td>
+<p>tea</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ulubiony nap&oacute;j</p>
+</td>
+<td>
+<p>favorite beverage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pretekst do spotkań/pogaduszek</p>
+</td>
+<td>
+<p>good reason to meet and have a chat with friends</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>filiżanka</p>
+</td>
+<td>
+<p>cup</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>filiżaneczka </p>
+</td>
+<td>
+<p>demitass</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szklanka</p>
+</td>
+<td>
+<p>glass</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kubek</p>
+</td>
+<td>
+<p>mugs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kieliszek</p>
+</td>
+<td>
+<p>glass</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wielbiciel kawy</p>
+</td>
+<td>
+<p>enthusiast of coffee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ulica-deptak</p>
+</td>
+<td>
+<p>pedestrian zone</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>urokliwe kawiarenki</p>
+</td>
+<td>
+<p>enchanting coffee shops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ogr&oacute;dki letnie</p>
+</td>
+<td>
+<p>summer gardens</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsca na zewnątrz</p>
+</td>
+<td>
+<p>outside seating</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w otoczeniu zieleni</p>
+</td>
+<td>
+<p>in green surroundings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>święto ulicy</p>
+</td>
+<td>
+<p>street&rsquo;s name day</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koncerty na żywo</p>
+</td>
+<td>
+<p>live concerts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dokonać wyboru</p>
+</td>
+<td>
+<p>to make a choice</p>
+</td>
+</tr>
+</tbody>
+</table>

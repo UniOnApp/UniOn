@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Carmen: Cze\u015B\u0107 Tomek, znasz mo\u017Ce jakie\u015B fajne miejsce na weekend? W sobot\u0119 ma by\u0107 \u0142adna pogoda.<\/p>\r\n<p>Tomek: Jasne! Mo\u017Cesz zabra\u0107 znajomych do Kiekrza, nad Strzeszynek albo nad Rusa\u0142k\u0119.<\/p>\r\n<p>Carmen: Tak? A co tam mo\u017Cna robi\u0107?<\/p>\r\n<p>Tomek: Mo\u017Cecie tam pop\u0142ywa\u0107 rowerem wodnym, pogra\u0107 w siatk&oacute;wk\u0119 albo poopala\u0107 si\u0119.<\/p>\r\n<p>Carmen: Czy mo\u017Cna tam co\u015B zje\u015B\u0107?<\/p>\r\n<p>Tomek: Oczywi\u015Bcie, najlepsza jest restauracja <em>Frajda<\/em> nad Rusa\u0142k\u0105. Mo\u017Cecie tam zje\u015B\u0107 lody albo zam&oacute;wi\u0107 sma\u017Con\u0105 ryb\u0119, zapiekank\u0119 i napi\u0107 si\u0119 piwka.<\/p>\r\n<p onclick=\"tts('Aha, to super! A jak mo\u017Cna tam dojecha\u0107?')\"><img style=\"width:9px; margin:0 2px 0 -9px;\" src=\"img\/voice.png\"\/>Carmen: Aha, to super! A jak mo\u017Cna tam dojecha\u0107?<\/p>\r\n<p onclick=\"tts('Bardzo \u0142atwo, autobusem nr 64, ale najlepiej wypo\u017Cyczy\u0107 rower i przy okazji objecha\u0107 ca\u0142\u0105 okolic\u0119.')\"><img style=\"width:9px; margin:0 2px 0 -9px;\" src=\"img\/voice.png\"\/>Tomek: Bardzo \u0142atwo, autobusem nr 64, ale najlepiej wypo\u017Cyczy\u0107 rower i przy okazji objecha\u0107 ca\u0142\u0105 okolic\u0119.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Fajne miejsce, miejsce na weekend, \u0142adna pogoda, znajomi, pop\u0142ywa\u0107 rowerem wodnym, pogra\u0107 w siatk&oacute;wk\u0119, poopala\u0107 si\u0119, zje\u015B\u0107 lody, zam&oacute;wi\u0107 sma\u017Con\u0105 ryb\u0119\/zapiekank\u0119, napi\u0107 si\u0119 piwka, objecha\u0107 ca\u0142\u0105 okolic\u0119.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Odnowiony</p>
+</td>
+<td>
+<p>restored</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>neorenesansowa zabudowa</p>
+</td>
+<td>
+<p>neo-Renaissance housing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>reprezentacyjny</p>
+</td>
+<td>
+<p>presentable</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzielnica robotnicza</p>
+</td>
+<td>
+<p>working-class district</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zakłady produkcyjne</p>
+</td>
+<td>
+<p>production plants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przesądzić</p>
+</td>
+<td>
+<p>to determine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przemysłowy charakter</p>
+</td>
+<td>
+<p>industrial character</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>barwna historia</p>
+</td>
+<td>
+<p>interesting story</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wiatrak</p>
+</td>
+<td>
+<p>windmill</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyburzyć</p>
+</td>
+<td>
+<p>to tear down</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zabytkowa łaźnia miejska</p>
+</td>
+<td>
+<p>historic city bath</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dom starc&oacute;w</p>
+</td>
+<td>
+<p>old people&rsquo;s home</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Al mercato",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "data/bologna/08Shopping/lexicon/",
+  "lexiconTranslation": ""
+}

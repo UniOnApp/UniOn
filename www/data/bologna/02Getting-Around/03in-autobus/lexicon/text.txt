@@ -1,0 +1,37 @@
+<p><strong>In autobus/Sull&rsquo;autobus</strong></p>
+<p>L&rsquo;(auto)bus, La corriera, La navetta</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/01prendere-l-autobus/")' >L&rsquo;abbonamento</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/01prendere-l-autobus/")' >Il biglietto (formale: il titolo di viaggio)</span></p>
+<p>Il citypass</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >Il posto a sedere</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/01prendere-l-autobus/")' >L&rsquo;orario di partenza/di arrivo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >La macchinetta per timbrare il biglietto/l&rsquo;obliteratrice</span></p>
+<p>La porta di entrata/di uscita</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >Il pulsante per prenotare la fermata</span></p>
+<p>&nbsp;</p>
+<p><strong>I luoghi</strong></p>
+<p>L&rsquo;autostazione</p>
+<p>La corsia preferenziale</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >La fermata dell&rsquo;autobus</span></p>
+<p>La pensilina</p>
+<p>Il punto informazioni</p>
+<p>&nbsp;</p>
+<p><strong>Le persone</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >L&rsquo;autista/Il conducente</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/talk/02interagire-con-il-controllore/")' >Il controllore</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >Il passeggero</span></p>
+<p>&nbsp;</p>
+<p><strong>Le</strong> <strong>Azioni</strong></p>
+<p>Prendere l&rsquo;autobus/perdere l&rsquo;autobus/salire sull&rsquo;autobus/scendere dall&rsquo;autobus</p>
+<p>Comprare/acquistare il biglietto</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >Timbrare/validare/obliterare il biglietto</span></p>
+<p>L&rsquo;autobus &egrave; puntuale/in ritardo</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >Prenotare la fermata</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >Spostarsi/scorrere/muoversi in avanti</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >Lasciare/cedere il posto a sedere</span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/01prendere-l-autobus/")' >Fare al caso di qn. (eng. to be right for someone)</span>: &ldquo;<em>questa casa fa proprio al caso nostro</em>&rdquo;; &ldquo;<em>questo lavoro fa al caso tuo...</em>&rdquo;<br />Fare al caso di qualcuno significa adattarsi alle esigenze di una persona, incontrare i suoi gusti, essere conveniente per quella persona. Ci sono molte espressioni con CASO. Da non confondere con &ldquo;far caso a qualcosa&rdquo; che significa fare attenzione, accorgersi.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/02buone-regole/")' >Fare un cenno (eng. to make a gesture)</span>: &ldquo;<em>fai un cenno quando vuoi andare via</em>&rdquo;; &ldquo;<em>fai un cenno all&rsquo;autista per prenotare la fermata</em>&rdquo;.<br />Il cenno &egrave; un gesto, un segno che si fa con la mano, con gli occhi e con il viso. Si fa un cenno quando si vuole comunicare qualcosa, senza parlare.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/01prendere-l-autobus/")' >Spiccioli (eng. small change)</span>: gli spiccioli sono soldi di piccola taglia, di solito monete.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/03in-autobus/03aforismi-e-aneddoti/")' >Corsia preferenziale (eng. bus lane)</span>: la corsia preferenziale &egrave; la parte di strada riservata alla circolazione dei mezzi pubblici. I mezzi pubblici come gli autobus circolano sulla corsia preferenziale per evitare il traffico automobilistico e ridurre i tempi di spostamento.</p>

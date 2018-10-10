@@ -1,0 +1,13 @@
+{
+  "title": "Lost and found",
+  "latitude": "66.503244",
+  "longitude": "25.724252",
+  "difficulty": "",
+  "keyword": ["missing","löytötavara","lost-and-found","keys"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

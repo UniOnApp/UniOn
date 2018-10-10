@@ -1,0 +1,76 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Niezwykła okazja</p>
+</td>
+<td>
+<p>unique opportunity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wielka scena teatralna</p>
+</td>
+<td>
+<p>big theater scene</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jedno z ważniejszych artystycznych wydarzeń</p>
+</td>
+<td>
+<p>one of the major artistic events</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pierwsza edycja festiwalu</p>
+</td>
+<td>
+<p>festival&rsquo;s first edition</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>formy teatralne</p>
+</td>
+<td>
+<p>theatrical forms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>otwierała (otwierać) się na inne sztuki</p>
+</td>
+<td>
+<p>festival&rsquo;s format expanded to include other forms of art</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sławy światowe</p>
+</td>
+<td>
+<p>world-renowned ensembles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zespoły alternatywne</p>
+</td>
+<td>
+<p>alternative bands</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>teatry uliczne</p>
+</td>
+<td>
+<p>street theaters</p>
+</td>
+</tr>
+</tbody>
+</table>

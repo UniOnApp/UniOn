@@ -1,0 +1,116 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Międzynarodowe Warsztaty Tańca Wsp&oacute;łczesnego</p>
+</td>
+<td>
+<p>International Contemporary Dance Workshops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Międzynarodowy Festiwal Teatr&oacute;w Tańca</p>
+</td>
+<td>
+<p>International Dance Theaters&rsquo; Festival</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powszechnie wybierane</p>
+</td>
+<td>
+<p>increasingly popular</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>specjalistyczne warsztaty</p>
+</td>
+<td>
+<p>specialist workshops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wybitni choreografowie</p>
+</td>
+<td>
+<p>outstanding choreographers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>awangardowy ruch</p>
+</td>
+<td>
+<p>Avant-garde movement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>techniki taneczne</p>
+</td>
+<td>
+<p>dance techniques</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>entuzjasta tańca</p>
+</td>
+<td>
+<p>fan of dancing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>intensywny rytm</p>
+</td>
+<td>
+<p>powerful rhythm</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>taneczne doświadczenie</p>
+</td>
+<td>
+<p>dance experience</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>scena prezentacji</p>
+</td>
+<td>
+<p>scene of presentation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spektakle taneczne</p>
+</td>
+<td>
+<p>dance performances</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spotkania ze wsp&oacute;łczesną estetyką</p>
+</td>
+<td>
+<p>encounters with modern aesthetics</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piękno zaklęte w ruchy</p>
+</td>
+<td>
+<p>beauty enchanted in motion</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Immigration",
+  "latitude": "66.496671",
+  "longitude": "25.728788",
+  "difficulty": "",
+  "keyword": ["integration","services","work","studying","employment","visa","viisumi"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

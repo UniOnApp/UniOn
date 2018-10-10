@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>[addressing staff]<\/p>\r\n<p>- Posso carregar o telem&oacute;vel\/ port&aacute;til\/ tablet?<\/p>\r\n<p><em>- Can I charge my mobile\/ laptop\/ tablet?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- H&aacute; aqui uma tomada?<\/p>\r\n<p><em>- Is there a socket here?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Qual &eacute; a palavra-passe?<\/p>\r\n<p><em>What&rsquo;s the password?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Ch&aacute;s e infus&otilde;es - teas and infusions<\/strong><\/p>\r\n<p>preto - <em>black<\/em><\/p>\r\n<p>verde -<em> green<\/em><\/p>\r\n<p>vermelho\/roibos - <em>rooibos<\/em><\/p>\r\n<p>camomilla - <em>camomile<\/em><\/p>\r\n<p>t&iacute;lia -<em> linden<\/em><\/p>\r\n<p>cidreira -<em> lemon balm<\/em><\/p>\r\n<p>frutos vermelhos - <em>forest fruits<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

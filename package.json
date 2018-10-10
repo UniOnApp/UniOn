@@ -1,0 +1,29 @@
+{
+  "name": "it.unibo.union",
+  "version": "0.1.2",
+  "displayName": "UniOn",
+  "cordova": {
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-tts": {},
+      "cordova-plugin-statusbar": {},
+      "cordova-plugin-local-notification": {},
+      "cordova-plugin-inappbrowser": {}
+    }
+  },
+  "dependencies": {
+    "cordova-android": "^6.4.0",
+    "cordova-ios": "^4.5.4",
+    "cordova-plugin-badge": "^0.8.6",
+    "cordova-plugin-device": "^2.0.1",
+    "cordova-plugin-inappbrowser": "^3.0.0",
+    "cordova-plugin-local-notification": "^0.9.0-beta.1",
+    "cordova-plugin-statusbar": "^2.4.1",
+    "cordova-plugin-tts": "~0.2.3",
+    "cordova-plugin-whitelist": "1"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "title": "Divertirsi",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["musei",
+"museo",
+"Divertimento",
+"Intrattenimento",
+"Cinema",
+"discoteche",
+"discoteca",
+"teatro",
+"pub",
+"birreria",
+"birrerie"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

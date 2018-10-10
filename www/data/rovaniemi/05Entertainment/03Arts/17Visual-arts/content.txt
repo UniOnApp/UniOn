@@ -1,0 +1,13 @@
+{
+  "title": "Visual arts",
+  "latitude": "66.501091",
+  "longitude": "25.718349",
+  "difficulty": "",
+  "keyword": ["art","taide","artist","gallery","museum","Korundi","exhibition"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

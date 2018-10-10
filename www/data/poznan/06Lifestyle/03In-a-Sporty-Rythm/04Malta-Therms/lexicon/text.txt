@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>kompleks sportowy</p>
+</td>
+<td>
+<p>sports complex</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>basen</p>
+</td>
+<td>
+<p>swimming pool</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rekreacja</p>
+</td>
+<td>
+<p>recreation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sportowy</p>
+</td>
+<td>
+<p>sports</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odpoczynek</p>
+</td>
+<td>
+<p>leisure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oderwać się od rzeczywistości</p>
+</td>
+<td>
+<p>to unwind</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czuć się jak w raju</p>
+</td>
+<td>
+<p>to feel like in paradise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pracować po godzinach</p>
+</td>
+<td>
+<p>to work overtime</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być wykończonym</p>
+</td>
+<td>
+<p>to be exhausted</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zabrać kogoś gdzieś</p>
+</td>
+<td>
+<p>to take someone to a place</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niespodzianka</p>
+</td>
+<td>
+<p>surprise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zrobić</p>
+</td>
+<td>
+<p>to do</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>fantastycznie</p>
+</td>
+<td>
+<p>fantastic</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cieszyć się</p>
+</td>
+<td>
+<p>to be happy about</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podobać się</p>
+</td>
+<td>
+<p>to like sth</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jedźmy!</p>
+</td>
+<td>
+<p>let&rsquo;s go!</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jedziemy</p>
+</td>
+<td>
+<p>off we go</p>
+</td>
+</tr>
+</tbody>
+</table>

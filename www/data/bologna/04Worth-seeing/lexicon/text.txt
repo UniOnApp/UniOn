@@ -1,0 +1,145 @@
+<p><strong>Gli difici religiosi</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/01San-Petronio/")' >La basilica</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >La cappella</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/02Santo-Stefano/")' >La chiesa</span></p>
+<p>Il convento</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/02Santo-Stefano/")' >Il monastero</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/02Santo-Stefano/")' >Il tempio</span></p>
+<p>&nbsp;</p>
+<p><strong>Descrivere la Pianta di una chiesa</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/01San-Petronio/")' >L'abside</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/03San-Pietro/")' >L'altare (maggiore)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/02Santo-Stefano/")' >Il chiostro</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/04San-Domenico/")' >Il coro (ligneo)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/04San-Domenico/")' >La facciata (a capanna)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/01San-Petronio/")' >La navata</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/03San-Pietro/")' >L'organo (a canne)</span></p>
+<p>La pianta (centrale, rettangolare)</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >Il portale</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >Il porticato</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/04San-Domenico/")' >Il transetto</span></p>
+<br><img src="data/bologna/04Worth-seeing/lexicon/img.jpg" style="width:100%"/><br>
+<p>&nbsp;</p>
+<p><strong>Descrivere gli esterni di un Palazzo storico </strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >La balconata</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/04Mercanzia/")' >Il balconcino</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/04Mercanzia/")' >Il baldacchino</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >Il bastione</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/03San-Pietro/")' >Il campanile</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >I contrafforti</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >La facciata</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/03Palazzo-Isolani/")' >La finestra (monofora, a ogiva)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >I merli</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >Le mura</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/03Le-Porte/")' >Il ponte levatoio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/04Palazzo-Albergati/")' >Il timpano</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/03San-Pietro/")' >La torre</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >I torrioni</span></p>
+<p>&nbsp;</p>
+<p><strong>Descrivere la pianta interna di un Palazzo storico</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/06Palazzo-Pepoli/")' >La corte</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/02Palazzo-Re-Enzo/")' >La loggia</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/04Palazzo-Albergati/")' >Il piano inferiore</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/05Palazzo-Malvezzi/")' >Il piano nobile</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/02Palazzo-Re-Enzo/")' >Il piano terreno, piano terra</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >Il portale</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/02Palazzo-Re-Enzo/")' >La scalinata</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >Lo scalone</span></p>
+<p>&nbsp;</p>
+<p><strong>Stili architettonici</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/02Santo-Stefano/")' >Barocco</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/03Palazzo-Isolani/")' >Corinzio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/04Palazzo-Albergati/")' >Dorico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >Gotico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/04Palazzo-Albergati/")' >Ionico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/04San-Domenico/")' >(neo)Rinascimentale</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/03San-Pietro/")' >Paleoromanico</span></p>
+<p>Romano</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/02Santo-Stefano/")' >Romanico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/05San-Francesco/")' >Tardo-gotico</span></p>
+<p>&nbsp;</p>
+<p><strong>Materiali</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/06Palazzo-Pepoli/")' >L'acciaio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/02Palazzo-Re-Enzo/")' >L'arenaria</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/02Nettuno-Dio-del-mare/")' >Il bronzetto di verona</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/02Nettuno-Dio-del-mare/")' >Il bronzo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/02Nettuno-Dio-del-mare/")' >Il calcare</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/03Le-Porte/")' >I ciottoli</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/05San-Francesco/")' >Il cotto</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/01La-Selva-Turrita/")' >Il gesso</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/03Le-Porte/")' >Il laterizio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/03Le-Porte/")' >Il legno (massiccio, massello)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/02Nettuno-Dio-del-mare/")' >Il marmo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/02Santo-Stefano/")' >Il mattone</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/04Collegio-di-Spagna/")' >Il mattone (a vista)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/03Le-Porte/")' >La muratura a sacco</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/03Le-Porte/")' >La pietra (arenaria)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/02Nettuno-Dio-del-mare/")' >Il rosso ammonitico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/03Le-Porte/")' >La sabbia</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/01La-Selva-Turrita/")' >La selenite</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >La terracotta (dorata, policroma)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/06Palazzo-Pepoli/")' >Il vetro</span></p>
+<p>&nbsp;</p>
+<p><strong>Elementi di sostegno</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/01La-Selva-Turrita/")' >Gli archi (a forma ogivale, a sesto acuto, a tutto sesto, rampanti)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/01San-Petronio/")' >Il basamento</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >La colonna (a obelisco, con capitello corinzio)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/02Santo-Stefano/")' >Il piedistallo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/04Mercanzia/")' >I pilastri</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/05San-Francesco/")' >I pilastroni (a lesene)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/01San-Petronio/")' >I piloni</span></p>
+<p>La volta (a botte)</p>
+<p>&nbsp;</p>
+<p><strong>Elementi decorativi, interni e esterni</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/03Palazzo-Isolani/")' >Gli affreschi</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/01San-Petronio/")' >I bassorilievi</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/04Palazzo-Albergati/")' >Le decorazioni (a stucco)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/04Palazzo-Albergati/")' >L'edicola</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/05San-Francesco/")' >La pala (marmorea)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/04San-Domenico/")' >Il rosone</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/04San-Domenico/")' >Lo stallo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/04Palazzo-Albergati/")' >Gli stucchi (barocchi)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/03Palazzo-Isolani/")' >Le tappezzerie (damascate)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' ><em>Il trompe l&rsquo;oeil</em></span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/01San-Petronio/")' >Le vetrate</span></p>
+<p>&nbsp;</p>
+<p><strong>Le armi</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/05VIII-Agosto/")' >Il cannone</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/05VIII-Agosto/")' >Il forcale</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/05VIII-Agosto/")' >Il fucile</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/05VIII-Agosto/")' >La pistola</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/05VIII-Agosto/")' >La sciabola</span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e Modi di dire</strong></p>
+<p><strong>Posizioni e Forme</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/01Piazza-Maggiore/")' >a raggiera (eng. radially, sunburst)</span>: &ldquo;<em>le strade partono a raggiera dalla piazza centrale</em>&rdquo;. <br /> Distribuito/i intorno a un punto centrale, come i raggi del sole.</p>
+<p>adiacente a (eng. contiguous, next to): &ldquo;<em>la mia casa &egrave; adiacente alla ferrovia</em>&rdquo;. <br /> attaccato a, vicino a, confinante con.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/02Piazza-Cavour/")' >alle spalle di (eng. at the back of, behind)</span>: dietro a, nella parte retrostante. Nell&rsquo;uso figurato &ldquo;<em>alle spalle di</em>&rdquo; significa anche &ldquo;<em>all&rsquo;insaputa di qualcuno</em>&rdquo; (esempio: parlavano tutti alle sue spalle) oppure &ldquo;<em>alle spese di qualcuno</em>&rdquo;, &ldquo;<em>a carico di qualcuno</em>&rdquo; (vive alle spalle di sua madre).</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/02Nettuno-Dio-del-mare/")' >ai piedi di (eng. at the foot of)</span>: sotto, nella parte inferiore (esempio: la citt&agrave; si trova ai piedi delle colline); nell&rsquo;uso figurato &ldquo;<em>essere ai piedi di qualcuno</em>&rdquo; significa essere al suo servizio, essere totalmente disponibile, in posizione subordinata.</p>
+<p>&nbsp;</p>
+<p><strong>Esclamazioni, Intercalari, Connettivi</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/02Piazza-Cavour/")' >a dire il vero (eng. to tell the truth, to be honest)</span>: &ldquo;a dire il vero, non sono stata io&rdquo;. <br /> Significa &ldquo;in verit&agrave;&rdquo;, &ldquo;veramente&rdquo;; questa espressione &egrave; usata per puntualizzare, meglio precisare, una informazione.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/02Piazza-Cavour/")' >tutt&rsquo;altro (eng. quite the contrary, not at all)</span>: niente affatto, neanche per sogno, neanche per idea; espressione usata per affermare che le cose stanno in modo diverso da quanto detto o creduto (esempio: hai fatto tardi ieri sera, eh? tutt&rsquo;altro, sono andata a letto alle nove!).</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >In seguito (eng. later on, afterwards)</span>: dopo, in un secondo tempo, successivamente.</p>
+<p>&nbsp;</p>
+<p><strong>Espressioni verbali</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/01Piazza-Maggiore/")' >eseguire le sentenze capitali (eng. to execute death sentence)</span>: la sentenza capitale &egrave; la condanna a morte di una persona; eseguirla significa procedere con la sua attuazione.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/01Palazzo-Accursio/")' >mettere in luce (eng. to highlight)</span>: mettere in evidenza, portare l&rsquo;attenzione su, fare luce su un avvenimento, una persona. Il contrario di questa espressione potrebbe essere &lsquo;<span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/01San-Petronio/")' >mettere in ombra</span>&rsquo;.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/06Palazzo-Pepoli/")' >essere oggetto di (eng. to be an object of)</span>: essere protagonista di qualcosa, essere al centro di qualcosa (esempio: le sue scoperte saranno oggetto delle prossime ricerche internazionali del settore), a volte con connotazione negativa (esempio: quella mostra &egrave; stata oggetto di molte critiche; il professore di matematica &egrave; oggetto di scherno degli studenti da molti anni).</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/06Palazzo-Pepoli/")' >rischiare questa sorte (eng. to risk this fate)</span>: andare incontro a un destino/evento indesiderabile.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/01La-Selva-Turrita/")' >rimanere traccia (eng. there is no trace of sth.)</span>: &ldquo;<em>in questa citt&agrave; non &egrave; rimasta traccia della civilt&agrave; minoica</em>&rdquo;. Lasciare segni, resti, indizi.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/01La-Selva-Turrita/")' >essere intatto (eng. to be undamaged, intact)</span>: &ldquo;<em>i reperti del museo sono intatti</em>&rdquo;. Integro, ben conservato, come l&rsquo;originale.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/02Nettuno-Dio-del-mare/")' >lavare il bucato (eng. to do the laudry)</span>: lavare i panni, la biancheria, i vestiti.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/03Le-Porte/")' >venire/essere risparmiato (eng. to spare)</span>: &ldquo;<em>Quel tragico terremoto ha risparmiato la vita di poche persone</em>&rdquo;. Scamparla, evitare qualcosa, in modo principalmente fortuito.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/05Palazzo-Malvezzi/")' >affidare il lavoro (eng. to entrust s.o. with a task)</span>: &ldquo;<em>Ieri ho affidato i lavori di ristrutturazione della mia casa a un ingegnere</em>&rdquo;. Assegnare un compito, incaricare un professionista di compiere un lavoro.</p>
+<p>&nbsp;</p>
+<p><strong>Modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/02Piazza-Cavour/")' >di risonanza (eng. to spread far and wide)</span>: &ldquo;le sue teorie scientifiche sono di risonanza internazionale&rdquo;. Di alto rilievo e interesse.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/03San-Pietro/")' >su appuntamento (eng. appointment needed)</span>: &ldquo;il dentista riceve solo su appuntamento&rdquo;. Se un professionista riceve &lsquo;su appuntamento&rsquo;, &egrave; necessario concordare una data e un orario, cio&egrave; prendere un appuntamento.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/03San-Pietro/")' >degno di nota (eng. remarkable, noteworthy)</span>: &ldquo;questo intellettuale &egrave; degno di nota&rdquo;.<br /> che merita particolare attenzione, considerazione.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/03San-Pietro/")' >vista mozzafiato (eng. breath-taking view)</span>: &ldquo;dalla terrazza di quel ristorante si gode una vista mozzafiato&rdquo;. La vista di un panorama talmente bello da togliere (mozzare=tagliare) il respiro (fiato).</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/02I-Palazzi/04Palazzo-Albergati/")' >gettonatissime (eng. highly popular)</span>: &egrave; il superlativo assoluto di &ldquo;gettonato&rdquo; cio&egrave; molto ricercato, amb&igrave;to, desiderato.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/04Collegio-di-Spagna/")' >fuori sede (eng. off site, non residential)</span>: fuori citt&agrave;; viene usato principalmente per gli studenti che studiano in una citt&agrave; diversa da quella d&rsquo;origine.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/01I-Monumenti/02Nettuno-Dio-del-mare/")' >detto il &lsquo;Giambologna&rsquo; (eng. named, known as)</span>: soprannominato, conosciuto con il nome di...</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/03Le-Chiese/04San-Domenico/")' >offerta libera (eng. free offer)</span>: quando l&rsquo;offerta &egrave; libera, per esempio per l&rsquo;ingresso a uno spettacolo, a un museo, o ad altri eventi, &egrave; possibile decidere liberamente quanti soldi mettere a disposizione, offrire, pagare.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/01Piazza-Maggiore/")' >albero della cuccagna (eng. maypole tree)</span>: la &lsquo;cuccagna&rsquo; &egrave; un paese immaginario pieno di godimenti di ogni genere, principalmente culinari; l&rsquo;albero della cuccagna &egrave; un gioco popolare che consiste nell'arrampicarsi su un palo scivoloso cosparso di grasso. In cima all&rsquo;albero sono attaccati dei regali, che spettano a chi riesce a raggiungerli.</p>

@@ -1,0 +1,13 @@
+{
+  "title": "Nettuno Dio del mare",
+  "latitude": "44.494350",
+  "longitude": "11.342637",
+  "difficulty": "high",
+  "keyword": ["fontana"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

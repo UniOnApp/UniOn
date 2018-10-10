@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Maria: <\/strong>Co macie ochot\u0119 dzisiaj zobaczy\u0107?<\/p>\r\n<p><strong>Silvia: <\/strong>Ja s\u0142ysza\u0142am,&nbsp;\u017Ce trzeba zwiedzi\u0107 Trakt Kr&oacute;lewski.<\/p>\r\n<p><strong>Jose:<\/strong> To \u015Bwietny pomys\u0142. Pojedziemy wreszcie tramwajem! S\u0142ysza\u0142em, \u017Ce s\u0105 takie zabytkowe.<\/p>\r\n<p><strong>Maria: <\/strong>Mo\u017Cemy jecha\u0107 tramwajem, ale zupe\u0142nie nowoczesnym. Mo\u017Cemy te\u017C i\u015B\u0107 albo wypo\u017Cyczy\u0107 rower.<\/p>\r\n<p><strong>Jose: <\/strong>To ja wybieram tras\u0119 tramwajow\u0105.<\/p>\r\n<p><strong>Silvia: <\/strong>A ja bym chcia\u0142a dzisiaj wybra\u0107 d\u0142ugi spacer, jest taka pi\u0119kna pogoda.<\/p>\r\n<p><strong>Maria: <\/strong>To mo\u017Ce najpierw pojedziemy tramwajem na Ostr&oacute;w Tumski, to dosy\u0107 daleko st\u0105d, a potem obejdziemy okolice Katedry i zwiedzicie Bram\u0119 Poznania?<\/p>\r\n<p><strong>Jose, Silvia: <\/strong>Bardzo ch\u0119tnie!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Macie (mie\u0107) ochot\u0119, zwiedzi\u0107, katedra, brama miasta, tramwaj, zabytkowy, nowoczesny, wypo\u017Cyczy\u0107, rower, wybiera\u0107, pi\u0119kna, pogoda, d\u0142ugi, spacer, dosy\u0107 daleko, obejdziemy (obej\u015B\u0107), okolice, bardzo ch\u0119tnie.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

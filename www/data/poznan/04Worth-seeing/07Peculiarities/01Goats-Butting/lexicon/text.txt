@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Symbol</p>
+</td>
+<td>
+<p>symbol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>legenda głosi</p>
+</td>
+<td>
+<p>according to a legend</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozbudowa ratusza</p>
+</td>
+<td>
+<p>refurbishment of the Town Hall</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaszczycić obecnością</p>
+</td>
+<td>
+<p>to favour the occasion with one&rsquo;s presence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>urządzić ucztę</p>
+</td>
+<td>
+<p>to organize a feast</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>specjalne danie</p>
+</td>
+<td>
+<p>special dish</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zsunąć się</p>
+</td>
+<td>
+<p>to slip down</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wpaść w ogień</p>
+</td>
+<td>
+<p>to fall into the fire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyrwać się</p>
+</td>
+<td>
+<p>to escape</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wskoczyć na gzyms</p>
+</td>
+<td>
+<p>jump on the cornice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na pamiątkę zdarzenia</p>
+</td>
+<td>
+<p>in memory of the event</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>trykające się koziołki</p>
+</td>
+<td>
+<p>butting goats</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,84 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Zjeść smacznie/oryginalnie/na studencką kieszeń</p>
+</td>
+<td>
+<p>to eat tasty/ original meal/ on a student budget</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kolorowe knajpki</p>
+</td>
+<td>
+<p>colorful eateries</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cenić</p>
+</td>
+<td>
+<p>to value</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kulinarna podr&oacute;ż</p>
+</td>
+<td>
+<p>culinary adventure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niszowe kino</p>
+</td>
+<td>
+<p>off cinema</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przytulny lokal</p>
+</td>
+<td>
+<p>cozy establishment</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprawdzić się</p>
+</td>
+<td>
+<p>to proove</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chłodnik</p>
+</td>
+<td>
+<p>cold beet soup served in the summer months</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>serwować</p>
+</td>
+<td>
+<p>to serve</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wielbiciele kuchni włoskiej</p>
+</td>
+<td>
+<p>fans of Italian cuisine</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Skiing vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><span style=\"text-decoration: underline;\">ensilumenlatu<\/span> a first snow track<\/p>\r\n<p><span style=\"text-decoration: underline;\">hiihtoladut<\/span> ski tracks, ski trails<\/p>\r\n<p><span style=\"text-decoration: underline;\">hiihtolatu<\/span> a ski track, a ski trail<\/p>\r\n<p><span style=\"text-decoration: underline;\">hiiht&auml;&auml;<\/span> to ski<\/p>\r\n<p><span style=\"text-decoration: underline;\">j&auml;&auml;latu<\/span> a ski trail on the ice of a river or lake<\/p>\r\n<p><span style=\"text-decoration: underline;\">kahvi<\/span> coffee<\/p>\r\n<p><span style=\"text-decoration: underline;\">laavu<\/span> a lean-to shelter<\/p>\r\n<p><span style=\"text-decoration: underline;\">laskettelurinne<\/span> a ski slope<\/p>\r\n<p><span style=\"text-decoration: underline;\">latukartta<\/span> a ski trail map<\/p>\r\n<p><span style=\"text-decoration: underline;\">makkara<\/span> a sausage<\/p>\r\n<p><span style=\"text-decoration: underline;\">mono<\/span> a ski boot<\/p>\r\n<p><span style=\"text-decoration: underline;\">monot<\/span> ski boots<\/p>\r\n<p><span style=\"text-decoration: underline;\">reppu<\/span> a backpack<\/p>\r\n<p><span style=\"text-decoration: underline;\">sauva<\/span> a ski pole<\/p>\r\n<p><span style=\"text-decoration: underline;\">sauvat<\/span> ski poles<\/p>\r\n<p><span style=\"text-decoration: underline;\">suksi<\/span> a ski<\/p>\r\n<p><span style=\"text-decoration: underline;\">sukset<\/span> skis<\/p>\r\n<p><span style=\"text-decoration: underline;\">suksivuokraamo<\/span> a ski rental place<\/p>\r\n<p><span style=\"text-decoration: underline;\">talvik&auml;velyreitti<\/span> a winter walking route<\/p>\r\n<p><span style=\"text-decoration: underline;\">termospullo<\/span>, <span style=\"text-decoration: underline;\">termari<\/span> a thermos flask<\/p>\r\n<p><span style=\"text-decoration: underline;\">tulentekopaikka<\/span> a campfire site<\/p>\r\n<p><strong>valaistu latu<\/strong> an illuminated ski trail<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

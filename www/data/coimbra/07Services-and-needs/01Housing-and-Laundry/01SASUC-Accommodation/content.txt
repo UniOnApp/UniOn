@@ -1,0 +1,13 @@
+{
+  "title": "SASUC Accommodation",
+  "latitude": "40.20842",
+  "longitude": "-8.42114",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

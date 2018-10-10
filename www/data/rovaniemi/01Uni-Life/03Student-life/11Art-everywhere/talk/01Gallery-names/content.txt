@@ -1,0 +1,13 @@
+{
+  "title": "Gallery names",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Gallery names<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p>The galleries have interesting names. Here are some \u2013 tap to read more.<\/p>\r\n<p>\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p>Galleria Kilo<\/p>\r\n<p>Kilo (noun) is a word used in Lapland to mean shine, often a bright reflection of sun rays from the snow. You\u2019ll get a feel of this every year in March and April! The word also has another meaning of course - kilogram.<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Galleria Kajo<\/p>\r\n<p>Kajo (noun) means the very first shimmer or gleam of the sun on the horizon, right before sunrise. Kajo is often very beautiful in autumn mornings.<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Galleria H\u00E4m\u00E4r\u00E4<\/p>\r\n<p>H\u00E4m\u00E4r\u00E4 (adjective) means the obscure, hazy moment around twilight. The amount of daylight gets short in November and December, giving you the opportunity to experience h\u00E4m\u00E4r\u00E4. There is another Finnish word for the dark time in the winter months \u2013 kaamos.<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Galleria Katve<\/p>\r\n<p>Katve (noun) is a word used in Lapland to mean shade or a blind spot. If you\u2019re outdoors and take a rest at the foot of a tall spruce tree, under its long branches, katve is where you are.<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div><div class=\"ht\">\r\n<p>Galleria Valo<\/p>\r\n<p>Valo (noun) is the Finnish word for light. Stay in Lapland for the Midnight Sun in June and July to get the full valo experience!<\/p>\r\n<\/div>\r\n",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Wintry clothes",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>In Finnish, there&rsquo;s an abundance of words that describe, for example, different types of snow. Likewise, there are many words related to winter garments. This is also reflected between different dialect regions: in some places, for example, mittens are <strong>lapaset<\/strong>, whereas they&rsquo;re <strong>vanttuut<\/strong> or even <strong>tumput<\/strong> somewhere else. Such words become so deeply embedded in the language of Finnish children that they&rsquo;d be particularly difficult to try to change later.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Here are some tips about typical handicraft products that may possibly find a place in your suitcase and in a gift box to someone you like. It&rsquo;s noteworthy that many of the following Finnish words will all translate into a single English word and may mean the same thing or a very similar garment with just a little bit of a difference depending on the place and tradition.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>lapaset<\/strong> mittens<\/p>\r\n<p><strong>vanttuut<\/strong> mittens<\/p>\r\n<p><strong>tumput<\/strong> mittens<\/p>\r\n<p><strong>kintaat<\/strong> (leather) mittens<\/p>\r\n<p><strong>rukkaset<\/strong> (leather) mittens<\/p>\r\n<p><strong>poronnahkakintaat<\/strong> reindeer leather mittens<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>villasukat<\/strong> woollen socks<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>kaulahuivi <\/strong>a scarf (in winter usually made of wool)<\/p>\r\n<p><strong>kauluri <\/strong>a neckwarmer<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>villapaita <\/strong>a sweater, a woolly<\/p>\r\n<p><strong>(villa)tikkuri <\/strong>a sweater, a woolly<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>karvalakki <\/strong>a fur cap<\/p>\r\n<p><strong>(karva)reuhka <\/strong>a fur cap (also &ldquo;worn-out hat&rdquo;)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>huopatossut <\/strong>felt boots<\/p>\r\n<p><strong>huopikkaat<\/strong> felt boots<\/p>\r\n<p><strong>nutukkaat <\/strong>traditional fur boots<\/p>\r\n<p><strong>lapikkaat <\/strong>the type of boots whose toe curves upward<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>tohvelit<\/strong> slippers<\/p>\r\n<p><strong>tossut <\/strong>slippers<\/p>\r\n<p><strong>t&ouml;pp&ouml;set<\/strong> slippers<\/p>\r\n<p><strong>reinot<\/strong> slippers (a particular kind of chequered slippers that became popular through a tv series and its main character Reino)<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

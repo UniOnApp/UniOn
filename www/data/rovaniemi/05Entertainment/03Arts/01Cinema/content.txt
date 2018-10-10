@@ -1,0 +1,13 @@
+{
+  "title": "Cinema",
+  "latitude": "66.501923",
+  "longitude": "25.728814",
+  "difficulty": "",
+  "keyword": ["cinema","elokuva","leffa","filmi","film","movie","Kaurismäki","director","actor"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

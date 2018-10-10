@@ -1,0 +1,13 @@
+{
+  "title": "Harmi - sataa!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Sataa<\/strong> &ndash; it&rsquo;s raining! It&rsquo;s ironic how rain seems to be able to time itself conveniently for a summer theatre performance. You should come prepared: pack a raincoat and an extra sweater with you!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>The expressions below are about describing the weather. Tap the see the translations. Please note that we start right away with the verb <strong>olla <\/strong>(to be), without any prepositions; the approach differs from many other languages. <\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>On hyv&auml; s&auml;&auml;.<\/p>\r\n<p>The weather is good. [lit. Is good weather.]<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>On l&auml;mmin. On kaksikymment&auml; astetta.<\/p>\r\n<p>It&rsquo;s warm. (The temperature) is twenty degrees.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>On aurinkoista.<\/p>\r\n<p>It&rsquo;s sunny.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>On pilvist&auml;.<\/p>\r\n<p>It&rsquo;s cloudy. <\/p>\r\n<p>&nbsp;<\/p><\/div>\r\n<div class=\"ht\">\r\n<p>On sumuista.<\/p>\r\n<p>It&rsquo;s foggy.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Ei sada.<\/p>\r\n<p>It&rsquo;s not raining.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Sataa lunta.<\/p>\r\n<p>It&rsquo;s snowing.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>On huono s&auml;&auml;.<\/p>\r\n<p>The weather is bad.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>On kylm&auml;.<\/p>\r\n<p>It&rsquo;s cold.<\/p>\r\n<p>&nbsp;<\/p><\/div>\r\n<div class=\"ht\">\r\n<p>On tosi kylm&auml;.<\/p>\r\n<p>It&rsquo;s really cold.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>On miinus kolmekymment&auml;viisi astetta!<\/p>\r\n<p>(The temperature) is minus thirty-five degrees!<\/p>\r\n  <p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

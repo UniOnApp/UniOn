@@ -1,0 +1,13 @@
+{
+  "title": "Esta\u0301dio Cidade",
+  "latitude": "40.203442",
+  "longitude": "-8.407545",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

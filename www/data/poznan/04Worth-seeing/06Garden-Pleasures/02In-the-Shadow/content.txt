@@ -1,0 +1,13 @@
+{
+  "title": "In the Shadow",
+  "latitude": "52.408882",
+  "longitude": "16.918582",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

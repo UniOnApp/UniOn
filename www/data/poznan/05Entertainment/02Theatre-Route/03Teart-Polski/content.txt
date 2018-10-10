@@ -1,0 +1,13 @@
+{
+  "title": "Teatr Polski",
+  "latitude": "52.408102",
+  "longitude": "16.923643",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

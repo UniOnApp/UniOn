@@ -1,0 +1,2 @@
+<table class="talkTable"><tbody><tr><td><p style="text-align: center;"><em>Talk</em></p></td><td>
+<p style="text-align: center;"><em>Answer Models</em></p></td></tr><tr><td><p>Vorrei due pacchetti di Philip Morris</p></td><td></td></tr><tr><td><p>Una confezione di cartine, una di filtri e il tabacco, per favore</p></td><td></td></tr><tr><td><p>Due marche da bollo da 15 euro, per favore.</p></td><td></td></tr><tr><td><p>Cerco un biglietto di auguri di laurea. Quali avete?</p></td><td></td></tr></tbody></table>

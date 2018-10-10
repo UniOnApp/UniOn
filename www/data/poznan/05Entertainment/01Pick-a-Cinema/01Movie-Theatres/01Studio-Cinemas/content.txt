@@ -1,0 +1,13 @@
+{
+  "title": "Studio Cinemas",
+  "latitude": "52.406267",
+  "longitude": "16.926959",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

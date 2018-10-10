@@ -1,0 +1,13 @@
+{
+  "title": "Chiedere e pagare il conto",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p >Talk<\/p><\/th><th><p >Answer Models<\/p><\/th><\/tr><tr><td><p>Il conto per favore<\/p><\/td><td><\/td><\/tr><tr><td><p>Pu&ograve; farci il conto per cortesia? Siamo al tavolo n. 5, accanto alla finestra<\/p><\/td><td><\/td><\/tr><tr><td><p>&Egrave; possibile pagare con il bancomat?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

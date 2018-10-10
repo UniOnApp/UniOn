@@ -1,0 +1,13 @@
+{
+  "title": "Santo Stefano",
+  "latitude": "44.492945",
+  "longitude": "11.343132",
+  "difficulty": "high",
+  "keyword": ["Sette Chiese"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

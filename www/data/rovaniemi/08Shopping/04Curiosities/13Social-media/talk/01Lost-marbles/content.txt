@@ -1,0 +1,13 @@
+{
+  "title": "Lost marbles",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Speaking of cuckoo clocks, some discussion forums and groups can be, erhm, interesting. People come in many shapes and sizes &ndash; and sometimes it seems that the variety is even wider on social media platforms. Some behaviours might even suggest that the person in question has completely lost his or her marbles! Fortunately, there are many expressions to describe this in Finnish, some of which are very innovative. <\/p>\r\n<p>&nbsp;<\/p>\r\n<p>The structure of most of the following expressions is the same in all. The main message of the expressions is to indicate that the person in question is missing a part of whatever is needed for a sound discussion. You can try the expressions out for fun &ndash; though perhaps with friends only.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>H&auml;nell&auml; ei kyll&auml; ole&hellip;<\/strong><\/p>\r\n<p>He\/She really doesn&rsquo;t have&hellip;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>&hellip; kaikki muumit laaksossa.<\/strong><\/p>\r\n<p>&hellip; all the Moomins in the valley.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>&hellip; kaikki inkkarit kanootissa.<\/strong><\/p>\r\n<p>&hellip; all the native Americans in the canoe.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>&hellip; kaikki koirat kenneliss&auml;.<\/strong><\/p>\r\n<p>&hellip; all the dogs in the kennel.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>&hellip; valoja ullakolla.<\/strong><\/p>\r\n<p>&hellip; any lights up in the attic.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>These expressions are also fun to understand &ndash; but maybe restrict using them. <\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>H&auml;nell&auml; on lepakoita tapulissa.<\/strong><\/p>\r\n<p>He\/She has bats at the attic.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>H&auml;n ajaa puolivaloilla.<\/strong><\/p>\r\n<p>He\/She is running on half lights.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

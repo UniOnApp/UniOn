@@ -1,0 +1,13 @@
+{
+  "title": "Renting",
+  "latitude": "66.484373",
+  "longitude": "25.723112",
+  "difficulty": "",
+  "keyword": ["home","housing","apartment","DAS","rent"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

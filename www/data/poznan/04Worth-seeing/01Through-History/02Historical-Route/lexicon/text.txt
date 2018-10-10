@@ -1,0 +1,148 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Trakt</p>
+</td>
+<td>
+<p>route</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzieje miasta</p>
+</td>
+<td>
+<p>history of the city</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>korona</p>
+</td>
+<td>
+<p>crown</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poprowadzić przez</p>
+</td>
+<td>
+<p>to guide to</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zakątki miejskie</p>
+</td>
+<td>
+<p>historical nooks and crannies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zetknąć się</p>
+</td>
+<td>
+<p>to encounter</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dotykalna przeszłość</p>
+</td>
+<td>
+<p>traceable past</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyprawa piesza</p>
+</td>
+<td>
+<p>a stroll</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>doświadczyć wielokulturowości</p>
+</td>
+<td>
+<p>to experience multiculturalism</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsce inicjujące zmiany</p>
+</td>
+<td>
+<p>a place which initiates changes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pomysłodawcy szlaku turystycznego</p>
+</td>
+<td>
+<p>the originators of tourist trail</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zwiedzający</p>
+</td>
+<td>
+<p>sightseers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dostrzegać</p>
+</td>
+<td>
+<p>to notice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>struktura urbanistyczna</p>
+</td>
+<td>
+<p>urban structure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>założenie architektoniczne</p>
+</td>
+<td>
+<p>urban design</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odrębność lokalnych tradycji</p>
+</td>
+<td>
+<p>the distinctiveness of local traditions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kierując się intuicją</p>
+</td>
+<td>
+<p>following intuition</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z przewodnikiem</p>
+</td>
+<td>
+<p>with a guide</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,42 @@
+<p class="p1">If you want to impress your teacher with some Finnish, we have some tips for you. Tap on the English phrase to see it in Finnish.</p>
+<p class="p2"> </p>
+<div class="ht">
+<p class="p1">Hello</p>
+<p class="p3">Hei / Moi / Terve</p>
+</div>
+<p class="p2"> </p>
+<div class="ht">
+<p class="p1">Good morning</p>
+<p class="p3">Hyvää huomenta</p>
+</div><p class="p2"> </p>
+<div class="ht">
+<p class="p1">Good afternoon</p>
+<p class="p3">Hyvää iltapäivää</p>
+  </div><p class="p2"> </p><div class="ht">
+<p class="p1">Nice to meet you</p>
+<p class="p3">Hauska tavata</p>
+</div><p class="p2"> </p><div class="ht">
+<p class="p1">Thank you</p>
+<p class="p3">Kiitos</p>
+</div><p class="p2"> </p><div class="ht">
+<p class="p1">Likewise, thank you</p>
+<p class="p3">Kiitos samoin</p>
+</div><p class="p2"> </p><div class="ht">
+<p class="p1">You’re welcome / Don’t mention it</p>
+<p class="p3">Ole hyvä</p>
+</div><p class="p2"> </p><div class="ht">
+<p class="p1">I understand</p>
+<p class="p3">Ymmärrän</p>
+</div><p class="p2"> </p><div class="ht">
+<p class="p1">I don’t understand</p>
+<p class="p3">En ymmärrä</p>
+</div><p class="p2"> </p><div class="ht">
+<p class="p1">Sorry</p>
+<p class="p3">Anteeksi</p>
+</div><p class="p2"> </p><div class="ht">
+<p class="p1">Never mind / That’s okay</p>
+<p class="p3">Ei se mitään</p>
+</div><p class="p2"> </p><div class="ht">
+<p class="p1">Bye bye</p>
+<p class="p3">Hei hei / Heippa</p>
+</div>

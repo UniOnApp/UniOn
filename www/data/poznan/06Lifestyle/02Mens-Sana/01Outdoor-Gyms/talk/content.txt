@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Cze\u015B\u0107, Mike, co\u015B <strong>blado wygl\u0105dasz.<\/strong><\/p>\r\n<p>- Ca\u0142y tydzie\u0144 uczy\u0142em si\u0119 do egzamin&oacute;w, wi\u0119c nie mia\u0142em czasu dla siebie, nawet <strong>na spacer<\/strong>.<\/p>\r\n<p>- <strong>Potrzebujesz \u015Bwie\u017Cego powietrza i ruchu<\/strong>.<\/p>\r\n<p>- Chcia\u0142em <strong>p&oacute;j\u015B\u0107 do si\u0142owni<\/strong>, ale sko\u0144czy\u0142 mi si\u0119 karnet.<\/p>\r\n<p>- Tam po\u0107wiczysz, ale na \u015Bwie\u017Ce powietrze <strong>nie licz<\/strong>.<\/p>\r\n<p>- Masz jaki\u015B pomys\u0142?<\/p>\r\n<p><strong>-<\/strong> Pomy\u015Bla\u0142em o si\u0142owni na placyku przed moim blokiem.<\/p>\r\n<p>- A to nie jest miejsce dla senior&oacute;w? Widzia\u0142em tam <strong>starszych ludzi<\/strong> z m\u0142odym trenerem, kiedy ostatnio by\u0142em u Ciebie.<\/p>\r\n<p>- Owszem, <strong>starsi pa\u0144stwo<\/strong> te\u017C tam \u0107wicz\u0105, ale to miejsce <strong>dla ka\u017Cdego<\/strong> i nic nie kosztuje.<\/p>\r\n<p>- No nie wiem&hellip; Nie b\u0119d\u0105 <strong>si\u0119 z nas \u015Bmiali<\/strong>? Twoja babcia te\u017C tam chodzi?<\/p>\r\n<p>- Babcia chodzi z s\u0105siadk\u0105 <strong>przed po\u0142udniem,<\/strong> a teraz jest <strong>popo\u0142udnie<\/strong>. Idziemy.<\/p>\r\n<p>- Dobra. Mo\u017Cemy <strong>si\u0119<\/strong> razem <strong>porusza\u0107<\/strong> troch\u0119.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Blado\/blady, wygl\u0105dasz (wygl\u0105da\u0107), na spacer, potrzebowa\u0107, \u015Bwie\u017Ce powietrze, ruch<\/p>\r\n<p>p&oacute;j\u015B\u0107 do si\u0142owni\/na si\u0142owni\u0119, nie licz na&hellip; (liczy\u0107 na&hellip;), starsi ludzie\/seniorzy\/starsi pa\u0144stwo, dla ka\u017Cdego, \u015Bmia\u0107 si\u0119 z kogo\u015B, przed po\u0142udniem, popo\u0142udnie, porusza\u0107 si\u0119.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

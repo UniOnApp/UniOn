@@ -1,0 +1,130 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>obowiązkowym punktem na mapie</p>
+</td>
+<td>
+<p>a must-see on the map of Poznań</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nosić nazwę</p>
+</td>
+<td>
+<p>to be called</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uznawać za pomnik historii</p>
+</td>
+<td>
+<p>to be labeled as a Historic Monument</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wydarzenia historyczne</p>
+</td>
+<td>
+<p>historical events</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mogiły wojskowych</p>
+</td>
+<td>
+<p>soldiers&rsquo; graves</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zbiorowe mogiły jeńc&oacute;w</p>
+</td>
+<td>
+<p>mass graves of prisoners of war</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oddziały muzeum</p>
+</td>
+<td>
+<p>sections of a museum</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obiekty forteczne</p>
+</td>
+<td>
+<p>fortification structures</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>twierdza</p>
+</td>
+<td>
+<p>fortress</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>reduta</p>
+</td>
+<td>
+<p>redout</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bastion</p>
+</td>
+<td>
+<p>bastion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warto zatrzymać się przy</p>
+</td>
+<td>
+<p>it is worth having a peek at</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zesp&oacute;ł rzeźb</p>
+</td>
+<td>
+<p>installation of sculptures</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w centralnej części parku</p>
+</td>
+<td>
+<p>in the central part of the park</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zrobi (zrobić) ogromne wrażenie</p>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<p>figury przypominające ludzkie, bezgłowe postaci</p>
+</td>
+  <td>
+</td>
+</tr>
+</tbody>
+</table>

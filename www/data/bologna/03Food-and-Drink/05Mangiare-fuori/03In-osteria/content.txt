@@ -1,0 +1,23 @@
+{
+  "title": "In osteria",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["osteria ",
+"apericena",
+"aperitivo",
+"Da Vito",
+"Broccaindosso",
+"Osteria dell\u2019Orsa",
+"Dal nonno",
+"Osteria Da Mario",
+"Il Moretto",
+"Al cappello rosso",
+"Osteria del Sole"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

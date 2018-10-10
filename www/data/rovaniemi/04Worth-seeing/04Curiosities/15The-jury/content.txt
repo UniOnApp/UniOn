@@ -1,0 +1,13 @@
+{
+  "title": "\u201CThe jury\u201D",
+  "latitude": "66.498245",
+  "longitude": "25.722527",
+  "difficulty": "",
+  "keyword": ["cafe","kahvi","gas station","greeting","small talk"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

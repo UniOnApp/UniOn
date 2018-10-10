@@ -1,0 +1,13 @@
+{
+  "title": "SantaSport",
+  "latitude": "66.497937",
+  "longitude": "25.768828",
+  "difficulty": "",
+  "keyword": ["spa","swimming","bowling","gym","kuntosali","indoor sport","liikunta"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

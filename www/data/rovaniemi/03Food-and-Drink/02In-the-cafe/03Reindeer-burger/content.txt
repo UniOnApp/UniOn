@@ -1,0 +1,13 @@
+{
+  "title": "Reindeer burger",
+  "latitude": "66.502866",
+  "longitude": "25.734685",
+  "difficulty": "",
+  "keyword": ["food","bbq","hampurilainen","poro","dish","piirakka","kylmäsavu"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,164 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Rektor</p>
+</td>
+<td>
+<p>rector/ president/ chancellor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jego/Jej Magnificencja</p>
+</td>
+<td>
+<p>His/Her Magnificence Rector</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>występować w czerwonym lub purpurowym płaszczu (todze), z berłem</p>
+</td>
+<td>
+<p>to wear a red or purple coat (gown), weilding a scepter</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ozdobny łańcuch</p>
+</td>
+<td>
+<p>decorative chain</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prorektor</p>
+</td>
+<td>
+<p>vice-rector</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zastępca</p>
+</td>
+<td>
+<p>deputy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przedstawiciel</p>
+</td>
+<td>
+<p>representative</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dziekan</p>
+</td>
+<td>
+<p>dean</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dyrektor</p>
+</td>
+<td>
+<p>head</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wydział</p>
+</td>
+<td>
+<p>faculty</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dana dziedzina naukowa</p>
+</td>
+<td>
+<p>given scientific discipline</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>instytuty i katedry</p>
+</td>
+<td>
+<p>institutes and chairs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>siedziba</p>
+</td>
+<td>
+<p>seat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uzyskać informację, radę i wsparcie</p>
+</td>
+<td>
+<p>to obtain some information, advice and support</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>inauguracje roku akademickiego</p>
+</td>
+<td>
+<p>inaugurations of academic years</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uroczystości absolutoryjne</p>
+</td>
+<td>
+<p>ceremonies of completion of studies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>aula</p>
+</td>
+<td>
+<p>university hall</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>akademicka więź</p>
+</td>
+<td>
+<p>academic bond</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rzeźba</p>
+</td>
+<td>
+<p>sculpture</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obserwatorium astronomiczne</p>
+</td>
+<td>
+<p>astronomical observatory</p>
+</td>
+</tr>
+</tbody>
+</table>

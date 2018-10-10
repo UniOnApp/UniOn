@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry. W czym mog\u0119 pani pom&oacute;c?<\/p>\r\n<p>- Szukam <strong>sukienki<\/strong>, kt&oacute;r\u0105 mog\u0142abym <strong>za\u0142o\u017Cy\u0107<\/strong> na <strong>obron\u0119 licencjatu<\/strong>.<\/p>\r\n<p>- <strong>Bardzo mi przykro<\/strong>, ale w Croppie mamy ubrania <strong>w stylu sportowym<\/strong>. Mo\u017Ce zobaczy pani w Reserved albo w Mohito na II pi\u0119trze? Podobno maj\u0105 now\u0105 kolekcj\u0119 sukienek.<\/p>\r\n<p>- Dzi\u0119kuj\u0119, faktycznie, nie widz\u0119 tu <strong>nic odpowiedniego<\/strong>. Macie za to<strong> przecenione<\/strong> \u0142adne <strong>bluzy sportowe<\/strong>. Przyda mi si\u0119 taka <strong>na co dzie\u0144<\/strong>. Mog\u0119 <strong>przymierzy\u0107<\/strong> t\u0119 <strong>granatow\u0105<\/strong>?<\/p>\r\n<p>- A jaki <strong>rozmiar<\/strong>? Wypadaj\u0105 du\u017Ce.<\/p>\r\n<p>- Je\u015Bli tak, to M (<u>emka)<\/u> wystarczy.<\/p>\r\n<p><strong>-<\/strong> Bardzo prosz\u0119. Tam jest <strong>przymierzalnia<\/strong>.<\/p>\r\n<p>- Dzi\u0119kuj\u0119. Przymierz\u0119 tutaj, jest <strong>lustro<\/strong>.<\/p>\r\n<p>- <strong>\u015Awietnie w niej Pani wygl\u0105da<\/strong>.<\/p>\r\n<p>- Dzi\u0119ki. Wezm\u0119 j\u0105.<\/p>\r\n<p>- Prosz\u0119 do kasy.<\/p>\r\n<p>- Czy mo\u017Cna <strong>p\u0142aci\u0107 kart\u0105<\/strong>?<\/p>\r\n<p>- Jasne. A sukienki to u kole\u017Canek obok.<\/p>\r\n<p>- Dzi\u0119kuj\u0119. Zajrz\u0119 do nich.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk:<\/strong><\/p>\r\n<p>Bardzo mi przykro, styl sportowy, sukienka, za\u0142o\u017Cy\u0107, obrona licencjatu, nic\/co\u015B odpowiedniego, przeceniony, przecena, bluza sportowa, na co dzie\u0144, przymierzy\u0107, przymierzalnia, granatowa, rozmiar, M &ndash; emka, lustro, p\u0142aci\u0107 kart\u0105, \u015Bwietnie wygl\u0105da\u0107.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

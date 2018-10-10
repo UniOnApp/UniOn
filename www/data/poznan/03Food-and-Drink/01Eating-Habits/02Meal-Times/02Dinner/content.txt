@@ -1,0 +1,13 @@
+{
+  "title": "Dinner",
+  "latitude": "52.408786",
+  "longitude": "16.919334",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

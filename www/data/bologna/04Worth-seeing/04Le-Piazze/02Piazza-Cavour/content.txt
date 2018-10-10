@@ -1,0 +1,16 @@
+{
+  "title": "Piazza Cavour",
+  "latitude": "44.490919",
+  "longitude": "11.343942",
+  "difficulty": "mid",
+  "keyword": ["Piazza Grande",
+"Funivia",
+"via Farini",
+"Galleria Cavour"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

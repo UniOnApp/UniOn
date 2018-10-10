@@ -1,0 +1,14 @@
+{
+  "title": "Allo stadio",
+  "latitude": "44.492265",
+  "longitude": "11.310002",
+  "difficulty": "mid",
+  "keyword": ["Dall\u2019Ara",
+"Bologna football club"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

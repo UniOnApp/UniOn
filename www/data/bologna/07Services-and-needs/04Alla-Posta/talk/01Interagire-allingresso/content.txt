@@ -1,0 +1,13 @@
+{
+  "title": "Interagire all’ingresso della Posta",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p style=\"text-align: center;\"><em>Talk<\/em><\/p><\/th><th><p style=\"text-align: center;\"><em>Answer Models<\/em><\/p><\/th><\/tr><tr><td><p>Buongiorno, mi scusi, devo pagare un bollettino postale. Qual &egrave; il ticket giusto da prendere?<\/p><\/td><td><\/td><\/tr><tr><td><p>Mi scusi, devo inviare un pacco. A quale sportello devo andare?<\/p><\/td><td><\/td><\/tr><tr><td><p>&Egrave; possibile acquistare delle buste formato A4?<\/p><\/td><td><\/td><\/tr><tr><td><p>Dovrei comprare dei francobolli. A chi posso rivolgermi?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

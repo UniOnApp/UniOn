@@ -1,0 +1,13 @@
+{
+  "title": "Close to nature",
+  "latitude": "66.515236",
+  "longitude": "25.746644",
+  "difficulty": "",
+  "keyword": ["Koivusaari","trail","health","forest","home","rhyme","river", "weather","pääskynen"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

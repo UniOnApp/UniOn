@@ -1,0 +1,13 @@
+{
+  "title": "Out by Train",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["train","station","comboio","Coimbra-B","Coimbra-A","CP","estação"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Kemijoella or Kemijoessa?",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Look at the two phrases shown below. What&rsquo;s the difference between them?<\/p>\r\n<p><strong>Min&auml; olen Kemijoe<\/strong><span style=\"background-color: #99ccff;\"><strong>ssa<\/strong><\/span><strong>.<\/strong><\/p>\r\n<p><strong>Min&auml; olen Kemijoe<\/strong><span style=\"background-color: #99ccff;\"><strong>lla<\/strong><\/span><strong>. <\/strong><\/p>\r\n<p>The only difference in the linguistic form is the case ending: the (inessive) case ending <span style=\"background-color: #99ccff;\">-ssa<\/span> and the (adessive) case ending <span style=\"background-color: #99ccff;\">-lla<\/span>. These two cases are opposites in many ways:<\/p>\r\n<p>- Basically, <span style=\"text-decoration: underline;\">-ssa<\/span> is used in the same instances when <span style=\"background-color: #99ccff;\">in<\/span> would be used in English.<\/p>\r\n<p>- The ending <span style=\"background-color: #99ccff;\">-lla<\/span> is used to express that something is <span style=\"background-color: #99ccff;\">on<\/span> some surface, or <span style=\"background-color: #99ccff;\">at<\/span> or <span style=\"background-color: #99ccff;\">near<\/span> some place, typically an open space &ldquo;without a roof&rdquo; so to speak.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>We can say <strong>Me uimme Kemijoe<\/strong><span style=\"background-color: #99ccff;\"><strong>ssa<\/strong><\/span> (We are swimming <span style=\"background-color: #99ccff;\">in<\/span> the Kemijoki river). We can also say <strong>Min&auml; ongin Kemijoe<\/strong><span style=\"background-color: #99ccff;\"><strong>lla<\/strong><\/span> (I am fishing at the Kemijoki river).<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

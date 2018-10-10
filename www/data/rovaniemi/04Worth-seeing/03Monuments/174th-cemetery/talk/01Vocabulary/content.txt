@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>&nbsp;In most Finnish cemeteries, there&rsquo;s a specific place, usually a memorial statue or stone, where you can leave your flowers and candles to commemorate your loved ones buried somewhere else. Finding these places is rather easy, just look for the highest concentration of candles. Specific grave candles can be bought from any shop &ndash; try the following words if needed.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>hauta<\/strong> a grave<\/p>\r\n<p><strong>hautausmaa<\/strong> a cemetery, a graveyard<\/p>\r\n<p><strong>muisto<\/strong> a memory<\/p>\r\n<p><strong>muistomerkki <\/strong>a memorial, a monument<\/p>\r\n<p><strong>kukkakimppu<\/strong> a bouquet of flowers<\/p>\r\n<p><strong>seppele <\/strong>a wreath<\/p>\r\n<p><strong>kynttil&auml;<\/strong> a candle<\/p>\r\n<p><strong>hautakynttil&auml; <\/strong>a grave candle<\/p>\r\n<p><strong>tulitikut<\/strong> matches<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Muistoa kunnioittaen<\/strong> In remembrance of, in memory of<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

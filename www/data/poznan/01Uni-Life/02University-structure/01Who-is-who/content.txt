@@ -1,0 +1,13 @@
+{
+  "title": "Who is who?",
+  "latitude": "52.408435",
+  "longitude": "16.916106",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

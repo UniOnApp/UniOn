@@ -1,0 +1,13 @@
+{
+  "title": "Laundry",
+  "latitude": "40.208471",
+  "longitude": "-8.421735",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

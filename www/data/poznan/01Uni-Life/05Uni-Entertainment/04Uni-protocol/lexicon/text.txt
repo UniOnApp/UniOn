@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Zasady dobrego wychowania</p>
+</td>
+<td>
+<p>savoir-vivre</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zwracając się do nauczycieli akademickich, używamy tytuł&oacute;w naukowych</p>
+</td>
+<td>
+<p>while addressing the academic staff, the students should use their official titles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>do student&oacute;w nauczyciele akademiccy zwracają się, używając formy Pan/Pani</p>
+</td>
+<td>
+<p>The university teachers address students using the forms Ms./Mr.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kwadrans akademicki</p>
+</td>
+<td>
+<p>academic quarter</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Cześć, mam na imię Anna/jestem Anna</p>
+</td>
+<td>
+<p>Hello, my name is Anna/ I&rsquo;m Anna</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nazywam się Anna Kowalska</p>
+</td>
+<td>
+<p>My name is Anna Kowalska</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pani/ Pan</p>
+</td>
+<td>
+<p>Ms/ Mr</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na razie</p>
+</td>
+<td>
+<p>So long</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cześć</p>
+</td>
+<td>
+<p>Bye</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pa</p>
+</td>
+<td>
+<p>Bye-bye</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>do widzenia/zobaczenia</p>
+</td>
+<td>
+<p>See you soon</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dobranoc</p>
+</td>
+<td>
+<p>Good night</p>
+</td>
+</tr>
+</tbody>
+</table>

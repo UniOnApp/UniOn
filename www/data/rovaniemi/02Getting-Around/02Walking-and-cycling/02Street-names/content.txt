@@ -1,0 +1,13 @@
+{
+  "title": "Street names",
+  "latitude": "66.509671",
+  "longitude": "25.650291",
+  "difficulty": "",
+  "keyword": ["neighbourhood","history","culture","genitive","karhu"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

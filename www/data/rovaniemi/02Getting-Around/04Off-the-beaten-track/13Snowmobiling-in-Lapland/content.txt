@@ -1,0 +1,13 @@
+{
+  "title": "Snowmobiling in Lapland",
+  "latitude": "66.544501",
+  "longitude": "25.851512",
+  "difficulty": "",
+  "keyword": ["snowmobile","track","safari","rent","moottorikelkka","kelkkailla","wilderness","kypärä","erämaa"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

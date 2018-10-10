@@ -1,0 +1,20 @@
+{
+  "title": "Musei di Palazzo Poggi",
+  "latitude": "44.496836",
+  "longitude": "11.352445",
+  "difficulty": "mid",
+  "keyword": ["museo delle Navi e della Antiche carte geografiche",
+"museo di Architettura militare",
+"museo di Anatomia umana",
+"museo Ostetrico",
+"museo di Storia Naturale",
+"museo di Fisica",
+"museo della Specola",
+"Sala dedicata all\u2019arte orientale"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

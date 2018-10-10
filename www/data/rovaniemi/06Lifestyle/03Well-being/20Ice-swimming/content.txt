@@ -1,0 +1,13 @@
+{
+  "title": "Ice swimming",
+  "latitude": "66.501403",
+  "longitude": "25.744493",
+  "difficulty": "",
+  "keyword": ["outdoors","winter","avanto"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

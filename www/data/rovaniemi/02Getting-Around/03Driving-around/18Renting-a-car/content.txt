@@ -1,0 +1,13 @@
+{
+  "title": "Renting a car",
+  "latitude": "66.557681",
+  "longitude": "25.827174",
+  "difficulty": "",
+  "keyword": ["rent","driving","transportation","car","auto","vuokra","reindeer","music"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

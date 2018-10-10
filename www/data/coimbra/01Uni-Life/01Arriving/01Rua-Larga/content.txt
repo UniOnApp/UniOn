@@ -1,0 +1,13 @@
+{
+  "title": "Rua Larga",
+  "latitude": "40.2079488",
+  "longitude": "-8.4239712",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

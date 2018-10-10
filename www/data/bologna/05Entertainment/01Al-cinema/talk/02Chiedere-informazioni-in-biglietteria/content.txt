@@ -1,0 +1,13 @@
+{
+  "title": "Chiedere informazioni in biglietteria",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Due biglietti per la Sala C, per favore<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Ci sono riduzioni sul costo dei biglietti stasera?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Vorrei due biglietti. Ci sono dei posti liberi centrali?<\/p><\/td><td>&nbsp;<\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

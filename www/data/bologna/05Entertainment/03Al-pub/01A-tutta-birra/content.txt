@@ -1,0 +1,13 @@
+{
+  "title": "A tutta birra!",
+  "latitude": "44.495499",
+  "longitude": "11.348375",
+  "difficulty": "mid",
+  "keyword": ["birreria"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

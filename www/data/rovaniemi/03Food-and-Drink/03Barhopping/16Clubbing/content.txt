@@ -1,0 +1,13 @@
+{
+  "title": "Clubbing",
+  "latitude": "66.502037",
+  "longitude": "25.735364",
+  "difficulty": "",
+  "keyword": ["club","disco","heavy metal","music","dance","tanssi","musiikki","yökerho","flirting"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

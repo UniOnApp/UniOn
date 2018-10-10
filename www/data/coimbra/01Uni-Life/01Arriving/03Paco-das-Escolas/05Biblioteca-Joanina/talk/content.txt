@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Vamos &agrave; Biblioteca Joanina hoje, n&atilde;o vamos?<\/p>\r\n<p><em>We&rsquo;re going to Biblioteca Joanina today, are we not?<\/em> <\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Tag question:<\/strong><\/p>\r\n<p>&mdash; Affirmative + n&atilde;o + verb?<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

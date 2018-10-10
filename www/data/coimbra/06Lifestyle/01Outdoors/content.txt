@@ -1,0 +1,13 @@
+{
+  "title": "Outdoors",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["park","sports","running","river","walking","parque","picnic","mata","caminhada","corrida"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,15 @@
+{
+  "title": "Benvenuti a teatro",
+  "latitude": "44.488608",
+  "longitude": "11.348128",
+  "difficulty": "mid",
+  "keyword": ["biglietto",
+"biglietti",
+"spettacolo"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

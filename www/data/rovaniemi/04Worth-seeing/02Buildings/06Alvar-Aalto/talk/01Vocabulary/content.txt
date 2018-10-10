@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Here you have some basic vocabulary about buildings and rooms!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>ikkuna<\/strong> a window<\/p>\r\n<p><strong>katto<\/strong> a ceiling; a roof &ndash; the same Finnish word applies to both<\/p>\r\n<p><strong>kerrostalo<\/strong> an apartment building<\/p>\r\n<p><strong>lamppu<\/strong> a lamp <\/p>\r\n<p><strong>lattia <\/strong>a floor<\/p>\r\n<p><strong>muoto<\/strong> shape, form, figure<\/p>\r\n<p><strong>omakotitalo<\/strong> a detached house<\/p>\r\n<p><strong>ovi<\/strong> a door<\/p>\r\n<p><strong>p&ouml;yt&auml;<\/strong> a table<\/p>\r\n<p><strong>rivitalo <\/strong>a townhouse, a row house<\/p>\r\n<p><strong>sein&auml; <\/strong>a wall<\/p>\r\n<p><strong>talo<\/strong> a house<\/p>\r\n<p><strong>tuoli<\/strong> a chair<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Some adjectives for commenting on objects. <\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>aika <\/strong>quite<\/p>\r\n<p><strong>hieno <\/strong>fine, wonderful<\/p>\r\n<p><strong>kaunis <\/strong>beautiful<\/p>\r\n<p><strong>outo <\/strong>odd, weird<\/p>\r\n<p><strong>ruma <\/strong>ugly <\/p>\r\n<p><strong>tosi<\/strong> really<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Perhaps you&rsquo;re now able to comment on some details of architecture. Let&rsquo;s practise with some phrases below; they&rsquo;re based on the vocabulary. Tap on the phrase to see it in Finnish. <\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>The house is beautiful.<\/p>\r\n<p>Talo on kaunis.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>The window is weird.<\/p>\r\n<p>Ikkuna on outo.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>The floor is quite ugly.<\/p>\r\n<p>Lattia on aika ruma.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>The lamp is beautiful.<\/p>\r\n<p>Lamppu on kaunis. <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>The ceiling is really fine.<\/p>\r\n<p>Katto on tosi hieno.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>The table is quite beautiful. <\/p>\r\n<p>P&ouml;yt&auml; on aika kaunis.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>The chair is really beautiful. <\/p>\r\n<p>Tuoli on tosi kaunis.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

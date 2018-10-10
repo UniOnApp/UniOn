@@ -1,0 +1,13 @@
+{
+  "title": "Museu da Ci\u00EAncia",
+  "latitude": "40.210167",
+  "longitude": "-8.423770",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

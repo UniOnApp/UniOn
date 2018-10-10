@@ -1,0 +1,13 @@
+{
+  "title": "Żydowska Street",
+  "latitude": "52.409864",
+  "longitude": "16.934847",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "More coffee!",
+  "latitude": "66.502698",
+  "longitude": "25.731082",
+  "difficulty": "",
+  "keyword": ["kahvi","everyday","social","home","gifts","aamu","maito","sokeri","milk"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

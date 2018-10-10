@@ -1,0 +1,5 @@
+<b>Do you know Polish names for leasure activities?</b><br />Match Polish words and its English equivalents. 
+[pair]pływać rowerem wodnym_swim on a water bike
+[pair]grać w siatkówkę_play volleyball
+[pair]opalać się _sunbathe
+[pair]wypożyczyć rower_rent a bike

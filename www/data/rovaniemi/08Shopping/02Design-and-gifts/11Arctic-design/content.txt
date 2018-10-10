@@ -1,0 +1,13 @@
+{
+  "title": "Arctic design",
+  "latitude": "66.502696",
+  "longitude": "25.734407",
+  "difficulty": "",
+  "keyword": ["design","gifts","souvenirs","arktinen"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

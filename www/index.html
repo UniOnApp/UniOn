@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, width=device-width, height=device-height, viewport-fit=cover">
+        <link rel="stylesheet" type="text/css" href="css/index.css">
+        <link rel="stylesheet" type="text/css" href="css/animate.css">
+        <title>UniOn!</title>
+    </head>
+    <body>
+        <!------------------------------ TOP BAR ------------------------------>
+        <div id="topBar" class="top-bar">
+            <div id="top-bar-back"><img src="img/iconBack.png" alt=""/></div>
+            <div id="top-bar-menu" onClick="pageMenuButton()"><img src="img/iconMenu.png" alt=""/></div>
+            <div id="top-bar-title"></div>
+        </div>
+        <div id="bottom-bar">
+            <div class="bottom-bar-icon " onClick="gohome()" id="iconHome"><img src="img/iconHome.png"/></div>
+            <div class="bottom-bar-icon iconGamesOFF" id="iconGames"><img src="img/iconGame.png"/></div>
+            <div class="bottom-bar-icon iconTalkOFF" id="iconTalk"><img src="img/iconTalk.png"/></div>
+            <div class="bottom-bar-icon" onClick='showHideSearch()' id="iconNameOFF"><img src="img/iconSearch.png"/></div>
+        </div>
+        
+        <div id="content-page" class="page"></div>
+        <div id="notifica"></div>
+        <!--<div id="FTB" class="game-page"></div>-->
+        <div id="info-page"></div>
+        <div id="add-answer-div" class="addTextDiv"></div>
+        <div id="add-note-div" class="addTextDiv"></div>
+        <div id="note-div" class="noteDiv"></div>
+        <div id="wordz-div" class="wordzDiv"></div>
+        
+        <div class="animated fadeInDown" id="searchBox"><input id="searchInput" type="text" placeholder="Search" /><div class="searchBoxButton" onClick='startSearch();'>Search</div><div class="searchBoxButton" onClick='back()'>Close</div></div>
+        <div class="animated fadeIn" id="searchResults"></div>
+        <div id="page-menu" class="animated slideInDown"></div>
+        <div id="game_type_div"></div>
+        <div id="game_match_div"></div>
+        <div id="game_choice_div"></div>
+        <!----------------------------- loading ------------------------------->
+        <div id="loading">
+            <img src="img/loading.gif" alt=""/>
+        </div>
+        <!----------------------------- scripts ------------------------------->
+        <script type="text/javascript" src="cordova.js"></script>
+        <script type="text/javascript" src="js/jquery1.12.4min.js"></script>
+        <script type="text/javascript" src="js/game_type.js"></script>
+        <script type="text/javascript" src="js/game_match.js"></script>
+        <script type="text/javascript" src="js/game_choice.js"></script>
+        <script type="text/javascript" src="js/index.js"></script>
+    </body>
+</html>

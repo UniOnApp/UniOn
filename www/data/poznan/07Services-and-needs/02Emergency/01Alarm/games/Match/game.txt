@@ -1,0 +1,5 @@
+<b>Do you know Polish names for civil services?</b><br />Match Polish words and its English equivalents. 
+[pair]straż pożarna_fire brigade
+[pair]pogotowie ratunkowe_rescue team
+[pair]policja_police
+[pair]straż miejska_municipal police

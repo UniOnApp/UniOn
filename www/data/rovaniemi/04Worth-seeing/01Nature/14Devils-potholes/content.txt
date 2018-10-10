@@ -1,0 +1,13 @@
+{
+  "title": "Devil\u2019s potholes",
+  "latitude": "66.399649",
+  "longitude": "25.462910",
+  "difficulty": "",
+  "keyword": ["hiidenkirnu","sights","hiisi","bishop","Kemijoki","ice","varo","watch","imperative"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

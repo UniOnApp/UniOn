@@ -1,0 +1,13 @@
+{
+  "title": "In Biglietteria",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Quali sono gli orari di apertura del museo?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>A che ora iniziano le visite guidate?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Ci sono mostre temporanee in corso?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Fino a quando rimane esposta la mostra temporanea di Klee?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Quanto tempo ci vuole pi&ugrave; o meno per visitare il museo?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Vorrei noleggiare un audioguida? Quanto costa? Come funziona?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Due biglietti per favore. Ci sono riduzioni per gli studenti?<\/p><\/td><td>&nbsp;<\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

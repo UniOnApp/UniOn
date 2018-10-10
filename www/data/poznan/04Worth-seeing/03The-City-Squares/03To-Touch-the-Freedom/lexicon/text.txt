@@ -1,0 +1,204 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>spełniać funkcje reprezentacyjne</p>
+</td>
+<td>
+<p>to be representative</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>straszyć pustką</p>
+</td>
+<td>
+<p>to scare off by emptiness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>imprezy masowe</p>
+</td>
+<td>
+<p>public events</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zapraszać do odpoczynku</p>
+</td>
+<td>
+<p>to invite to take a break</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejski chaos</p>
+</td>
+<td>
+<p>urban chaos</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dawać ochłodę</p>
+</td>
+<td>
+<p>offers refreshment on a hot day</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dostarczać szczeg&oacute;lnych wrażeń</p>
+</td>
+<td>
+<p>to be quite sensational</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zamoczyć stopy</p>
+</td>
+<td>
+<p>to wet one&rsquo;s feet</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieć szczeg&oacute;lne znaczenie</p>
+</td>
+<td>
+<p>to have particular importance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sponsorować</p>
+</td>
+<td>
+<p>to sponsor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bogini zdrowia i higieny</p>
+</td>
+<td>
+<p>goddess of health and hygene</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nosić rysy</p>
+</td>
+<td>
+<p>to resemble</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podarować</p>
+</td>
+<td>
+<p>to donate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nie możesz przegapić</p>
+</td>
+<td>
+<p>Something you can&rsquo;t miss is&hellip;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powstać z inicjatywy</p>
+</td>
+<td>
+<p>built on the initiative of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>służyć celom</p>
+</td>
+<td>
+<p>for the purpose of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieć ochotę na kulturalną rozrywkę</p>
+</td>
+<td>
+<p>to be in for some cultural entertainment</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>monumentalny budynek</p>
+</td>
+<td>
+<p>monumental edifice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wzorowany na</p>
+</td>
+<td>
+<p>inspired by/ modeled on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieścić się</p>
+</td>
+<td>
+<p>to be located</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>okolicznościowe jarmarki</p>
+</td>
+<td>
+<p>occasional fairs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wystawy tymczasowe</p>
+</td>
+<td>
+<p>seasonal exhibitions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>letnie seanse kinowe</p>
+</td>
+<td>
+<p>summer movie screenings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przedstawienia plenerowe</p>
+</td>
+<td>
+<p>outside performances</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dogodna lokalizacja</p>
+</td>
+<td>
+<p>convenient spot</p>
+</td>
+</tr>
+</tbody>
+</table>

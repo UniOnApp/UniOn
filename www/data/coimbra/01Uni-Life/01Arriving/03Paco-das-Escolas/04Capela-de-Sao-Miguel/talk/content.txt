@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>N&atilde;o vamos &agrave; Capela de S&atilde;o Miguel hoje, pois n&atilde;o?<\/p>\r\n<p><em>We aren&rsquo;t going to S&atilde;o Miguel Chapel today, are we?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Tag question:<\/strong><\/p>\r\n<p>&mdash; Negative + pois n&atilde;o?<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

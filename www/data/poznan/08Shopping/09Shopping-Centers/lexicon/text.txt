@@ -1,0 +1,348 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Najnowsze</p>
+</td>
+<td>
+<p>the newest</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>najnowocześniejsze</p>
+</td>
+<td>
+<p>the most modern</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>największe</p>
+</td>
+<td>
+<p>the largest</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zmęczyć się</p>
+</td>
+<td>
+<p>to be exhausted</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>naprawdę</p>
+</td>
+<td>
+<p>really</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chodzenie</p>
+</td>
+<td>
+<p>walking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gł&oacute;wne wejście</p>
+</td>
+<td>
+<p>main entrance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w środku</p>
+</td>
+<td>
+<p>inside</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na zewnątrz</p>
+</td>
+<td>
+<p>outside</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ptak</p>
+</td>
+<td>
+<p>bird</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>symbolizować</p>
+</td>
+<td>
+<p>to symbolize</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>myjnia samochodowa</p>
+</td>
+<td>
+<p>car wash</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pralnia</p>
+</td>
+<td>
+<p>laundry</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>naprawa obuwia</p>
+</td>
+<td>
+<p>shoe repair</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stacja naprawy rower&oacute;w</p>
+</td>
+<td>
+<p>bicycle repair station</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szatnia</p>
+</td>
+<td>
+<p>coat room</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>informacja turystyczna</p>
+</td>
+<td>
+<p>tourist info point</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypożyczyć</p>
+</td>
+<td>
+<p>to rent</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być na bieżąco</p>
+</td>
+<td>
+<p>to be up-to-date</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>śledzić wydarzenia</p>
+</td>
+<td>
+<p>to follow the news</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pobrać aplikację</p>
+</td>
+<td>
+<p>to download an app</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyznaczyć</p>
+</td>
+<td>
+<p>to set</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skorzystać</p>
+</td>
+<td>
+<p>to use</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znaleźć</p>
+</td>
+<td>
+<p>to find</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprawdzić</p>
+</td>
+<td>
+<p>to check</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spędzić czas</p>
+</td>
+<td>
+<p>to spend time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>technologia</p>
+</td>
+<td>
+<p>technology</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strefy specjalnie przygotowane</p>
+</td>
+<td>
+<p>specially designed areas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strefy relaksu</p>
+</td>
+<td>
+<p>relaxation zones</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jedyne</p>
+</td>
+<td>
+<p>the only</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kino tr&oacute;jwymiarowe</p>
+</td>
+<td>
+<p>3D cinema</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dojechać</p>
+</td>
+<td>
+<p>to reach</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dostępny</p>
+</td>
+<td>
+<p>available</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bezpłatny</p>
+</td>
+<td>
+<p>free</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szybki tramwaj</p>
+</td>
+<td>
+<p>fast tram</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>umknąć uwadze</p>
+</td>
+<td>
+<p>to miss out on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>fasada</p>
+</td>
+<td>
+<p>fa&ccedil;ade&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>atrakcje</p>
+</td>
+<td>
+<p>attractions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zebra</p>
+</td>
+<td>
+<p>zebra</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>narciarz</p>
+</td>
+<td>
+<p>skier</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pracownia architektoniczna</p>
+</td>
+<td>
+<p>architect studio</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>punkty usługowe</p>
+</td>
+<td>
+<p>customer service points</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wisząca kładka</p>
+</td>
+<td>
+<p>suspension footbridge</p>
+</td>
+</tr>
+</tbody>
+</table>

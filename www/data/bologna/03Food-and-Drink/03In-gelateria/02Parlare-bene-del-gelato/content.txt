@@ -1,0 +1,13 @@
+{
+  "title": "Parlare bene del gelato",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "low",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

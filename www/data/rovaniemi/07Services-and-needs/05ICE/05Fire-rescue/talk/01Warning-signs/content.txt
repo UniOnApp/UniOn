@@ -1,0 +1,13 @@
+{
+  "title": "Warning signs",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>It&rsquo;s wise to follow signs and instructions, especially the ones marked with an exclamation mark! Here are some you might bump into. Tap to see the translations in English.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Varo heikkoja j&auml;it&auml;!<\/strong><\/p>\r\n<p>Beware of thin ice!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>&Auml;l&auml; kuivaa pyykki&auml; saunassa!<\/strong><\/p>\r\n<p>Do not dry your laundry in the sauna!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>Varo liukasta lattiaa!<\/strong><\/p>\r\n<p>Caution! Slippery floor!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>&Auml;l&auml; j&auml;t&auml; kynttil&ouml;it&auml; yksin!<\/strong><\/p>\r\n<p>Do not leave any candles unattained!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<p>You might also need these basic expressions. Tap to see them in Finnish.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Are you OK?<\/strong><\/p>\r\n<p>Oletko kunnossa?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>Help!<\/strong><\/p>\r\n<p>Apua!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>Look out!<\/strong><\/p>\r\n<p>Varo!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>Miss&auml; on vessa?<\/strong><\/p>\r\n<p>Where&rsquo;s the toilet?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>I need help.<\/strong><\/p>\r\n<p>Tarvitsen apua.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

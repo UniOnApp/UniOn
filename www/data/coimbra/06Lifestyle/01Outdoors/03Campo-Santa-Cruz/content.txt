@@ -1,0 +1,13 @@
+{
+  "title": "Campo Santa Cruz",
+  "latitude": "40.210449",
+  "longitude": "-8.416444",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

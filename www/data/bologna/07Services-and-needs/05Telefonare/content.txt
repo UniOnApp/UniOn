@@ -1,0 +1,19 @@
+{
+  "title": "Telefonare",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "low",
+  "keyword": ["numero di telefono",
+"contratto telefonico",
+"numero verde",
+"smartphone",
+"prefisso",
+"emergenza",
+"telefono fisso"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

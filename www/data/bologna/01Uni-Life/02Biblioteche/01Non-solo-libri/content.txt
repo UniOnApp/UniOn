@@ -1,0 +1,23 @@
+{
+  "title": "Non solo libri",
+  "latitude": "44.500601",
+  "longitude": "11.356589",
+  "difficulty": "mid",
+  "keyword": ["biblioteca",
+"biblioteche",
+"prestito",
+"Archiginnasio",
+"Sala Borsa",
+"Biblioteca Universitaria",
+"sala studio",
+"sale studio",
+"libri",
+"riviste",
+"OPAC Sebina"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

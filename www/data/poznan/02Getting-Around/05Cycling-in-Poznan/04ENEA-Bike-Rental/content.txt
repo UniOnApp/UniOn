@@ -1,0 +1,13 @@
+{
+  "title": "ENEA Bike Rental",
+  "latitude": "52.395243",
+  "longitude": "16.933687",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

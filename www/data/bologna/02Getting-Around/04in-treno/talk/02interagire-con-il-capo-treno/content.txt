@@ -1,0 +1,13 @@
+{
+  "title": "Interagire con il capo treno",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Buongiorno, mi scusi, questo \u00E8 il treno per Firenze Santa Maria Novella?<\/p><\/td><td><\/td><\/tr><tr><td><p>Buongiorno, mi scusi, purtroppo non ho potuto timbrare il biglietto...<\/p><\/td><td><\/td><\/tr><tr><td><p>Buongiorno, mi scusi, deve esserci un errore: il mio posto 23, carrozza 3, \u00E8 gi\u00E0 occupato...<\/p><\/td><td><\/td><\/tr><tr><td><p>Buongiorno, \u00E8 possibile utilizzare il wifi su questo treno?<\/p><\/td><td><\/td><\/tr><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

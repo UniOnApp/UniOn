@@ -1,0 +1,13 @@
+{
+  "title": "Verokarhu",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>The informal and somewhat cheeky way of referring to taxation and the administration managing it is <strong>verokarhu <\/strong>(lit. tax bear). In English, the equivalent is <em>the taxman<\/em>.<\/p>\r\n<p>In addition to <strong>verokarhu<\/strong>, references to bears are rather common in everyday Finnish. They&rsquo;re present in proverbs such as <strong>&Auml;l&auml; her&auml;t&auml; nukkuvaa karhua<\/strong>, meaning <em>Let sleeping dogs lie<\/em>, but literally the proverb means: <em>Don&rsquo;t wake up a sleeping bear<\/em>. <strong>Tiekarhu <\/strong>or <strong>maantiekarhu <\/strong>(lit. <em>a road bear<\/em>) is a <em>road grader <\/em>used for flattening gravel roads, for example. <strong>Karhuta<\/strong> is a verb about reminding someone of something that&rsquo;s undone, or about demanding information or payment that&rsquo;s due. If the demand or reminder is given in written from, it&rsquo;s a <strong>karhukirje<\/strong>, <em>a bear letter<\/em>, that you receive.<\/p>\r\n<p>Last but not least, if someone is extremely grumpy, that someone can be called a <strong>perseelle ammuttu karhu<\/strong> &ndash; <em>a bear shot on the arse<\/em>. It&rsquo;s far from eloquent, so we&rsquo;d recommend that you refrain from using the expression yourself and simply stick to admiring the linguistic and cultural innovativeness of it.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

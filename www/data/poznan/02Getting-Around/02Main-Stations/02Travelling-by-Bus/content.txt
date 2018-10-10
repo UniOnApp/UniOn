@@ -1,0 +1,13 @@
+{
+  "title": "Travelling by Bus",
+  "latitude": "52.402800",
+  "longitude": "16.914508",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

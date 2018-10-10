@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>At Coimbra-B station<\/strong><\/p>\r\n<p>- H&aacute; algum comboio agora para Coimbra A?<\/p>\r\n<p><em>- Is there a train now for Coimbra-A?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>h&aacute; (there is\/are)<\/p>\r\n<p>tem (have got)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>apanhar &ne; perder<\/strong><\/p>\r\n<p><em>catch\/take &ne; miss\/lose<\/em><\/p>\r\n<p>apanhar<\/p>\r\n<ul>\r\n<li>comboio - <em>take a train (and any other public transport)<\/em><\/li>\r\n<li>uma gripe - <em>catch a flu<\/em><\/li>\r\n<li>a bola (futebol) - cat<em>ch a ball<\/em><\/li>\r\n<\/ul>\r\n<p>&nbsp;<\/p>\r\n<p>perder<\/p>\r\n<ul>\r\n<li>comboio - <em>miss a train<\/em><\/li>\r\n<li>a carteira - <em>lose a walle<\/em>t<\/li>\r\n<li>um jogo - <em>lose a game<\/em><\/li>\r\n<\/ul>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

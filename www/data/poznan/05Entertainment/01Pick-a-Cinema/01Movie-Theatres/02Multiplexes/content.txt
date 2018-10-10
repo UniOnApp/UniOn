@@ -1,0 +1,13 @@
+{
+  "title": "Multiplexes",
+  "latitude": "52.402418",
+  "longitude": "16.925654",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

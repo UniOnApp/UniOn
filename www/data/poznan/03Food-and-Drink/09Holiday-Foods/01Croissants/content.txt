@@ -1,0 +1,13 @@
+{
+  "title": "Croissants",
+  "latitude": "52.404814",
+  "longitude": "16.931328",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

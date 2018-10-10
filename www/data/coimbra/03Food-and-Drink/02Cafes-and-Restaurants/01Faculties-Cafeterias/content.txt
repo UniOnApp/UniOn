@@ -1,0 +1,13 @@
+{
+  "title": "Faculties' Cafeterias",
+  "latitude": "40.207706",
+  "longitude": "-8.4270065",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

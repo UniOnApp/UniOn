@@ -1,0 +1,13 @@
+{
+  "title": "Helan g\u00E5r!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>The tradition of <strong>sitsit<\/strong> came to Finland from Sweden, and it&rsquo;s even today more popular among the Swedish-speaking population. As you may know, approximately five per cent of our population is Swedish-speaking, and Swedish is the second official language in Finland; this is quite visible in the southern and western parts of the country.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>These are the lyrics of one of the most popular toasting songs in sitsit, <em>Helan g&aring;r<\/em>, understandably in Swedish:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>Helan g&aring;r<\/em><\/p>\r\n<p><em>sjung hopp faderallan lallan lej<\/em><\/p>\r\n<p><em>helan g&aring;r<\/em><\/p>\r\n<p><em>sjung hopp faderallan lej.<\/em><\/p>\r\n<p><em>Och den som inte helan tar<\/em><\/p>\r\n<p><em>han heller inte halvan f&aring;r.<\/em><\/p>\r\n<p><em>Helan g&aring;&aring;&aring;&aring;&aring;&aring;&aring;&aring;r<\/em><\/p>\r\n<p><em>sjung hopp faderallan lej.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Here&rsquo;s a translation of the lyrics into English:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>The whole one goes down<br \/> Sing \"hopp faderallan lallan lej\"<br \/> The whole one goes down<br \/> Sing \"hopp faderallan lallan lej&rdquo;.<br \/> And he who doesn't take the whole<br \/> Doesn't get the half one either.<br \/> The whole one goes down<br \/> Sing \"hopp faderallan lallan lej\".<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

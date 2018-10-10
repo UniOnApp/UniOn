@@ -1,0 +1,29 @@
+<p><strong>Wypożyczalnia rower&oacute;w Zarządu Transportu Miejskiego </strong></p>
+<p>Wypożyczalnia posiada 80 jednoślad&oacute;w. </p>
+<p>Godziny otwarcia wypożyczalni</p>
+<p>w okresie od 1.04 do 31.10:</p>
+<ul>
+<li>poniedziałek - piątek w godz. 7:00-21:00, </li>
+<li>sobota, niedziela, święta: 10:00-20:00 </li>
+</ul>
+<p>Cennik</p>
+<ul>
+<li>Każda rozpoczęta godzina - 2,5 PLN</li>
+<li>5 godzin i więcej (nie dłużej niż do zamknięcia wypożyczalni w danym dniu) - 12 PLN</li>
+<li>Każdy kolejny rozpoczęty dzień - 12 PLN</li>
+<li>Abonament: </li>
+<ul>
+<li>Miesięczny - 25 PLN</li>
+<li>Sezonowy - 100 PLN</li>
+</ul>
+</ul>
+<p>Zgodnie z opisem administrator&oacute;w - w ramach abonamentu obowiązuje cennik wypożyczeń dla posiadaczy ważnego imiennego biletu miesięcznego</p>
+<p>Cennik dla pasażer&oacute;w komunikacji miejskiej MPK posiadających sieci&oacute;wkę wykupioną na karcie PEKA:</p>
+<ul>
+<li>Jednorazowa opłata rejestracyjna - 7 PLN</li>
+<li>Każde wypożyczenie ze zwrotem najp&oacute;źniej następnego dnia do zamknięcia wypożyczalni - bezpłatne </li>
+<li>Każdy kolejny rozpoczęty dzień - 10 PLN</li>
+</ul>
+<p>Kontakt</p>
+<p>Dworzec autobusowy os. Jana III Sobieskiego. <br /> Adres e-mail: rowery@ztm.poznan.pl</p>
+<p>Telefon kontaktowy: 61 834 61 24</p>

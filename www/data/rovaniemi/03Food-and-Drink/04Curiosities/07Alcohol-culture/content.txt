@@ -1,0 +1,13 @@
+{
+  "title": "Alcohol culture",
+  "latitude": "66.517991",
+  "longitude": "25.755032",
+  "difficulty": "",
+  "keyword": ["drinking","alko","viini","wine","vodka","beer","cheers","salmari"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

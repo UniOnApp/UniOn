@@ -1,0 +1,52 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>przyjrzyj się (przyjrzeć się)</p>
+</td>
+<td>
+<p>check out</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cennik</p>
+</td>
+<td>
+<p>rates</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzień</p>
+</td>
+<td>
+<p>day</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>doba</p>
+</td>
+<td>
+<p>24 hours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>komercyjne wypożyczalnie rowerowe</p>
+</td>
+<td>
+<p>commercial bike rentals</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>każde rozpoczęte 60 minut</p>
+</td>
+<td>
+<p>for every hour </p>
+</td>
+</tr>
+</tbody>
+</table>

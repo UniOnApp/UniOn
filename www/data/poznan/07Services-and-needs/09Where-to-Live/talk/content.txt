@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Cze\u015B\u0107!<\/p>\r\n<p>Cze\u015B\u0107!<\/p>\r\n<p>- Mam problem: nie przyznano mi miejsca w akademiku. Nie mam gdzie mieszka\u0107. Czy mo\u017Cesz mi pom&oacute;c znale\u017A\u0107 mieszkanie na wynajem?<\/p>\r\n<p>- Jasne! Nie ma problemu. W Poznaniu jest wiele biur nieruchomo\u015Bci, kt&oacute;re zajmuj\u0105 si\u0119 wynajmem mieszka\u0144. W jakiej dzielnicy chcia\u0142aby\u015B mieszka\u0107?<\/p>\r\n<p>- Wszystko jedno, nie znam jeszcze Poznania. Wa\u017Cne, \u017Ceby by\u0142 dobry dojazd do centrum, bo tam jest moja uczelnia.<\/p>\r\n<p>- Ok, rozumiem. To mo\u017Cemy si\u0119 um&oacute;wi\u0107 na jutro, na godz. 9.00. P&oacute;jdziemy razem do biura nieruchomo\u015Bci, \u017Ceby zapozna\u0107 si\u0119 z ofertami. Masz jutro wolny czas?<\/p>\r\n<p>- Tak, mam. Mo\u017Cemy si\u0119 spotka\u0107 o 9.00. Z g&oacute;ry dzi\u0119kuj\u0119 za pomoc! Do jutra!<\/p>\r\n<p>To \u017Caden problem! Do jutra!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Mam (mie\u0107) problem, nie przyzna\u0107 miejsca w akademiku, nie mie\u0107 gdzie mieszka\u0107, mieszkanie na wynajem, biuro nieruchomo\u015Bci, dzielnica, dobry dojazd do centrum, um&oacute;wi\u0107 si\u0119, zapozna\u0107 z ofertami, to \u017Caden problem!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

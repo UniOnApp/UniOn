@@ -1,0 +1,13 @@
+{
+  "title": "Where to eat out",
+  "latitude": "52.402299",
+  "longitude": "16.925610",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

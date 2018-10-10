@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Posso aquecer?<\/p>\r\n<p><em>- May I warm this up?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Modos de prepara&ccedil;&atilde;o &ndash; Food preparation:<\/strong><\/p>\r\n<p>assado &ndash; <em>roasted<\/em><\/p>\r\n<p>frito &ndash; <em>fried<\/em><\/p>\r\n<p>recheado &ndash; <em>stuffed<\/em><\/p>\r\n<p>cozido &ndash; <em>boiled or baked<\/em><\/p>\r\n<p>grelhado &ndash; <em>grilled<\/em><\/p>\r\n<p>guisado\/ estufado &ndash; <em>stewed<\/em><\/p>\r\n<p>gratinado &ndash; <em>gratinated<\/em><\/p>\r\n<p>salteado &ndash; <em>saut&eacute;ed<\/em><\/p>\r\n<p>ensopado &ndash; <em>stewed with bread<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

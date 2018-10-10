@@ -1,0 +1,13 @@
+{
+  "title": "OMT",
+  "latitude": "40.1933974",
+  "longitude": "-8.4141809",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

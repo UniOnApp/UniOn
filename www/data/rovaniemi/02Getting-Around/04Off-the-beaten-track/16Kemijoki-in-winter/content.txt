@@ -1,0 +1,13 @@
+{
+  "title": "Kemijoki in winter",
+  "latitude": "66.488041",
+  "longitude": "25.732040",
+  "difficulty": "",
+  "keyword": ["Kemijoki","joki","river","Ounasjoki","ice","fish","snowmobile","snow","laavu","consonant gradation"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

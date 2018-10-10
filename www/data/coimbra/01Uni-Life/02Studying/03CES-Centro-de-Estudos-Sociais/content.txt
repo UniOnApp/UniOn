@@ -1,0 +1,13 @@
+{
+  "title": "CES",
+  "latitude": "40.2084625",
+  "longitude": "-8.4227283",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

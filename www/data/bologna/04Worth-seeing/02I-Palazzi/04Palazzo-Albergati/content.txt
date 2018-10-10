@@ -1,0 +1,13 @@
+{
+  "title": "Palazzo Albergati",
+  "latitude": "44.489940",
+  "longitude": "11.334844",
+  "difficulty": "high",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

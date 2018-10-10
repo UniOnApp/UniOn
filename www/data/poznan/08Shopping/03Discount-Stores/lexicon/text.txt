@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Codzienne zakupy spożywcze</p>
+</td>
+<td>
+<p>groceries</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>robić zakupy</p>
+</td>
+<td>
+<p>to do shopping</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dyskonty</p>
+</td>
+<td>
+<p>discount supermarkets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być liderem</p>
+</td>
+<td>
+<p>to be a leader </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zdecydowany</p>
+</td>
+<td>
+<p>absolute</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cieszyć się popularnością</p>
+</td>
+<td>
+<p>to be popular</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyjazne studenckiej kieszeni ceny</p>
+</td>
+<td>
+<p>wallet-friendly prices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozbudowana sieć sklep&oacute;w</p>
+</td>
+<td>
+<p>large chain of stores</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>godziny otwarcia</p>
+</td>
+<td>
+<p>opening hours</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>działać</p>
+</td>
+<td>
+<p>to operate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lokalne</p>
+</td>
+<td>
+<p>local</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wojew&oacute;dztwo</p>
+</td>
+<td>
+<p>region</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>region</p>
+</td>
+<td>
+<p>area</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Wielkopolska</p>
+</td>
+<td>
+<p>Greater Poland</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>popularne sieci</p>
+</td>
+<td>
+<p>popular chain stores</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znaleźć sklep dla siebie</p>
+</td>
+<td>
+<p>to find the right store</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zasobność portfela</p>
+</td>
+<td>
+<p>affluence</p>
+</td>
+</tr>
+</tbody>
+</table>

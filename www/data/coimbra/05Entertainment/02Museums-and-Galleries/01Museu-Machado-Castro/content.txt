@@ -1,0 +1,13 @@
+{
+  "title": "Museu M. Castro",
+  "latitude": "40.208962",
+  "longitude": "-8.4277004",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

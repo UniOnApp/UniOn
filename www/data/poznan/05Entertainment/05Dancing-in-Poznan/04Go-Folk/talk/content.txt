@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry. Szukam grupy tanecznej, gdzie m&oacute;g\u0142bym po\u0107wiczy\u0107 taniec i pozna\u0107 nowych znajomych.<\/p>\r\n<p>- Dzie\u0144 dobry, a czy uczy\u0142 Pan si\u0119 wcze\u015Bniej ta\u0144czy\u0107?<\/p>\r\n<p>- Tak, ta\u0144czy\u0142em w zespole m\u0142odzie\u017Cowym, kiedy by\u0142em jeszcze w szkole.<\/p>\r\n<p>- Jak d\u0142ugo Pan si\u0119 uczy\u0142 ta\u0144czy\u0107?<\/p>\r\n<p>- Oko\u0142o trzech lat.<\/p>\r\n<p>- To \u015Bwietnie, szukamy w\u0142a\u015Bnie m\u0142odych m\u0119\u017Cczyzn do naszego zespo\u0142u. Czy mo\u017Ce nam Pan co\u015B zaprezentowa\u0107?<\/p>\r\n<p>- Bardzo ch\u0119tnie, mog\u0119 pokaza\u0107 taniec g&oacute;ralski.<\/p>\r\n<p>- O, to bardzo interesuj\u0105ce!<\/p>\r\n<p>- Jak cz\u0119sto odbywaj\u0105 si\u0119 spotkania zespo\u0142u?<\/p>\r\n<p>- Dwa razy w tygodniu, ale przed wyjazdami na tournee to nawet cz\u0119\u015Bciej.<\/p>\r\n<p>- A dok\u0105d wybiera si\u0119 teraz zesp&oacute;\u0142?<\/p>\r\n<p>- Za miesi\u0105c jedziemy na festiwal taneczny do Portugalii.<\/p>\r\n<p>- Ooo, by\u0142oby wspaniale, gdybym m&oacute;g\u0142 pojecha\u0107 z Wami.<\/p>\r\n<p>- O tym to ju\u017C b\u0119dzie decydowa\u0142 kierownik zespo\u0142u.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Szukam (szuka\u0107) grupy tanecznej, po\u0107wiczy\u0107 taniec, szukamy (szuka\u0107) m\u0142odych m\u0119\u017Cczyzn,<\/p>\r\n<p>mog\u0119 (m&oacute;c) pokaza\u0107 taniec g&oacute;ralski, jak cz\u0119sto odbywaj\u0105 si\u0119 spotkania?, dwa razy w tygodniu, dok\u0105d wybiera si\u0119 zesp&oacute;\u0142?<\/p>\r\n<p>By\u0142oby wspaniale, gdybym m&oacute;g\u0142 pojecha\u0107.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

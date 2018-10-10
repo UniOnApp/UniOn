@@ -1,0 +1,1 @@
+<table class="talkTable"><tr><th>Talk</th><th>Answer Models</th></tr><tr><td>Il biglietto, per favore</td><td>Ecco, tenga...</td></tr><tr><td>Questo biglietto è scaduto, sono già passati 80 minuti...</td><td></td></tr></table>

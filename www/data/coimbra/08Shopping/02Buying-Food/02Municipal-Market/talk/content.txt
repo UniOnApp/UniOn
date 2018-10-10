@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>A como s&atilde;o as laranjas? <em>- How much is the kg of oranges?<\/em><\/p>\r\n<p>A quanto &eacute; o quilo? <em>- What&rsquo;s the price per kg?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Queria uma d&uacute;zia (p&atilde;es), por favor &ndash;<em> I would like a dozen (breadrolls), please.<\/em><\/p>\r\n<p>E tamb&eacute;m um ramo de rosas brancas &ndash; <em>And also a bunch of white roses.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>As alfaces s&atilde;o frescas? &ndash; <em>Are the lettuces fresh?<\/em><\/p>\r\n<p><em>De onde s&atilde;o? &ndash; Where are they from?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

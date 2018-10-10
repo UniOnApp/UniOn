@@ -1,0 +1,27 @@
+<p><strong>Luoghi e persone</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >La gelateria</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >Il gelataio/La gelataia</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >La baracchina dei gelati</span></p>
+<p>&nbsp;</p>
+<p><strong>Contenitori per il gelato</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >Il cono</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >La coppetta (in gergo anche cestina o cestino)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >La cialda</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >La coppa</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >La vaschetta di gelato</span>: in plastica o in polistirolo per ordinare il gelato in quantità più grandi (mezzo kilo, un kilo, ecc.). </p>
+<p>&nbsp;</p>
+<p><strong>Prodotti</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >Il ghiacciolo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >La focaccia calda con il gelato</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >Il sorbetto</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >La granita</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >La torta gelato</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >La paletta</span>: piccolo cucchiaino in plastica di solito colorata che si usa per mangiare il gelato nella coppetta o cialda.</p>
+<p>&nbsp;</p>
+<p><strong>Alcuni gusti del gelato</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >Fiordilatte, nocciola, cioccolato, bacio, crema, vaniglia, stracciatella, limone, cocco, fragola, yoghurt, pistacchio, spagnola, panna montata, menta, liquirizia, cannella, ecc. </span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >da leccarsi i baffi (eng. yummy)</span>: &ldquo;<em>&egrave; cos&igrave; buono da leccarsi i baffi</em>&rdquo;.<br />Questa espressione si usa per indicare grande apprezzamento verso un cibo. Trae origine dal mondo animale e nello specifico si riferisce ai gatti che dopo aver mangiato si leccano i baffi per pulirsi dai residui.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/01Quanti-gusti-vuoi/")' >essere o stare attenti alla linea (eng. be careful of your shape)</span>: significa controllare e regolare l&rsquo;alimentazione per evitare di ingrassare, di prendere peso.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/02Parlare-bene-del-gelato/")' >avere l'acquolina in bocca (eng. to make someone drool)</span>: &egrave; una espressione metaforica che si riferisce a un fatto fisico, a un riflesso condizionato. La vista o il profumo di un cibo buono e desiderato aumenta la produzione di saliva, qui denominata &lsquo;acquolina&rsquo; (da acqua) in bocca.</p>

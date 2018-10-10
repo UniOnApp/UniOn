@@ -1,0 +1,13 @@
+{
+  "title": "Petronella",
+  "latitude": "66.485523",
+  "longitude": "25.718661",
+  "difficulty": "",
+  "keyword": ["cafeteria","exhibition","meeting point","lunch","lounas","event venue","ulapalla"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Do you understand these words?<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p>The name of the road leading to the University is Yliopistonkatu \u2013 meaning University Street.<\/p>\r\n<p>\u00A0<\/p>\r\n<p>Yliopistonkatu is truly a street of students: every morning hundreds of ULaplanders ride their bikes down its bike path, breathing the fresh, crisp morning air and witnessing the changing seasons. The street runs between two bodies of water: the Kemijoki River and Kirkkolampi Pond.<\/p>\r\n<p>\u00A0<\/p>\r\n<p>The autumn colours are usually quite beautiful along the street due to the abundance of birch trees. When autumn turns into winter, the river freezes and the trees become clad in pure white snow. In the springtime you\u2019ll see ice-fishers and skiers on the river, and summer is for angling and having picnics by the river or the pond.<\/p>\r\n<p>\u00A0<\/p>\r\n<p>On the way to the University, you\u2019ll see a sign saying: <strong>Lapin yliopisto<\/strong>. That\u2019s University of Lapland in Finnish.<\/p>\r\n<p>\u00A0<\/p>\r\n<p> What do these Finnish words mean in English? Tap to check.<\/p>\r\n<p>\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p>yliopisto<\/p>\r\n<p>university<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>Lappi<\/p>\r\n<p>Lapland<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>katu<\/p>\r\n<p>street<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>syksy<\/p>\r\n<p>autumn, fall<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>tie<\/p>\r\n<p>road<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>joki<\/p>\r\n<p>river<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>kirkko<\/p>\r\n<p>church\u00A0<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p>py\u00F6r\u00E4<\/p>\r\n<p>bike, bicycle<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

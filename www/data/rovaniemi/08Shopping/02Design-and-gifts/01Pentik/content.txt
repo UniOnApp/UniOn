@@ -1,0 +1,13 @@
+{
+  "title": "Pentik",
+  "latitude": "66.502176",
+  "longitude": "25.729600",
+  "difficulty": "",
+  "keyword": ["design","ceramic","tableware","pottery","candle"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

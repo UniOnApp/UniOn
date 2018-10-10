@@ -1,0 +1,29 @@
+<p><strong>Travelling in safety</strong></p>
+<p>Trains are the safest means of transport. However you should be aware of some rules of conduct. In the station and on the trains you will find signs telling you what to do, or not to do, to act safely.</p>
+<p>Let's have a look at some of these:</p>
+<p><strong>Do not cross the yellow line</strong></p>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/01.gif" alt=""/>
+<p>The yellow line indicates the safety distance from the tracks and the transiting trains. Do not get too close to the line as it could be dangerous.</p>
+<p><strong>Do not jump on a leaving train</strong></p>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/02.gif" alt=""/>
+<p>It is forbidden to try and get on the train if the staff (controller, train manager) are already on board. Do not try to open the doors if the train has already started moving.</p>
+<p><strong>Get off the train only once it has completely stopped in the station</strong></p>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/04.gif" alt=""/>
+<p>It is forbidden to open the doors and get off the train if it is moving.</p>
+<p><strong>Get off on the &ldquo;right&rdquo; side</strong></p>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/05.gif" alt=""/>
+<p>Make sure that the door opens onto the platform and not the track.</p>
+<p><strong>Listen to the messages given over the loudspeakers and keep an eye on the timetable boards.</strong></p>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/06.gif" alt=""/>
+<p>Pay attention to the loudspeaker messages and read any notices given on the boards and monitors. You can check the train times, see if they are on time and check the platform.</p>
+<p><strong>Do not throw things out of the windows. </strong></p>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/07.gif" alt=""/>
+<p>Do not throw anything out of the window: it is dangerous and not at all environmentally friendly.</p>
+<p><strong>Do not lean out of the windows </strong></p>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/10.gif" alt=""/>
+<p>There are poles, pylons, tunnel walls, trees and other trains along the route. Leaning out of the window can be very dangerous.</p>
+<p>**Ed&rsquo;s note: This part of the text was adapted from &ldquo;Un viaggio sicuro parte da te&rdquo;, published by Trenitalia. The photos have not been modified.</p>
+<p>On the track: to make getting on the train easier, stand near the monitor indicating your carriage number. Then before you get on the train, make sure everyone who needs to has got off. Finally, if you have a paper ticket, remember to validate it. To validate your ticket, stamp it in one of the machines. You will find the machines in the hall, in the underpass and on the platforms. In Italian there are a number of terms to describe this: &ldquo;vidimare&rdquo; or &ldquo;obliterare&rdquo; a ticket; they are more specific, but used less often than &ldquo;timbrare&rdquo;. Always listen to the messages given over the loudspeaker. They may inform of a platform change, a delay or simply that a train is arriving.</p>
+<div class="bottomQuestion">
+<p>Do the same rules apply in your country? Do you know any other rules?</p>
+</div>

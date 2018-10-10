@@ -1,0 +1,42 @@
+<p><strong>Luoghi</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>La collezione</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>La galleria</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>La gipsoteca</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>Il lapidario</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>La pinacoteca</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>La sala espositiva</span></p>
+<p>&nbsp;</p>
+<p><strong>Parole al museo</strong></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>Il catalogo</span>: il libro che elenca e descrive le opere, gli autori, ecc.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>Il dipinto</span>: quadro, opera pittorica.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>L'opera d&rsquo;arte</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>Il gesso</span>: scultura, rilievo fatta con il materiale gesso.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>La scultura </span>(greca, romana, ecc.)</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>Il vaso, il vasellame </span>(in ceramica, in bronzo)</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>Il rilievo</span>: “nella scultura, tecnica di rappresentazione di figure aggettanti su un fondo con maggiore o minore stacco (rispettivamente altorilievo e bassorilievo)”. Da Garzanti Linguistica (italiano). </p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>Il reperto</span>: oggetto reperito nel corso di scavi archeologici. </p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/05Museo-della-Musica/")'>Lo spartito, La partitura</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/05Museo-della-Musica/")'>Il libretto</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/05Museo-della-Musica/")'>Il libro a stampa</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/05Museo-della-Musica/")'>Il manoscritto</span>: documento, testo scritto a mano, di solito di rilievo storico.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>La didascalia </span>(descrittiva): scritto breve per descrivere e argomentare le opere.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/talk/")'>L'audioguida</span>: guida in formato audio, con cuffie o auricolari, che consente di visitare il museo in autonomia. </p>
+<p>&nbsp;</p>
+<p><strong>Eventi</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/03Il-Mambo/")'>L'esposizione/La mostra </span>(permanente o temporanea)</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/03Il-Mambo/")'>La retrospettiva</span>: “Rassegna, mostra, che illustra l'evoluzione di un artista, di un movimento artistico, culturale ecc.”. Da Garzanti Linguistica. </p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>La visita guidata</span>: visita effettuata con una persona esperta che spiega e descrive le opere.</p>
+<p>&nbsp;</p>
+<p><strong>Tecniche e materiali</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>olio su tela</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>olio su rame</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>affresco</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>tempera su tavola</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>ceramica</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")'>bronzo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>carta</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/01La-Pinacoteca/")'>legno</span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e Modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/02Il-Museo-Civico-Archeologico/")' >Togliersi dalla testa (eng. forget it!)</span>: <em> &ldquo;Toglitelo dalla testa, non se ne parla proprio!&rdquo;; &ldquo;&Egrave; un pensiero fisso per me, non riesco a togliermelo dalla testa&rdquo;.<br /> </em>Questa espressione si usa per indicare un pensiero fisso, qualcosa a cui &egrave; impossibile non pensare. Se non riesci a toglierti qualcuno o qualcosa dalla testa, significa che i tuoi pensieri sono focalizzati su una persona, su una cosa/un&rsquo;idea, su un evento, senza possibilit&agrave; di distrazione.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/02Al-museo/03Il-Mambo/")' >Battere il record (eng. to break, to beat a record)</span>: <em>&ldquo;Ha battuto tutti i record! Ora &egrave; campione del mondo&rdquo;; &ldquo;Questo spettacolo ha battuto il record di incassi&rdquo;.<br /> </em>In questa espressione Battere significa superare, oltrepassare. Il record &egrave; il miglior risultato ottenuto, di solito in riferimento a uno sport (per esempio il record di velocit&agrave;, di resistenza, ecc.). Battere il record significa avere performance superbe, migliori di tutte quelle precedenti.</p>

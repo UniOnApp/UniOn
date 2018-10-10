@@ -1,0 +1,13 @@
+{
+  "title": "I have the flu",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>The Finnish construction <strong>Minulla on <\/strong>means: <em>I have<\/em>. You can use this construction to express that a part of your body, your knee or stomach, hurts.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Minulla on polvi kipe&auml;. <\/strong><em>My knee hurts. (Lit. I have pain in my knee.)<\/em><\/p>\r\n<p><strong>Minulla on vatsa kipe&auml;. <\/strong><em>My stomach hurts. <\/em><\/p>\r\n<p><strong>Minulla on selk&auml; kipe&auml;.<\/strong><em> I have pain in my back.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>The same construction <strong>Minulla on <\/strong>&ndash; <em>I have<\/em> &ndash; can be used to express that you have an illness, such as the flu.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Minulla on flunssa.<\/strong> <em>I have the flu.<\/em><\/p>\r\n<p><strong>Minulla on kuume(tta). <\/strong><em>I have fever.<\/em> <em>\/ I have some temperature.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Strangely enough, we use the same construction in the following cases as well:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Minulla on n&auml;lk&auml;.<\/strong> <em>I&rsquo;m hungry. (Lit. I have a hunger.)<\/em><\/p>\r\n<p><strong>Minulla on jano.<\/strong> <em>I&rsquo;m thirsty.<\/em><\/p>\r\n<p><strong>Minulla on kylm&auml;\/kuuma.<\/strong> <em>I feel cold\/hot.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>The following vocabulary list contains words that you could need at the YTHS clinic. Would you be able to tell to the doctor that, for example, your shoulder hurts?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>hammas <\/strong>a tooth<\/p>\r\n<p><strong>jalka <\/strong>a leg; a foot<\/p>\r\n<p><strong>kaula <\/strong>a neck<\/p>\r\n<p><strong>kurkku <\/strong>a throat<\/p>\r\n<p><strong>kyyn&auml;rp&auml;&auml; <\/strong>an elbow<\/p>\r\n<p><strong>k&auml;si <\/strong>a hand<\/p>\r\n<p><strong>nilkka<\/strong> an ankle<\/p>\r\n<p><strong>niska <\/strong>the back of the neck<\/p>\r\n<p><strong>olkap&auml;&auml; <\/strong>a shoulder<\/p>\r\n<p><strong>polvi<\/strong> a knee<\/p>\r\n<p><strong>p&auml;&auml; <\/strong>a head<\/p>\r\n<p><strong>ranne <\/strong>a wrist<\/p>\r\n<p><strong>selk&auml; <\/strong>a back<\/p>\r\n<p><strong>sormi <\/strong>a finger<\/p>\r\n<p><strong>varvas <\/strong>a toe<\/p>\r\n<p><strong>vatsa, maha<\/strong> a stomach<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

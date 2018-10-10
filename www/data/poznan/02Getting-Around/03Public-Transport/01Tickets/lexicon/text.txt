@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Bilety jednorazowe</p>
+</td>
+<td>
+<p>one-ride ticket</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kiosk</p>
+</td>
+<td>
+<p>kiosk</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>automaty biletowe</p>
+</td>
+<td>
+<p>ticket machines</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przystanki tramwajowe/autobusowe</p>
+</td>
+<td>
+<p>tram/bus stops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>biletomaty</p>
+</td>
+<td>
+<p>ticket machines</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bilety czasowe</p>
+</td>
+<td>
+<p>time-limit tickets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dostępne</p>
+</td>
+<td>
+<p>available</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>możliwość zakupu biletu przez telefon kom&oacute;rkowy</p>
+</td>
+<td>
+<p>possibility to buy ticket on mobile phone</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dopuszczać</p>
+</td>
+<td>
+<p>to allow</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kontrola bilet&oacute;w</p>
+</td>
+<td>
+<p>ticket inspection</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>identyfikator kontrolera</p>
+</td>
+<td>
+<p>identification tags</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>kanar</em></p>
+</td>
+<td>
+<p>in slang &ndash; ticket inspector</p>
+</td>
+</tr>
+</tbody>
+</table>

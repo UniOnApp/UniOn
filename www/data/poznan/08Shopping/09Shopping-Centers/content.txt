@@ -1,0 +1,13 @@
+{
+  "title": "Shopping Centers",
+  "latitude": "52.398056",
+  "longitude": "16.953547",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

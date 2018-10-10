@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Uroczyste</p>
+</td>
+<td>
+<p>ceremonial</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podniosły</p>
+</td>
+<td>
+<p>formal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zakończenie roku akademickiego</p>
+</td>
+<td>
+<p>the end of an academic year</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tradycyjne stroje</p>
+</td>
+<td>
+<p>traditional outfit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czarne togi</p>
+</td>
+<td>
+<p>black academic dresses</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>birety</p>
+</td>
+<td>
+<p>graduate caps</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>goście</p>
+</td>
+<td>
+<p>guests</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>krewni</p>
+</td>
+<td>
+<p>relatives</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyjaciele</p>
+</td>
+<td>
+<p>friends</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>W uroczystości uczestniczą zaproszeni przez student&oacute;w goście: krewni, przyjaciele</p>
+</td>
+<td>
+<p>The event is also attended by the students&rsquo; invited guests: their friends and families</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kwiaty</p>
+</td>
+<td>
+<p>flowers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pamiątkowe zdjęcia</p>
+</td>
+<td>
+<p>memorial photos</p>
+</td>
+</tr>
+</tbody>
+</table>

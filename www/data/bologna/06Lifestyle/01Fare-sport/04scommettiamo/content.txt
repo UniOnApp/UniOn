@@ -1,0 +1,14 @@
+{
+  "title": "Scommettiamo",
+  "latitude": "44.519227",
+  "longitude": "11.345593",
+  "difficulty": "high",
+  "keyword": ["Arcoveggio",
+"ippodromo"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

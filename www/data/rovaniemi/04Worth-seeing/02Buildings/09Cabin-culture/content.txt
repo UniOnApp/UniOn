@@ -1,0 +1,13 @@
+{
+  "title": "Cabin culture",
+  "latitude": "66.499493",
+  "longitude": "25.785213",
+  "difficulty": "",
+  "keyword": ["weekend","summer","kottage","mökki","kesä","midsummer","sauna","campfire","lake"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,60 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Przyjmuje się (przyjmować)</p>
+</td>
+<td>
+<p>it is customary</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podziękowanie</p>
+</td>
+<td>
+<p>appreciation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miła obsługa</p>
+</td>
+<td>
+<p>good service</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pozostawić napiwek</p>
+</td>
+<td>
+<p>to tip</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wartość rachunku</p>
+</td>
+<td>
+<p>a percent of the bill</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>puszka z napisem</p>
+</td>
+<td>
+<p>tip-box</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>panuje (panować) samoobsługa</p>
+</td>
+<td>
+<p>self-service</p>
+</td>
+</tr>
+</tbody>
+</table>

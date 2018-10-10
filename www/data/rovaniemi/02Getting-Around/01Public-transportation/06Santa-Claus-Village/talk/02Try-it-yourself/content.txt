@@ -1,0 +1,13 @@
+{
+  "title": "Try it yourself!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>What would you say in the following situations? Tap on the question to see suitable greetings.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>The bus driver turns to you when you step on the bus at 10:00 am. You say...<\/p>\r\n<p>(Hyv&auml;&auml;) huomenta! \/ Hei!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>You see your friend in the bus at 10:15 a.m. You say...<\/p>\r\n<p>Hei! \/ Moi! \/ Terve! \/ (Hyv&auml;&auml;) huomenta!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>You&rsquo;re leaving the bus and you&rsquo;d like to say bye to your friend. You say...<\/p>\r\n<p>Hei hei! \/ Heippa! \/ N&auml;hd&auml;&auml;n!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>At one o&rsquo;clock p.m. you notice your professor walking in the Santa Claus Village with some colleagues? You say...<\/p>\r\n<p>Hyv&auml;&auml; p&auml;iv&auml;&auml;! \/ Hei!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>In the Santa Claus Village, you meet the man himself for the first time in your life, at 7:00 pm? You say&hellip;<\/p>\r\n<p>Hyv&auml;&auml; iltaa!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>You&rsquo;re saying goodbye to Santa Claus at 7:15 pm. You say...<\/p>\r\n<p>N&auml;kemiin! \/ N&auml;hd&auml;&auml;n! \/ Hei hei! \/ Heippa!<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

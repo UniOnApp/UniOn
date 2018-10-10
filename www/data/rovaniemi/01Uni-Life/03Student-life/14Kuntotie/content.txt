@@ -1,0 +1,13 @@
+{
+  "title": "Kuntotie",
+  "latitude": "66.493617",
+  "longitude": "25.768266",
+  "difficulty": "",
+  "keyword": ["home","housewarming","party","coffee","tupaantuliaiset","invite","asunto","apartment"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

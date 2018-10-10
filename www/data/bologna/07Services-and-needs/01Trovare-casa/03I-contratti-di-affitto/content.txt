@@ -1,0 +1,13 @@
+{
+  "title": "I contratti di affitto",
+  "latitude": "44.49810",
+  "longitude": "11.34034",
+  "difficulty": "high",
+  "keyword": ["contratto di affitto"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

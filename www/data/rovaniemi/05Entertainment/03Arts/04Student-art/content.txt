@@ -1,0 +1,13 @@
+{
+  "title": "Student art",
+  "latitude": "66.485138",
+  "longitude": "25.717767",
+  "difficulty": "",
+  "keyword": ["taide","art","design","exhibition","campus","gallery","Arktikum"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

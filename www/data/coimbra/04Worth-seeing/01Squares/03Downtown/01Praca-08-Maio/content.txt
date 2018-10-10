@@ -1,0 +1,13 @@
+{
+  "title": "Pra\u00E7a 8 de maio",
+  "latitude": "40.210988",
+  "longitude": "-8.4314635",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

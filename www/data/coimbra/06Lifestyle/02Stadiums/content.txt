@@ -1,0 +1,13 @@
+{
+  "title": "Stadiums",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["stadium","AAC","football","Académica","Briosa"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

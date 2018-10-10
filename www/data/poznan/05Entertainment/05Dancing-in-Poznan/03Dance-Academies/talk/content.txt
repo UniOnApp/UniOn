@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry. Czy mo\u017Cna jeszcze zapisa\u0107 si\u0119 do szko\u0142y ta\u0144ca?&nbsp;<\/p>\r\n<p>- Dzie\u0144 dobry. A jaki taniec Pani\u0105 interesuje?<\/p>\r\n<p>- Chcia\u0142abym nauczy\u0107 si\u0119 podstaw baletu.<\/p>\r\n<p>- Aha, czyli poziom pocz\u0105tkuj\u0105cy. Wprawdzie nab&oacute;r do naszej szko\u0142y trwa ju\u017C od pa\u017Adziernika, ale chyba znajd\u0119 dla Pani miejsce w grupie Pani Moniki.<\/p>\r\n<p>- To \u015Bwietnie! Co powinnam przynie\u015B\u0107 na lekcje? W zesz\u0142ym roku \u0107wiczy\u0142am ta\u0144ce latynoskie.<\/p>\r\n<p>- To pewnie ma Pani jaki\u015B wygodny str&oacute;j do ta\u0144ca. Prosz\u0119 kupi\u0107 te\u017C specjalne obuwie, takie baletki na mi\u0119kkim spodzie.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> A gdzie i kiedy odbywaj\u0105 si\u0119 lekcje?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Lekcje s\u0105 zawsze w \u015Brody i pi\u0105tki o godz. 17, sala 8 na drugim pi\u0119trze.<\/p>\r\n<p>- Czy przyjmuj\u0105 Pa\u0144stwo karty MULTISPORT?<\/p>\r\n<p>- Tak, przyjmujemy.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Czy mo\u017Cna jeszcze zapisa\u0107 si\u0119 do szko\u0142y ta\u0144ca? A jaki taniec Pani\u0105 interesuje?<\/p>\r\n<p>podstawy baletu, znajd\u0119 (znale\u017A\u0107) dla Pani miejsce, przynie\u015B\u0107 na lekcje, wygodny str&oacute;j do ta\u0144ca, specjalne obuwie, gdzie i kiedy odbywaj\u0105 si\u0119 lekcje?<\/p>\r\n<p>Czy przyjmuj\u0105 Pa\u0144stwo karty MULTISPORT?<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

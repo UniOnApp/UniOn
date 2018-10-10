@@ -1,0 +1,13 @@
+{
+  "title": "Lu\u00EDs de Cam\u00F5es",
+  "latitude": "40.2114741",
+  "longitude": "-8.4262711",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

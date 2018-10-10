@@ -1,0 +1,13 @@
+{
+  "title": "The Archcathedral",
+  "latitude": "52.411639",
+  "longitude": "16.948526",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

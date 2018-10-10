@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry. <strong>W czym mog\u0119 pom&oacute;c<\/strong>?<\/p>\r\n<p>- Jestem cudzoziemcem i chcia\u0142bym <strong>korzysta\u0107 z telefonu kom&oacute;rkowego<\/strong>, dlatego chc\u0119 kupi\u0107 kart\u0119 SIM.<\/p>\r\n<p>- Proponuj\u0119 nasz <strong>zestaw startowy<\/strong> z nowym numerem. Kosztuje tylko 5 PLN.<\/p>\r\n<p>- Ale to mi starczy tylko na kilka rozm&oacute;w.<\/p>\r\n<p>- Zestaw startowy to rozmowy i SMS-y <strong>bez limitu<\/strong> i 6 GB Internetu przez miesi\u0105c.<\/p>\r\n<p>- O, to \u015Bwietna oferta. A co potem?<\/p>\r\n<p><strong>-<\/strong> To zale\u017Cy, jak cz\u0119sto korzysta Pan z telefonu. Mamy <strong>do\u0142adowania<\/strong> w r&oacute;\u017Cnych cenach &ndash; od 5 do 50 PLN.<\/p>\r\n<p>- A ile kosztuje minuta rozmowy?<\/p>\r\n<p>- <strong>\u015Arednio ok.<\/strong> 19 groszy za minut\u0119.<\/p>\r\n<p>- Dobrze wi\u0119c, wezm\u0119 ten zestaw.<\/p>\r\n<p>- A czy ma Pan ju\u017C jak\u0105\u015B <strong>zarejestrowan\u0105 u nas us\u0142ug\u0119<\/strong>, np. telefon na abonament, telewizj\u0119, Internet?<\/p>\r\n<p>- Nie, jak m&oacute;wi\u0142em, jestem cudzoziemcem i niedawno przyjecha\u0142em do Polski.<\/p>\r\n<p>- Pytam, poniewa\u017C musz\u0119 zarejestrowa\u0107 Pana kart\u0119 SIM i sprawdzam, czy mamy Pana <strong>dane w systemie<\/strong>.<\/p>\r\n<p>- Nie ma mnie w Pa\u0144stwa systemie.<\/p>\r\n<p>- W takim razie poprosz\u0119 paszport. Zaraz te\u017C sprawdz\u0119 numer karty SIM, kt&oacute;r\u0105 Pan kupuje.<\/p>\r\n<p>- Prosz\u0119 bardzo, tu jest m&oacute;j paszport.<\/p>\r\n<p>- Dzi\u0119kuj\u0119, to wszystko. To jest Pana nowa karta. <strong>\u017Bycz\u0119 mi\u0142ego dnia.<\/strong><\/p>\r\n<p>- Dzi\u0119kuj\u0119 bardzo. Czy mo\u017Ce mi Pan pom&oacute;c zainstalowa\u0107 w telefonie now\u0105 kart\u0119? <strong>Zmarz\u0142y mi r\u0119ce<\/strong> i nie mog\u0119 <strong>w\u0142o\u017Cy\u0107<\/strong>.<\/p>\r\n<p><strong>-<\/strong> Bardzo prosz\u0119.<\/p>\r\n<p>- Raz jeszcze dzi\u0119kuj\u0119. Do widzenia.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk:<\/strong><\/p>\r\n<p>Korzysta\u0107 z telefonu kom&oacute;rkowego, zestaw startowy, bez limitu, do\u0142adowania, zarejestrowana us\u0142uga, dane w systemie, w\u0142o\u017Cy\u0107, zmarz\u0142y (marzn\u0105\u0107) mi r\u0119ce, \u017Cycz\u0119 (\u017Cyczy\u0107) mi\u0142ego dnia.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

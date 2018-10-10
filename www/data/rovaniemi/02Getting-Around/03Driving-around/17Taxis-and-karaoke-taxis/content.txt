@@ -1,0 +1,13 @@
+{
+  "title": "Taxis – and karaoke taxis!",
+  "latitude": "66.503485",
+  "longitude": "25.727514",
+  "difficulty": "",
+  "keyword": ["taksi","karaoke","tipping","osoite","Kuntotie","payment"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

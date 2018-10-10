@@ -1,0 +1,13 @@
+{
+  "title": "Municipal Market",
+  "latitude": "40.2114056",
+  "longitude": "-8.4283406",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

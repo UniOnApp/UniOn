@@ -1,0 +1,68 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Plac</p>
+</td>
+<td>
+<p>square</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>centrum akademickiego Poznania</p>
+</td>
+<td>
+<p>the academic center of Poznań</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piękny plener</p>
+</td>
+<td>
+<p>beautiful location</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sesje fotograficzne</p>
+</td>
+<td>
+<p>photo shoots</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uroczystości absolutoryjne</p>
+</td>
+<td>
+<p>graduation ceremonies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>punkt spotkań</p>
+</td>
+<td>
+<p>meeting spot</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsce manifestacji politycznych</p>
+</td>
+<td>
+<p>place of political manifests</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pomnik</p>
+</td>
+<td>
+<p>monument</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,58 @@
+<p><strong>Gli alberi e le piante</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>L'arbusto</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>Il biancospino</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>Il carpino</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>Il cedro</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>Il cerro</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>L'erica</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/02Piazza-Cavour/")'>Il faggio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>Il frassino</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>Il ginepro</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/04Worth-seeing/04Le-Piazze/02Piazza-Cavour/")'>Il ginkgo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>L'ippocastano</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/02orto-botanico/")'>Le latifoglie</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")' >Il leccio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")' >La magnolia</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>Il pero (selvatico)</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/02orto-botanico/")'>Le piante esotiche, grasse, insettivore, medicinali</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/02orto-botanico/")'>Le piante grasse</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>Il pino</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>Il platano</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>Il platano secolare</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>La quercia</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")' >La rosa canina</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>La roverella</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>La sequoia</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>Il tasso</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>Il tiglio</span></p>
+<p>&nbsp;</p>
+<p><strong>I luoghi</strong></p>
+<p><span>Il bosco</span></p>
+<p><span>La foresta</span></p>
+<p><span>Il giardino</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/02orto-botanico/")'>L'orto</span>: piccolo appezzamento di terra dove si coltivano verdura e frutta.</p>
+<p><span>Il parco</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/02orto-botanico/")'>La serra</span>: luogo protetto da una copertura trasparente in vetro o in plastica e spesso anche riscaldato, per coltivare ortaggi o fiori.</p>
+<p>&nbsp;</p>
+<p><strong>Altri termini</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/03jogging-bancarelle/")'>Il bassorilievo</span>: tipo di decorazione in rilievo, cio&egrave; sporgente</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/03jogging-bancarelle/")'>I candelabri (in ghisa)</span>: porta candele con più bracci. La ghisa è un materiale costituito da ferro e carbonio.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>Le stelle cadenti</span>: particolari stelle che cadono dal cielo e sono visibili agli occhi delle persone.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>Strada panoramica</span>: strada da cui si gode la vista di un bel panorama.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>Tortuoso</span>: pieno di curve, a destra e sinistra. Una strada può essere tortuosa, un cammino, un percorso possono essere tortuosi.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")' >A caccia di (eng. to pursue, to fish for)</span>: <em>"Quei due vanno sempre a caccia di guai".</em><br />
+In cerca di, alla ricerca di qualcosa.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/03jogging-bancarelle/")'>A due passi da (eng. nearby, close)</span>: <em>"La mia casa è qui a due passi".</em><br />Molto vicino, in prossimità.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>A passeggio (eng. for a walk, for a stroll)</span>: <em>"Siamo stati a passeggio, mano nella mano".</em><br />Camminare, passeggiare.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/04talon/")'>A spese di (eng. at the expense of...)</span>: <em>"Ho abitato in quella casa a spese del proprietario, senza pagare l’affitto".<em><br />A carico di</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>Affollato (eng. crowded, full of)</span>: <em>"La domenica il centro storico è affollato di turisti".</em><br />Pieno di, colmo di.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/02orto-botanico/")'>Appunto (eng. indeed, exactly)</span>: proprio cos&igrave;.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/02orto-botanico/")'>Avere il pollice verde (eng. to have a green thumb)</span>: avere una particolare predisposizione per la cura delle piante, essere portato e abile nel far crescere bene le piante.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>Fare pic-nic (eng. to have a picnic)</span>: fare il pranzo al sacco, cio&egrave; portarsi i panini o altro e mangiare all&rsquo;aperto, distesi per esempio su un prato</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/03jogging-bancarelle/")'>In cima (eng. at the top of)</span>: <em>"L'alpinista è salito in cima alla montagna".</em><br />Nel punto più alto.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/03jogging-bancarelle/")'>Pianta sempreverde (eng. evergreen)</span>: pianta che non perde mai tutte le foglie contemporaneamente, risultando sempre verde anche in periodi autunnali.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/03jogging-bancarelle/")' >Prestare attenzione (eng. to take care, be careful)</span>: fare attenzione, stare in allerta, stare attenti.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/01giardini-margherita/")'>Riportare alla luce (eng. bring to light)</span>: <em>"Quegli scavi hanno riportato alla luce i reperti di una civiltà antica".</em><br />Scoprire qualcosa che era rimasto nascosto, far riemergere.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/06Lifestyle/02In-mezzo-alla-natura/05colli/")'>Si inerpica (eng. to wound steeply)</span>: <em>"Quella strada si inerpica sulla collina per 5 km".</em><br />Sale lungo un percorso con molte curve.</p>

@@ -1,0 +1,116 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>W pobliżu</p>
+</td>
+<td>
+<p>near</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spory plac</p>
+</td>
+<td>
+<p>quite a large marketplace</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słynący</p>
+</td>
+<td>
+<p>well-known for</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>żywność ekologiczna</p>
+</td>
+<td>
+<p>organic food</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słoma i siano dla koni</p>
+</td>
+<td>
+<p>straw and hay for horses</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>motoryzacja</p>
+</td>
+<td>
+<p>motorization</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przenieść</p>
+</td>
+<td>
+<p>to move</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>drewniany</p>
+</td>
+<td>
+<p>wooden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>murowany</p>
+</td>
+<td>
+<p>brick</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świątynia</p>
+</td>
+<td>
+<p>temple</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pożary</p>
+</td>
+<td>
+<p>fires</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>huragany</p>
+</td>
+<td>
+<p>hurricanes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dumnie prezentować się</p>
+</td>
+<td>
+<p>to proudly present oneself</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prestiżowe liceum</p>
+</td>
+<td>
+<p>prestigious high school</p>
+</td>
+</tr>
+</tbody>
+</table>

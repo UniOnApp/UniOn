@@ -1,0 +1,68 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>rozkład zajęć</p>
+</td>
+<td>
+<p>class timetable</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>publikowany na stronach instytutu</p>
+</td>
+<td>
+<p>announced online at a given Faculty website</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wybierasz indywidualnie</p>
+</td>
+<td>
+<p>choose courses at the Faculty yourself</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zarejestrować się w USOSie (systemie administrującym)</p>
+</td>
+<td>
+<p>to register in USOS (student administrative system) </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nieobecności</p>
+</td>
+<td>
+<p>absences</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zasady dotyczące frekwencji</p>
+</td>
+<td>
+<p>attendance policy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pisemne usprawiedliwienie nieobecności</p>
+</td>
+<td>
+<p>written excuse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zwolnienie lekarskie</p>
+</td>
+<td>
+<p>doctor&rsquo;s excuse</p>
+</td>
+</tr>
+</tbody>
+</table>

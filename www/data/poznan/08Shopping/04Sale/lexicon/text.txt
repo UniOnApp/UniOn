@@ -1,0 +1,172 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Posezonowa wyprzedaż</p>
+</td>
+<td>
+<p>sale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obniżka</p>
+</td>
+<td>
+<p>discount</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przecena</p>
+</td>
+<td>
+<p>price reduction</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>coś brzmi miło dla ucha</p>
+</td>
+<td>
+<p>has a nice ring to </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ograniczone środki</p>
+</td>
+<td>
+<p>limited resources</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świetna okazja</p>
+</td>
+<td>
+<p>great opportunity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pierwsza fala wyprzedaży</p>
+</td>
+<td>
+<p>first wave of sales</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odzież</p>
+</td>
+<td>
+<p>garments</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w grudniu/grudzień</p>
+</td>
+<td>
+<p>in December/ December</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Boże Narodzenie</p>
+</td>
+<td>
+<p>Christmas time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w styczniu/styczeń</p>
+</td>
+<td>
+<p>in January/ January</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w lutym/luty</p>
+</td>
+<td>
+<p>in February/ February</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozmiar</p>
+</td>
+<td>
+<p>size</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w marcu/marzec</p>
+</td>
+<td>
+<p>in March/ March</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w kwietniu/kwiecień</p>
+</td>
+<td>
+<p>in April/ April</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w maju/maj</p>
+</td>
+<td>
+<p>in May/ May</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obniżone ceny</p>
+</td>
+<td>
+<p>reduced prices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>od czerwca/czerwiec</p>
+</td>
+<td>
+<p>from June/ June</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w lipcu/lipiec</p>
+</td>
+<td>
+<p>in July/ July</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w sierpniu/sierpień</p>
+</td>
+<td>
+<p>in August/ August</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Udanych zakup&oacute;w!<u> </u></p>
+</td>
+<td>
+<p>Have a good shopping!</p>
+</td>
+</tr>
+</tbody>
+</table>

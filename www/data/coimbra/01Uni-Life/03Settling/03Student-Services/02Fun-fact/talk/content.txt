@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Que significa&hellip;?<\/p>\r\n<p><em>What does &hellip; mean?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Como se diz <strong>isto<\/strong>\/ <strong>isso<\/strong>\/ <strong>aquilo<\/strong> em portugu&ecirc;s?<\/p>\r\n<p><em>How do you say <\/em><strong><em>this<\/em><\/strong><em> (near the speaker)\/ <\/em><strong><em>that<\/em><\/strong><em> (far from the speaker) \/ <\/em><strong><em>that<\/em><\/strong><em> (far from the speaker and from the hearer) in portuguese?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

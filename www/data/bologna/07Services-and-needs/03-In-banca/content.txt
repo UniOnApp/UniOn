@@ -1,0 +1,14 @@
+{
+  "title": "In banca",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["istituti bancari",
+"bancomat"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

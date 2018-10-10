@@ -1,0 +1,13 @@
+{
+  "title": "Fire & rescue",
+  "latitude": "66.507462",
+  "longitude": "25.711058",
+  "difficulty": "",
+  "keyword": ["emergency","firefighter","fire","hätänumero","palokunta"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

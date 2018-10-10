@@ -1,0 +1,13 @@
+{
+  "title": "Sauna culture",
+  "latitude": "66.495681",
+  "longitude": "25.742391",
+  "difficulty": "",
+  "keyword": ["löyly","vihta"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

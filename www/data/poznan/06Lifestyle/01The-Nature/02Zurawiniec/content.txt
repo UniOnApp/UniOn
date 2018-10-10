@@ -1,0 +1,13 @@
+{
+  "title": "Żurawiniec",
+  "latitude": "52.455973",
+  "longitude": "16.939931",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

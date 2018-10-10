@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Can you figure out the correct Finnish word for each clue? Tap to check.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>This means that something is not allowed.<\/p>\r\n<p>kielletty<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Both the rider and the passenger of a snowmobile must wear this.<\/p>\r\n<p>kyp&auml;r&auml;<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>his is the only verb in the list above.<\/p>\r\n<p>kelkkailla<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>All snowmobiles are manufactured in a place like this.<\/p>\r\n<p>kelkkatehdas<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>You&rsquo;re not allowed to ride snowmobiles on roads, but on specific tracks called in Finnish...<\/p>\r\n<p>kelkkareitti<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>The one who sits behind the rider and also wears a helmet.<\/p>\r\n<p>matkustaja<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

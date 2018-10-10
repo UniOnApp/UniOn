@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Desculpe, podia ajudar-me?<\/p>\r\n<p><em>Sorry, could you help me?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Types of questions<\/strong><\/p>\r\n<p>1. Yes\/No questions<\/p>\r\n<p>H&aacute; aqui um caf&eacute;?<\/p>\r\n<p><em>Is there a caf&eacute; here?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>2. &ldquo;Question word&rdquo; questions<\/p>\r\n<p>Como se chama o rei?<\/p>\r\n<p><em>What is the king&rsquo;s name?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>3. Content questions<\/p>\r\n<p>Paga um ou dois caf&eacute;s?<\/p>\r\n<p><em>Are you paying one or two coffees?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

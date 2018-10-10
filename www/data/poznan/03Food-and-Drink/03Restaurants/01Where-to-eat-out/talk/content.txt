@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry.<\/p>\r\n<p>- Dzie\u0144 dobry.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Czy jest wolny stolik dla dw&oacute;ch os&oacute;b?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Tak, <strong>mog\u0105 Pa\u0144stwo zaj\u0105\u0107 stolik przy oknie. Zaraz podam kart\u0119<\/strong>.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Co dla Pa\u0144stwa?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Prosz\u0119 talerz przek\u0105sek i dwa kieliszki czerwonego wina.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Czy co\u015B jeszcze?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Nie, dzi\u0119kuj\u0119, to wszystko.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Przepraszam, prosz\u0119 o rachunek.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Prosz\u0119 bardzo.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Dzi\u0119kuj\u0119. Czy mog\u0119 zap\u0142aci\u0107 kart\u0105?<\/p>\r\n<p>- Oczywi\u015Bcie. <strong>P\u0142ac\u0105 Pa\u0144stwo razem czy osobno<\/strong>?<\/p>\r\n<p>- Razem.<\/p>\r\n<p>- To b\u0119dzie 50 z\u0142otych i 80 groszy. Prosz\u0119 wpisa\u0107 PIN i potwierdzi\u0107 zielonym.<\/p>\r\n<p>- Ju\u017C, dzi\u0119kuj\u0119.<\/p>\r\n<p>- <strong>Dzi\u0119kuj\u0119 i zapraszam ponownie<\/strong>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Zaj\u0105\u0107 stolik, miejsce przy oknie, zaj\u0105\u0107 miejsce, talerz przek\u0105sek, kieliszek czerwonego\/bia\u0142ego wina, poprosi\u0107 o rachunek, p\u0142aci\u0107 razem\/p\u0142aci\u0107 osobno, p\u0142aci\u0107 kart\u0105\/p\u0142aci\u0107 got&oacute;wk\u0105.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

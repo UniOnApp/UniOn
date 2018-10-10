@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Kate: Mary, Jeste\u015B bardzo blada, wygl\u0105dasz na zm\u0119czon\u0105 &ndash; jak si\u0119 czujesz?<\/p>\r\n<p>- Mary: Mam za sob\u0105 trudny tydzie\u0144, a przede mn\u0105 kolejne wyzwania, dwa trudne egzaminy. Nieustannie zasypiam, znajomych w\u0142a\u015Bciwie nie widuj\u0119.<\/p>\r\n<p>- Kate: Musisz si\u0119 wzmocni\u0107 i zrelaksowa\u0107, potrzebujesz odmiany. Zr&oacute;bmy co\u015B nietypowego!<\/p>\r\n<p>- Mary: Masz na my\u015Bli co\u015B konkretnego?<\/p>\r\n<p>- Kate: My\u015Bla\u0142am o pobycie w spa, o dniu pe\u0142nym przyjemno\u015Bci, o masa\u017Cu by\u0107 mo\u017Ce...<\/p>\r\n<p>- Mary: Pomys\u0142 jest \u015Bwietny, ale obawiam si\u0119, \u017Ce koszt mo\u017Ce by\u0107 bardzo wysoki, nie wiem, czy mog\u0119 sobie pozwoli\u0107 na tak\u0105 przygod\u0119.<\/p>\r\n<p>- Kate: O to si\u0119 nie martw! Pewien czas temu wykupi\u0142am karnety do spa &ndash; zapraszam Ci\u0119! Zobaczysz, sp\u0119dzimy wyj\u0105tkowy czas razem. Odpoczniesz, zapomnisz o obowi\u0105zkach i nabierzesz si\u0142 do dalszych dzia\u0142a\u0144.<\/p>\r\n<p>- Mary: Bardzo Ci dzi\u0119kuj\u0119! Marz\u0119 o masa\u017Cu, o rozlu\u017Anieniu napi\u0119tych mi\u0119\u015Bni, o aromatycznych olejkach. Jestem Ci bardzo wdzi\u0119czna! \u015Awietna niespodzianka!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Wygl\u0105dasz (wygl\u0105da\u0107) na zm\u0119czon\u0105, trudny tydzie\u0144, kolejne wyzwania, trudne egzaminy, zasypiam (zasypia\u0107), nie widuj\u0119 (widywa\u0107) znajomych, wzmocni\u0107 si\u0119, zrelaksowa\u0107 si\u0119, co\u015B nietypowego, potrzeba odmiany, pobyt w spa, wysoki koszt, pozwoli\u0107 sobie na&hellip;, przygoda, zapraszam (zaprasza\u0107), nie martw (martwi\u0107) si\u0119, sp\u0119dzimy (sp\u0119dza\u0107) wyj\u0105tkowy czas, odpoczniesz (odpocz\u0105\u0107), zapomnisz (zapomnie\u0107) o obowi\u0105zkach, nabierzesz (nabiera\u0107) si\u0142 do dalszych dzia\u0142a\u0144, marz\u0119 (marzy\u0107), rozlu\u017Anienie napi\u0119tych mi\u0119\u015Bni, jestem (by\u0107) wdzi\u0119czna, \u015Bwietna niespodzianka.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

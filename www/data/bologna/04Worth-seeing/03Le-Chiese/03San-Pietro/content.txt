@@ -1,0 +1,16 @@
+{
+  "title": "San Pietro",
+  "latitude": "44.495823",
+  "longitude": "11.343172",
+  "difficulty": "high",
+  "keyword": ["Cattedrale di San Pietro",
+"organo",
+"campane",
+"campana"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

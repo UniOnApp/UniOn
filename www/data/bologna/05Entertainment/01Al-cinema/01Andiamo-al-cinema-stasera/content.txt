@@ -1,0 +1,16 @@
+{
+  "title": "Andiamo al cinema stasera?",
+  "latitude": "44.498058",
+  "longitude": "11.349386",
+  "difficulty": "low",
+  "keyword": ["spettacolo",
+"schermo",
+"biglietto",
+"multisala"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

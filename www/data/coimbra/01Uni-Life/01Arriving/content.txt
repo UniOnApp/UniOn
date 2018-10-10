@@ -1,0 +1,13 @@
+{
+  "title": "Arriving",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["university","praxe","tradition","Polo","Monumentais","Cabra","Joanina"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,22 @@
+{
+  "title": "In giro per negozi",
+  "latitude": "44.493672",
+  "longitude": "11.344442",
+  "difficulty": "mid",
+  "keyword": ["negozio",
+"shopping",
+"Via Indipendenza",
+"vetrina",
+"vetrine",
+"bottega",
+"botteghe",
+"atelier",
+"via d\u2019Azeglio",
+"boutique"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Skating Rink",
+  "latitude": "52.414867",
+  "longitude": "16.934779",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

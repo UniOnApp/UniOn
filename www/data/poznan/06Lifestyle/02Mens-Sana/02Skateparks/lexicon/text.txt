@@ -1,0 +1,52 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Jazda ekstremalna</p>
+</td>
+<td>
+<p>extreme riding</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rolki</p>
+</td>
+<td>
+<p>rollerblades</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>deskorolka</p>
+</td>
+<td>
+<p>skateboard</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uprawianie sportu</p>
+</td>
+<td>
+<p>to play sport</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>położony nad</p>
+</td>
+<td>
+<p>situated on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obiecywać</p>
+</td>
+<td>
+<p>to sound promising</p>
+</td>
+</tr>
+</tbody>
+</table>

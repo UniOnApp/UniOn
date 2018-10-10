@@ -1,0 +1,13 @@
+{
+  "title": "Wacky contests",
+  "latitude": "66.502832",
+  "longitude": "25.729133",
+  "difficulty": "",
+  "keyword": ["tango","berry","ant","fishing","soccer","game","crazy"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

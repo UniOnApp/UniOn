@@ -1,0 +1,13 @@
+{
+  "title": "Everyday words",
+  "latitude": "66.485280",
+  "longitude": "25.715963",
+  "difficulty": "",
+  "keyword": ["greeting","kahvi","dialogue","small talk","coffee"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

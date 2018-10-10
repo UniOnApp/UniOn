@@ -1,0 +1,13 @@
+{
+  "title": "MTI",
+  "latitude": "66.488503",
+  "longitude": "25.702831",
+  "difficulty": "",
+  "keyword": ["tourism","research","institute","company","matkailu","tutkimus"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

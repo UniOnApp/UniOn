@@ -1,0 +1,13 @@
+{
+  "title": "Cinema & Theatre",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["theatre","cinema","art","experimentation","innovative","TAGV","teatro","filme"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

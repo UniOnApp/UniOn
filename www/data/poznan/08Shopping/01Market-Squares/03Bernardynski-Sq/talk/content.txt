@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry, chcia\u0142abym kupi\u0107 troch\u0119 warzyw na zup\u0119 jarzynow\u0105. Mam tutaj list\u0119.<\/p>\r\n<p>- Dzie\u0144 dobry. Czego Pani potrzebuje?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -9px;\" src=\"img\/voice.png\"\/> Poprosz\u0119 jeden seler naciowy, dwie cebule, g\u0142&oacute;wk\u0119 czosnku, p\u0119czek pietruszki i marchew.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -9px;\" src=\"img\/voice.png\"\/> Ile marchwi?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -9px;\" src=\"img\/voice.png\"\/> Poprosz\u0119 p&oacute;\u0142 kilograma.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -9px;\" src=\"img\/voice.png\"\/> Prosz\u0119 bardzo, czy co\u015B jeszcze?<\/p>\r\n<p>- Tak, prosz\u0119 jeszcze kilogram pomidor&oacute;w i jednego kalafiora.<\/p>\r\n<p>- Niestety, nie ma ju\u017C kalafiora, ale mam \u015Bwie\u017Ce broku\u0142y.<\/p>\r\n<p>- \u015Awietnie, to ch\u0119tnie wezm\u0119.<\/p>\r\n<p>- Prosz\u0119 bardzo. Czy to wszystko?<\/p>\r\n<p>- Tak, dzi\u0119kuj\u0119 to ju\u017C wszystko.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk:<\/strong><\/p>\r\n<p>Chcie\u0107 (chcia\u0142abym\/chcia\u0142bym) kupi\u0107, warzywa na zup\u0119 jarzynow\u0105, lista, seler naciowy, cebula, g\u0142&oacute;wka czosnku, p\u0119czek pietruszki, marchew, p&oacute;\u0142 kilograma, kilogram pomidor&oacute;w, kalafior, \u015Bwie\u017Ce broku\u0142y, ch\u0119tnie wzi\u0105\u0107 (wezm\u0119), czy to wszystko?<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

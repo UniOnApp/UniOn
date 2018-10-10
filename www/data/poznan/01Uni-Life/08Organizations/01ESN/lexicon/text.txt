@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Hasło promujące (promować) Erasmus Student Network</p>
+</td>
+<td>
+<p>slogan promoting Erasmus Student Network</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>organizacja wspierająca student&oacute;w mobilnościowych</p>
+</td>
+<td>
+<p>organization supporting mobility students</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opiekun (mentor)</p>
+</td>
+<td>
+<p>mentor (local buddy)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przewodnik</p>
+</td>
+<td>
+<p>chaperon</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>działania odkrywcy</p>
+</td>
+<td>
+<p>discoverer&rsquo;s exploration</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powita (powitać) na lotnisku/dworcu</p>
+</td>
+<td>
+<p>will greet (to greet) you at an airport/ railway station</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skieruje (skierować) do właściwego akademika</p>
+</td>
+<td>
+<p>will direct (to direct) you to the right hall of residence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pomoże (pom&oacute;c) w procedurach zakwaterowania</p>
+</td>
+<td>
+<p>will help (to help) you with accommodation procedures</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oprowadzi (oprowadzić) po akademickiej przestrzeni</p>
+</td>
+<td>
+<p>will show (to show) you around the university facilities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tandem</p>
+</td>
+<td>
+<p>tandem (to work in tandem)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uczyć swego języka narodowego</p>
+</td>
+<td>
+<p>teach your mother tongue</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uczyć się języka polskiego</p>
+</td>
+<td>
+<p>to learn Polish</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uczestniczyć w akcjach społecznych na rzecz edukacji, os&oacute;b poszkodowanych lub wykluczonych</p>
+</td>
+<td>
+<p>participate in many social initiatives for education, handicapped or excluded people</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>promować ideę wsp&oacute;lnoty</p>
+</td>
+<td>
+<p>promote the idea of a community</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;lne wyprawy krajowe i zagraniczne</p>
+</td>
+<td>
+<p>joint trips around Poland or abroad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spotkania integracyjne</p>
+</td>
+<td>
+<p>get-togethers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sportowe konkurencje</p>
+</td>
+<td>
+<p>sports competitions</p>
+</td>
+</tr>
+</tbody>
+</table>

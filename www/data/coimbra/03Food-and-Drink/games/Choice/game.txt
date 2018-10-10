@@ -1,0 +1,10 @@
+[
+  { "question": "Want to order a lovely buttered toast? Just ask for a…", "answers": ["torrada", "tosta", "bolacha"] },
+  { "question": "A much appreciated warm and liquid food is called…", "answers": ["sopa", "sapo", "papa"] },
+  { "question": "In Portugal, dishes are frequently spiced up with…", "answers": ["piri-piri", "pimenta", "wasabi"] },
+  { "question": "Sunny day? Sit outdoors! Coffee tastes much better in a...", "answers": ["esplanada", "cave", "biblioteca"] },
+  { "question": "Fancy a big café latte? Just order a…", "answers": ["galão", "chá", "sumo"] },
+  { "question": "If you want a sweet creamy pastry, you cant’ go wrong with a…", "answers": ["pastel de nata", "rissol de camarão", "croquete"] },
+  { "question": "Not that hungry? You can always check if they have a meia-…", "answers": ["dose", "hora", "noite"] },
+  { "question": "There are more than 100 ways of cooking the adored…", "answers": ["bacalhau", "pescada", "dourada"] }
+]

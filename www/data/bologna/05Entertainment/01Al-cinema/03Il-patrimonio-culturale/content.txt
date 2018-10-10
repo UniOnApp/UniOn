@@ -1,0 +1,17 @@
+{
+  "title": "Il patrimonio culturale",
+  "latitude": "44.498867",
+  "longitude": "11.336842",
+  "difficulty": "mid",
+  "keyword": ["Cineteca",
+"Cinema Lumi\u00E8re",
+"film d\u2019essai",
+"anteprime",
+"prestito"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

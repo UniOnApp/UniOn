@@ -1,0 +1,13 @@
+{
+  "title": "Lordi Square",
+  "latitude": "66.502498",
+  "longitude": "25.730388",
+  "difficulty": "",
+  "keyword": ["centre","keskusta","sampo","eurovision","handprint","meeting"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

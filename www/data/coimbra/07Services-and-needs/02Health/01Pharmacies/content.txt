@@ -1,0 +1,13 @@
+{
+  "title": "Pharmacies",
+  "latitude": "40.2100099",
+  "longitude": "-8.4217614",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

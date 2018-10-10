@@ -1,0 +1,13 @@
+{
+  "title": "Bus Companies",
+  "latitude": "40.20804",
+  "longitude": "-8.43164",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

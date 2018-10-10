@@ -1,0 +1,13 @@
+{
+  "title": "Visiting the Zoo",
+  "latitude": "52.400623",
+  "longitude": "16.994366",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

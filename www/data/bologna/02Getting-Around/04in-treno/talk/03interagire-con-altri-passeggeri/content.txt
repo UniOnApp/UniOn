@@ -1,0 +1,13 @@
+{
+  "title": "Interagire con altri passeggeri",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Buongiorno, mi scusi per il disturbo, il mio posto \u00E8 accanto al suo, vicino al finestrino...<\/p><\/td><td><\/td><\/tr><tr><td><p>Buongiorno, sa dove si trova la carrozza ristorante?<\/p><\/td><td><\/td><\/tr><tr><td><p>Buongiorno, posso aiutarla asistemare la valigia?<\/p><p>Buongiorno, vuole una mano a sistemare la valigia?<\/p><\/td><td><\/td><\/tr><tr><td><p>Buongiorno, mi scusi, mi pu\u00F2aiutare con la valigia?<\/p><\/td><td><\/td><\/tr><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

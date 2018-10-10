@@ -1,0 +1,13 @@
+{
+  "title": "Wild flowers",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Summer is admittedly short in Lapland, but at the same time very intensive! All plants great and small compete for resources such as 24\/7 sunlight and streams of water created by melting snow. Take a moment to walk around and look for more or less familiar flowers and other beautiful plants!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Here are some of the typical wild flowers growing all over Rovaniemi:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>apila<\/strong> clover<\/p>\r\n<p><strong>kielo<\/strong> lily-of-the-valley<\/p>\r\n<p><strong>kullero<\/strong> globeflower<\/p>\r\n<p><strong>maitohorsma<\/strong> rosebay willowherb, fireweed<\/p>\r\n<p><strong>niittyleinikki<\/strong> buttercup<\/p>\r\n<p><strong>puna-ailakki<\/strong> red campion<\/p>\r\n<p><strong>p&auml;iv&auml;nkakkara<\/strong> moon daisy<\/p>\r\n<p><strong>voikukka<\/strong> dandelion<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Some of the plants are so common that they&rsquo;ve made their way into Finnish poetry and songs. Can you guess the meaning of the opening line of a song made famous by Irwin Goodman in the 1980&rsquo;s? Tap to find out!<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Saat multa horsman, se rentun ruusu on.<\/strong><\/p>\r\n<p>I&rsquo;ll give you a fireweed, a rose from an outcast.<\/p>\r\n<p><\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

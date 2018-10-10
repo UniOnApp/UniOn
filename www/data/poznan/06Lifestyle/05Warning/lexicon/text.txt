@@ -1,0 +1,308 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Uznawać</p>
+</td>
+<td>
+<p>to consider</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bezpieczne</p>
+</td>
+<td>
+<p>safe</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oznaczać</p>
+</td>
+<td>
+<p>to mean</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niepokojące</p>
+</td>
+<td>
+<p>unsettling</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>incydenty</p>
+</td>
+<td>
+<p>incidents</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spadać</p>
+</td>
+<td>
+<p>to fall</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przestępstwa</p>
+</td>
+<td>
+<p>cirmes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wykrywalność</p>
+</td>
+<td>
+<p>detection</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wzrastać</p>
+</td>
+<td>
+<p>to rise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>systematycznie</p>
+</td>
+<td>
+<p>systematically</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ryzykownie</p>
+</td>
+<td>
+<p>risky</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nocne wyprawy</p>
+</td>
+<td>
+<p>night strolls</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rejony miasta</p>
+</td>
+<td>
+<p>parts of the city</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mroczne historie</p>
+</td>
+<td>
+<p>creepy stories</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przypisywać</p>
+</td>
+<td>
+<p>to pin on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stereotypowo</p>
+</td>
+<td>
+<p>stereotypically</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nieweryfikowane</p>
+</td>
+<td>
+<p>unverified</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pochodne</p>
+</td>
+<td>
+<p>derived from</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>statystyki policyjne</p>
+</td>
+<td>
+<p>police statistics</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>unikać</p>
+</td>
+<td>
+<p>to avoid</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sklepy monopolowe</p>
+</td>
+<td>
+<p>liquor stores</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wystrzegać się</p>
+</td>
+<td>
+<p>to stay clear of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nieodmiennie</p>
+</td>
+<td>
+<p>constantly</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mapy zagrożeń</p>
+</td>
+<td>
+<p>street-by-street crime maps</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zła sława</p>
+</td>
+<td>
+<p>notoriety</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obejmować</p>
+</td>
+<td>
+<p>to cover</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprzyjać</p>
+</td>
+<td>
+<p>to encourage/instigate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>starać się</p>
+</td>
+<td>
+<p>to try</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaczepki</p>
+</td>
+<td>
+<p>altercations</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprowokować</p>
+</td>
+<td>
+<p>to provoke</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przejścia podziemne</p>
+</td>
+<td>
+<p>underground passages</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zgłosić</p>
+</td>
+<td>
+<p>to report</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>komisariat policji</p>
+</td>
+<td>
+<p>police station</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozglądać się</p>
+</td>
+<td>
+<p>to be vigilant</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>straż miejska</p>
+</td>
+<td>
+<p>city guards</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>monitoring</p>
+</td>
+<td>
+<p>monitoring</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>patrolować</p>
+</td>
+<td>
+<p>to patrol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kibice piłki nożnej</p>
+</td>
+<td>
+<p>fans of soccer</p>
+</td>
+</tr>
+</tbody>
+</table>

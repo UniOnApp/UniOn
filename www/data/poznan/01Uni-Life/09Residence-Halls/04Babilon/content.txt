@@ -1,0 +1,13 @@
+{
+  "title": "Babilon",
+  "latitude": "52.425924",
+  "longitude": "16.925677",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

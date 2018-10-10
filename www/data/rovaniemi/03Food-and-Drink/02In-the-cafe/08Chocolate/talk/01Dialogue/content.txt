@@ -1,0 +1,13 @@
+{
+  "title": "Dialogue",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Buying ice cream<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>This is a typical dialogue about choosing and buying ice cream. Try to figure out which type of ice cream the customer is buying. How much does it cost? Tap on the phrase to see the translation.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>- Anteeksi, mit&auml; t&auml;m&auml; on?<\/p>\r\n<p>- Excuse me, what is this?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Se on hillaj&auml;&auml;tel&ouml;&auml;.<\/p>\r\n<p>That is cloudberry ice cream.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>- Ent&auml; mit&auml; tuo on?<\/p>\r\n<p>- And what is that?<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Se on mustikkaj&auml;&auml;tel&ouml;&auml;. Ja t&auml;m&auml; t&auml;ss&auml; on suklaaj&auml;&auml;tel&ouml;&auml;.<\/p>\r\n<p>It is blueberry ice cream. And this here is chocolate ice cream.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>- Mit&auml; j&auml;&auml;tel&ouml; maksaa?<\/p>\r\n<p>- How much does the ice cream cost? (Lit. What does the ice cream cost?)<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Yksi pallo maksaa kaksi euroa ja kaksi palloa maksaa kolme euroa viisikymment&auml; sentti&auml;.<\/p>\r\n<p>One scoop costs two euros and two scoops cost three euros fifty cents. <\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>- Ahaa. Min&auml; otan kaksi palloa mustikkaj&auml;&auml;tel&ouml;&auml;.<\/p>\r\n<p>- I see. I&rsquo;ll take two scoops of blueberry ice cream, please.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Selv&auml;. Tuleeko muuta?<\/p>\r\n<p>All right. Anything else?<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>- Ei kiitos.<\/p>\r\n<p>- No thank you.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>T&auml;ss&auml; on mustikkaj&auml;&auml;tel&ouml;, olkaa hyv&auml;.<\/p>\r\n<p>Here is the blueberry ice cream, here you are.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>- Kiitos!<\/p>\r\n<p>- Thank you!<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

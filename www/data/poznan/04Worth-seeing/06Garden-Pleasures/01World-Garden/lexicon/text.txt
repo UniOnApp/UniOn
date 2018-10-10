@@ -1,0 +1,52 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Przestrzeń spotkań kulturalnych</p>
+</td>
+<td>
+<p>space of cultural events</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wydarzenia artystyczne</p>
+</td>
+<td>
+<p>artistic performances</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być jednym z bardziej lubianych i najczęściej odwiedzanych park&oacute;w</p>
+</td>
+<td>
+<p>to be most favorite and mostly visited park</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sale dydaktyczne i ekspozycyjne</p>
+</td>
+<td>
+<p>lecture and exhibition halls</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pracownie naukowe</p>
+</td>
+<td>
+<p>research labs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>darmowy wstęp do parku</p>
+</td>
+<td>
+<p>free enterance</p>
+</td>
+</tr>
+</tbody>
+</table>

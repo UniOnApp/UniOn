@@ -1,0 +1,13 @@
+{
+  "title": "Lapland UAS",
+  "latitude": "66.481423",
+  "longitude": "25.722143",
+  "difficulty": "",
+  "keyword": ["ammattikorkeakoulu","education","LUC","UAS","campus","AMK"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

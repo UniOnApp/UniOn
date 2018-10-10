@@ -1,0 +1,13 @@
+{
+  "title": "Mettersi d\u2019accordo",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p style=\"text-align: center;\"><em>Talk<\/em><\/p><\/th><th><p style=\"text-align: center;\"><em>Answer Models<\/em><\/p><\/th><\/tr><tr><td><p>Ci vediamo pi&ugrave; tardi per un caff&eacute;?<\/p><\/td><td><p>Ok, volentieri!<\/p><p>Mi dispiace, non posso.<\/p><\/td><\/tr><tr><td><p>Ti va di andare al cinema stasera?<\/p><\/td><td><p>S&igrave;, che film vuoi vedere?<\/p><p>No, non mi piace il cinema.<\/p><\/td><\/tr><tr><td><p>Domani fanno un concerto in Piazza Verdi. Ci andiamo? Ti va?<\/p><\/td><td><p>S&igrave;, a che ora?<\/p><p>No, domani sera ho un impegno.<\/p><\/td><\/tr><tr><td><p>Ti aspetto alle 18.30 dopo la lezione in Via Zamboni 35. Ok?<\/p><\/td><td><p>D&rsquo;accordo, a dopo!<\/p><p>Purtroppo non posso. Sar&agrave; per un&rsquo;altra volta.<\/p><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

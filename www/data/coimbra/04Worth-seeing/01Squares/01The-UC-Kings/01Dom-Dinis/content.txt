@@ -1,0 +1,13 @@
+{
+  "title": "Dom Dinis",
+  "latitude": "40.2078814",
+  "longitude": "-8.4231395",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

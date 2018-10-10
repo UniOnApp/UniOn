@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Preciso de uma c&oacute;pia deste documento, frente verso. &ndash; <em>I need a copy of this document, front and back.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Fotoc&oacute;pia de um texto &ndash; text photocopy.<\/p>\r\n<p>Texto fotocopiado &ndash; photocopied text.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Pode encadernar, por favor? &ndash; <em>May you bind it, please?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

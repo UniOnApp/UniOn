@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Ziemniak</p>
+</td>
+<td>
+<p>potato</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gwara poznańska</p>
+</td>
+<td>
+<p>Poznań dialect</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zyskać popularność</p>
+</td>
+<td>
+<p>to become popular</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stolica Wielkopolski</p>
+</td>
+<td>
+<p>capital of Greater Poland region</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warzywo</p>
+</td>
+<td>
+<p>vegetable</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>osiedlać się</p>
+</td>
+<td>
+<p>to settle</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uprawiać</p>
+</td>
+<td>
+<p>to grow/ cultivate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>popierać</p>
+</td>
+<td>
+<p>to suport</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>serwować</p>
+</td>
+<td>
+<p>to serve</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wejść do jadłospisu</p>
+</td>
+<td>
+<p>to enter the menu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przypominać kształtem</p>
+</td>
+<td>
+<p>to resemble in shape</p>
+</td>
+</tr>
+</tbody>
+</table>

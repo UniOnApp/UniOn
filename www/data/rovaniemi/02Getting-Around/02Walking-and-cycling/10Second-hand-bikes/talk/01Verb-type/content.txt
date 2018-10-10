@@ -1,0 +1,13 @@
+{
+  "title": "Verb type 3",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>The third verb type includes Finnish verbs such as <span style=\"text-decoration: underline;\">py&ouml;r&auml;ill&auml;<\/span>, <span style=\"text-decoration: underline;\">k&auml;vell&auml;<\/span>, <span style=\"text-decoration: underline;\">menn&auml;<\/span> and <span style=\"text-decoration: underline;\">tulla<\/span>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Type 3 verbs end in two consonants and a vowel. These are the endings: <span style=\"background-color: #99ccff;\">-lla\/-ll&auml;<\/span>, -<span style=\"background-color: #99ccff;\">nna\/-nn&auml;<\/span>, <span style=\"background-color: #99ccff;\">-rra\/-rr&auml;<\/span> or <span style=\"background-color: #99ccff;\">-sta\/-st&auml;<\/span>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"text-decoration: underline;\">py&ouml;r&auml;i<span style=\"background-color: #99ccff;\">ll&auml;<\/span><\/span> to ride a bike, to cycle<\/p>\r\n<p><span style=\"text-decoration: underline;\">k&auml;ve<span style=\"background-color: #99ccff;\">ll&auml;<\/span><\/span> to walk<\/p>\r\n<p><span style=\"text-decoration: underline;\">tu<span style=\"background-color: #99ccff;\">lla<\/span><\/span> to come<\/p>\r\n<p><span style=\"text-decoration: underline;\">me<span style=\"background-color: #99ccff;\">nn&auml;<\/span><\/span> to go<\/p>\r\n<p><span style=\"text-decoration: underline;\">nou<span style=\"background-color: #99ccff;\">sta<\/span><\/span> to rise, to get up<\/p>\r\n<p><span style=\"text-decoration: underline;\">pu<span style=\"background-color: #99ccff;\">rra<\/span><\/span> to bite<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>To find the basic stem, remove the last two letters. To this stem, you just add an -e- before adding the personal ending:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>min&auml; k&auml;vel-e-n (I walk)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>sin&auml; men-e-t (you go)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>h&auml;n py&ouml;r&auml;il-e-e (he\/she cycles).<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

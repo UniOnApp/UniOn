@@ -1,0 +1,13 @@
+{
+  "title": "Academic Year",
+  "latitude": "40.2089072",
+  "longitude": "-8.4241509",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

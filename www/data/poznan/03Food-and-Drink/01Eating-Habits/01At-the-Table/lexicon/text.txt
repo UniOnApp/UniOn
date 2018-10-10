@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Uwielbiają (uwielbiać)</p>
+</td>
+<td>
+<p>they love (to love)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jeść</p>
+</td>
+<td>
+<p>to eat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>celebrują (celebrować)</p>
+</td>
+<td>
+<p>they celebrate (to celebrate)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>posiłki</p>
+</td>
+<td>
+<p>meals</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w dobrym towarzystwie</p>
+</td>
+<td>
+<p>in good company</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słyną (słynąć)</p>
+</td>
+<td>
+<p>famous for</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gościnność</p>
+</td>
+<td>
+<p>hospitality</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bogato zastawione stoły</p>
+</td>
+<td>
+<p>plentiful tables</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uczty</p>
+</td>
+<td>
+<p>feasts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>potrawy</p>
+</td>
+<td>
+<p>dishes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bary mleczne</p>
+</td>
+<td>
+<p>milk bars</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lokale</p>
+</td>
+<td>
+<p>restaurants</p>
+</td>
+</tr>
+</tbody>
+</table>

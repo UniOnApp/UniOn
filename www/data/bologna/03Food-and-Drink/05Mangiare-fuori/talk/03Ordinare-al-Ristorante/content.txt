@@ -1,0 +1,13 @@
+{
+  "title": "Prenotare, Ordinare al Ristorante",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p >Talk<\/p><\/th><th><p >Answer Models<\/p><\/th><\/tr><tr><td><p>Vorrei prenotare un tavolo per stasera, alle 20 per 4 persone.<\/p><\/td><td><\/td><\/tr><tr><td><p>Avete posto per 6 persone sabato a pranzo?<\/p><\/td><td><\/td><\/tr><tr><td><p>Buonasera, avete ancora un tavolo libero per domenica? Siamo in 6.<\/p><\/td><td><\/td><\/tr><tr><td><p>Vorremmo ordinare per cortesia.<\/p><p>&Egrave; possibile ordinare per favore?<\/p><p>Scusi, siamo pronti per ordinare.<\/p><p>Scusi, pu&ograve; prendere l&rsquo;ordine?<\/p><\/td><td><\/td><\/tr><tr><td><p>Pu&ograve; portarci il men&ugrave; per favore?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

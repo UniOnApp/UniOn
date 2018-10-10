@@ -1,0 +1,13 @@
+{
+  "title": "The Bridge",
+  "latitude": "66.502920",
+  "longitude": "25.742350",
+  "difficulty": "",
+  "keyword": ["lumberjack","jätkänkynttilä","kemijoki","river","midnight sun","camere","selfie","kuva"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

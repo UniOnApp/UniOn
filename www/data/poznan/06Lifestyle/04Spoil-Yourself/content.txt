@@ -1,0 +1,13 @@
+{
+  "title": "Spoil Yourself!",
+  "latitude": "52.389125",
+  "longitude": "16.924097",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

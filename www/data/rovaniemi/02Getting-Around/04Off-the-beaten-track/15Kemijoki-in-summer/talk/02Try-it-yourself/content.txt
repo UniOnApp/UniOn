@@ -1,0 +1,13 @@
+{
+  "title": "Try it yourself!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Can you figure out whether to use -ssa or -lla in the following examples? Tap on the phrase to see the solution.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"text-decoration: underline;\">purjehtia<\/span> to sail<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>Min&auml; purjehdin (Kemijoella \/ Kemijoessa?)<\/p>\r\n<p>Kemijoella<\/p>\r\n<p>&nbsp;<\/p>\r\n <\/div>\r\n<p><span style=\"text-decoration: underline;\">sukeltaa<\/span> to dive<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>Min&auml; sukellan (Kemijoella \/ Kemijoessa)<\/p>\r\n<p>Kemijoessa<\/p>\r\n<p>&nbsp;<\/p>\r\n <\/div>\r\n<p><span style=\"text-decoration: underline;\">soutaa<\/span> to row<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>Min&auml; soudan (joella \/ joessa?)<\/p>\r\n<p>joella<\/p>\r\n<p>&nbsp;<\/p>\r\n <\/div>\r\n<p><span style=\"text-decoration: underline;\">katto<\/span> a ceiling; a roof<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span style=\"text-decoration: underline;\">seisoa<\/span> to stand<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>Min&auml; seison (katolla \/ katossa?)<\/p>\r\n<p>katolla<\/p>\r\n<p>&nbsp;<\/p>\r\n   <\/div>\r\n<p><span style=\"text-decoration: underline;\">hikoilla<\/span> to sweat<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>Min&auml; hikoilen (saunalla \/ saunassa)<\/p>\r\n<p>saunassa<\/p>\r\n<p>&nbsp;<\/p>\r\n   <\/div>\r\n<p><span style=\"text-decoration: underline;\">vilvoitella<\/span> to cool off<\/p>\r\n<p>&nbsp;<\/p>\r\n  <div class=\"ht\">\r\n<p>Min&auml; vilvoittelen (saunalla \/ saunassa?)<\/p>\r\n<p>saunalla<\/p>\r\n    <p>&nbsp;<\/p>\r\n   <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

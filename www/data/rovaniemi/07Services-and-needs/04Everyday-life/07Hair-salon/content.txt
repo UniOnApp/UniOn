@@ -1,0 +1,13 @@
+{
+  "title": "Hair salon",
+  "latitude": "66.518336",
+  "longitude": "25.755302",
+  "difficulty": "",
+  "keyword": ["haircut","hairdresser","barber","parturi","kampaamo"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

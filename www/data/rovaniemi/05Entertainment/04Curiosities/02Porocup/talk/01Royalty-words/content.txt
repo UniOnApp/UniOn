@@ -1,0 +1,13 @@
+{
+  "title": "Royalty words",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Kuninkuusajot<\/strong>, the final event of <strong>Porocup<\/strong>, translates literally into <em>the Kingship rides<\/em>. Even though Finland is not a monarchy, we love to use words referring to the royalty in competition contexts, especially. Please find some examples below.<\/p>\r\n<p><strong>kuningas <\/strong>a king<\/p>\r\n<p><strong>kuningatar <\/strong>a queen<\/p>\r\n<p><strong>kunkku<\/strong> an informal way of saying &ldquo;king&rdquo;<\/p>\r\n<p><strong>kruunata<\/strong> to crown, to coronate <strong>&ldquo;Lucia-neito kruunataan&rdquo;<\/strong> &ldquo;the Lucia maid is coronated&rdquo; (The Nordic Lucia tradition began in the 18th century in Sweden.)<\/p>\r\n<p><strong>lohikuningas <\/strong>the salmon king (the winner of the Tenojoki salmon fishing contest)<\/p>\r\n<p><strong>perint&ouml;prinsessa<\/strong> a runner-up (in beauty contests)<\/p>\r\n<p><strong>porokuningas<\/strong> the reindeer king, king of the reindeer (the winning reindeer in Porocup)<\/p>\r\n<p><strong>prinsessa<\/strong> a princess<\/p>\r\n<p><strong>prinssi<\/strong> a prince<\/p>\r\n<p><strong>ravikuningas<\/strong> the horse-track king (the winning stallion in the biggest race-track competition in Finland)<\/p>\r\n<p><strong>ravikuningatar <\/strong>the horse-track queen (the winning mare in the biggest race-track competition in Finland)<\/p>\r\n<p><strong>tangokuningas <\/strong>the tango king (the winning male singer in <a href=\"http:\/\/www.tangomarkkinat.fi\/\">Sein&auml;joen tangomarkkinat<\/a>)<\/p>\r\n<p><strong>tangokuningatar <\/strong>the tango queen (the winning female male singer of the above-mentioned singing contest)<\/p>\r\n<p><strong>tangokuninkaalliset <\/strong>the tango royalty (the winners of the above-mentioned singing contest)<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

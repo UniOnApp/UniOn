@@ -1,0 +1,13 @@
+{
+  "title": "Col\u00E9gio Artes",
+  "latitude": "40.2092686",
+  "longitude": "-8.425353",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

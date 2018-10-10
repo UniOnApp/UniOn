@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Cze\u015B\u0107, co\u015B Ty <strong>na siebie w\u0142o\u017Cy\u0142<\/strong>? Tak chcesz wyj\u015B\u0107 z domu?<\/p>\r\n<p>- A <strong>co jest nie tak<\/strong> z moim <strong>ubraniem<\/strong>?<\/p>\r\n<p>- Jest <strong>marzec<\/strong>. O tej porze roku nie <strong>nosimy<\/strong> jeszcze kr&oacute;tkich spodni.<\/p>\r\n<p>- 30 marca! <strong>Ju\u017C wiosna<\/strong>! Jak d\u0142ugo mam nosi\u0107 te swetry i kurtki? <strong>Mam do\u015B\u0107<\/strong>.<\/p>\r\n<p>- Czasem w marcu jest ju\u017C <strong>ca\u0142kiem \u0142adnie<\/strong>, ale nie na tyle, \u017Ce <strong>chodzi\u0107 w<\/strong> kr&oacute;tkich spodniach. Poczekaj do<strong> maja<\/strong>.<\/p>\r\n<p>- A w co <strong>ubieraj\u0105 si\u0119<\/strong> ludzie w <strong>kwietniu<\/strong>?<\/p>\r\n<p><strong>-<\/strong> Jaka\u015B <strong>lekka kurtka<\/strong>, <strong>\u017Cakiet<\/strong> czy sweter <strong>si\u0119 przydaj\u0105<\/strong>.<\/p>\r\n<p>- To nie ma ciep\u0142ych dni?<\/p>\r\n<p>- Ale\u017C s\u0105, ale <strong>rano<\/strong> i <strong>wieczorem<\/strong> bywa <strong>ch\u0142odno<\/strong> i <strong>mo\u017Ce pada\u0107<\/strong>, wi\u0119c parasol obowi\u0105zkowy.<\/p>\r\n<p>- Dobrze, za\u0142o\u017C\u0119 d\u017Cinsy i <strong>wezm\u0119 <\/strong>kurtk\u0119.<\/p>\r\n<p>- No, teraz Jeste\u015B ubrany <strong>odpowiednio<\/strong> do temperatury.<\/p>\r\n<p>- Ale w maju <strong>na pewno<\/strong> nie za\u0142o\u017C\u0119 kurtki!<\/p>\r\n<p>- <strong>Zobaczymy<\/strong>, mo\u017Ce b\u0119dziesz mia\u0142 szcz\u0119\u015Bcie i b\u0119dzie ju\u017C <strong>ciep\u0142o<\/strong>.<\/p>\r\n<p>- <strong>Mam nadziej\u0119<\/strong>. To co, idziemy?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>W\u0142o\u017Cy\u0107 na siebie, co jest nie tak?, ubranie, marzec, nosi\u0107 co\u015B, ju\u017C wiosna, mam do\u015B\u0107, ca\u0142kiem \u0142adnie, chodzi\u0107 w&hellip; , ubiera\u0107 si\u0119 w&hellip; , kwiecie\u0144 , maj, lekka kurtka, \u017Cakiet, przydaj\u0105 (przydawa\u0107) si\u0119, rano, wieczorem, ch\u0142odno, wezm\u0119 (wzi\u0105\u0107), mo\u017Ce pada\u0107, odpowiednio, na pewno, zobaczymy (zobaczy\u0107), ciep\u0142o, mam (mie\u0107) nadziej\u0119.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

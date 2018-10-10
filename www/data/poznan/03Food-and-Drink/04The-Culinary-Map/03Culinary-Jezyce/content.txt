@@ -1,0 +1,13 @@
+{
+  "title": "Culinary Jeżyce",
+  "latitude": "52.410794",
+  "longitude": "16.900036",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

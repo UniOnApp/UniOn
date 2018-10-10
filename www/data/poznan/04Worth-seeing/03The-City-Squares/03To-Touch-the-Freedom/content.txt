@@ -1,0 +1,13 @@
+{
+  "title": "To Touch the Freedom",
+  "latitude": "52.407870",
+  "longitude": "16.925463",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

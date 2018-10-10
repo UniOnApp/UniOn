@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Are these claims oikein (correct) or v&auml;&auml;rin (incorrect)? Tap to check.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>In general, home is the focus of social life for Finns.<\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> Finns truly like to spend time at home with their family and friends.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Cleaning is one of the many social activities that families and friends do together.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> Cooking is a more popular social activity than cleaning!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Children don&rsquo;t participate in cooking.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> Children often participate by chopping vegetables or setting the table, for example. Some families may have their own cooking enthusiasts growing up who might take care of bigger responsibilities, too.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>All children get a warm meal for lunch at school.<\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> Finnish schools offer lunch to their pupils.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>The Finnish word for the Martha Organization is <em>Martat<\/em>.<\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> That's where you can learn to cook traditional dishes or contemporary food!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

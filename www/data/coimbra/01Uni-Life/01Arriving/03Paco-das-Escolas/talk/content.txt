@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Qual &eacute; a Capela de S&atilde;o Miguel?<\/p>\r\n<p><em>Which one is the S&atilde;o Miguel Chapel?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>Qual + ser<\/em><\/p>\r\n<ul>\r\n<li><em>Q-word used to identify something or someone out of a range.<\/em><\/li>\r\n<\/ul>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pronounciation<\/strong><\/p>\r\n<p>&lt;&atilde;o&gt;, &lt;am&gt; &mdash; em final de palavra [\u0250\u0303w\u0303]<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

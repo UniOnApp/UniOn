@@ -1,0 +1,28 @@
+<p><strong>Tipi di caff&egrave;</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/01Un-espresso-per-favore/")' >alto, corto, corretto, decaffeinato, d&rsquo;orzo, espresso, in tazza grande, lungo, macchiato, schiumato, ristretto, ecc.</span></p>
+<p>&nbsp;</p>
+<p><strong>Per zuccherare</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/01Un-espresso-per-favore/")' >La bustina di zucchero</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/01Un-espresso-per-favore/")' >Il dolcificante</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/01Un-espresso-per-favore/")' >Il miele</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/01Un-espresso-per-favore/")' >Lo zucchero di canna</span></p>
+<p>&nbsp;</p>
+<p><strong>Persone</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/01Un-espresso-per-favore/")' >Il barista/La barista</span></p>
+<p>Il cassiere/La cassiera</p>
+<p>Il cliente/La cliente</p>
+<p>&nbsp;</p>
+<p><strong>Altri Oggetti </strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/01Un-espresso-per-favore/")' >Il bancone del bar</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/03Pasta-e-cappuccino/")' >La marca da bollo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/03Pasta-e-cappuccino/")' >Il pacchetto di sigarette</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/02Il-caffe-sospeso/")' >Lo scontrino</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/01Un-espresso-per-favore/")' >La tazza</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/03Pasta-e-cappuccino/")' >La tazzina</span></p>
+<p>&nbsp;</p>
+<p><strong>Espressioni e Modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/01Un-espresso-per-favore/")' >Prendersi gioco di qn. (eng. to make fun of someone)</span>: &ldquo;<em>Suo marito si prende gioco di lei!</em>". "<em>Perch&eacute; ridi? Ti stai prendendo gioco di me?</em>&rdquo;.<br />Espressione un po&rsquo; formale che significa prendere in giro, mentire, fingere, agire senza che l&rsquo;altra persona sappia la verit&agrave;.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/02Il-caffe-sospeso/")' >Era un lusso (eng. to be a luxury)</span>: &ldquo;<em>Andare in vacanza alle Maldive &egrave; un vero lusso</em>&rdquo;. &ldquo;<em>La cena in quel ristorante? Un lusso per pochi</em>&rdquo;.<br />Economicamente costoso e quindi non alla portata di tutti. Di carattere eccezionale.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/02Il-caffe-sospeso/")' >Permettersi (eng. to afford)</span>: &ldquo;<em>Non posso permettermi quella casa, &egrave; troppo cara</em>&rdquo;. &ldquo;<em>Mi permetto il lusso di andare al ristorante il sabato sera</em>&rdquo;.<br />Concedersi qualcosa, avere disponibilit&agrave; economica sufficiente per poter fare qualcosa. Riferimento anche ad altri generi di disponibilit&agrave;, per esempio di tempo e di energia.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/03Pasta-e-cappuccino/")' >Fare colazione (eng. to have breakfast)</span>: &ldquo;<em>Faccio colazione appena sveglia</em>&rdquo;. &ldquo;<em>In vacanza facciamo colazione tutti insieme</em>&rdquo;.<br />Il primo pasto del giorno.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/02Al-bar/03Pasta-e-cappuccino/")' >Giocare a carte (eng. to play cards)</span>: Fare un gioco con le carte, per esempio tra i giochi pi&ugrave; conosciuti in Italia ci sono briscola, scopa, poker, scala quaranta.</p>

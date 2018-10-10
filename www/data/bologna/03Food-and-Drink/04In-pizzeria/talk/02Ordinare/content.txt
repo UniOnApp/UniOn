@@ -1,0 +1,13 @@
+{
+  "title": "Ordinare",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p >Talk<\/p><\/th><th><p >Answer Models<\/p><\/th><\/tr><tr><td><p>Vorremmo ordinare per cortesia.<\/p><p>&Egrave; possibile ordinare per favore?<\/p><p>Scusi, siamo pronti per ordinare.<\/p><p>Scusi, pu&ograve; prendere l&rsquo;ordine?<\/p><\/td><td><\/td><\/tr><tr><td><p>Pu\u00F2 portarci il men\u00F9 per favore?<\/p><\/td><td><\/td><\/tr><tr><td><p>Per me una pizza margherita e una birra media, per favore<\/p><\/td><td><\/td><\/tr><tr><td><p>Per me una capricciosa e mezzo litro d\u2019acqua naturale<\/p><\/td><td><\/td><\/tr><tr><td><p>Vorrei una pizza bianca, senza pomodoro, con radicchio rosso e salsiccia<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Col\u00E9gio S. Jer\u00F3nimo",
+  "latitude": "40.2087442",
+  "longitude": "-8.4249681",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

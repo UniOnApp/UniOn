@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>So many sandwiches!<\/strong><\/p>\r\n<p>Tosta -<em> toastie<\/em><\/p>\r\n<p>tosta mista - <em>ham and cheese toastie<\/em><\/p>\r\n<p>tosta de queijo - <em>cheese toastie<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Torrada - <em>buttered toast<\/em><\/p>\r\n<p>Meia-torrada - <em>half a toast<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Sandu&iacute;che - sandes - uma sandes - <em>sandwich<\/em><\/p>\r\n<p>sandes de omeleta - <em>omelette sandwich<\/em><\/p>\r\n<p>sandes de febra - <em>pork sandwich<\/em><\/p>\r\n<p>sandes de panado - <em>breaded pork sandwich<\/em><\/p>\r\n<p>sandes de queijo fresco - <em>fresh cheese sandwich<\/em><\/p>\r\n<p>sandes de atum - <em>tuna sandwich<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Portugal Pequenitos",
+  "latitude": "40.2020636",
+  "longitude": "-8.4364104",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

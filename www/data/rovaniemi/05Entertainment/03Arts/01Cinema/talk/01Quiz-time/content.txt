@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Are these claims oikein (correct) or v&auml;&auml;rin (incorrect)? You&rsquo;ll know the answers to most questions based on the text about Finnish cinema &ndash; and maybe you can also guess some! Tap to check.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Finns prefer subtitles over dubbing.<\/strong><\/p>\r\n<p><strong>Oikein. Correct. <\/strong>Most international movies get both Finnish and Swedish subtitles in Finland. For most Finns, dubbing sounds very weird, and we would choose subtitles whenever possible.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Iconic Finnish music, Jean Sibelius&rsquo; <em>Finlandia<\/em>, can be spotted in many unexpected contexts, like in the action movie <em>Die Hard 2.<\/em><\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> Die Hard 2 was directed by a Finnish director, Renny Harlin, who has a habit of including Finnish references in all his movies. Keep your eyes open for tiny details the next time you see a film directed by Renny Harlin!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong><em>Martti<\/em> <em>Ahtisaari<\/em> is the first Finnish director to win the Academy Award.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> Martti Ahtisaari is a former president of Finland, who won the Nobel Peace Prize in 2008. In fact, no Finnish director has ever actually won the Academy Award &ndash; although director J&ouml;rn Donner (1933&ndash;) did accept the award on behalf of Ingrid Bergman, as the producer of <em>Fanny and Alexander<\/em> in 1983.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>There&rsquo;s a more informal everyday word for elokuva &ndash; it&rsquo;s <em>leffa<\/em>. <\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> The nickname of this popular pastime is <strong>leffa<\/strong>. For instance, if you want to catch a movie with a friend, just say: <strong>Menn&auml;&auml;n leffaan<\/strong>! &ndash; Let&rsquo;s catch a movie!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Instead of popcorn and soda, cinema-goers in Finland usually enjoy fresh carrots and tomato juice during the movie.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> Fresh carrots belong someplace else &ndash; the sound of eating carrots would admittedly be annoying for a nice and relaxed evening in the cinema.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

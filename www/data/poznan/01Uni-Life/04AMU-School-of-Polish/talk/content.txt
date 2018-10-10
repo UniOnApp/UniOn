@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry.<\/p>\r\n<p>- Dzie\u0144 dobry, s\u0142ucham Pani\u0105.<\/p>\r\n<p>- Chc\u0119 si\u0119 <strong>zapisa\u0107 na kurs j\u0119zyka polskiego<\/strong>.<\/p>\r\n<p>- Jest Pani studentk\u0105?<\/p>\r\n<p>- Tak, jestem studentk\u0105 programu Erasmus+.<\/p>\r\n<p>- Jaki Wydzia\u0142?<\/p>\r\n<p>- Wydzia\u0142 Prawa i Administracji.<\/p>\r\n<p>- Na jaki poziom chce si\u0119 Pani zapisa\u0107?<\/p>\r\n<p>- A1.<\/p>\r\n<p>- Mamy kursy 4, 6 i 10 godzin w tygodniu.<\/p>\r\n<p>- Chcia\u0142abym 6 godzin w tygodniu przez 2 semestry. Mam stypendium na dwa semestry. <strong>Czy musz\u0119 p\u0142aci\u0107 za kurs?<\/strong><\/p>\r\n<p>- Nie, <strong>dla student&oacute;w programu Erasmus+ kurs jest bezp\u0142atny<\/strong>.<\/p>\r\n<p>- <strong>Czy dostan\u0119 punkty kredytowe za kurs j\u0119zyka polskiego?<\/strong><\/p>\r\n<p>- Tak, 15 godzin zaj\u0119\u0107 to 1 punkt, wi\u0119c kurs 6 godzin to 6 punkt&oacute;w za semestr.<\/p>\r\n<p>- \u015Awietnie.<\/p>\r\n<p>- <strong>Prosz\u0119 wype\u0142ni\u0107<\/strong> <strong>formularz zg\u0142oszeniowy.<\/strong><\/p>\r\n<p>- <strong>Kiedy s\u0105 zaj\u0119cia?<\/strong><\/p>\r\n<p>- To jest Pani plan. Grupa I C ma zaj\u0119cia w <strong>poniedzia\u0142ek, \u015Brod\u0119 i pi\u0105tek<\/strong> od 10.30 do 12.00 (od dziesi\u0105tej trzydzie\u015Bci do dwunastej).<\/p>\r\n<p>- Gdzie s\u0105 zaj\u0119cia?<\/p>\r\n<p>- Collegium Maius, poniedzia\u0142ek i \u015Broda<strong> parter<\/strong> sala numer 12 (dwana\u015Bcie), pi\u0105tek sala 221 drugie <u><strong>pi\u0119tro<\/strong><\/u><strong>.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Chcie\u0107 (chc\u0119) si\u0119 zapisa\u0107 na kurs j\u0119zyka polskiego, czy musz\u0119 p\u0142aci\u0107 za kurs? dla student&oacute;w programu Erasmus+ kurs jest bezp\u0142atny, czy dostan\u0119 punkty kredytowe za kurs j\u0119zyka polskiego?, prosz\u0119 wype\u0142ni\u0107 formularz zg\u0142oszeniowy, zaj\u0119cia, poniedzia\u0142ek, wtorek, \u015Broda, czwartek, pi\u0105tek, gdzie, zapisa\u0107, pi\u0119tro, parter.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

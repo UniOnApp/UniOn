@@ -1,0 +1,17 @@
+{
+  "title": "Campioni di basket",
+  "latitude": "44.499913",
+  "longitude": "11.332342",
+  "difficulty": "mid",
+  "keyword": ["basket",
+"Virtus",
+"Fortitudo",
+"Palazzetto dello sport",
+"Paladozza"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

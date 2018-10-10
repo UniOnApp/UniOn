@@ -1,0 +1,13 @@
+{
+  "title": "Łazarski Market Sq.",
+  "latitude": "52.394444",
+  "longitude": "16.901667",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

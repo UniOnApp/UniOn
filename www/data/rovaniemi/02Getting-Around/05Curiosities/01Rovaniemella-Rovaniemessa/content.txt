@@ -1,0 +1,13 @@
+{
+  "title": "Rovaniemell\u00E4 Rovaniemess\u00E4?",
+  "latitude": "66.500299",
+  "longitude": "25.713936",
+  "difficulty": "",
+  "keyword": ["tori","market place"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

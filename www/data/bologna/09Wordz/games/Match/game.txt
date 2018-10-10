@@ -1,0 +1,4 @@
+free text here
+[pair]uno Sinistra_uno destra
+[pair]dueSinistra_due destra
+[pair]treSinistra_tre destra

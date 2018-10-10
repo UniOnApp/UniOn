@@ -1,0 +1,13 @@
+{
+  "title": "ESN",
+  "latitude": "66.486780",
+  "longitude": "25.711039",
+  "difficulty": "",
+  "keyword": ["Erasmus","international","intl","student"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Botteghe alimentari",
+  "latitude": "44.493680",
+  "longitude": "11.345995",
+  "difficulty": "mid",
+  "keyword": ["ricetta",
+"ricette",
+"tradizione culinaria ",
+"bottega",
+"botteghe alimentari",
+"fornaio",
+"panifici",
+"panificio",
+"pasticceria",
+"fornai"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

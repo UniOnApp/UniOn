@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Atividades &ndash; <\/strong><em>activities<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Nata&ccedil;&atilde;o&hellip;<\/p>\r\n<p>&hellip;de forma&ccedil;&atilde;o &ndash; <em>learning swimming classes<\/em><\/p>\r\n<p>&hellip;de competi&ccedil;&atilde;o &ndash; <em>competitive swimming<\/em><\/p>\r\n<p>&hellip;livre &ndash; <em>recreational\/ lap swimming<\/em><\/p>\r\n<p>Hidrogin&aacute;stica &ndash; <em>hydrogymnastics <\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Piscina com uma pista ou duas pistas<\/p>\r\n<p><em>Pool with one lane or two lanes.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Utiliza&ccedil;&atilde;o livre\/ pontual<\/p>\r\n<p><em>Occasional use<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Balne&aacute;rios femininos | masculinos<\/p>\r\n<p><em>Feminine | masculine changing rooms<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Uso obrigat&oacute;rio.<\/p>\r\n<p><em>Compulsory use.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Fato de banho &ndash; <em>swimming suit (both for men and women)<\/em><\/p>\r\n<p>Touca &ndash; <em>swimming cap<\/em><\/p>\r\n<p>Chinelos &ndash; <em>flipflops<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Second-hand bikes",
+  "latitude": "66.502855",
+  "longitude": "25.735679",
+  "difficulty": "",
+  "keyword": ["pyörä","pyöräillä","kävellä","walk","cycling"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

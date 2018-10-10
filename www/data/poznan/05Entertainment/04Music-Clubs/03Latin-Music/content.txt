@@ -1,0 +1,13 @@
+{
+  "title": "Latin Music",
+  "latitude": "52.405873",
+  "longitude": "16.932862",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

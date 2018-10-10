@@ -1,0 +1,212 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Śr&oacute;dmieście</p>
+</td>
+<td>
+<p>downtown</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odmienność architektoniczna</p>
+</td>
+<td>
+<p>architectural distinctiveness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koncepcja urbanistyczna</p>
+</td>
+<td>
+<p>urban plan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>monumentalne budowle</p>
+</td>
+<td>
+<p>majestic edifices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zamysł estetyczny</p>
+</td>
+<td>
+<p>aesthetic design</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>architekt</p>
+</td>
+<td>
+<p>architect</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wzmożona germanizacja</p>
+</td>
+<td>
+<p>intensified Germanization</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>secesyjne i eklektyczne kamienice</p>
+</td>
+<td>
+<p>Art Noveau and Eclectic tenement houses</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>detale</p>
+</td>
+<td>
+<p>details</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zdobienia</p>
+</td>
+<td>
+<p>embellishments</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>majestatycznie</p>
+</td>
+<td>
+<p>majestically</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozpoznawalny budynek</p>
+</td>
+<td>
+<p>recognizable building</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rezydencja</p>
+</td>
+<td>
+<p>residence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pomieszczenia</p>
+</td>
+<td>
+<p>rooms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zakamarki</p>
+</td>
+<td>
+<p>nooks and crannies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wspinać się</p>
+</td>
+<td>
+<p>to climb</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podziwiać</p>
+</td>
+<td>
+<p>to admire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>imponująca</p>
+</td>
+<td>
+<p>impressive</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tron</p>
+</td>
+<td>
+<p>throne</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>fontanna</p>
+</td>
+<td>
+<p>fountain</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sztuki wizualne</p>
+</td>
+<td>
+<p>visual arts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>instytucja edukacyjna</p>
+</td>
+<td>
+<p>educational institution</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>fabuła</p>
+</td>
+<td>
+<p>plot</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>traktować</p>
+</td>
+<td>
+<p>to consider</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>punkt orientacyjny</p>
+</td>
+<td>
+<p>reference point</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pejzaż</p>
+</td>
+<td>
+<p>landscape</p>
+</td>
+</tr>
+</tbody>
+</table>

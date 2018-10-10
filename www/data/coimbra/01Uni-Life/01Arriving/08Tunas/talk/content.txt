@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>tocar<\/strong><\/p>\r\n<p>tocar guitarra (<em>play guitar)<\/em><\/p>\r\n<p>tocar bateria (<em>play drums)<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>tocar no quadro (<em>touch the painting<\/em>) &ndash; N&atilde;o tocar nos quadros!<\/p>\r\n<p>tocar &agrave; campainha (<em>ring the bell<\/em>) &mdash; Toca &agrave; campainha!<\/p>\r\n<p>bater &agrave; porta (<em>knock on the door<\/em>) &mdash; Bate &agrave; porta!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

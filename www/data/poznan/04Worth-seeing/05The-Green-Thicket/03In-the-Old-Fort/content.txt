@@ -1,0 +1,13 @@
+{
+  "title": "In the Old Fort",
+  "latitude": "52.418156",
+  "longitude": "16.931181",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

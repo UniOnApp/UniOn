@@ -1,0 +1,13 @@
+{
+  "title": "Ordinare da bere",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p >Talk<\/p><\/th><th><p >Answer Models<\/p><\/th><\/tr><tr><td><p>Due calici di vino per favore: un rosso frizzante per me e un bianco fermo e fruttato per lei<\/p><\/td><td><\/td><\/tr><tr><td><p>Avete il vino della casa?<\/p><\/td><td><\/td><\/tr><tr><td><p>Mezzo litro di vino bianco in caraffa per favore<\/p><\/td><td><\/td><\/tr><tr><td><p>Ci porta la carta dei vini?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Penedo Saudade",
+  "latitude": "40.2051401",
+  "longitude": "-8.416996",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

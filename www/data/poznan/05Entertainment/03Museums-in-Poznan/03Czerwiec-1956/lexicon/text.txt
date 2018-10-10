@@ -1,0 +1,180 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Historia</p>
+</td>
+<td>
+<p>history</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozpad komunizmu</p>
+</td>
+<td>
+<p>fall of communism</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zacząć się</p>
+</td>
+<td>
+<p>to begin</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strajk</p>
+</td>
+<td>
+<p>strike</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wielotysięczna demonstracja</p>
+</td>
+<td>
+<p>demonstrating crowd of many thousands</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>protesty</p>
+</td>
+<td>
+<p>protests</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>postulaty</p>
+</td>
+<td>
+<p>demands</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>żądanie chleba i wolności</p>
+</td>
+<td>
+<p>bread and freedom demand</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przed gmachem</p>
+</td>
+<td>
+<p>in front of the edifice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strzały</p>
+</td>
+<td>
+<p>shots</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>masowe wystąpienie przeciw polityce władz</p>
+</td>
+<td>
+<p>mass rebellion against the communist government</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dokumentujące fotografie</p>
+</td>
+<td>
+<p>photographic documentation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zryw społeczny</p>
+</td>
+<td>
+<p>uprising</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>działalność opozycyjna</p>
+</td>
+<td>
+<p>oppositionist activities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>drugi obieg</p>
+</td>
+<td>
+<p>samizdat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cenzura</p>
+</td>
+<td>
+<p>censorship</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zrekonstruować</p>
+</td>
+<td>
+<p>to reconstruct</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>typowe mieszkanie poznańskiej rodziny</p>
+</td>
+<td>
+<p>typical Poznań family flat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odtworzyć</p>
+</td>
+<td>
+<p>to render</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rewolucyjny nastr&oacute;j</p>
+</td>
+<td>
+<p>revolutionary ambience</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pok&oacute;j przesłuchań</p>
+</td>
+<td>
+<p>interrogation room</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przem&oacute;wienia partyjne</p>
+</td>
+<td>
+<p>communist party propaganda speeches</p>
+</td>
+</tr>
+</tbody>
+</table>

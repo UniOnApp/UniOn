@@ -1,0 +1,14 @@
+{
+  "title": "San Domenico",
+  "latitude": "44.489512",
+  "longitude": "11.344666",
+  "difficulty": "high",
+  "keyword": ["complesso di San Domenico",
+"Piazza San Domenico"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

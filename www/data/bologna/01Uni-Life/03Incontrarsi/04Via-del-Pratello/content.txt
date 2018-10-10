@@ -1,0 +1,13 @@
+{
+  "title": "Via del Pratello",
+  "latitude": "44.495593",
+  "longitude": "11.332686",
+  "difficulty": "low",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

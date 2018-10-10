@@ -1,0 +1,13 @@
+{
+  "title": "Design",
+  "latitude": "66.505166",
+  "longitude": "25.721484",
+  "difficulty": "",
+  "keyword": ["art","design","taide","architect","Aalto"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

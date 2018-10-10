@@ -1,0 +1,11 @@
+<p>Alcuni degustatori hanno condiviso in rete il loro entusiasmo per la qualit&agrave; del gelato mangiato nelle gelaterie di Bologna. Leggi le recensioni. Hai <span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/03In-gelateria/lexicon/")' >l&rsquo;acquolina in bocca</span> anche tu?</p>
+<p><strong>Da perdere la testa</strong><br />Non sai davvero cosa scegliere! Mille gusti golosi e fantasiosi, papille gustative impazzite! Assolutamente da provare!</p>
+<p><strong>Miglior gelateria di Bologna</strong><br />Semplicemente sensazionale, forse prezzo leggermente alto ma vale la pena. Consiglio il bacio, ma soprattutto la nocciola.</p>
+<p><strong>Gelateria artigianale</strong><br />Ottima gelateria artigianale con ingredienti naturali. Possibilit&agrave; di gustare il gelato seduti all'aperto davanti alla gelateria.</p>
+<p><strong>Semplicemente il gelato pi&ugrave; buono del mondo</strong><br />Vivo a Bologna e almeno una volta a settimana devo fare tappa qui. Gusti incredibili e originali, straconsigliato.</p>
+<p><strong>Ottima gelateria</strong><br />Gusti ottimi e creme veramente cremose :-). Ho provato il gusto Cremino Guglielmo e devo dire che &egrave; stata un'ottima scelta. Ho preso un cestino piccolo, ma la quantit&agrave; e qualit&agrave; sono elevate. Ci torner&ograve; sicuramente per provare anche gli altri gusti.</p>
+<p><strong>Gelato superlativo</strong><br />Cordialit&agrave; e cortesia, il gelato &egrave; superlativo infatti il titolare fa il gelataio da 50 anni e lo produce ancora come una volta. Vi consiglio il variegato alla fragola, &egrave; strepitoso!!!! Ma anche i gusti sia alla frutta che le creme sono buonissime. Il locale &egrave; piccolo e un po&rsquo; datato ma la qualit&agrave; sopperisce.</p>
+<div class="bottomQuestion">
+<p>Scrivi una breve recensione sull&rsquo;ultimo gelato che hai mangiato a Bologna e condividila con la community di Ilocalapp UniOn!</p>
+</div>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/agbiqU0H7oo?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>

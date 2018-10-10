@@ -1,0 +1,50 @@
+<p><strong>Parlare della birra</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >Ambrata</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >Bionda</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >Chiara</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >Doppio malto</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >Rossa</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >La birra grande, media, piccola</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >Il boccale di birra</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >La bitta in bottiglia, alla spina</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >Il colore</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >La limpidezza</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >La schiuma</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >La fermentazione</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >L'etichetta</span></p>
+<p>&nbsp;</p>
+<p><strong>Ingredienti per fare la birra</strong></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >Il malto</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >L'orzo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >Il luppolo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >Il lievito</span></p>
+<p>&nbsp;</p>
+<p><strong>Ingredienti di alcuni cocktail</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >Il rum bianco</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >Il succo di lime</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >L'acqua gassata</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >Lo zucchero di canna</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >La menta</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >Il cetriolo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >Lo zenzero</span></p>
+<p>&nbsp;</p>
+<p><strong>Da mangiare</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >Gli stuzzichini</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >Il buffet</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >I piatti caldi e freddi</span></p>
+<p>&nbsp;</p>
+<p><strong> Da bere</strong></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")' >La birra</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >Il calice di vino</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >Il cocktail</span></p>
+<p>&nbsp;</p>
+<p><strong>Altri termini</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >I piattini di plastica</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >La musica di sottofondo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/02Un-cocktail-alla-frutta/")' >La musica dal vivo</span></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")'  >A tutta birra! (eng. at full speed)</span>: <em>&ldquo;Che velocit&agrave;! Va a tutta birra!&rdquo;.</em><br /> &Egrave; un&rsquo;espressione familiare e simpatica che indica a tutta velocit&agrave;, molto rapidamente.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")'  >A colpo sicuro (eng. without any risk or hesitation)</span>: <em>&ldquo;Il posto &egrave; tuo! Vai a colpo sicuro&rdquo;.</em><br /> Senza incertezza, senza ombra di dubbio, senza titubanza.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")'  >L&rsquo;imbarazzo della scelta (eng. to be spoilt for choice)</span>: <em>&ldquo;Quella gelateria ha talmente tanti gusti che ho sempre l&rsquo;imbarazzo della scelta&rdquo;.</em><br /> Quando le possibilit&agrave; di scelta sono tante e tutte interessanti, si prova una specie di imbarazzo, di disagio. La scelta diventa difficile perch&eacute; ci sono tante opportunit&agrave; interessanti.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/03Al-pub/01A-tutta-birra/")'  >Reggere l&rsquo;alcool (eng. to handle alcohol)</span>: <em>&ldquo;Beve sempre come una spugna ma tanto regge bene l&rsquo;alcool&rdquo;.</em> <br /> Reggere l&rsquo;alcool significa poter bere tanti alcolici senza&nbsp; subirne gli effetti collaterali, cio&egrave; senza ubriacarsi o senza stare male.</p>

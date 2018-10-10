@@ -1,0 +1,52 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Zrzeszać się</p>
+</td>
+<td>
+<p>to organize in associations</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>brać udział w zagranicznych wymianach</p>
+</td>
+<td>
+<p>take part in international exchange programs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mobilność krajowa</p>
+</td>
+<td>
+<p>inner mobility program</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>studenckie koła naukowe</p>
+</td>
+<td>
+<p>students&rsquo; research groups</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Niezależne Zrzeszenie Student&oacute;w</p>
+</td>
+<td>
+<p>Independent Students&rsquo; Association</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Zrzeszenie Student&oacute;w Niepełnosprawnych</p>
+</td>
+<td>
+<p>Association of Disabled Students</p>
+</td>
+</tr>
+</tbody>
+</table>

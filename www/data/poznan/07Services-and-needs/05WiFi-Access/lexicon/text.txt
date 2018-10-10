@@ -1,0 +1,108 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Korzystać z ...</p>
+</td>
+<td>
+<p>to use</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>hasło dostępu</p>
+</td>
+<td>
+<p>log in password</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>możemy znaleźć</p>
+</td>
+<td>
+<p>we can find</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powszechny</p>
+</td>
+<td>
+<p>public</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ograniczony czas trwania</p>
+</td>
+<td>
+<p>limited connection time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ograniczona przepustowość połączenia</p>
+</td>
+<td>
+<p>limited bandwidth</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>założyć konto</p>
+</td>
+<td>
+<p>to set up an account</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>odbi&oacute;r i wysłanie e-maila</em></p>
+</td>
+<td>
+<p>receiving and sending an e-mail</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gniazdo do ładowania</p>
+</td>
+<td>
+<p>charging USB port</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>telefon kom&oacute;rkowy</p>
+</td>
+<td>
+<p>mobile phone</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sieć bezprzewodowa</p>
+</td>
+<td>
+<p>wireless network</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sieć przewodowa</p>
+</td>
+<td>
+<p>wired network</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>to bardzo mądrze brzmi</p>
+</td>
+<td>
+<p>it sounds smart</p>
+</td>
+</tr>
+</tbody>
+</table>

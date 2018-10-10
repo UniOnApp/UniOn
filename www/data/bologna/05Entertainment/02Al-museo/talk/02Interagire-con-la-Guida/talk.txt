@@ -1,0 +1,1 @@
+<table class="talkTable"><tbody><tr><th>Talk</th><th>Answer Models</th></tr><tr><td><p>Di che epoca è questo dipinto?</p></td><td>&nbsp;</td></tr><tr><td><p>Quale tecnica pittorica ha usato l’autore?</p></td><td>&nbsp;</td></tr><tr><td><p>Quella scultura è originale o in copia?</p></td><td>&nbsp;</td></tr></tbody></table>

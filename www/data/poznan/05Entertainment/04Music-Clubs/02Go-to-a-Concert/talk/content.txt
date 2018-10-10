@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Cze\u015B\u0107 Micha\u0142, co robisz w sobot\u0119?<\/p>\r\n<p>- <strong>Jeszcze nie wiem. W zesz\u0142ym tygodniu <\/strong>s\u0142uchali\u015Bmy jazzu. Teraz pos\u0142ucha\u0142bym <strong>czego\u015B l\u017Cejszego.<\/strong><\/p>\r\n<p>- To mo\u017Ce do <em>Dragona<\/em> nie p&oacute;jdziemy... A mo\u017Ce do <em>9st&oacute;p<\/em>?<\/p>\r\n<p>- A co to za miejsce?<\/p>\r\n<p>- To Studenckie Centrum Kultury. Mo\u017Cna pos\u0142ucha\u0107 muzyki, ale te\u017C pogra\u0107 w pi\u0142karzyki.<\/p>\r\n<p>- Hmm, ch\u0119tnie <strong>pogra\u0142bym w<\/strong> bilard.<\/p>\r\n<p><em>- 9st&oacute;p<\/em> ma drug\u0105 <strong>siedzib\u0119 <\/strong>przy ulicy \u0141acina. Tam maj\u0105 bilard.<\/p>\r\n<p>- No, to mo\u017Ce p&oacute;jdziemy tam najpierw i pogramy, a potem pojedziemy do centrum na jaki\u015B koncert. Co ty na to?<\/p>\r\n<p>- OK, <em>U Bazyla<\/em> b\u0119dzie jaka\u015B <strong>kapela punkowa<\/strong>.<\/p>\r\n<p>- Niez\u0142a my\u015Bl.<\/p>\r\n<p>- To do soboty.<\/p>\r\n<p>-<strong> Na razie<\/strong>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Jeszcze nie wiem, w zesz\u0142ym tygodniu, czego\u015B l\u017Cejszego, pogra\u0142bym (pogra\u0107), siedziba, kapela punkowa, na razie.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

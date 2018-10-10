@@ -1,0 +1,12 @@
+The Arctic Ice Cream Factory specialises in ice cream made from local ingredients. There’s a variety of flavours – try hilla, cloudberry, first! Some flavours are seasonal.
+<br />
+Combine the Finnish flavour of ice cream with its proper equivalent in English.
+[pair]puolukkajäätelö_lingonberry ice cream
+[pair]vaniljajäätelö_vanilla ice cream
+[pair]hillajäätelö_cloudberry ice cream
+[pair]kermatoffeejäätelö_fudge ice cream
+[pair]lakritsijäätelö_liquorice ice cream
+[pair]mustikkajäätelö_blueberry ice cream
+[pair]piparkakkujäätelö_gingerbread ice cream
+[pair]maitosuklaajäätelö_milk chocolate ice cream
+[pair]maidoton mansikkajäätelö_dairy-free strawberry ice cream

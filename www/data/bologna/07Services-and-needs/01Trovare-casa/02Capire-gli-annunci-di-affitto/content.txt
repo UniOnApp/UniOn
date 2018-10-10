@@ -1,0 +1,20 @@
+{
+  "title": "Capire gli annunci di affitto",
+  "latitude": "44.497889",
+  "longitude": "11.351886",
+  "difficulty": "low",
+  "keyword": ["annuncio",
+"affitto",
+"alloggio",
+"canone",
+"quartiere",
+"stanza",
+"casa",
+"bollette"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Going Out",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["drink","party","club","esplanada","café"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

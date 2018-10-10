@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Cze\u015B\u0107, Marku, <strong>dok\u0105d idziesz<\/strong>?<\/p>\r\n<p>- Cze\u015B\u0107, mam <strong><em>okienko<\/em><\/strong>, wi\u0119c skocz\u0119 do Minusa. Musz\u0119 p&oacute;j\u015B\u0107 do Dzia\u0142u Wsp&oacute;\u0142pracy z Zagranic\u0105 i <strong>zanie\u015B\u0107 jakie\u015B papiery<\/strong> z mojego uniwersytetu. Idziesz ze mn\u0105?<\/p>\r\n<p>- Mog\u0119 p&oacute;j\u015B\u0107, mam woln\u0105 godzin\u0119.<\/p>\r\n<p>- Idziemy przez park ko\u0142o fontanny, dobrze?<\/p>\r\n<p>-<strong> Jasne<\/strong>, dzi\u015B jest taki <strong>\u0142adny dzie\u0144<\/strong>.<\/p>\r\n<p>- <strong>Cz\u0119sto t\u0119dy chodz\u0119<\/strong>, ale nie wiem, co to za pomniki.<\/p>\r\n<p>- <strong>Tego pana po lewej stronie chyba poznajesz<\/strong>.<\/p>\r\n<p>- To wiem. To pomnik Adama Mickiewicza, <strong>patrona<\/strong> pozna\u0144skiego <strong>uniwersytetu<\/strong>, a ta <strong>du\u017Ca rze\u017Aba<\/strong> po prawej?<\/p>\r\n<p>- To tak zwane Pozna\u0144skie Krzy\u017Ce.<\/p>\r\n<p>- Co one symbolizuj\u0105?<\/p>\r\n<p>- Zobacz, tu jest <strong>tablica<\/strong>, kt&oacute;ra <strong>wszystko t\u0142umaczy<\/strong>, a obok jest automat z audiodeskrypcj\u0105.<\/p>\r\n<p>- A, ju\u017C widz\u0119.<\/p>\r\n<p>- Pomnik ten stoi <strong>jako pami\u0105tka<\/strong> wyst\u0105pie\u0144 robotniczych od 1956 do 1981 roku.<\/p>\r\n<p>- <strong>Dzi\u0119ki za wyja\u015Bnienie<\/strong>. Wida\u0107, \u017Ce mieli\u015Bcie bardzo <strong>burzliw\u0105 histori\u0119<\/strong>. To ju\u017C jeste\u015Bmy na miejscu. Aula UAM jest obok, wi\u0119c jeszcze mo\u017Cemy <strong>sprawdzi\u0107<\/strong>, co ciekawego b\u0119dzie w Filharmonii. <strong>Mam ochot\u0119 pos\u0142ucha\u0107<\/strong> dobrego koncertu.<\/p>\r\n<p>- Ch\u0119tnie z Tob\u0105 p&oacute;jd\u0119. Mam woln\u0105 sobot\u0119.<\/p>\r\n<p>- Fajnie, nie lubi\u0119 chodzi\u0107 sam.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Dok\u0105d idziesz?, <em>okienko<\/em>, jasne, \u0142adny dzie\u0144, Tego pana po lewej chyba poznajesz?, tablica, wszystko t\u0142umaczy, na pami\u0105tk\u0119, zanie\u015B\u0107 jakie\u015B papiery, ko\u0142o fontanny, cz\u0119sto t\u0119dy chodz\u0119, patron uniwersytetu, du\u017Ca rze\u017Aba, burzliwa historia, symbolizowa\u0107, dzi\u0119ki za wyja\u015Bnienie, sprawdzi\u0107, mam ochot\u0119 pos\u0142ucha\u0107.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Breakfast",
+  "latitude": "66.501714",
+  "longitude": "25.734367",
+  "difficulty": "",
+  "keyword": ["aamiainen","aamupala","karjalanpiirakka","berries","coffee","hotel","syödä","juoda","hotelli"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

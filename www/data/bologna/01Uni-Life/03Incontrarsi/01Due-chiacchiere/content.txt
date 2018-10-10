@@ -1,0 +1,14 @@
+{
+  "title": "Due chiacchiere",
+  "latitude": "44.492571",
+  "longitude": "11.351680",
+  "difficulty": "low",
+  "keyword": ["studente",
+"studenti"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

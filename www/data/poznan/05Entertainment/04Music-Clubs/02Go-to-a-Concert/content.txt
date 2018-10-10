@@ -1,0 +1,13 @@
+{
+  "title": "Go to a Concert",
+  "latitude": "52.408150",
+  "longitude": "16.933497",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

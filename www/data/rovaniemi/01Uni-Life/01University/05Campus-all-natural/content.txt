@@ -1,0 +1,13 @@
+{
+  "title": "Campus - all natural",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["nature","bird","university","missä","where","case","tori","stem"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

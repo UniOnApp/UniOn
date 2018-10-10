@@ -1,0 +1,13 @@
+{
+  "title": "Bernardyński Sq.",
+  "latitude": "52.40428",
+  "longitude": "16.936355",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

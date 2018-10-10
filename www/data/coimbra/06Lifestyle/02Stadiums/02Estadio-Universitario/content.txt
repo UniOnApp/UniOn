@@ -1,0 +1,13 @@
+{
+  "title": "Esta\u0301dio Universita\u0301rio",
+  "latitude": "40.206155",
+  "longitude": "-8.435335",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

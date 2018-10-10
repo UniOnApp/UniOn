@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>O que &eacute; que quer dizer &lsquo;rasgan&ccedil;o&rsquo;?<\/p>\r\n<p><em>What does &lsquo;rasgan&ccedil;o&rsquo; mean?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

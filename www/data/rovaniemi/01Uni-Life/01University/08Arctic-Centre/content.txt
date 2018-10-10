@@ -1,0 +1,13 @@
+{
+  "title": "Arctic Centre",
+  "latitude": "66.507526",
+  "longitude": "25.726048",
+  "difficulty": "",
+  "keyword": ["arktikum","research","science","compound","exhibition"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

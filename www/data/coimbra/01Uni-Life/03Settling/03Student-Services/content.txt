@@ -1,0 +1,13 @@
+{
+  "title": "Student Services",
+  "latitude": "40.2073936",
+  "longitude": "-8.4276519",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

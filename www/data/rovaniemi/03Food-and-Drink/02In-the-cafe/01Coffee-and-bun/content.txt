@@ -1,0 +1,13 @@
+{
+  "title": "Coffee and bun",
+  "latitude": "66.499697",
+  "longitude": "25.726412",
+  "difficulty": "",
+  "keyword": ["kahvi","pulla","kahvila","small talk","conversation","personal space","culture","kahvihuone","break"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

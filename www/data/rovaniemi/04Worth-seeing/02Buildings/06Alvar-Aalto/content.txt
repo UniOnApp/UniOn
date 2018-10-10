@@ -1,0 +1,13 @@
+{
+  "title": "Alvar Aalto",
+  "latitude": "66.497060",
+  "longitude": "25.721465",
+  "difficulty": "",
+  "keyword": ["architect","library","kirjasto","building"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

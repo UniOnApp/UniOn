@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Quanto custa&hellip;?<\/strong><\/p>\r\n<p><em>How much is&hellip;?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Quanto &eacute;&hellip;?<\/strong><\/p>\r\n<p><em>How much is&hellip;? (also used for a sum of things)<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Quanto custa o bilhete?<\/p>\r\n<p>- How much is the ticket?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Quanto &eacute; tudo?<\/p>\r\n<p><em>- How much is everything?\/ - What&rsquo;s the total?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Desconto &ndash;<\/strong><em> discount<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- H&aacute; desconto de estudante?<\/p>\r\n<p><em>- Is there a student discount?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

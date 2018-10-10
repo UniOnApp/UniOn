@@ -1,0 +1,16 @@
+{
+  "title": "Quanto sei sportivo",
+  "latitude": "44.496052",
+  "longitude": "11.354440",
+  "difficulty": "mid",
+  "keyword": ["Cusb",
+"centro universitario sportivo bolognese",
+"sport",
+"impianti sportivi"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

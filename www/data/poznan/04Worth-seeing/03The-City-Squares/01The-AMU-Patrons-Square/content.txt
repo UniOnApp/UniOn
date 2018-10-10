@@ -1,0 +1,13 @@
+{
+  "title": "The AMU Patron's Square",
+  "latitude": "52.407562",
+  "longitude": "16.916910",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

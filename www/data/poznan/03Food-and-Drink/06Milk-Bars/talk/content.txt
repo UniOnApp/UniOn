@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Alex jest przy kasie w barze mlecznym:<\/p>\r\n<p>- Dzie\u0144 dobry.<\/p>\r\n<p>- Dzie\u0144 dobry.<\/p>\r\n<p>- Poprosz\u0119 zup\u0119 pomidorow\u0105 i kotlet jajeczny z ziemniakami i kapust\u0105.<\/p>\r\n<p>- Jaka kapusta? zasma\u017Cana czy sur&oacute;wka?<\/p>\r\n<p>- Poprosz\u0119 sur&oacute;wk\u0119.<\/p>\r\n<p>- Z jab\u0142kiem i marchewk\u0105, z porem czy wiosenn\u0105?<\/p>\r\n<p>- Prosz\u0119 sur&oacute;wk\u0119 wiosenn\u0105.<\/p>\r\n<p>- Co\u015B do picia b\u0119dzie?<\/p>\r\n<p>- Tak, prosz\u0119 kompot truskawkowy.<\/p>\r\n<p>- 17, 43 z\u0142 poprosz\u0119. <strong>Prosz\u0119 sobie wzi\u0105\u0107 sztu\u0107ce<\/strong> i kompot, <strong>zaraz Pana zawo\u0142am.<\/strong><\/p>\r\n<p>- Dzi\u0119kuj\u0119.<\/p>\r\n<p>- Pomidorowa, kotlet jajeczny z ziemniakami i sur&oacute;wk\u0105!<\/p>\r\n<p>- To dla mnie.<\/p>\r\n<p>- Prosz\u0119 bardzo.<\/p>\r\n<p>- Dzi\u0119kuj\u0119.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Zupa pomidorowa, kotlet jajeczny, ziemniak, kapust\u0105 zasma\u017Cana, czy sur&oacute;wka z jab\u0142kiem i marchewk\u0105, sur&oacute;wka z porem, sur&oacute;wka wiosenna, kompot truskawkowy, sztu\u0107ce.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

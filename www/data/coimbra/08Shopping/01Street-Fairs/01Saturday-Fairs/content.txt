@@ -1,0 +1,13 @@
+{
+  "title": "Saturday Fairs",
+  "latitude": "40.2033096",
+  "longitude": "-8.4343875",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

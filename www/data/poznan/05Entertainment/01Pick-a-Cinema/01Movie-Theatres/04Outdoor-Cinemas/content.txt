@@ -1,0 +1,13 @@
+{
+  "title": "Outdoor Cinemas",
+  "latitude": "52.408033",
+  "longitude": "16.918558",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

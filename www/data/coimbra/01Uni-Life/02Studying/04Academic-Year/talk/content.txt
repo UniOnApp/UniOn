@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Quando come&ccedil;am\/ acabam a aulas?<\/p>\r\n<p><em>- When do classes start\/ end?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>na sexta vs. &agrave; sexta<\/strong><\/p>\r\n<p><strong>on Friday vs. every Friday (on Fridays)<\/strong><\/p>\r\n<p>em+a= na<\/p>\r\n<p><em>in+definite article (fem.) = na<\/em><\/p>\r\n<p>a+a= &agrave;<\/p>\r\n<p><em>to+definite article (fem.) = &agrave;<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>na sexta: na pr&oacute;xima ou na &uacute;ltima, a forma verbal ajuda a compreender se o tempo &eacute; no passado ou futuro<\/p>\r\n<p><em>on Friday: next Friday or last Friday - the verbal form helps situate it in the past or in the future<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>&agrave; sexta: todas as sextas<\/em><\/p>\r\n<p><em>every\/each Friday<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

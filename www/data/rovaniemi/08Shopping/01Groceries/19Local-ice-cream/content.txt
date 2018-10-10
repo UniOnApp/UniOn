@@ -1,0 +1,13 @@
+{
+  "title": "Local ice cream",
+  "latitude": "66.501444",
+  "longitude": "25.737804",
+  "difficulty": "",
+  "keyword": ["food","jäätelö","delicacy","summer"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

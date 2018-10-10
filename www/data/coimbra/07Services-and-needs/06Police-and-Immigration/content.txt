@@ -1,0 +1,13 @@
+{
+  "title": "Police & Immigration",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["police","segurança","visa","migration","residência"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

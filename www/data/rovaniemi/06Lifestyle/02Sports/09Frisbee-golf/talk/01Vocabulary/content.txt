@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Here you have some vocabulary about frisbee golf. The word for frisbee &ndash; this flying object &ndash; has been directly borrowed from international contexts into everyday Finnish. So, you can say <strong>frisbee <\/strong>in Finnish, too, or use a more Finnish word, <strong>kiekko<\/strong>, about it. Both versions are common.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>frisbee <\/strong>a frisbee<\/p>\r\n<p><strong>heitto<\/strong> a throw<\/p>\r\n<p><strong>heitt&auml;&auml;<\/strong> to throw<\/p>\r\n<p><strong>kiekko<\/strong> a disc<\/p>\r\n<p><strong>kori <\/strong>a basket<\/p>\r\n<p><strong>lent&auml;&auml;<\/strong> to fly<\/p>\r\n<p><strong>liit&auml;&auml;<\/strong> to glide <\/p>\r\n<p><strong>lyhyt <\/strong>short<\/p>\r\n<p><strong>metri<\/strong> a metre<\/p>\r\n<p><strong>pitk&auml;<\/strong> long<\/p>\r\n<p><strong>pituus<\/strong> length<\/p>\r\n<p><strong>rata<\/strong> a course<\/p>\r\n<p><strong>v&auml;yl&auml;<\/strong> a lane, a fairway<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Here are some easy one-liners for your next game!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Hieno heitto! <\/strong>Nice throw!<\/p>\r\n<p><strong>Tosi pitk&auml; heitto! <\/strong>What a long throw!<\/p>\r\n<p><strong>T&auml;m&auml; lent&auml;&auml; hyvin!<\/strong> This flies well!<\/p>\r\n<p><strong>Ohi!<\/strong> Missed!<\/p>\r\n<p><strong>Montako heittoa? <\/strong>How many throws?<\/p>\r\n<p><strong>Se oli niin l&auml;hell&auml;! <\/strong>That was so close!<\/p>\r\n<p><strong>Mihin se lensi? <\/strong>Where did it fly?<\/p>\r\n<p><strong>Kori!<\/strong> Score! (lit. Basket!)<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

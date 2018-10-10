@@ -1,0 +1,196 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Park krajobrazowy</p>
+</td>
+<td>
+<p>landscape park</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>teren leśny</p>
+</td>
+<td>
+<p>forest area</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poszukiwanie ciszy</p>
+</td>
+<td>
+<p>to seek relaxation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zdecydować się na szlak</p>
+</td>
+<td>
+<p>decide on a trail</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pierścień rowerowy</p>
+</td>
+<td>
+<p>bicycle ring</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poszukiwacze silnych emocji</p>
+</td>
+<td>
+<p>thrill-seeker</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przejazd</p>
+</td>
+<td>
+<p>cycling</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piaszczyste partie</p>
+</td>
+<td>
+<p>sand fragments</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>błotniste fragmenty</p>
+</td>
+<td>
+<p>mud parts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strome nachylenia terenu</p>
+</td>
+<td>
+<p>steep land slopes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gwałtowne zjazdy</p>
+</td>
+<td>
+<p>abrupt downhill sectors</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spływ</p>
+</td>
+<td>
+<p>canoeing rally</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pola biwakowe</p>
+</td>
+<td>
+<p>camp site</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czystość jezior</p>
+</td>
+<td>
+<p>lake cleanness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obecność bobr&oacute;w</p>
+</td>
+<td>
+<p>presence of beavers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uroczyska</p>
+</td>
+<td>
+<p>wilderness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spotkanie z niezwykłą roślinnością</p>
+</td>
+<td>
+<p>encounter with exotic plants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uważni badacze natury</p>
+</td>
+<td>
+<p>scrupulous nature explorers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>siedliska ptasie</p>
+</td>
+<td>
+<p>birds&rsquo; nests</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>drewniane kościoły</p>
+</td>
+<td>
+<p>wooden churches</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słup graniczny</p>
+</td>
+<td>
+<p>border pole</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pogańskie b&oacute;stwo</p>
+</td>
+<td>
+<p>pagan deity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wpuszczać</p>
+</td>
+<td>
+<p>to let in</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ćwiczenie wymowy</p>
+</td>
+<td>
+<p>pronunciation exercise</p>
+</td>
+</tr>
+</tbody>
+</table>

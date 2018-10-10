@@ -1,0 +1,196 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>ubranie/a</p>
+</td>
+<td>
+<p>garment/ garments</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pochodzić z&hellip;</p>
+</td>
+<td>
+<p>to come from</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>marka odzieżowa</p>
+</td>
+<td>
+<p>clothing brand</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koncern odzieżowy</p>
+</td>
+<td>
+<p>clothing consortium</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyglądać</p>
+</td>
+<td>
+<p>to look like</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nosić</p>
+</td>
+<td>
+<p>to wear</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bardzo mi przykro.</p>
+</td>
+<td>
+<p>I&rsquo;m really sorry</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>styl sportowy</p>
+</td>
+<td>
+<p>sports clothing style</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sukienka</p>
+</td>
+<td>
+<p>dress</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>założyć</p>
+</td>
+<td>
+<p>to wear</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obrona licencjatu</p>
+</td>
+<td>
+<p>defence of BA thesis</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nic/coś odpowiedniego</p>
+</td>
+<td>
+<p>right for the occasion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przeceniony</p>
+</td>
+<td>
+<p>discounted</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przecena</p>
+</td>
+<td>
+<p>discount</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bluza sportowa</p>
+</td>
+<td>
+<p>sports jumper</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na co dzień</p>
+</td>
+<td>
+<p>casual</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przymierzyć</p>
+</td>
+<td>
+<p>to try on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przymierzalnia</p>
+</td>
+<td>
+<p>fitting room</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>granatowa</p>
+</td>
+<td>
+<p>navy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozmiar</p>
+</td>
+<td>
+<p>size</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>emka</p>
+</td>
+<td>
+<p>size M</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lustro</p>
+</td>
+<td>
+<p>mirror</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>płacić kartą</p>
+</td>
+<td>
+<p>to pay with card</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Świetnie w niej pani wygląda</p>
+</td>
+<td>
+<p>You look great</p>
+</td>
+</tr>
+</tbody>
+</table>

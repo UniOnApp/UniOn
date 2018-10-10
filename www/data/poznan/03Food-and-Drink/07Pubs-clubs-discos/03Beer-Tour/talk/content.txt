@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><em>Alex, Kasia i Tomek rozmawiaj\u0105 w pubie:<\/em><\/p>\r\n<p>Alex: <strong>Uwielbiam<\/strong> polskie piwa!<\/p>\r\n<p>Tomek: Tak, a jakie najbardziej?<\/p>\r\n<p>A: Bardzo lubi\u0119 ciemne piwo z beczki.<\/p>\r\n<p>T: Ja zawsze <strong>zamawiam<\/strong> klasyczne jasne. A Ty, Kasiu?<\/p>\r\n<p>Kasia: A ja lubi\u0119 tylko piwo z sokiem malinowym.<\/p>\r\n<p>A: Piwo z sokiem malinowym? Przecie\u017C to jest s\u0142odkie!<\/p>\r\n<p>K: I w\u0142a\u015Bnie <strong>o to chodzi<\/strong>!<\/p>\r\n<p>T: To wybrali\u015Bcie ju\u017C? Tutaj <strong>zamawia si\u0119 przy barze<\/strong>.<\/p>\r\n<p>K: Tak, mo\u017Cesz i\u015B\u0107 zam&oacute;wi\u0107.<\/p>\r\n<p>A: Ja p&oacute;jd\u0119 zam&oacute;wi\u0107. Po\u0107wicz\u0119 troch\u0119 j\u0119zyk polski.<\/p>\r\n<p>A: Dzie\u0144 dobry, prosz\u0119 jedno piwo ciemne beczkowe.<\/p>\r\n<p>Kelner: Ma\u0142e czy du\u017Ce?<\/p>\r\n<p>A: Du\u017Ce. I do tego jedno jasne butelkowe.<\/p>\r\n<p>K: Co\u015B jeszcze?<\/p>\r\n<p>A: Tak. Jeszcze ma\u0142e piwo z sokiem malinowym.<\/p>\r\n<p>K: Razem 25 PLN.<\/p>\r\n<p>A: Prosz\u0119 bardzo.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Uwielbiam (uwielbia\u0107), ciemne piwo, z beczki, zawsze zamawiam (zamawia\u0107) klasyczne, jasne, piwo z sokiem malinowym, s\u0142odkie, zamawia si\u0119 (zamawia\u0107) przy barze, po\u0107wicz\u0119 (po\u0107wiczy\u0107).<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

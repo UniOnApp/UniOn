@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Adoro este quadro! <\/p>\r\n<p><em>- I love this painting!<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Podemos andar no criptop&oacute;rtico?<\/p>\r\n<p><em>- Can we walk inside the cryptoportico?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

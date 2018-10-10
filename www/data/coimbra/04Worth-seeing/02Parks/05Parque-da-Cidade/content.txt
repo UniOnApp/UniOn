@@ -1,0 +1,13 @@
+{
+  "title": "Parque da Cidade",
+  "latitude": "40.204667",
+  "longitude": "-8.427238",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

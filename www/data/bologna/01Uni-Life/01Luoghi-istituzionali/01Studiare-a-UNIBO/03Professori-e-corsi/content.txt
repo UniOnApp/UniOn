@@ -1,0 +1,21 @@
+{
+  "title": "Professori e corsi",
+  "latitude": "44.499673",
+  "longitude": "11.354652",
+  "difficulty": "mid",
+  "keyword": ["ufficio ",
+"studio",
+"ricevimento",
+"lezione ",
+"slide",
+"AMS Campus ",
+"moodle",
+"anno accademico ",
+"calendario didattico"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

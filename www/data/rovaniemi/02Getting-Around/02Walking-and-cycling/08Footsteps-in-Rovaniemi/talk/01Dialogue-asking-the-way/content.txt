@@ -1,0 +1,13 @@
+{
+  "title": "Dialogue: asking the way",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>In the dialogue below you&rsquo;ll find some examples of asking for directions. Look at the translation of the text. Then try to memorise the expressions. <\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Anteeksi, tied&auml;ttek&ouml;, miss&auml; on posti?<\/p>\r\n<p>- Joo, min&auml; tied&auml;n.<\/p>\r\n<p>Mihin suuntaan min&auml; k&auml;velen t&auml;st&auml;?<\/p>\r\n<p>- K&auml;&auml;nny vasemmalle Koskikadulle, ja jatka sitten suoraan eteenp&auml;in.<\/p>\r\n<p>Onko se kaukana?<\/p>\r\n<p>- Ei, se on l&auml;hell&auml;. K&auml;vele vain eteenp&auml;in 200 metri&auml;.<\/p>\r\n<p>Onko se vasemmalla vai oikealla puolella?<\/p>\r\n<p>- Se on vasemmalla puolella.<\/p>\r\n<p>Kiitos.<\/p>\r\n<p>- Ei kest&auml;!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Translation:<\/p>\r\n<p>Excuse me, do you know where the post office is?<\/p>\r\n<p>- Yeah, I know.<\/p>\r\n<p>To which direction should I walk from here?<\/p>\r\n<p>- Turn left to Koskikatu, and then continue straight on.<\/p>\r\n<p>Is it far away?<\/p>\r\n<p>- No, it&rsquo;s close. Just walk straight on for about 200 metres.<\/p>\r\n<p>Is it on the left or the right side?<\/p>\r\n<p>- It&rsquo;s on the left side.<\/p>\r\n<p>Thank you.<\/p>\r\n<p>- You&rsquo;re welcome!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

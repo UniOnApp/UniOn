@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Zapomniany</p>
+</td>
+<td>
+<p>forgotten</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>otoczony</p>
+</td>
+<td>
+<p>surrounded</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie przetrwać</p>
+</td>
+<td>
+<p>to not withstand</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odchodzić w zapomnienie</p>
+</td>
+<td>
+<p>to become derelict</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>projekty odbudowy i zagospodarowania rynku</p>
+</td>
+<td>
+<p>reconstruction drafts and spatial layout plans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strażnica pożarna</p>
+</td>
+<td>
+<p>fire watchtower</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strażacy-ochotnicy</p>
+</td>
+<td>
+<p>volunteer firefighters</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nieformalny symbol</p>
+</td>
+<td>
+<p>informal symbol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>hurtownia</p>
+</td>
+<td>
+<p>wholesale warehouse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>degeneracja</p>
+</td>
+<td>
+<p>deterioration</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przywr&oacute;cić blask</p>
+</td>
+<td>
+<p>to restore splendor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>paradoksalnie</p>
+</td>
+<td>
+<p>paradoxically</p>
+</td>
+</tr>
+</tbody>
+</table>

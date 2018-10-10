@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Ir ao futebol\/ ir a um jogo<\/strong> - <em>go to a match<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Onde posso comprar bilhetes de &eacute;poca?<\/p>\r\n<p><em>- Where can I buy season tickets?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- &Eacute; s&oacute;cio?<\/p>\r\n<p><em>- Are you a member?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- O cart&atilde;o de s&oacute;cio, por favor.<\/p>\r\n<p><em>- Your membership card, please.<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

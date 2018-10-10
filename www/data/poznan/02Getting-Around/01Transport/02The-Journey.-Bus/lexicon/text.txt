@@ -1,0 +1,76 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Komunikacja autobusowa</p>
+</td>
+<td>
+<p>bus transport services</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dostępny</p>
+</td>
+<td>
+<p>available</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przewozy</p>
+</td>
+<td>
+<p>transportation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prywatna forma transportowa</p>
+</td>
+<td>
+<p>private operators</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>międzymiastowe</p>
+</td>
+<td>
+<p>inter-city</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>międzynarodowe</p>
+</td>
+<td>
+<p>international</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bezpłatny</p>
+</td>
+<td>
+<p>free</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wcześniejsza rezerwacja</p>
+</td>
+<td>
+<p>booking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zakup biletu</p>
+</td>
+<td>
+<p>purchasing tickets</p>
+</td>
+</tr>
+</tbody>
+</table>

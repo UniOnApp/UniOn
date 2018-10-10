@@ -1,0 +1,13 @@
+{
+  "title": "Christmas",
+  "latitude": "66.486920",
+  "longitude": "25.806184",
+  "difficulty": "",
+  "keyword": ["Arctic Circle","napapiiri","Christmas carol","food","glögi","pipari","tradition","Santa Claus"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

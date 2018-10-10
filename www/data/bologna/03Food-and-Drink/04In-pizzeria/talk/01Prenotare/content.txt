@@ -1,0 +1,13 @@
+{
+  "title": "Prenotare",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p >Talk<\/p><\/th><th><p >Answer Models<\/p><\/th><\/tr><tr><td><p>Vorrei prenotare un tavolo per stasera, 4 persone alle otto<\/p><\/td><td><\/td><\/tr><tr><td><p>Avete posto per 6 persone sabato a\r\npranzo?<\/p><\/td><td><\/td><\/tr><tr><td><p>Buonasera, avete ancora un tavolo libero per domenica? Possibilmente sulla terrazza.<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

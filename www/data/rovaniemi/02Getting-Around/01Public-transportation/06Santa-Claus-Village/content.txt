@@ -1,0 +1,13 @@
+{
+  "title": "Santa Claus Village",
+  "latitude": "66.504634",
+  "longitude": "25.729763",
+  "difficulty": "",
+  "keyword": ["bus","Arctic Circle","Santa Park","express","greetings","informal","joulupukki"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

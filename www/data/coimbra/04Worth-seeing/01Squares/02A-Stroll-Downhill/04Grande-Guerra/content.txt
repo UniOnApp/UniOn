@@ -1,0 +1,13 @@
+{
+  "title": "Grande Guerra",
+  "latitude": "40.2105278",
+  "longitude": "-8.4238645",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

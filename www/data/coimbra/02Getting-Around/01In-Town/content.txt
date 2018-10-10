@@ -1,0 +1,13 @@
+{
+  "title": "In Town",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["bus","trolleybus","taxi","tuk-tuk","tickets","timetable","senha","autocarro","SMTUC"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

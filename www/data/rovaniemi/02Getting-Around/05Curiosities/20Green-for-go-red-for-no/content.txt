@@ -1,0 +1,13 @@
+{
+  "title": "Green for go, red for no",
+  "latitude": "66.496253",
+  "longitude": "25.741632",
+  "difficulty": "",
+  "keyword": ["rules","regulations","social norm","traffic","green","väri"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

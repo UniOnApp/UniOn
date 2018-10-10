@@ -1,0 +1,19 @@
+{
+  "title": "La Pinacoteca",
+  "latitude": "44.497762",
+  "longitude": "11.353528",
+  "difficulty": "mid",
+  "keyword": ["galleria d\u2019arte",
+"Gallerie d\u2019arte",
+"Complesso di Sant\u2019Ignazio",
+"dipinto",
+"dipinti",
+"opera d\u2019arte",
+"opere d\u2019arte"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

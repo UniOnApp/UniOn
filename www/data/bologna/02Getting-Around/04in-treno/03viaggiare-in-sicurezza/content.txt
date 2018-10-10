@@ -1,0 +1,14 @@
+{
+  "title": "Viaggiare in sicurezza",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "low",
+  "keyword": ["treno",
+"binario"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

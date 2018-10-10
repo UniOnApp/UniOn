@@ -1,0 +1,13 @@
+{
+  "title": "SMTUC Kiosks",
+  "latitude": "40.2097903",
+  "longitude": "-8.4206954",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

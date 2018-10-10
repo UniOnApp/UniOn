@@ -1,0 +1,13 @@
+{
+  "title": "Chiedere informazioni per strada",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Sto cercando il Portico degli Alemanni. Pu\u00F2 indicarmi la strada per cortesia?<\/p><\/td><td><\/td><\/tr><tr><td><p>Quanto (tempo) ci vuole per arrivare in Piazza Maggiore?<\/p><\/td><td><\/td><\/tr><tr><td><p>Quanto dista la Stazione da qui?<\/p><\/td><td><\/td><\/tr><tr><td><p>\u00C8 facile raggiungere via D\u2019Azeglio?<\/p><\/td><td><\/td><\/tr><tr><td><p>Devo andare alla Sala Borsa. Che strada devo fare?<\/p><\/td><td><\/td><\/tr><tr><td><p>Mi indica una osteria tipica bolognese nel centro storico?<\/p><\/td><td><\/td><\/tr><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

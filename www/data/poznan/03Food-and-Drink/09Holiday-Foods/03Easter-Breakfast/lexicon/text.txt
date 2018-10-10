@@ -1,0 +1,108 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>święconka</p>
+</td>
+<td>
+<p>blessing of the Easter baskets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kości&oacute;ł</p>
+</td>
+<td>
+<p>church</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pisanki</p>
+</td>
+<td>
+<p>decorated Easter eggs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>baranek z masła lub cukru</p>
+</td>
+<td>
+<p>lamb made of butter or sugar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wędliny</p>
+</td>
+<td>
+<p>ham</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chlebek</p>
+</td>
+<td>
+<p>bread</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>baby i mazurki</p>
+</td>
+<td>
+<p>Easter buns and <em>mazurek </em>(shortcrust tart baked at Easter)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zabawa</p>
+</td>
+<td>
+<p>fun</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>śmigus-dyngus/ Lany Poniedziałek</p>
+</td>
+<td>
+<p>Wet Monday</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oblać kogoś wodą</p>
+</td>
+<td>
+<p>to sprinkle someone with water</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>składać życzenia</p>
+</td>
+<td>
+<p>to wish</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>święcić potrawy</p>
+</td>
+<td>
+<p>to bless the food</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być czujnym</p>
+</td>
+<td>
+<p>to be vigilant</p>
+</td>
+</tr>
+</tbody>
+</table>

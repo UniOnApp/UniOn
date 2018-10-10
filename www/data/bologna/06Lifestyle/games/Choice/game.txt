@@ -1,0 +1,7 @@
+[
+  { "question": "Che cos’è il CUSB?", "answers": ["Centro universitario sportivo bolognese", "Centro unificato studenti bolognesi", "Circolo universitario soci bolognesi"] },
+  { "question": "La pallanuoto è uno sport...", "answers": ["di squadra", "individuale", "di coppia"] },
+  { "question": "Al campo Gianni Falchi si gioca a...", "answers": ["baseball", "basket", "tennis"] },
+  { "question": "L’orto botanico di via Irnerio è una importante esposizione di...", "answers": ["piante esotiche e medicinali", "frutta e verdura", "serre urbane"] },
+  { "question": "Il Parco Talon...", "answers": ["ospita un antichissimo acquedotto romano", "è attualmente proprietà di una famiglia bolognese", "si trova dentro le mura del centro storico"] }
+]

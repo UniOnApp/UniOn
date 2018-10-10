@@ -1,0 +1,13 @@
+{
+  "title": "Ordinare da bere",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Una birra piccola per me. Potrebbe portare anche due salatini?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Due birre medie, una rossa e una chiara. Ce l&rsquo;avete la Leffe?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Una Corona in bottiglia,&nbsp;con una fettina di limone.<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Per me un Moscow Mule liscio.<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Mi porta un Ginlemon per favore? Poco alcolico e con poco ghiaccio per cortesia.<\/p><\/td><td>&nbsp;<\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

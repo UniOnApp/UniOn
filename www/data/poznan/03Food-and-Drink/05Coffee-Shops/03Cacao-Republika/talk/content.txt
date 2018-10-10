@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dobry wiecz&oacute;r.<\/p>\r\n<p>- Dobry wiecz&oacute;r. Czy mo\u017Cemy prosi\u0107 o kart\u0119?<\/p>\r\n<p>- Ju\u017C podaj\u0119. Co dla Pa\u0144stwa?<\/p>\r\n<p>- Poprosz\u0119 zielon\u0105 herbat\u0119 i jab\u0142ecznik, a dla mojej kole\u017Canki czekolad\u0119 orzechow\u0105.<\/p>\r\n<p>- Czy co\u015B jeszcze?<\/p>\r\n<p>- Tak, poprosz\u0119 jeszcze ciasto piernikowe.<\/p>\r\n<p>- Czy to wszystko?<\/p>\r\n<p>- Tak, dzi\u0119kuj\u0119.<\/p>\r\n<p>- Przepraszam, <strong>chcia\u0142abym zap\u0142aci\u0107.<\/strong><\/p>\r\n<p>- Prosz\u0119 bardzo, <strong>p\u0142atno\u015B\u0107 b\u0119dzie razem czy osobno<\/strong>?<\/p>\r\n<p>- Zap\u0142acimy razem.<\/p>\r\n<p>- To b\u0119dzie 52 PLN.<\/p>\r\n<p>- Prosz\u0119 bardzo.<\/p>\r\n<p>- Dzi\u0119kuj\u0119 i \u017Cycz\u0119 mi\u0142ego wieczoru.<\/p>\r\n<p>- Dzi\u0119kujemy, wzajemnie!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk:<\/strong><\/p>\r\n<p>Czy mo\u017Cemy prosi\u0107 o kart\u0119?, ju\u017C podaj\u0119 (poda\u0107), wezm\u0119... (wzi\u0105\u0107), zamawiam...(zam&oacute;wi\u0107), dla mnie..., jab\u0142ecznik, czekolada, ciasto piernikowe, czy poda\u0107 co\u015B jeszcze, czy to wszystko?, p\u0142atno\u015B\u0107 kart\u0105\/p\u0142atno\u015B\u0107 got&oacute;wk\u0105 p\u0142atno\u015B\u0107 razem\/osobno.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

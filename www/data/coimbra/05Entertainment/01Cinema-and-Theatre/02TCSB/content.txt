@@ -1,0 +1,13 @@
+{
+  "title": "TCSB",
+  "latitude": "40.212539",
+  "longitude": "-8.4316527",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

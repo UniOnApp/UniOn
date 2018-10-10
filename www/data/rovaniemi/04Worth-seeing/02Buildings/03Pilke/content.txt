@@ -1,0 +1,13 @@
+{
+  "title": "Pilke",
+  "latitude": "66.507376",
+  "longitude": "25.724586",
+  "difficulty": "",
+  "keyword": ["forest","metsä","wood","tree","timber","saha","logging","architecture","science","proverb"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

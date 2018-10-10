@@ -1,0 +1,13 @@
+{
+  "title": "Proxemics",
+  "latitude": "66.497909",
+  "longitude": "25.720701",
+  "difficulty": "",
+  "keyword": ["Kela","personal space","space","waiting"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

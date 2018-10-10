@@ -1,0 +1,13 @@
+{
+  "title": "How to ask for the time",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p class=\"p1\"><span class=\"s1\"><strong><em>How to ask for the time<\/em><\/strong><\/span><\/p>\r\n<p class=\"p1\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\">You can ask for the time like this:<\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Mit&auml; kello on? <\/strong><\/span><\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Paljonko kello on?<\/strong><\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span style=\"text-decoration: underline;\"><span class=\"s2\">mit&auml;<\/span><\/span><span class=\"s1\">: what<\/span><\/p>\r\n<p class=\"p1\"><span style=\"text-decoration: underline;\"><span class=\"s2\">paljonko<\/span><\/span><span class=\"s1\">: how much<\/span><\/p>\r\n<p class=\"p1\"><span style=\"text-decoration: underline;\"><span class=\"s2\">kello<\/span><\/span><span class=\"s1\">: clock<\/span><\/p>\r\n<p class=\"p1\"><span style=\"text-decoration: underline;\"><span class=\"s2\">on<\/span><\/span><span class=\"s1\">: is<\/span><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

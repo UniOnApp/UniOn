@@ -1,0 +1,13 @@
+{
+  "title": "Vuokrataan",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Finding classified ads for apartments is relatively easy. Decoding the ads is different, especially if many abbreviations are used. Here&rsquo;s one ad, almost completely free of abbreviations, to practice with. See the short vocabulary for some help!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Vuokrataan<\/strong><\/p>\r\n<p>Siisti saunallinen yksi&ouml; keskustassa, 29,5 m2 + parveke. Vuokra 550 e kuussa + vesi ja s&auml;hk&ouml;. Ei lemmikkej&auml;. Tiedustelut iltaisin 0400 193&nbsp;074.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>vuokrataan<\/strong> (also: <strong>annetaan vuokralle <\/strong>or<strong> vuokrattavana<\/strong>) for rent<\/p>\r\n<p><strong>siisti<\/strong> clean, tidy; also: quite nice<\/p>\r\n<p><strong>saunallinen<\/strong> sauna included<\/p>\r\n<p><strong>yksi&ouml;<\/strong> a studio<\/p>\r\n<p><strong>keskusta<\/strong> the centre (of the city)<\/p>\r\n<p><strong>parveke<\/strong> a balcony<\/p>\r\n<p><strong>vuokra<\/strong> a rent<\/p>\r\n<p><strong>kuukausi\/kuu\/kk<\/strong> a month<\/p>\r\n<p><strong>vesi ja s&auml;hk&ouml;<\/strong> water and electricity (usually billed separately)<\/p>\r\n<p><strong>lemmikki<\/strong> a pet<\/p>\r\n<p><strong>tiedustelu<\/strong> an inquiry<\/p>\r\n<p><strong>iltaisin<\/strong> in the evenings<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

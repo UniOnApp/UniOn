@@ -1,0 +1,13 @@
+{
+  "title": "Poznań Town Hall",
+  "latitude": "52.408623",
+  "longitude": "16.934068",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

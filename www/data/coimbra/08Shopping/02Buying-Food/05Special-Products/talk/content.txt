@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>A&ccedil;&uacute;car -<em> sugar<\/em><\/p>\r\n<p>Sem a&ccedil;ucar - <em>Sugar-free<\/em> <\/p>\r\n<p>Sal - <em>salt<\/em><\/p>\r\n<p>Hidratos de carbono - <em>carbohydrates<\/em><\/p>\r\n<p>Colesterol &ndash; <em>cholesterol<\/em><\/p>\r\n<p>L&iacute;pidos saturados&nbsp; - <em>saturated fat<\/em><\/p>\r\n<p>Sem lactose - <em>Lactose-free<\/em>&nbsp;<\/p>\r\n<p>Baixa lactose - <em>Low lactose<\/em><\/p>\r\n<p>Baixo &iacute;ndice glic&eacute;mico\/de a&ccedil;ucar - <em>Low glycemic index<\/em><\/p>\r\n<p>Baixo teor de gordura &ndash; <em>Low fat<\/em><\/p>\r\n<p>Apto para intolerantes &agrave; lactose -<em> Fit for the lactose intolerant<\/em><\/p>\r\n<p>Apto para diab&eacute;ticos - <em>Fit for people with diabetes<\/em><\/p>\r\n<p>Sem gl&uacute;ten\/Isento de gl&uacute;ten - <em>Gluten-free<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

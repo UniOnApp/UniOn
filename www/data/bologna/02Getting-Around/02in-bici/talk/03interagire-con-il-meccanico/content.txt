@@ -1,0 +1,13 @@
+{
+  "title": "Interagire con il meccanico",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Vorrei gonfiare le ruote della bicicletta, sono un po\u2019 sgonfie.<\/p><\/td><td><\/td><\/tr><tr><td><p>La mia bici non frena bene. Pu\u00F2 controllare i freni per cortesia?<\/p><\/td><td><\/td><\/tr><tr><td><p>Il campanello non funziona pi\u00F9. Vorrei sostituirlo.<\/p><\/td><td><\/td><\/tr><tr><td><p>Cerco un portapacchi da aggiungere alla mia bici.<\/p><\/td><td><\/td><\/tr><tr><td><p>Cerco due catarifrangenti da applicare alle ruote.<\/p><\/td><td><\/td><\/tr><tr><td><p>La sella \u00E8 troppo alta. Vorrei abbassarla.<\/p><\/td><td><\/td><\/tr><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Historical Route",
+  "latitude": "52.411643",
+  "longitude": "16.950322",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

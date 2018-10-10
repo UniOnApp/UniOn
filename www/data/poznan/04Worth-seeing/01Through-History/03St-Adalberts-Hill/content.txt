@@ -1,0 +1,13 @@
+{
+  "title": "St. Adalberts Hill",
+  "latitude": "52.413503",
+  "longitude": "16.932216",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

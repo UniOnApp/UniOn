@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Olu, mo\u017Ce p&oacute;jdziemy na koncert w tym tygodniu?<\/p>\r\n<p>- To dobry pomys\u0142! Dawno nigdzie nie by\u0142am.<\/p>\r\n<p>- Co powiesz na koncert polskiej artystki - Moniki Brodki?<\/p>\r\n<p>- Czy to jest ta m\u0142oda, bardzo utalentowana piosenkarka, kt&oacute;rej plakaty wisz\u0105 w ca\u0142ym mie\u015Bcie?<\/p>\r\n<p>- Tak, to ona! Jej koncerty to \u015Bwietne show!<\/p>\r\n<p>- Bardzo ch\u0119tnie pos\u0142ucham jej na \u017Cywo. Kiedy jest koncert?<\/p>\r\n<p>-Za tydzie\u0144 w \u015Brod\u0119 o 20.00. Pasuje Ci?<\/p>\r\n<p>-Tak, pasuje. Idziemy!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>P&oacute;jdziemy (p&oacute;j\u015B\u0107), dawno, \u015Bwietny, m\u0142ody, nigdzie, miasto, tydzie\u0144, wisz\u0105 (wisie\u0107), powiesz (powiedzie\u0107), pos\u0142ucha\u0107 na \u017Cywo, ch\u0119tnie, co powiesz na&hellip; (powiedzie\u0107) na koncert, \u015Bwietny pomys\u0142.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Un espresso per favore",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["caff\u00E8"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

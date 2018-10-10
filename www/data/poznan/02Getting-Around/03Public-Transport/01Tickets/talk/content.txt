@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Ania: <\/strong>- Cze\u015B\u0107 Michael!<\/p>\r\n<p><strong>Michael<\/strong>: - Cze\u015B\u0107, <strong>dok\u0105d idziesz?<\/strong><\/p>\r\n<p><strong>A.<\/strong>&ndash; Jad\u0119 <strong>na zakupy<\/strong>, jedziesz ze mn\u0105?<\/p>\r\n<p><strong>M.<\/strong> &ndash; <strong>Ch\u0119tnie<\/strong>, ale nie mam biletu, a Ty?<\/p>\r\n<p><strong>A.<\/strong> &ndash; Ja mam tylko <strong>jeden<\/strong>, sieci&oacute;wka mi si\u0119 <strong>sko\u0144czy\u0142a<\/strong>, ale tu jest <strong>kiosk<\/strong>.<\/p>\r\n<p><strong>M.<\/strong> &ndash; To id\u0119 po bilet.<\/p>\r\n<p><strong>M.<\/strong> &ndash; Prosz\u0119 bilet na tramwaj.<\/p>\r\n<p><strong>S.<\/strong> &ndash; Ale jaki? <strong>Normalny, ulgowy?<\/strong><\/p>\r\n<p><strong>M.<\/strong> &ndash; Dla studenta.<\/p>\r\n<p><strong>S.<\/strong> &ndash; To ulgowy, a na ile minut?<\/p>\r\n<p><strong>M.<\/strong> &ndash; Nie wiem. Aniu, jak to <strong>daleko<\/strong>?<\/p>\r\n<p><strong>A.<\/strong> &ndash; <strong>Kup <\/strong>na 40 min, bo to <strong>do\u015B\u0107 daleko<\/strong>.<\/p>\r\n<p><strong>S.<\/strong> &ndash; Prosz\u0119 bardzo, dwa z\u0142ote trzydzie\u015Bci groszy (2,30 PLN).<\/p>\r\n<p><strong>M.<\/strong> &ndash; Dzi\u0119kuj\u0119.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Jeden, ch\u0119tnie, sieci&oacute;wka, sko\u0144czy\u0142a si\u0119 (sko\u0144czy\u0107 si\u0119), kiosk, normalny, ulgowy, kup, daleko, dok\u0105d idziesz (i\u015B\u0107)?, na zakupy, dla studenta, do\u015B\u0107 daleko.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

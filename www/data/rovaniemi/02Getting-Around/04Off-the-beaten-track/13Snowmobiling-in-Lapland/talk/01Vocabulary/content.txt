@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><span style=\"text-decoration: underline;\">er&auml;maa<\/span> wilderness<\/p>\r\n<p><span style=\"text-decoration: underline;\">huskyajelu<\/span> husky ride<\/p>\r\n<p><span style=\"text-decoration: underline;\">kelkkahaalari<\/span> snowmobiling outfit \/ overall<\/p>\r\n<p><span style=\"text-decoration: underline;\">kelkkailija<\/span> snowmobile rider<\/p>\r\n<p><span style=\"text-decoration: underline;\">kelkkailla<\/span> to ride a snowmobile<\/p>\r\n<p><span style=\"text-decoration: underline;\">kelkkareitti<\/span> snowmobile route<\/p>\r\n<p><span style=\"text-decoration: underline;\">kelkkatehdas<\/span> snowmobile factory<\/p>\r\n<p><span style=\"text-decoration: underline;\">kielletty<\/span> forbidden, illegitimate<\/p>\r\n<p><span style=\"text-decoration: underline;\">kuljettaja<\/span> rider; driver<\/p>\r\n<p><span style=\"text-decoration: underline;\">kyp&auml;r&auml;<\/span> helmet<\/p>\r\n<p><span style=\"text-decoration: underline;\">liikennemerkki<\/span> traffic sign<\/p>\r\n<p><span style=\"text-decoration: underline;\">matkustaja<\/span> passenger<\/p>\r\n<p><span style=\"text-decoration: underline;\">Mets&auml;hallitus<\/span> Finnish state forest enterprise<\/p>\r\n<p><span style=\"text-decoration: underline;\">moottorikelkka<\/span> snowmobile<\/p>\r\n<p><span style=\"text-decoration: underline;\">nopeusrajoitus<\/span> speed limit<\/p>\r\n<p><span style=\"text-decoration: underline;\">ohjelmapalvelu<\/span> program service (adventures, excursions offered by safari companies)<\/p>\r\n<p><span style=\"text-decoration: underline;\">ohjelmapalveluyritys<\/span> destination management company<\/p>\r\n<p><span style=\"text-decoration: underline;\">oma vastuu<\/span> own responsibility<\/p>\r\n<p><span style=\"text-decoration: underline;\">poroajelu<\/span> reindeer sleigh ride<\/p>\r\n<p><span style=\"text-decoration: underline;\">reki<\/span> sleigh<\/p>\r\n<p><span style=\"text-decoration: underline;\">sallittu<\/span> permitted, allowed, legitimate<\/p>\r\n<p><span style=\"text-decoration: underline;\">turvallisuus<\/span> safety<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

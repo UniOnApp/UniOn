@@ -1,0 +1,14 @@
+{
+  "title": "Palazzo Re Enzo",
+  "latitude": "44.494368",
+  "longitude": "11.343314",
+  "difficulty": "high",
+  "keyword": ["Piazza Nettuno",
+"RoBOt"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

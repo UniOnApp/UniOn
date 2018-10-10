@@ -1,0 +1,13 @@
+{
+  "title": "Give me space!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><span>There are situations where violating someone&rsquo;s personal space is more or less unavoidable. It&rsquo;s useful to know some basic expressions that you can pronounce in your best Finnish to either justify the violation or just to apologise!<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Taitaa olla sinun vuoro.<\/strong> I guess it&rsquo;s your turn.<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Onko t&auml;m&auml; paikka varattu?<\/strong> Is this seat taken?<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Onko t&auml;ss&auml; tilaa?<\/strong> Is there room here?<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>T&auml;ss&auml; on vapaa paikka.<\/strong> This seat is free.<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Seuraavaksi palvelemme&hellip; <\/strong>Next in line&hellip; (lit. We will serve next&hellip;)<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Oho!<\/strong> Oops!<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span>This expression is as close to apologising as possible without actually apologising. Use a friendly tone when saying this.<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Anteeksi!<\/strong> Excuse me!<\/span><\/p>\r\n<p><span>The failsafe option.<\/span><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

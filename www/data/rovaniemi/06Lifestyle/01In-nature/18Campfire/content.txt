@@ -1,0 +1,13 @@
+{
+  "title": "Campfire",
+  "latitude": "66.565730",
+  "longitude": "25.696639",
+  "difficulty": "",
+  "keyword": ["nature","luonto","campfire","jokamiehen oikeudet","kuksa","hiking"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

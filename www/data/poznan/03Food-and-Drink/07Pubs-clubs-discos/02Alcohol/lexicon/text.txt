@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Produkcja w&oacute;dki</p>
+</td>
+<td>
+<p>vodka production</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pije się (pić) na potęgę</p>
+</td>
+<td>
+<p>high consumption of alcohol</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nieaktualna opinia</p>
+</td>
+<td>
+<p>outdated opinion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gusta konsumenckie</p>
+</td>
+<td>
+<p>tastes and trends in drinking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tradycje staropolskie</p>
+</td>
+<td>
+<p>Old Polish traditions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sięgnij (sięgnąć)</p>
+</td>
+<td>
+<p>try out (to try out)/ taste</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miody pitne</p>
+</td>
+<td>
+<p>mead</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>średniowiecze</p>
+</td>
+<td>
+<p>Middle Ages</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cydr</p>
+</td>
+<td>
+<p>cider</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>surowo zabronione</p>
+</td>
+<td>
+<p>prohibited</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mandat</p>
+</td>
+<td>
+<p>fine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>Na zdrowie!</em></p>
+</td>
+<td>
+<p><em>Cheers!</em></p>
+</td>
+</tr>
+</tbody>
+</table>

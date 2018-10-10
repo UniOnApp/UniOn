@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Are these claims oikein (correct) or v&auml;&auml;rin (incorrect)? Tap to check.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>The word <em>aamu<\/em> means afternoon.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> The word <em>aamu<\/em> means morning. Logically, <em>aamukahvi<\/em> is literally translated as morning coffee.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>The word <em>ilta<\/em> means evening.<\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> If it doesn&rsquo;t keep you up all night, drinking a cup of <em>iltakahvi<\/em> is quite the Finnish habit you can try. If coffee in the evening is too much for you, don&rsquo;t worry: tea in the evening is popular in this culture as well, and there&rsquo;s an expression for it, too &ndash; <em>iltatee<\/em>.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>If you&rsquo;d like to have your coffee black, you can ask for <em>maitokahvi<\/em>. <\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> The word <em>maito<\/em> means milk. If you&rsquo;d like your coffee black, just say you&rsquo;d like it: <em>mustana<\/em>.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>The word <em>p&auml;iv&auml;<\/em> means day.<\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> One of the most common formal greetings is <em>Hyv&auml;&auml; p&auml;iv&auml;&auml;! <\/em>Be careful with the word <em>p&auml;iv&auml;kahvi<\/em>, though.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>A packet of good coffee is a suitable gift to bring when visiting a Finnish home. <\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> Some might think bringing a packet of coffee is a bit retro, but it&rsquo;ll be seen as a polite gesture for sure. A box of chocolates or some flowers will also do very nicely.<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

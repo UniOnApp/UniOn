@@ -1,0 +1,13 @@
+{
+  "title": "Student Canteens",
+  "latitude": "52.407884",
+  "longitude": "16.909814",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

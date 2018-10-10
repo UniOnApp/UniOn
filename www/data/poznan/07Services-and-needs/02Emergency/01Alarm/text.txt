@@ -1,0 +1,8 @@
+<p>W Polsce działa europejski numer alarmowy <strong>112</strong>. Połączenie z nim jest bezpłatne niezależnie, czy dzwonisz z telefonu kom&oacute;rkowego czy stacjonarnego. Połączysz się z dyspozytorem, kt&oacute;ry -zależnie od potrzeby- wyśle odpowiednie służby: <strong>pogotowie ratunkowe, straż pożarną albo policję</strong>.</p>
+<p>Dyspozytor w trakcie, gdy oczekujesz na przyjazd karetki, może instruować Cię w zakresie pierwszej pomocy.</p>
+<p>Możesz także wybrać jeden z poniższych numer&oacute;w, jeśli wiesz, jaka dokładnie pomoc jest Ci potrzebna:</p>
+<p><strong>997 &ndash; Policja </strong></p>
+<p><strong>999 &ndash; Pogotowie Ratunkowe</strong></p>
+<p><strong>998- Straż Pożarna</strong></p>
+<p><strong>986 &ndash; Straż Miejska</strong></p>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/17DXQSW3wmU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

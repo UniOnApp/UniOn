@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Andar <strong>a<\/strong> p&eacute; &ndash; <em>to walk<\/em><\/p>\r\n<p>but<\/p>\r\n<p>Andar <strong>de <\/strong>+ transports<\/p>\r\n<p>Bicicleta - <em>bycicle<\/em><\/p>\r\n<p>Autocarro -<em> bus<\/em><\/p>\r\n<p>Comboio - <em>train<\/em><\/p>\r\n<p>Avi&atilde;o - <em>plane<\/em><\/p>\r\n<p>Barco - <em>boat<\/em><\/p>\r\n<p>Mota - <em>motorcycle<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Dar um passeio &ndash; <em>go for a stroll<\/em><\/p>\r\n<p>Caminhar &ndash; <em>walk in a leisurely manner\/ hike<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

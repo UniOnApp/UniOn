@@ -1,0 +1,84 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Powstało (powstać)</p>
+</td>
+<td>
+<p>was set up (to be set up)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyjątkowe miejsce</p>
+</td>
+<td>
+<p>exceptional spot</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypocząć</p>
+</td>
+<td>
+<p>to relax</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opalić się</p>
+</td>
+<td>
+<p>to sunbathe</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pograć w siatk&oacute;wkę plażową</p>
+</td>
+<td>
+<p>to play beach volleyball</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>porozmawiać</p>
+</td>
+<td>
+<p>to talk</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>posłuchać koncert&oacute;w</p>
+</td>
+<td>
+<p>to listen to concerts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>panorama Poznania</p>
+</td>
+<td>
+<p>city panorama</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dachy kontener&oacute;w</p>
+</td>
+<td>
+<p>rooftops of the containers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsce spotkań</p>
+</td>
+<td>
+<p>meeting spot</p>
+</td>
+</tr>
+</tbody>
+</table>

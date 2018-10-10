@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Drinks sizes<\/strong><\/p>\r\n<p>mini - 200ml small bottle<\/p>\r\n<p>fino\/imperial - 250ml tall glass <\/p>\r\n<p>tulipa - 200ml tulip-shaped glass<\/p>\r\n<p>caneca - 400ml mug <\/p>\r\n<p>&nbsp;<\/p>\r\n<p>garrafa - <em>bottle<\/em><\/p>\r\n<p>lata - <em>can<\/em><\/p>\r\n<p>cerveja de press&atilde;o - <em> beer on tap<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Snacks<\/strong><\/p>\r\n<p>tremo&ccedil;os - <em>fermented lupin seeds<\/em><\/p>\r\n<p>amendoim\/amendoins - <em>peanut\/s<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pub food<\/strong><\/p>\r\n<p>francesinha - <em>pork, sausage, ham and melted cheese sandwich in a spicy sauce <\/em><\/p>\r\n<p>prego no p&atilde;o - <em>beef sandwich<\/em> <\/p>\r\n<p>bifana - <em>pork sandwich<\/em><\/p>\r\n<p>pica-pau - <em>marinated chopped pork with potatoes and pickles<\/em><\/p>\r\n<p>iscas - <em>stewed pork livers<\/em> <\/p>\r\n<p>moelas - c<em>hicken gizzards<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

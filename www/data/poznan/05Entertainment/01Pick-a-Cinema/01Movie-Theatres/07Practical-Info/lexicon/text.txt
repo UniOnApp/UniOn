@@ -1,0 +1,124 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Zakup bilet&oacute;w</p>
+</td>
+<td>
+<p>ticket purchase</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przysługuje zniżka</p>
+</td>
+<td>
+<p>to be entitled to a discount</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nabyć bilety</p>
+</td>
+<td>
+<p>to buy tickets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kasa kina</p>
+</td>
+<td>
+<p>box office</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>otwarta przed seansem</p>
+</td>
+<td>
+<p>open before the screening</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oferować projekcje</p>
+</td>
+<td>
+<p>offer screenings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>promocyjne ceny</p>
+</td>
+<td>
+<p>promotional prices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>długa kolejka</p>
+</td>
+<td>
+<p>long queue</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dokonać rezerwacji</p>
+</td>
+<td>
+<p>to make a booking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kinowy przysmak</p>
+</td>
+<td>
+<p>movie delicacy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>popcorn</p>
+</td>
+<td>
+<p>popcorn</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wynagrodzić braki</p>
+</td>
+<td>
+<p>to make up for the absence of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>domowe smakołyki</p>
+</td>
+<td>
+<p>home-made delicacies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>postaraj się być punktualnie</p>
+</td>
+<td>
+<p>try to be on time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>reklamy</p>
+</td>
+<td>
+<p>commercials</p>
+</td>
+</tr>
+</tbody>
+</table>

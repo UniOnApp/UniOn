@@ -1,0 +1,13 @@
+{
+  "title": "Lunch",
+  "latitude": "66.484435",
+  "longitude": "25.714443",
+  "difficulty": "",
+  "keyword": ["lounas","cooking","milk","dish","salmon","coffee","pulla","kahvi","adjective"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

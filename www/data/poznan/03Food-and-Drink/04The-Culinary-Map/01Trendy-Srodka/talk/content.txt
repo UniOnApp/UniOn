@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Alex, wiesz, \u017Ce Kasia ma urodziny w sobot\u0119? <strong>Mo\u017Ce p&oacute;jdziemy<\/strong> wszyscy razem <strong>na urodzinow\u0105 kolacj\u0119<\/strong>, a potem do jakiego\u015B klubu?<\/p>\r\n<p>- I <strong>zrobimy jej niespodziank\u0119<\/strong>? Zaprosimy te\u017C innych znajomych?<\/p>\r\n<p>-Tak! \u015Awietny pomys\u0142!<\/p>\r\n<p>- Tylko dok\u0105d p&oacute;jdziemy?<\/p>\r\n<p>- Nie wiem, najlepiej wyprawi\u0107 urodziny <strong>w<\/strong> jakim\u015B <strong>modnym lokalu<\/strong>.<\/p>\r\n<p>- Kasia lubi zdrowe jedzenie, wi\u0119c mo\u017Ce <em>Juice Drinkers<\/em>?<\/p>\r\n<p>- Ale tam serwuj\u0105 g\u0142&oacute;wnie soki i kanapki.<\/p>\r\n<p>- Rozumiem. Nie chcesz wznosi\u0107 toastu sokiem.<\/p>\r\n<p>- A mo\u017Ce do jakiej\u015B burgerowni? Oczywi\u015Bcie takiej, kt&oacute;ra ma te\u017C zdrowe burgery.<\/p>\r\n<p>- Zdrowe burgery? Nie przekonasz Kasi.<\/p>\r\n<p>- Ok, to mo\u017Ce kuchnia polska, np. <em>Pyra Bar<\/em>. Jest zdrowo, smacznie i niedrogo.<\/p>\r\n<p>- I nie zmie\u015Bcimy si\u0119 tam wszyscy.<\/p>\r\n<p>- <strong>To co proponujesz<\/strong>?<\/p>\r\n<p>- Ostatnio byli\u015Bmy z Kasi\u0105 na \u015Ar&oacute;dce i bardzo jej si\u0119 tam podoba\u0142o.<\/p>\r\n<p>- To pojed\u017Amy tam razem i na miejscu ocenimy, kt&oacute;ry lokal b\u0119dzie najlepszy.<\/p>\r\n<p>\u015Awietnie!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Urodziny, niespodzianka, serwuj\u0105 (serwowa\u0107), wyprawi\u0107 urodziny, wznosi\u0107 toast, zmie\u015Bcimy (zmie\u015Bci\u0107) si\u0119, ocenimy (oceni\u0107), zdrowo, smacznie i niedrogo, przekona\u0107 kogo\u015B.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

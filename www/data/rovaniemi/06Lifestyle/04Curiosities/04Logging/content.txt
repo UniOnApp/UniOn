@@ -1,0 +1,13 @@
+{
+  "title": "Logging",
+  "latitude": "66.501382",
+  "longitude": "25.676326",
+  "difficulty": "",
+  "keyword": ["lumber","Pilke","tree","wood","industry","pub","bar"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

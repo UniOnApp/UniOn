@@ -1,0 +1,13 @@
+{
+  "title": "Medical Services",
+  "latitude": "40.2080739",
+  "longitude": "-8.4263758",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

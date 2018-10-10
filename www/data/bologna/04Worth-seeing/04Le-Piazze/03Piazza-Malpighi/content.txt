@@ -1,0 +1,13 @@
+{
+  "title": "Piazza Malpighi",
+  "latitude": "44.494696",
+  "longitude": "11.335961",
+  "difficulty": "mid",
+  "keyword": ["Chiesa di San Francesco"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Where to Live",
+  "latitude": "52.406693",
+  "longitude": "16.919374",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

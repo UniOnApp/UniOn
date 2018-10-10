@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>pasta<\/strong> <strong>acad&eacute;mica<\/strong><\/p>\r\n<p>pasta = mala (folder, briefcase, suitcase)<\/p>\r\n<p>pasta de dentes (toothpaste)<\/p>\r\n<p>pasta = massa (italian pasta)<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

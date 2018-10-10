@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Michael:<\/strong> - Cze\u015B\u0107, <strong>wycieczka rowerowa<\/strong> by\u0142a super!<\/p>\r\n<p><strong>Ania: - <\/strong>Tak, trzeba to <strong>powt&oacute;rzy\u0107<\/strong>.<\/p>\r\n<p><strong>M.<\/strong> &ndash; Ch\u0119tnie. My\u015Bl\u0119, \u017Ce <strong>m&oacute;g\u0142bym<\/strong> je\u017Adzi\u0107 na rowerze nie tylko na wycieczki, ale te\u017C na uniwersytet. Macie du\u017Co dr&oacute;g rowerowych w centrum.<\/p>\r\n<p><strong>A.<\/strong>- Musisz wi\u0119c <strong>kupi\u0107<\/strong> rower, nie mo\u017Cesz <strong>codziennie<\/strong> po\u017Cycza\u0107.<\/p>\r\n<p><strong>M.<\/strong> &ndash; Nowe rowery nie s\u0105 <strong>tanie<\/strong>.<\/p>\r\n<p><strong>A.<\/strong> &ndash; Tak, ale nie musisz kupowa\u0107 nowego. My\u015Bl\u0119, \u017Ce <strong>wystarczy u\u017Cywany<\/strong>.<\/p>\r\n<p><strong>M.<\/strong> &ndash; Ale gdzie mo\u017Cna kupi\u0107 taki rower?<\/p>\r\n<p><strong>A.<\/strong> &ndash; <strong>Na moim osiedlu<\/strong> widzia\u0142am sklep z u\u017Cywanymi rowerami. Maj\u0105 tam te\u017C serwis. M&oacute;j kolega kupi\u0142 rower <strong>w niedziel\u0119<\/strong> na <strong>placu<\/strong> Wielkopolskim.<\/p>\r\n<p><strong>M.<\/strong> &ndash; To mo\u017Ce p&oacute;jdziemy tam razem w weekend?<\/p>\r\n<p><strong>A.<\/strong> &ndash; Jasne!&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Wycieczka, powt&oacute;rzy\u0107, m&oacute;g\u0142bym (m&oacute;c), kupi\u0107, wystarczy (wystarczy\u0107), u\u017Cywany (u\u017Cywa\u0107), tani, osiedle, codziennie, plac, razem, lokalne w\u0142adze dbaj\u0105 (dba\u0107) o w\u0142a\u015Bciwe regulacje prawne, z uwzgl\u0119dnieniem potrzeb, wycieczka rowerowa, na osiedlu, w niedziel\u0119.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Davanti alla macchinetta del caff\u00E9",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p style=\"text-align: center;\">Talk<\/p><\/th><th><p style=\"text-align: center;\">Answer Models<\/p><\/th><\/tr><tr><td><p>Ti posso offrire un caff&eacute;?\/Posso offrirti un caff&egrave;?<\/p><\/td><td><p>Grazie, con piacere\/No, l&rsquo;ho gi&agrave; preso, grazie.<\/p><\/td><\/tr><tr><td><p>Vuoi un caff&eacute;? Ti va un caff&egrave;?<\/p><\/td><td><p>Grazie, con piacere.<\/p><\/td><\/tr><tr><td><p>Mi presti 50 centesimi per favore?<\/p><p>Potresti prestarmi 50 centesimi per favore?<\/p><\/td><td><p>Non ho monete, mi dispiace.<\/p><p>S&igrave;, ecco 50 centesimi!<\/p><\/td><\/tr><tr><td><p>Hai da cambiare 1 euro? Puoi cambiarmi 2 euro?<\/p><\/td><td><\/td><\/tr><tr><td><p>La macchinetta d&agrave; il resto?<\/p><\/td><td><p>La macchinetta non d&agrave; il resto.<\/p><\/td><\/tr><tr><td><p>Che cos&rsquo;&egrave; il caff&egrave; macchiato?<\/p><\/td><td><p>&Egrave; un caff&egrave; con un po&rsquo; di latte. Pu&ograve; essere macchiato freddo o caldo.<\/p><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

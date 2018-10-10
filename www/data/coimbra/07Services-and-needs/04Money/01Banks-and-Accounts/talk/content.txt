@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Queria abrir uma conta, por favor! <em>&ndash; I would like to open an account, please!<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>conta &agrave; ordem &ndash;<em> current account<\/em><\/p>\r\n<p>conta a prazo\/poupan&ccedil;a &ndash; <em>savings account<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>depositar -<em> deposit<\/em> &ne; levantar -<em> withdraw<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

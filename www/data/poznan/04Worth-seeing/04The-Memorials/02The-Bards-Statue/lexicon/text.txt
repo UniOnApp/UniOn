@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>jeden z największych polskich poet&oacute;w</p>
+</td>
+<td>
+<p>one of the greatest Polish poets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pomnik wieszcza</p>
+</td>
+<td>
+<p>statue of the bard</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przebywać</p>
+</td>
+<td>
+<p>to stay</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nielegalne</p>
+</td>
+<td>
+<p>illegal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przekroczenie granicy</p>
+</td>
+<td>
+<p>crossing the border</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powstanie</p>
+</td>
+<td>
+<p>uprising</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przedostać się do powstańc&oacute;w</p>
+</td>
+<td>
+<p>get through to the insurgents</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>organizować uroczystości</p>
+</td>
+<td>
+<p>organize observances</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>postawić pomnik</p>
+</td>
+<td>
+<p>erect a monument</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odsłonięcie pomnika</p>
+</td>
+<td>
+<p>unveiling of a monument</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zachować pamięć o poecie</p>
+</td>
+<td>
+<p>keep the memory of/ commemorate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odbudowa pomnika</p>
+</td>
+<td>
+<p>rebuilding of a monument</p>
+</td>
+</tr>
+</tbody>
+</table>

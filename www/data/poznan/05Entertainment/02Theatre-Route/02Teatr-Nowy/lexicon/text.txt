@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Teatr dramatyczny</p>
+</td>
+<td>
+<p>drama theater</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>działalność artystyczna</p>
+</td>
+<td>
+<p>artistic activity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>patron</p>
+</td>
+<td>
+<p>patron</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pr&oacute;ba teatralna</p>
+</td>
+<td>
+<p>play rehearsal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oferować atrakcje edukacyjne</p>
+</td>
+<td>
+<p>offer educational attractions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>inicjatywa</p>
+</td>
+<td>
+<p>initiative</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czytanie uczniom lektur szkolnych</p>
+</td>
+<td>
+<p>reading the required reading to school pupils</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>aktor</p>
+</td>
+<td>
+<p>actor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niekonwencjonalne spotkania</p>
+</td>
+<td>
+<p>unconventional meetings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świat sceny</p>
+</td>
+<td>
+<p>world of stage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zakamarki</p>
+</td>
+<td>
+<p>nooks and crannies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niedostępne publiczności</p>
+</td>
+<td>
+<p>inaccessible to the audience</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wycieczki po teatrze</p>
+</td>
+<td>
+<p>sightseeing the theater</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spotkania z pracownikami</p>
+</td>
+<td>
+<p>meetings with the staff</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pokazy charakteryzacji</p>
+</td>
+<td>
+<p>make-up shows</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>plebiscyt na najlepszego aktora</p>
+</td>
+<td>
+<p>plebiscite for the best actor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sezon artystyczny</p>
+</td>
+<td>
+<p>artistic season</p>
+</td>
+</tr>
+</tbody>
+</table>

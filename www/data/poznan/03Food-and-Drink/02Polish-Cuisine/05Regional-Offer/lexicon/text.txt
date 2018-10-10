@@ -1,0 +1,60 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Czarny bez</p>
+</td>
+<td>
+<p>elderberry</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przeziębienie</p>
+</td>
+<td>
+<p>a cold</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kaczka z pyzami</p>
+</td>
+<td>
+<p>duck with dumplings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>modra kapusta</p>
+</td>
+<td>
+<p>red cabbage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czernina</p>
+</td>
+<td>
+<p>duck blood soup</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pyry z gzikiem</p>
+</td>
+<td>
+<p>potatoes with cottage cheese and chives</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>suszone owoce</p>
+</td>
+<td>
+<p>dried fruits</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Skateparks",
+  "latitude": "52.3842585",
+  "longitude": "16.9383422",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,5 @@
+Free text here, free text here.
+[pair]one left_one right
+[pair]two left_two right
+[pair]3R_3R
+[pair]4R_4R

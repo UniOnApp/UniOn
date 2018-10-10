@@ -1,0 +1,13 @@
+{
+  "title": "Faculties",
+  "latitude": "40.208044",
+  "longitude": "-8.4274097",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

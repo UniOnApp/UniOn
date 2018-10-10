@@ -1,0 +1,13 @@
+{
+  "title": "Santa Cruz",
+  "latitude": "40.2109418",
+  "longitude": "-8.4309075",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

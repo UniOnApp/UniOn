@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time! Gallery names",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Quiz time! Gallery names<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p>Are these claims oikein (correct) or v\u00E4\u00E4rin (incorrect)? Tap to check.<\/p>\r\n<p>\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p>Valo means light.<\/p>\r\n<p>Oikein. Correct.<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>H\u00E4m\u00E4r\u00E4 is another word for light.<\/p>\r\n<p>V\u00E4\u00E4rin. Incorrect. H\u00E4m\u00E4r\u00E4 (adjective) means the obscure, hazy moment around twilight.<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Katve is a very sunny place with no shade at all.<\/p>\r\n<p>V\u00E4\u00E4rin. Incorrect. Katve (noun) is a word used in Lapland to mean shade or a blind spot.<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Kajo is something beautiful you can see in the morning sky.<\/p>\r\n<p>Oikein. Correct.<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Kilo is the bright reflection of sun rays from the snow.<\/p>\r\n<p>Oikein. Correct.<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Polonez Academic Center",
+  "latitude": "52.415239",
+  "longitude": "16.926592",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

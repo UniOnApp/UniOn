@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>The sauna is one of the places where it&rsquo;s more than OK to fall silent, relax, and enjoy the moment. Chitchatting has its place there, too, but be mindful of others who might just want to unwind after a long day. Knowing the basic sauna vocabulary will help you on your way to the perfect sauna experience!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>kiuas <\/strong>a sauna stove<\/p>\r\n<p><strong>lauteet <\/strong>sauna benches<\/p>\r\n<p><strong>l&ouml;yly <\/strong>steam, heat<\/p>\r\n<p><strong>l&ouml;ylykauha<\/strong> a scoop, a ladle<\/p>\r\n<p><strong>sauna<\/strong> a sauna<\/p>\r\n<p><strong>saunamakkara<\/strong> a sauna sausage<\/p>\r\n<p><strong>saunaolut a <\/strong>sauna beer<\/p>\r\n<p><strong>vihta (vasta)<\/strong> a bath whisk<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>You can also practice some expressions. Tap to see the translation!<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Heit&auml; lis&auml;&auml; l&ouml;yly&auml;!<\/strong><\/p>\r\n<p>More heat!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Laitanko lis&auml;&auml; puita?<\/strong><\/p>\r\n<p>Should we put some more wood into the stove?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>K&auml;yd&auml;&auml;nk&ouml; j&auml;&auml;hyll&auml;?<\/strong><\/p>\r\n<p>Should we go outside and cool off?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Hyv&auml;t l&ouml;ylyt!<\/strong><\/p>\r\n<p>The steam and heat in here are just perfect.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>En kest&auml; en&auml;&auml;!<\/strong><\/p>\r\n<p>I can&rsquo;t take it anymore!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

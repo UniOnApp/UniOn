@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Quiz time! University words<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p>Read the description and guess the answer. Tap to check.<\/p>\r\n<p>\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p>1. You can get discounts by showing this.<\/p>\r\n<p>opiskelijakortti<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>2. This is the second best grade in our grading scale.<\/p>\r\n<p>4<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>3. This time period includes both spring and autumn terms.<\/p>\r\n<p>lukuvuosi<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>4. This is a booklet, often electronic, that includes courses and other necessary information for studying.<\/p>\r\n<p>opinto-opas<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>5. This is a word about any comments that the teacher gives to you about your course assignments. The same word can be used when you\u2019re evaluating the course. <\/p>\r\n<p>palaute<\/p><\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

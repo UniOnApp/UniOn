@@ -1,0 +1,13 @@
+{
+  "title": "MaltaBike",
+  "latitude": "52.404001",
+  "longitude": "16.953965",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

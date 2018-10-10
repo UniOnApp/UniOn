@@ -1,0 +1,204 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Unikatowa kolekcja</p>
+</td>
+<td>
+<p>unique collection</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>portrety trumnienne</p>
+</td>
+<td>
+<p>coffin portraits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skradziony</p>
+</td>
+<td>
+<p>stolen</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odzyskany obraz</p>
+</td>
+<td>
+<p>retrieved painting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>symboliczna historia narodu</p>
+</td>
+<td>
+<p>symbolic history of nation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opowiedzieć</p>
+</td>
+<td>
+<p>to depict</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niezwykłość</p>
+</td>
+<td>
+<p>exclusivity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>założone</p>
+</td>
+<td>
+<p>founded</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>proponować</p>
+</td>
+<td>
+<p>to propose</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zbiory sztuki starożytnej</p>
+</td>
+<td>
+<p>collections of ancient art</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>galeria sztuki średniowiecznej</p>
+</td>
+<td>
+<p>gallery of medieval art</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>plakat</p>
+</td>
+<td>
+<p>poster</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sztuka awangardowa</p>
+</td>
+<td>
+<p>avant-garde art</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spojrzeć na obrazy</p>
+</td>
+<td>
+<p>to take a look at the paintings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>galeria rycin</p>
+</td>
+<td>
+<p>gallery of prints</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nauczyć się kaligrafii</p>
+</td>
+<td>
+<p>to learn calligraphy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>historyk/krytyk sztuki</p>
+</td>
+<td>
+<p>art historian/ critique</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>patrzeć, by zobaczyć</p>
+</td>
+<td>
+<p>to look to perceive</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szczeg&oacute;ły przedstawienia</p>
+</td>
+<td>
+<p>depicted details</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>randka przed obrazem</p>
+</td>
+<td>
+<p>a date in front of a painting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>noc muze&oacute;w</p>
+</td>
+<td>
+<p>night of the museums</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lekcje patrzenia</p>
+</td>
+<td>
+<p>lessons about artistic perception</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ekspozycje etnograficzne</p>
+</td>
+<td>
+<p>ethnographic expositions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieć do dyspozycji</p>
+</td>
+<td>
+<p>to be at sb&rsquo;s disposal/ to be available</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oddziały zamiejscowe</p>
+</td>
+<td>
+<p>out-of-town branches</p>
+</td>
+</tr>
+</tbody>
+</table>

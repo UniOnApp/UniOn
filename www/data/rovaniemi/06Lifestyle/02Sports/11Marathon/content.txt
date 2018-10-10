@@ -1,0 +1,13 @@
+{
+  "title": "Marathon",
+  "latitude": "66.509097",
+  "longitude": "25.734949",
+  "difficulty": "",
+  "keyword": ["running","maraton","numbers"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

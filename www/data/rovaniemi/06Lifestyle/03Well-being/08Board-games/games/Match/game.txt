@@ -1,0 +1,7 @@
+Combine the Finnish board game with its proper equivalent in English. Some games exist also outside Finland and some don’t. The point here is to see if you can understand the meaning of the words.
+[pair]Afrikan tähti_The star of Africa
+[pair]Monopoli_Monopoly
+[pair]Shakki_Chess
+[pair]Arvaa kuka?_Guess Who?
+[pair]Muistipeli “Suomi”_Memory game “Finland”
+[pair]Rappakalja_Balderdash

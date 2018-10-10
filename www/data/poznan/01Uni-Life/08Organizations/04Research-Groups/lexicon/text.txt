@@ -1,0 +1,44 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Chętni do poszerzania wiedzy i umiejętności</p>
+</td>
+<td>
+<p>eager to broaden their knowledge and develop their skills</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spotkania poświęcone dyskusjom nad konkretnym problemem naukowym</p>
+</td>
+<td>
+<p>meetings devoted to debates on particular scientific issues</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyprawy naukowe</p>
+</td>
+<td>
+<p>science field trips</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;lna pasja</p>
+</td>
+<td>
+<p>shared passion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opiekun naukowy</p>
+</td>
+<td>
+<p>scientific supervisor</p>
+</td>
+</tr>
+</tbody>
+</table>

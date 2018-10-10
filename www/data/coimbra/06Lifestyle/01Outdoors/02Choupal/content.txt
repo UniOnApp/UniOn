@@ -1,0 +1,13 @@
+{
+  "title": "Choupal",
+  "latitude": "40.222344",
+  "longitude": "-8.443862",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

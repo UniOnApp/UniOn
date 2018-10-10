@@ -1,0 +1,14 @@
+<p>Un altro modo per visitare Bologna a piedi è quello di seguire un itinerario tematico. A Bologna è difficile identificare una strada o un quartiere dedicato solo allo shopping, alla gastronomia o alla cultura. Infatti, accanto a negozi di vario tipo, ristoranti e pub, ad ogni angolo si trovano chiese, monumenti, piazzette, torri, parchi, ecc. Nel centro storico si contano circa 5.400 edifici, e quelli con riconosciuto valore storico e architettonico sono 4.500.</p>
+
+<p>Un modo interessante e alternativo per passeggiare a Bologna, può essere quello di seguire un percorso a tema. Il Comune, grazie al servizio Bologna Welcome, propone l’itinerario dei Personaggi Illustri, delle Acque, dei Motori, del Verde e dell’Archeologia industriale, oltre al più classico itinerario Cultura (a spasso tra Chiese, Piazze, Monumenti e Musei). 
+Il percorso dei personaggi illustri ti permette di conoscere meglio i luoghi frequentati dallo scienziato Guglielmo Marconi, dal pittore Giorgio Morandi, dal cantautore Lucio Dalla, dall’intellettuale Pier Paolo Pasolini. 
+Se ti ritrovi a passeggiare su via D’Azeglio, ogni sera intorno alle 18.00 trasmettono una canzone di Lucio Dalla, attraverso gli altoparlanti collocati vicino alla sua casa. Lucio Dalla è un famoso cantautore bolognese scomparso nel 2012.</p>
+
+<p>L’itinerario dell’Acqua ti consentirà di andare dalla Fontana del Nettuno, simbolo di Bologna, al Ghetto ebraico, fino al Canale delle Moline, dove l’acqua scorre in alcuni tratti ancora abbondante. Sul Canale delle Moline, si affaccia una finestrella molto amata e fotografata dai turisti che si chiama Finestrella di via Piella. 
+Per studiare i percorsi tematici, puoi visitare il sito di <a href="http://www.bolognawelcome.com/home/scopri/percorsi/" >Bologna Welcome</a> e ascoltare le Audio Guide.</p>
+
+<p class="audioLabel">Audio: <a href="http://www.bolognawelcome.com/">Bologna Welcome</a></p>
+<audio controls>
+  <source src="http://www.bolognawelcome.com/files/turisti/scopri/audioguide/2-classico/tappa_1_-_da_piazza_maggiore_all_archiginnasio-s.mp3" type="audio/mpeg">
+Enable internet connection.
+</audio>

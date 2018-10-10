@@ -1,0 +1,23 @@
+{
+  "title": "In giro in bici",
+  "latitude": "44.494151",
+  "longitude": "11.328513",
+  "difficulty": "mid",
+  "keyword": ["bicicletta",
+"bici ",
+"pista ciclabile",
+"piste ciclabili ",
+"centro storico ",
+"periferia",
+"itinerario",
+"itinerari",
+"Tangenziale ",
+"Viali ",
+"UniBike"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

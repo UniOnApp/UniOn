@@ -1,0 +1,180 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Wzbudzać uśmiech zachwytu</p>
+</td>
+<td>
+<p>to raise a smile </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>polscy rozm&oacute;wcy</p>
+</td>
+<td>
+<p>Polish interlocutors</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>swoboda i niezależność językowa</p>
+</td>
+<td>
+<p>to have the gift of the gab/expressive freedom</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>hasła skandowane (skandować)</p>
+</td>
+<td>
+<p>words chanted at concerts (to chant)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odpowiedzieć na komplement</p>
+</td>
+<td>
+<p>to respond to a compliment</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rzadziej używany język</p>
+</td>
+<td>
+<p>less frequently used</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tomik poezji</p>
+</td>
+<td>
+<p>volume of poetry</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w oryginale</p>
+</td>
+<td>
+<p>in the original</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zmierzyć się z wymową</p>
+</td>
+<td>
+<p>to be challenged with pronouncing </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zetkniesz (zetknąć) się</p>
+</td>
+<td>
+<p>to find/ to experience</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>doświadczona kadra akademicka</p>
+</td>
+<td>
+<p>experienced academic Staff</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>innowacyjnie/tw&oacute;rczo/skutecznie</p>
+</td>
+<td>
+<p>in an innovative, creative, effective way</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>reguły polszczyzny</p>
+</td>
+<td>
+<p>intricacies of the Polish language</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaskakująco/intensywnie/zabawnie</p>
+</td>
+<td>
+<p>in a surprising/ intensive/ entertaining way</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wymaga (wymagać) systematyczności</p>
+</td>
+<td>
+<p>requires (to require) regularity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>proces</p>
+</td>
+<td>
+<p>proces</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uczestnictwo</p>
+</td>
+<td>
+<p>attendance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dbasz (dbać) o frekwencję</p>
+</td>
+<td>
+<p>to attend systematically</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dysponujesz (dysponować)</p>
+</td>
+<td>
+<p>you have (to have)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przygoda poznawcza</p>
+</td>
+<td>
+<p>illuminating adventure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dołącz (dołączyć) do</p>
+</td>
+<td>
+<p>join (to join)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>międzynarodowa wsp&oacute;lnota</p>
+</td>
+<td>
+<p>international community</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Let's Dance",
+  "latitude": "52.406263",
+  "longitude": "16.932643",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

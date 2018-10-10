@@ -1,0 +1,58 @@
+[
+  {
+    "question": "When searching for a real bargain, the word to know is…",
+    "answers": [
+      "pechincha",
+      "pacote",
+      "pastel"
+    ]
+  },
+  {
+    "question": "Looking for organic, locally sourced fresh produce? Head to a…",
+    "answers": [
+      "mercado",
+      "sapataria",
+      "farmácia"
+    ]
+  },
+  {
+    "question": "The shirt is too big? Check the number and ask for another…",
+    "answers": [
+      "tamanho",
+      "tarifa",
+      "tamanco"
+    ]
+  },
+  {
+    "question": "A place where you should always haggle the prices is a…",
+    "answers": [
+      "feira",
+      "festa",
+      "festival"
+    ]
+  },
+  {
+    "question": "Products for people with special dietary requirements are…",
+    "answers": [
+      "dietéticos",
+      "diuréticos",
+      "discretos"
+    ]
+  },
+  {
+    "question": "Go shopping downtown, go to…",
+    "answers": [
+      "Baixa",
+      "Alta",
+      "Solum"
+    ]
+  },
+  {
+    "question": "A (weekly) basket of seasonal produce is a…",
+    "answers": [
+      "cabaz",
+      "cesto",
+      "caixa"
+    ]
+  }
+]

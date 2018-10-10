@@ -1,0 +1,13 @@
+{
+  "title": "Rye bread",
+  "latitude": "66.493778",
+  "longitude": "25.655550",
+  "difficulty": "",
+  "keyword": ["national","culture","food","tradition","karelian","recipe","supermarket","leipä","ruis","opinion"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

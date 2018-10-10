@@ -1,0 +1,172 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Śniadanie kontynentalne</p>
+</td>
+<td>
+<p>Continental breakfast</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jajka</p>
+</td>
+<td>
+<p>eggs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jajecznica</p>
+</td>
+<td>
+<p>scrambled eggs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kanapki z masłem/szynką, serem</p>
+</td>
+<td>
+<p><strong>sandwiches with butter, cheese and ham</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>par&oacute;wki</p>
+</td>
+<td>
+<p>sausages</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>twar&oacute;g ze szczypiorkiem</p>
+</td>
+<td>
+<p>cottage cheese with chives</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zwolennicy</p>
+</td>
+<td>
+<p>enthusiasts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>płatki z mlekiem</p>
+</td>
+<td>
+<p>cereal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>drożdż&oacute;wki</p>
+</td>
+<td>
+<p>sweet buns made of yeast dough</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słodkie bułki</p>
+</td>
+<td>
+<p>sweet rolls</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z ciasta drożdżowego</p>
+</td>
+<td>
+<p>made of yeast dough</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z serem</p>
+</td>
+<td>
+<p>with cheese</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z lukrem</p>
+</td>
+<td>
+<p>with icing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pączki</p>
+</td>
+<td>
+<p>doughnuts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nadziewać</p>
+</td>
+<td>
+<p>to stuff</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>marmolada z r&oacute;ży</p>
+</td>
+<td>
+<p>rose marmelade</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>herbata</p>
+</td>
+<td>
+<p>tea</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kawa</p>
+</td>
+<td>
+<p>coffee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kawa z mlekiem</p>
+</td>
+<td>
+<p>coffee with milk</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kawa zbożowa</p>
+</td>
+<td>
+<p>ersatz coffee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kakao</p>
+</td>
+<td>
+<p>cocoa</p>
+</td>
+</tr>
+</tbody>
+</table>

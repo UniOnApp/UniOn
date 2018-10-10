@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Onde fica <strong>a <\/strong>RUC?<\/p>\r\n<p><em>Where is RUC?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Em que piso &eacute; <strong>a <\/strong>sec&ccedil;&atilde;o de Fado?<\/p>\r\n<p><em>In which floor is <\/em><strong><em>the<\/em><\/strong><em> Fado club?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>H&aacute; aqui <strong>um <\/strong>clube de cinema?<\/p>\r\n<p><em>Is there <\/em><strong><em>a<\/em><\/strong><em> cinema club here?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Onde posso ver <strong>uma<\/strong> pe&ccedil;a de teatro?<\/p>\r\n<p><em>Where can I see <\/em><strong><em>a<\/em><\/strong><em> play?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Onde posso encontrar<strong> o<\/strong> Coro Misto?<\/p>\r\n<p><em>Where can I find the uni choir?<\/em> <\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Definite articles<\/strong><\/p>\r\n<p>The = o\/ a\/ os\/ as<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Indefinite articles<\/strong><\/p>\r\n<p>A\/some = um\/ uma\/ uns\/ umas<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

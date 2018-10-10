@@ -1,0 +1,13 @@
+{
+  "title": "Colleges & Churches",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["Polo I","Colégio","Sé","Santa Cruz","Jerónimo","Trindade","Jesus","Artes"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Essere prudenti in bici",
+  "latitude": "44.503426",
+  "longitude": "11.345532",
+  "difficulty": "high",
+  "keyword": ["bicicletta"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

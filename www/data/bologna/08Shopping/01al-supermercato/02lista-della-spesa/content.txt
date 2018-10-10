@@ -1,0 +1,21 @@
+{
+  "title": "La lista della spesa",
+  "latitude": "44.499144",
+  "longitude": "11.338354",
+  "difficulty": "low",
+  "keyword": ["reparto",
+"punto vendita",
+"punti vendita",
+"marchio",
+"prezzo",
+"prezzi",
+"sconti",
+"tessera",
+"carrello"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

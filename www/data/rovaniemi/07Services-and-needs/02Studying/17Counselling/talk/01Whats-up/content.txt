@@ -1,0 +1,13 @@
+{
+  "title": "What\u2019s up?",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Please find below a list of matters students can discuss with the study counsellor. Of course, the list is not at all complete, but these topics will give you an overview.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>How many of the Finnish words would you be able to recognise without the translation?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>stressi<\/strong> stress<\/p>\r\n<p><strong>motivaatio<\/strong> motivation<\/p>\r\n<p><strong>ajanhallinta<\/strong> time management<\/p>\r\n<p><strong>esiintymisj&auml;nnitys<\/strong> communication apprehension, stage fright<\/p>\r\n<p><strong>tenttipelko<\/strong> exam anxiety<\/p>\r\n<p><strong>itsetunto<\/strong> self esteem<\/p>\r\n<p><strong>yksin&auml;isyys<\/strong> loneliness<\/p>\r\n<p><strong>kulttuurishokki<\/strong> culture shock<\/p>\r\n<p><strong>identiteetti<\/strong> identity<\/p>\r\n<p><strong>ilmasto<\/strong> climate<\/p>\r\n<p><strong>odotukset<\/strong> expectations<\/p>\r\n<p><strong>oppimisstrategiat<\/strong> learning strategies<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

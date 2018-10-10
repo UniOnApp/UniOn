@@ -1,0 +1,13 @@
+{
+  "title": "Simerock",
+  "latitude": "66.517969",
+  "longitude": "25.744496",
+  "difficulty": "",
+  "keyword": ["festival","festarit","venue","rock","visitor","Ounaspaviljonki","Simerock"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

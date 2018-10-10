@@ -1,0 +1,17 @@
+{
+  "title": "Proiezioni all'aperto",
+  "latitude": "44.493774",
+  "longitude": "11.342993",
+  "difficulty": "low",
+  "keyword": ["Piazza Maggiore",
+"cinema",
+"Arena Puccini",
+"cinema Lumi\u00E8re",
+"Tivoli"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

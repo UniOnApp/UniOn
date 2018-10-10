@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Aberto &ne; Fechado\/Encerrado<\/p>\r\n<p>Open &ne; Closed<\/p>\r\n<p>Volto j&aacute;!<\/p>\r\n<p>I&rsquo;ll be right back!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Quanto <\/strong>custa o cart&atilde;o?<\/p>\r\n<p>How much is the card?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Com quantas<\/strong> viagens posso carregar o cart&atilde;o?<\/p>\r\n<p>With how many journeys can I top up the card?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Quanto\/quanta\/quantos\/quantas?<\/strong> How much\/How many?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>itiner&aacute;rios - routes<\/p>\r\n<p>autocarro - bus<\/p>\r\n<p>paragem - stop<\/p>\r\n<p>bilhete pr&eacute;-comprado\/cart&atilde;o &ndash; prepaid card<\/p>\r\n<p>passe - bus pass<\/p>\r\n<p>tarifas - rates<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

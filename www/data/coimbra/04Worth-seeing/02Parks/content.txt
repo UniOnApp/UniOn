@@ -1,0 +1,13 @@
+{
+  "title": "Parks",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["parque","jardim","botânico"," picnic","Mondego","Verde"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

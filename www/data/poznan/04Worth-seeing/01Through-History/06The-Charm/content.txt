@@ -1,0 +1,13 @@
+{
+  "title": "The Charm of the Bamber Woman",
+  "latitude": "52.408484",
+  "longitude": "16.933362",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

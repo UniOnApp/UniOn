@@ -1,0 +1,20 @@
+{
+  "title": "Primi passi",
+  "latitude": "44.497407",
+  "longitude": "11.353388",
+  "difficulty": "low",
+  "keyword": ["alloggio",
+"affitto",
+"SAIS",
+"Bussola",
+"stanza ",
+"camera ",
+"ER-GO",
+"casa"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

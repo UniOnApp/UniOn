@@ -1,0 +1,156 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Skala ocen</p>
+</td>
+<td>
+<p>grade scale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>system oceniania</p>
+</td>
+<td>
+<p>assessment criteria</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>formy zaliczenia przedmiotu</p>
+</td>
+<td>
+<p>forms of course completion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>elektroniczna wersja tradycyjnego indeksu</p>
+</td>
+<td>
+<p>electronic version of a traditional credit book</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obowiązuje Europejski System Transferu Punkt&oacute;w (ECTS)</p>
+</td>
+<td>
+<p>The European Credit Transfer and Accumulation System (ECTS) has been adopted </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>egzamin</p>
+</td>
+<td>
+<p>exam</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaliczenie z notą</p>
+</td>
+<td>
+<p>graded credit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kolokwia</p>
+</td>
+<td>
+<p>mid-term tests</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Co studiujesz?</p>
+</td>
+<td>
+<p>What&rsquo;s your major?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Co robisz?</p>
+</td>
+<td>
+<p>What are you up to now?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sesja</p>
+</td>
+<td>
+<p>examination period</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaliczenie</p>
+</td>
+<td>
+<p>end-term test</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lektorat</p>
+</td>
+<td>
+<p>language class</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jutro</p>
+</td>
+<td>
+<p>tomorrow</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieć lektorat</p>
+</td>
+<td>
+<p>to have Polish course</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prawo</p>
+</td>
+<td>
+<p>law</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>język polski</p>
+</td>
+<td>
+<p>Polish </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieć tylko zaliczenie</p>
+</td>
+<td>
+<p>mid-term test</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sesja już za miesiąc</p>
+</td>
+<td>
+<p>exam session in a month</p>
+</td>
+</tr>
+</tbody>
+</table>

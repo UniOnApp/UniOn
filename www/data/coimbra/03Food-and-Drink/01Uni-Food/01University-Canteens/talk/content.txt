@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>How does it taste?<\/strong><\/p>\r\n<p>delicioso\/a - <em>delicious<\/em><\/p>\r\n<p>saboroso\/a - <em>tasty<\/em><\/p>\r\n<p>salgado\/a &ne; doce &ndash; <em>salty &ne; sweet<\/em><\/p>\r\n<p>tenro\/a &ne; duro\/a &ndash; <em>tender &ne; hard<\/em><\/p>\r\n<p>picante - <em>spicy<\/em><\/p>\r\n<p>fresco\/a &ndash; <em>fresh\/cold<\/em><\/p>\r\n<p>seco\/a &ndash; <em>dry<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Carne &ndash; meat<\/strong><\/p>\r\n<p>Aves &ndash; poultry<\/p>\r\n<p>Frango\/ galinha &ndash; chicken<\/p>\r\n<p>Per&uacute; &ndash; turkey<\/p>\r\n<p>Pato &ndash; duck<\/p>\r\n<p>Porco\/ su&iacute;no &ndash; pork<\/p>\r\n<p>Leit&atilde;o &ndash; piglet<\/p>\r\n<p>Vaca\/ bovino &ndash; beef<\/p>\r\n<p>Vitela\/ bovino &ndash; veal<\/p>\r\n<p>Coelho &ndash; rabbit<\/p>\r\n<p>Salsicha &ndash; sausage<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,180 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Funkcjonujące (funkcjonować)</p>
+</td>
+<td>
+<p>operating (to operate)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprawnie poruszać się</p>
+</td>
+<td>
+<p>get around the city efficiently</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znajdziesz (znaleźć)</p>
+</td>
+<td>
+<p>you&rsquo;ll find (to find)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kody</p>
+</td>
+<td>
+<p>codes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zeskanowane (zeskanować)</p>
+</td>
+<td>
+<p>scanned (to scan)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dadzą (dać) dostęp</p>
+</td>
+<td>
+<p>will give you access</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozkład jazdy</p>
+</td>
+<td>
+<p>timetable</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wybiera (wybierać) najkr&oacute;tszą lub najmniej męczącą trasę</p>
+</td>
+<td>
+<p>chooses (to choose) the shortest, or the least tedious route</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podaje (podawać) godziny odjazd&oacute;w</p>
+</td>
+<td>
+<p>to give info on timetables</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wirtualne opłacanie biletu</p>
+</td>
+<td>
+<p>m-ticketing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koszty parkowania</p>
+</td>
+<td>
+<p>costs of parking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strefa płatnego parkowania</p>
+</td>
+<td>
+<p>paid parking zone</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyświetlają się (wyświetlać)</p>
+</td>
+<td>
+<p>are displayed (to display)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dadzą wgląd</p>
+</td>
+<td>
+<p>give insight into</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bieżące życie</p>
+</td>
+<td>
+<p>current affairs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>atrakcje turystyczne</p>
+</td>
+<td>
+<p>tourist attractions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tw&oacute;rcy/użytkownicy aplikacji</p>
+</td>
+<td>
+<p>app designers/ users</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>łowca okazji</p>
+</td>
+<td>
+<p>special offer hunter</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zainstaluj (zainstalować)</p>
+</td>
+<td>
+<p>instal (to install)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>atrakcyjne rabaty</p>
+</td>
+<td>
+<p>attractive discounts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gazetki promocyjne</p>
+</td>
+<td>
+<p>weekly flyers of shops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podszkolisz (podszkolić)</p>
+</td>
+<td>
+<p>you&rsquo;ll pick up (learn)</p>
+</td>
+</tr>
+</tbody>
+</table>

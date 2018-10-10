@@ -1,0 +1,13 @@
+{
+  "title": "S\u00E9 Nova",
+  "latitude": "40.206317",
+  "longitude": "-8.4252061",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

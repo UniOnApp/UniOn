@@ -1,0 +1,13 @@
+{
+  "title": "German cemetery",
+  "latitude": "66.627555",
+  "longitude": "25.791410",
+  "difficulty": "",
+  "keyword": ["peace","war","sota","rauha","christmas","independence","itsenäisyys","winter","military","German","memorial","Norvajärvi"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

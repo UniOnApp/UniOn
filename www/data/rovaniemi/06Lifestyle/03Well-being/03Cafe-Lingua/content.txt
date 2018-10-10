@@ -1,0 +1,13 @@
+{
+  "title": "Caf\u00E9 Lingua",
+  "latitude": "66.501233",
+  "longitude": "25.733894",
+  "difficulty": "",
+  "keyword": ["meeting point","language","culture","kahvila"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

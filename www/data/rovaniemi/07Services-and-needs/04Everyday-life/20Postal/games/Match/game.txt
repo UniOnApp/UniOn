@@ -1,0 +1,12 @@
+Here you have some words that you might need when sending or receiving a letter or a parcel. Combine the Finnish word with its proper equivalent in English.
+[pair]kirje_letter
+[pair]paketti_parcel
+[pair]postimerkki_stamp
+[pair]kallis_expensive
+[pair]1. luokka_first class, priority
+[pair]lähettäjä_sender
+[pair]vastaanottaja_receiver, addressee
+[pair]postinumero_postal code
+[pair]kotimaahan_to home country
+[pair]ulkomaille_(to) abroad
+[pair]kirjattu kirje_registered letter

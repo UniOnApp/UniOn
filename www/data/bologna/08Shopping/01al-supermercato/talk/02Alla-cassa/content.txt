@@ -1,0 +1,13 @@
+{
+  "title": "Alla cassa",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p style=\"text-align: center;\"><em>Talk<\/em><\/p><\/th><th><p style=\"text-align: center;\"><em>Answer Models<\/em><\/p><\/th><\/tr><tr><td><p>Dove si trovano le casse SalvaTempo?<\/p><\/td><td><\/td><\/tr><tr><td><p>Signora, le chiedo una cortesia. Mi lascerebbe passare avanti? Ho solo due litri di latte da pagare, niente altro.<\/p><\/td><td><p>Certo, non si preoccupi, passi pure.<\/p><\/td><\/tr><tr><td><p>La Cassa Fai Da te mi d&agrave; &lsquo;errore&rsquo;. Pu&ograve; sbloccarla per favore?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

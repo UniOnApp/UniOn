@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>powołany</p>
+</td>
+<td>
+<p>founded</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sięga (sięgać) tradycją</p>
+</td>
+<td>
+<p>its traditions go back to </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uznany ośrodek badawczy</p>
+</td>
+<td>
+<p>distinguished research center</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oferuje (oferować) kształcenie</p>
+</td>
+<td>
+<p>offers (to offer) a variety of study programs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>akademicka edukacja</p>
+</td>
+<td>
+<p>tertiary education</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ceni (cenić) ideę mobilności</p>
+</td>
+<td>
+<p>value the idea of mobility</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;łtworzy (wsp&oacute;łtworzyć) rzeczywistość społeczną</p>
+</td>
+<td>
+<p>to contribute to social realities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pasja dobrze wykształcona</p>
+</td>
+<td>
+<p>passion well educated</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>hasło</p>
+</td>
+<td>
+<p>slogan/ motto</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>promuje (promować) uczelnię</p>
+</td>
+<td>
+<p>promotes (to promote) the University</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nastawienie na kompetencję, innowacyjność i zapał poznawczy</p>
+</td>
+<td>
+<p>orientation to competitiveness, innovation and passion for learning</p>
+</td>
+</tr>
+</tbody>
+</table>

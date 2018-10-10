@@ -1,0 +1,13 @@
+{
+  "title": "Local NGOs",
+  "latitude": "66.499548",
+  "longitude": "25.723827",
+  "difficulty": "",
+  "keyword": ["volunteer","helping","ngo","kolmas sektori"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

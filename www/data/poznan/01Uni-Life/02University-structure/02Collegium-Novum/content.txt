@@ -1,0 +1,13 @@
+{
+  "title": "Collegium Novum",
+  "latitude": "52.402836",
+  "longitude": "16.921192",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

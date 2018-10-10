@@ -1,0 +1,116 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Umożliwia (umożliwiać)</p>
+</td>
+<td>
+<p>it allows (to allow)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uniezależnia (uniezależniać)</p>
+</td>
+<td>
+<p>to make independent</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>narciarz</p>
+</td>
+<td>
+<p>skier</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stok</p>
+</td>
+<td>
+<p>slope</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opady śniegu</p>
+</td>
+<td>
+<p>snowfall</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyciąg krzesełkowy</p>
+</td>
+<td>
+<p>chair-lift</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyciąg z orczykami</p>
+</td>
+<td>
+<p>T-bar lift</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sztuczna nawierzchnia</p>
+</td>
+<td>
+<p>synthetic surface</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nowoczesny system naśnieżania</p>
+</td>
+<td>
+<p>modern snowmaking machines</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kolejka g&oacute;rska</p>
+</td>
+<td>
+<p>alpine coaster</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>trasa o licznych zakrętach</p>
+</td>
+<td>
+<p>filled with numerous curves and loops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w dwuosobowych wagonikach</p>
+</td>
+<td>
+<p>in 2-person cart</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>letni tor saneczkowy</p>
+</td>
+<td>
+<p>summer toboggan run</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zjazd jednoosobowym pontonem po stoku narciarskim</p>
+</td>
+<td>
+<p>pontoon ride down the ski slope</p>
+</td>
+</tr>
+</tbody>
+</table>

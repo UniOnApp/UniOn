@@ -1,0 +1,13 @@
+{
+  "title": "Trolleybus",
+  "latitude": "40.2078334",
+  "longitude": "-8.4244561",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

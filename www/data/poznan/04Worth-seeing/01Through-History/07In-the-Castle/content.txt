@@ -1,0 +1,13 @@
+{
+  "title": "In the Castle",
+  "latitude": "52.407945",
+  "longitude": "16.919187",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

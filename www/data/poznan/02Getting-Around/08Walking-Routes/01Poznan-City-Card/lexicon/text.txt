@@ -1,0 +1,60 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Powiązać spacerowanie ze zwiedzaniem</p>
+</td>
+<td>
+<p>to combine walking and sightseeing </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poznańska Karta Turystyczna</p>
+</td>
+<td>
+<p>Poznań City Card</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>imienna karta</p>
+</td>
+<td>
+<p>card for bearer only</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dokument tożsamości</p>
+</td>
+<td>
+<p>ID card</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skorzystać z atrakcji</p>
+</td>
+<td>
+<p>to enjoy the attractions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Palmiarnia Poznańska</p>
+</td>
+<td>
+<p>Poznań Palm House</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odpocząć w restauracji</p>
+</td>
+<td>
+<p>to rest in a restaurant</p>
+</td>
+</tr>
+</tbody>
+</table>

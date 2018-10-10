@@ -1,0 +1,13 @@
+{
+  "title": "Local history",
+  "latitude": "66.480005",
+  "longitude": "25.742440",
+  "difficulty": "",
+  "keyword": ["museum","local","history","architecture","war","traditional","midsummer","concert"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,15 @@
+{
+  "title": "San Petronio",
+  "latitude": "44.492945",
+  "longitude": "11.343132",
+  "difficulty": "high",
+  "keyword": ["Basilica di San Petronio",
+"Meridiana",
+"Terrazza panoramica"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

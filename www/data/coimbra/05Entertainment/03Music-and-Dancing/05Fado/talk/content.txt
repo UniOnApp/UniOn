@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Que instrumento &eacute; aquele?<\/p>\r\n<p><em>- What instrument is that?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Isto &eacute; uma guitarra portuguesa.<\/p>\r\n<p><em>- This is a Portuguese guitar.<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

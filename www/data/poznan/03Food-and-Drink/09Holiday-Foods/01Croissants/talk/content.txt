@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry. Czy s\u0105 rogale marci\u0144skie?<\/p>\r\n<p>- Dzie\u0144 dobry, oczywi\u015Bcie, \u017Ce s\u0105! Przecie\u017C jutro jest \u015Awi\u0119tego Marcina!<\/p>\r\n<p>- To dobrze, bo <strong>chcia\u0142bym kupi\u0107<\/strong> du\u017Co rogali, dla wszystkich koleg&oacute;w z akademika.<\/p>\r\n<p>- <strong>Ile Pan potrzebuje<\/strong>?<\/p>\r\n<p>- Poprosz\u0119 pi\u0119tna\u015Bcie <strong>sztuk<\/strong>.<\/p>\r\n<p>- Zaraz <strong>zwa\u017C\u0119<\/strong>, bo rogale <strong>kupuje si\u0119 na wag\u0119, a nie na sztuki<\/strong>.<\/p>\r\n<p>- Nie wiedzia\u0142em.<\/p>\r\n<p>- 15 sztuk wa\u017Cy prawie p&oacute;\u0142tora kilograma, a kilogram kosztuje 80 PLN, czyli razem b\u0119dzie 120 PLN.<\/p>\r\n<p><strong>- Mog\u0119 zap\u0142aci\u0107 kart\u0105<\/strong>?<\/p>\r\n<p>- Oczywi\u015Bcie, mo\u017Ce by\u0107 <strong>zbli\u017Ceniowo<\/strong>?<\/p>\r\n<p>- Tak.<\/p>\r\n<p>- Oto <strong>rachunek<\/strong>. Dzi\u0119kuj\u0119 bardzo i \u017Cycz\u0119 <strong>smacznego<\/strong>!<\/p>\r\n<p>- Dzi\u0119kuj\u0119 i do widzenia!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Zwa\u017C\u0119 (zwa\u017Cy\u0107), na wag\u0119\/na sztuki, p\u0142aci\u0107 zbli\u017Ceniowo, \u017Cycz\u0119 (\u017Cyczy\u0107) smacznego.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

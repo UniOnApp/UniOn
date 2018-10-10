@@ -1,0 +1,13 @@
+{
+  "title": "Informarsi sugli orari",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p >Talk<\/p><\/th><th><p >Answer Models<\/p><\/th><\/tr><tr><td><p>A che ora inizia l&rsquo;aperitivo?<\/p><\/td><td><\/td><\/tr><tr><td><p>Fino a che ora &egrave; possibile fare l&rsquo;aperitivo?<\/p><\/td><td><\/td><\/tr><tr><td><p>A che ora chiude la cucina?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

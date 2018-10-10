@@ -1,0 +1,13 @@
+{
+  "title": "Burlesque",
+  "latitude": "66.504422",
+  "longitude": "25.738532",
+  "difficulty": "",
+  "keyword": ["burleski","burlesque","market","underwear","clothes"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,60 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Sprawdź (sprawdzać) siebie</p>
+</td>
+<td>
+<p>prove yourself</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pierścień Poznania</p>
+</td>
+<td>
+<p>Cycling Ring Around Poznań</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dookoła Poznania,</p>
+</td>
+<td>
+<p>around Poznań</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wybierz (wybierać) się na jedną z tras</p>
+</td>
+<td>
+<p>take one of the paths</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>trakty wzdłuż jezior</p>
+</td>
+<td>
+<p>trails along lakes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsca historyczne</p>
+</td>
+<td>
+<p>historical places</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tereny zielone</p>
+</td>
+<td>
+<p>green areas</p>
+</td>
+</tr>
+</tbody>
+</table>

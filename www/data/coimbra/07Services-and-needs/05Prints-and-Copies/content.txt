@@ -1,0 +1,13 @@
+{
+  "title": "Prints & Copies",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["print","reprografia","fotocópia","copyright"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

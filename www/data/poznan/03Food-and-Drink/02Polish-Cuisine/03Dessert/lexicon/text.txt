@@ -1,0 +1,172 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Łasuchy</p>
+</td>
+<td>
+<p>gourmands</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozsmakują (rozsmakować) się</p>
+</td>
+<td>
+<p>will indulge themselves</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słodycze</p>
+</td>
+<td>
+<p>sweets</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ciasta</p>
+</td>
+<td>
+<p>pastries</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>śliwki w czekoladzie</p>
+</td>
+<td>
+<p>Chocolate-coated plums</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wafle</p>
+</td>
+<td>
+<p>waffles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ptasie mleczko</p>
+</td>
+<td>
+<p>vanilla flavored mousse in chocolate icing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kr&oacute;wki</p>
+</td>
+<td>
+<p>cream fudge</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>michałki</p>
+</td>
+<td>
+<p>michałki chocolates</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pierniczki</p>
+</td>
+<td>
+<p>ginger cakes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieszanka wedlowska</p>
+</td>
+<td>
+<p>Wedel mix of chocolates</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>torcik wedlowski</p>
+</td>
+<td>
+<p>Wedel cake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sernik</p>
+</td>
+<td>
+<p>cheesecake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jabłecznik (szarlotka)</p>
+</td>
+<td>
+<p>apple pie</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>napoleonka</p>
+</td>
+<td>
+<p>cream pie</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wuzetka</p>
+</td>
+<td>
+<p>chocolate cream pie</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ciasto drożdżowe</p>
+</td>
+<td>
+<p>yeast cake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>murzynek</p>
+</td>
+<td>
+<p>chocolate cake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>drożdż&oacute;wki</p>
+</td>
+<td>
+<p>sweet buns</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rogale marcińskie</p>
+</td>
+<td>
+<p>St. Martin croissants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pączki</p>
+</td>
+<td>
+<p>Polish doughnuts&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,124 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Święto narodowe</p>
+</td>
+<td>
+<p>national holiday</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odzyskanie niepodległości</p>
+</td>
+<td>
+<p>regaining of independence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>imieniny ulicy</p>
+</td>
+<td>
+<p>street&rsquo;s name day</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>parady</p>
+</td>
+<td>
+<p>parades</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>festyny</p>
+</td>
+<td>
+<p>carnivals</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jarmarki</p>
+</td>
+<td>
+<p>fairs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pokazy fajerwerk&oacute;w</p>
+</td>
+<td>
+<p>firework shows</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>atrakcje</p>
+</td>
+<td>
+<p>attractions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rogale marcińskie</p>
+</td>
+<td>
+<p>St. Martin croissants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypiekać</p>
+</td>
+<td>
+<p>to bake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zastrzeżona nazwa</p>
+</td>
+<td>
+<p>protected under law</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wielogodzinne kolejki</p>
+</td>
+<td>
+<p>long queues</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>biały mak</p>
+</td>
+<td>
+<p>white poppy seeds</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bakalie</p>
+</td>
+<td>
+<p>raisins</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>urodziny</p>
+</td>
+<td>
+<p>birthdays</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Board games",
+  "latitude": "66.496506",
+  "longitude": "25.722289",
+  "difficulty": "",
+  "keyword": ["lautapeli","friends"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

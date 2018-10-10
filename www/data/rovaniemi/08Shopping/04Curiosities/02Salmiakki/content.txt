@@ -1,0 +1,13 @@
+{
+  "title": "Salmiakki",
+  "latitude": "66.487094",
+  "longitude": "25.698079",
+  "difficulty": "",
+  "keyword": ["salty liquorice","candy","sweet","treat","makeinen"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

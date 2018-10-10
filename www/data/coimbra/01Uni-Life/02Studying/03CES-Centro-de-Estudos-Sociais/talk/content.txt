@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>- Em que <\/strong>andar &eacute; a Biblioteca Norte\/Sul?<\/p>\r\n<p><strong><em>- In which<\/em><\/strong><em> floor is the North\/South Library?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Posso requisitar livros?<\/p>\r\n<p><em>- Can I borrow books?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>- Por quanto<\/strong> tempo posso requisitar livros?<\/p>\r\n<p><strong><em>- For how <\/em><\/strong><em>long can I borrow books?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>por\/ durante + specific time period<\/strong><\/p>\r\n<p>por\/ durante 3 dias = for 3 days<\/p>\r\n<p>por\/ durante 2 semanas = for 2 weeks<\/p>\r\n<p>por\/ durante 1 ano = for 1 year<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

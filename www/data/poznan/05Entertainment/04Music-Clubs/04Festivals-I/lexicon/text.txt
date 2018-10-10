@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Rytmy świata</p>
+</td>
+<td>
+<p>world rhythms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gości (gościć)</p>
+</td>
+<td>
+<p>guests (to guest)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spotkania muzyczne</p>
+</td>
+<td>
+<p>musical meetings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>soliści</p>
+</td>
+<td>
+<p>soloist</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z r&oacute;żnych stron świata</p>
+</td>
+<td>
+<p>from various parts of the world</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>muzyka świata</p>
+</td>
+<td>
+<p>music of the world</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wykonawcy muzyki folkowej</p>
+</td>
+<td>
+<p>folk music performers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poszerzać krąg zapraszanych gości</p>
+</td>
+<td>
+<p>to invite more and more guest artists</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warsztaty muzyczne</p>
+</td>
+<td>
+<p>musical workshops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zajęcia edukacyjne</p>
+</td>
+<td>
+<p>educational classes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>projekcje filmowe</p>
+</td>
+<td>
+<p>movie screenings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyzwania wsp&oacute;łczesności</p>
+</td>
+<td>
+<p>Challenges of the modern day</p>
+</td>
+</tr>
+</tbody>
+</table>

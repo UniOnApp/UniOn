@@ -1,0 +1,196 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Przeszklony budynek</p>
+</td>
+<td>
+<p>glass building</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kapryśna aura</p>
+</td>
+<td>
+<p>unpredictable weather</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>możesz liczyć na &hellip;,</p>
+</td>
+<td>
+<p>you can count on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tropikalny klimat</p>
+</td>
+<td>
+<p>tropical climate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przypomnieć</p>
+</td>
+<td>
+<p>to awaken memories</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>światło</p>
+</td>
+<td>
+<p>light</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>egzotyczna roślinność</p>
+</td>
+<td>
+<p>exotic plants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>unikatowe zbiory</p>
+</td>
+<td>
+<p>unique collection</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyobrazić sobie</p>
+</td>
+<td>
+<p>to imagine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kwitnienie</p>
+</td>
+<td>
+<p>blossoming</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niezwykłość zapach&oacute;w</p>
+</td>
+<td>
+<p>exoticism of smells</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niebanalna randka</p>
+</td>
+<td>
+<p>extraordinary date</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sceneria sesji zdjęciowych</p>
+</td>
+<td>
+<p>scenery of photo shoots</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nocny spektakl świateł</p>
+</td>
+<td>
+<p>night spectacle of light</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pikniki przyrodnicze</p>
+</td>
+<td>
+<p>nature picnics</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>akwarium</p>
+</td>
+<td>
+<p>aquarium</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poszukiwacze mocniejszych wrażeń</p>
+</td>
+<td>
+<p>thrill-seekers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cykliczne</p>
+</td>
+<td>
+<p>cyclic</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zejście do schronu przeciwlotniczego</p>
+</td>
+<td>
+<p>descending to air-raid shelter</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>specjalność</p>
+</td>
+<td>
+<p>speciality</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>domowe wypieki</p>
+</td>
+<td>
+<p>home-made cakes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sernik</p>
+</td>
+<td>
+<p>cheese cake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szarlotka</p>
+</td>
+<td>
+<p>apple-pie</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ciasto orzechowe</p>
+</td>
+<td>
+<p>nut cake</p>
+</td>
+</tr>
+</tbody>
+</table>

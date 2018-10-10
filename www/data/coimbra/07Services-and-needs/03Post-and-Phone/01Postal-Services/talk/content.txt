@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Correios<\/strong> &ndash; <em>post office<\/em><\/p>\r\n<p><strong>Correio <\/strong>&ndash; <em>post\/ mail<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Onde ficam os correios? &ndash; <em>Where is the post office?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Nos correios<\/strong> <em>- at the post office&nbsp;<\/em><\/p>\r\n<p>Queria enviar uma encomenda. &ndash; <em>I would like to send a parcel.<\/em><\/p>\r\n<p>Preciso de um envelope almofadada\/ caixa. &ndash; <em>I need a padded envelope\/ box<\/em>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Tipos de envio de correio &ndash; <em>types of post delivery<\/em><\/p>\r\n<p>normal (n&atilde;o priorit&aacute;rio) &ndash; <em>normal post<\/em><\/p>\r\n<p>verde (ecol&oacute;gico, sem limite de peso, n&atilde;o precisa de selo) &ndash; <em>green (ecofriendly, no weight limits, does not need a stamp)<\/em><\/p>\r\n<p>azul (correio r&aacute;pido) &ndash; <em>blue (quick mail)<\/em><\/p>\r\n<p>expresso (servi&ccedil;o r&aacute;pido) &ndash; <em>express (extra quick mail)<\/em><\/p>\r\n<p>registado (ideal para o envio de documentos importantes e objetos valiosos) &ndash; <em>registered (ideal for important documents and valuables)<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

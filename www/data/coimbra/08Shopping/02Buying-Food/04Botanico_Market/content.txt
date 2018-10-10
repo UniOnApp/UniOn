@@ -1,0 +1,13 @@
+{
+  "title": "Bot\u00E2nico Market",
+  "latitude": "40.206795",
+  "longitude": "-8.4237127",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

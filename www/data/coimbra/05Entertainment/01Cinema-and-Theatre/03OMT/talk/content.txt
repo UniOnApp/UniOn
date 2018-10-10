@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Depois de ver uma pe&ccedil;a de teatro &ndash; <\/strong><em>after watching a theatre play<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>A interpreta&ccedil;&atilde;o &eacute; moderna.<\/p>\r\n<p><em>It is a modern take on the play.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Que cen&aacute;rio colorido!<\/p>\r\n<p><em>What a colourful set!<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Os di&aacute;logos foram fant&aacute;sticos.<\/p>\r\n<p><em>The dialogues were amazing!<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

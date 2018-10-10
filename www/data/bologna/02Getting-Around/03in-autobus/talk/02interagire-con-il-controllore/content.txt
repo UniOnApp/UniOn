@@ -1,0 +1,13 @@
+{
+  "title": "Interagire con il controllore",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Il biglietto, per favore<\/p><\/td><td><p>Ecco, tenga...<\/p><\/td><\/tr><tr><td><p>Questo biglietto \u00E8 scaduto, sono gi\u00E0 passati 80 minuti...<\/p><\/td><td><\/td><\/tr><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

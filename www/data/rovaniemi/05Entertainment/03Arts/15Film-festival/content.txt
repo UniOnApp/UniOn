@@ -1,0 +1,13 @@
+{
+  "title": "Film festival",
+  "latitude": "66.498047",
+  "longitude": "25.722081",
+  "difficulty": "",
+  "keyword": ["Sodankylä","film festival","Kaurismäki","film","movie","elokuva","summer","kesä","midnight sun","yötön yö"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

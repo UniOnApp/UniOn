@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Cze\u015B\u0107 Mike, Jeste\u015B zaj\u0119ty?<\/p>\r\n<p>- Nie bardzo. Mam czas. A co proponujesz?<\/p>\r\n<p>- Mo\u017Ce wyskoczymy nad Malt\u0119?<\/p>\r\n<p>- Bo ja wiem? A co b\u0119dziemy robi\u0107? Nie mam ochoty na spacer.<\/p>\r\n<p>- Nie proponuj\u0119 spaceru. Lubisz gra\u0107 w petanque?<\/p>\r\n<p>- Nie wiem, bo nie mam poj\u0119cia, co to jest. To jaka\u015B polska gra?<\/p>\r\n<p><strong>-<\/strong> Nie, to tradycyjna gra z po\u0142udniowej Francji, a jest te\u017C popularna w innych miejscach. Mo\u017Cna j\u0105 r&oacute;wnie\u017C uprawia\u0107 w Poznaniu.<\/p>\r\n<p>- No to nie umiem. A to skomplikowane?<\/p>\r\n<p>- Nie bardzo, szybko si\u0119 nauczysz, zobaczysz.<\/p>\r\n<p>- No nie wiem&hellip; A jak mi si\u0119 nie spodoba?<\/p>\r\n<p>-To jest tam te\u017C bowling na \u015Bwie\u017Cym powietrzu &ndash; za du\u017Co czasu sp\u0119dzasz w akademiku, powiniene\u015B wyj\u015B\u0107 z tych mur&oacute;w.<\/p>\r\n<p>- Mog\u0119 spr&oacute;bowa\u0107, bo w kr\u0119gielni nie\u017Ale sobie radz\u0119.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Jeste\u015B zaj\u0119ty? (by\u0107 zaj\u0119tym), mam (mie\u0107) czas, proponujesz (proponowa\u0107), <em>wyskoczy\u0107<\/em> gdzie\u015B, nie mam (mie\u0107) ochoty na&hellip;, nie mam (mie\u0107) poj\u0119cia o&hellip;, tradycyjna gra, popularna gra, spodoba (spodoba\u0107) si\u0119, nie\u017Ale sobie radzisz (radzi\u0107).<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

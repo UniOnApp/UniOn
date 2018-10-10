@@ -1,0 +1,156 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Ścisłe centrum</p>
+</td>
+<td>
+<p>city center</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jest nazywane</p>
+</td>
+<td>
+<p>is called</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oznaczać</p>
+</td>
+<td>
+<p>to mean</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;łcześnie</p>
+</td>
+<td>
+<p>today</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wiele znaczeń</p>
+</td>
+<td>
+<p>many meanings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pochodzić</p>
+</td>
+<td>
+<p>to come from</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pierścień</p>
+</td>
+<td>
+<p>ring</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>założyć miasto</p>
+</td>
+<td>
+<p>to set up a city</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stanowić</p>
+</td>
+<td>
+<p>to state</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w sercu miasta</p>
+</td>
+<td>
+<p>in the heart of a city</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyznaczyć</p>
+</td>
+<td>
+<p>to set/ establish</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>plac</p>
+</td>
+<td>
+<p>square</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>budynek handlowy</p>
+</td>
+<td>
+<p>mercantile building</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przypominać</p>
+</td>
+<td>
+<p>to remind</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieścić się</p>
+</td>
+<td>
+<p>to be located</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzielnice</p>
+</td>
+<td>
+<p>districts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>osobne miejscowości</p>
+</td>
+<td>
+<p>separate municipalities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>produkty</p>
+</td>
+<td>
+<p>products</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czynić</p>
+</td>
+<td>
+<p>to make</p>
+</td>
+</tr>
+</tbody>
+</table>

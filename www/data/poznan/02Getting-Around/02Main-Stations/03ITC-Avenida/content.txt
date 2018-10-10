@@ -1,0 +1,13 @@
+{
+  "title": "ITC Avenida",
+  "latitude": "52.402419",
+  "longitude": "16.912260",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

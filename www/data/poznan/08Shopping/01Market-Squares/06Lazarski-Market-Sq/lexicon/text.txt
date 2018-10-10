@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>ogr&oacute;d miejski</p>
+</td>
+<td>
+<p>city garden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>plac zabaw dla dzieci</p>
+</td>
+<td>
+<p>playground</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rejestr zabytk&oacute;w</p>
+</td>
+<td>
+<p>registry of historical monuments</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kwitnący handel</p>
+</td>
+<td>
+<p>thriving trade</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wozy z końmi</p>
+</td>
+<td>
+<p>horse-drawn carts </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zapomniane</p>
+</td>
+<td>
+<p>forgotten</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rewitalizacja</p>
+</td>
+<td>
+<p>modernization</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cofnąć się w czasie</p>
+</td>
+<td>
+<p>to go back in time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poczuć klimat</p>
+</td>
+<td>
+<p>to feel the vibes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>antyki</p>
+</td>
+<td>
+<p>antiquities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>starocie</p>
+</td>
+<td>
+<p>old stuff</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pchli targ</p>
+</td>
+<td>
+<p>flea market</p>
+</td>
+</tr>
+</tbody>
+</table>

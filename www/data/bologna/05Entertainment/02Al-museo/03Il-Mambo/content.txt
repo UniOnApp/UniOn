@@ -1,0 +1,15 @@
+{
+  "title": "Il Mambo",
+  "latitude": "44.502732",
+  "longitude": "11.336569",
+  "difficulty": "mid",
+  "keyword": ["Museo d\u2019Arte Moderna di Bologna",
+"Istituzione Bologna Musei",
+"Manifattura delle Arti"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

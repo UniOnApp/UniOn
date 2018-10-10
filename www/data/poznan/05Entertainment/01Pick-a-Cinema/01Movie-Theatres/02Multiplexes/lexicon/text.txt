@@ -1,0 +1,76 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Galeria handlowa</p>
+</td>
+<td>
+<p>shopping mall</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świetnie wyposażone</p>
+</td>
+<td>
+<p>well-equipped</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>światowe premiery</p>
+</td>
+<td>
+<p>world premieres</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>największy kompleks</p>
+</td>
+<td>
+<p>the biggest venue/ complex</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w języku oryginalnym</p>
+</td>
+<td>
+<p>in the original language</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z napisami</p>
+</td>
+<td>
+<p>subtitled</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>filmy animowane</p>
+</td>
+<td>
+<p>animated movies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bajki dla dzieci</p>
+</td>
+<td>
+<p>children&rsquo;s stories</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>emitowane z dubbingiem</p>
+</td>
+<td>
+<p>dubbed</p>
+</td>
+</tr>
+</tbody>
+</table>

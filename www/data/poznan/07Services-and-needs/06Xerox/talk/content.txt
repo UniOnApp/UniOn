@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry. S\u0142ucham.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -9px;\" src=\"img\/voice.png\"\/> Dzie\u0144 dobry. Chcia\u0142bym wydrukowa\u0107 moj\u0105 prac\u0119 licencjack\u0105.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -9px;\" src=\"img\/voice.png\"\/> Bardzo prosz\u0119. <strong>Jednostronnie czy dwustronnie?<\/strong><\/p>\r\n<p>- Dwustronnie &ndash; trzeba <strong>chroni\u0107 lasy<\/strong> i <strong>oszcz\u0119dza\u0107 papier<\/strong>.<\/p>\r\n<p>- Oczywi\u015Bcie. Ile kopii?<\/p>\r\n<p>- Prosz\u0119 trzy &ndash; jedna dla promotora, jedna dla recenzenta i jedna dla mnie.<\/p>\r\n<p><strong>-<\/strong> Czy <strong>oprawi\u0107<\/strong>?<\/p>\r\n<p>- Prosz\u0119.<\/p>\r\n<p>- <strong>Oprawa mi\u0119kka czy twarda?<\/strong><\/p>\r\n<p>- Jedna twarda i dwie mi\u0119kkie. Przepraszam, mam jeszcze jedna pro\u015Bb\u0119. W pracy s\u0105 4 <strong>tabele<\/strong> i dwie ilustracje. Czy mo\u017Cna je wydrukowa\u0107 w kolorze?<\/p>\r\n<p>- Bardzo prosz\u0119, kolorowy wydruk kosztuje 2,50 PLN za stron\u0119. Mo\u017Ce by\u0107?<\/p>\r\n<p>- Tak, prosz\u0119.<\/p>\r\n<p>- Mog\u0119 dosta\u0107 pendrive?<\/p>\r\n<p>- Prosz\u0119. To ten folder opisany <em>M&oacute;j licencjat<\/em>.<\/p>\r\n<p>- Jaki kolor oprawy Pan wybiera?<\/p>\r\n<p>- Mo\u017Ce zielony &ndash; <strong>to kolor nadziei<\/strong>.<\/p>\r\n<p>- <strong>Prosz\u0119 chwil\u0119 poczeka\u0107<\/strong>. To potrwa jakie\u015B 10-15 minut.<\/p>\r\n<p>- To mo\u017Ce przyjd\u0119 za p&oacute;\u0142 godziny, bo musz\u0119 jeszcze <strong>wpa\u015B\u0107 do<\/strong> dziekanatu.<\/p>\r\n<p><strong>-<\/strong> Bardzo prosz\u0119. Praca b\u0119dzie czeka\u0142a.<\/p>\r\n<p>- No to do zobaczenia.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk:<\/strong><\/p>\r\n<p>Jednostronnie\/dwustronnie, chroni\u0107 lasy, oszcz\u0119dza\u0107 papier, oprawa mi\u0119kka\/twarda, kolor nadziei, prosz\u0119 chwil\u0119 poczeka\u0107, wpa\u015B\u0107 do &hellip;<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>dzięki inicjatywie</p>
+</td>
+<td>
+<p>thanks to the initiative of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przegląd folkloru</p>
+</td>
+<td>
+<p>folk review</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>integracje</p>
+</td>
+<td>
+<p>integration</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zgodnie z nazwą</p>
+</td>
+<td>
+<p>as the name suggests</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poszukiwanie wsp&oacute;lnoty cywilizacyjnej</p>
+</td>
+<td>
+<p>search for community of civilization</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>atmosfera dialogu</p>
+</td>
+<td>
+<p>atmosphere of dialogue</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wzajemna ciekawość</p>
+</td>
+<td>
+<p>mutual curiosity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>biesiady ludowe</p>
+</td>
+<td>
+<p>folk feasts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sztuka ludowa</p>
+</td>
+<td>
+<p>folk culture</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przejmować</p>
+</td>
+<td>
+<p>to take over</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>korowody uczestnik&oacute;w</p>
+</td>
+<td>
+<p>pageants of foreign dancers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tygiel kultury</p>
+</td>
+<td>
+<p>mix of cultures</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie spos&oacute;b się nudzić</p>
+</td>
+<td>
+<p>you can&rsquo;t get bored</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>inicjatorzy spotkań</p>
+</td>
+<td>
+<p>organizers of the festival</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>magia folkloru</p>
+</td>
+<td>
+<p>magic of folklore</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przechadzka ludowa</p>
+</td>
+<td>
+<p>folk stroll</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ilustrować ideę</p>
+</td>
+<td>
+<p>to illustrate the concept</p>
+</td>
+</tr>
+</tbody>
+</table>

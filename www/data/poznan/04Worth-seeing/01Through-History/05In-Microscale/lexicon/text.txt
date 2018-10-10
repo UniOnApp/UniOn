@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>jednookienne kamieniczki</p>
+</td>
+<td>
+<p>small single-window houses</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stać tuż przy&hellip;</p>
+</td>
+<td>
+<p>stand right by</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie przypominać</p>
+</td>
+<td>
+<p>do not remind, to be nothing like </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zatrzymywać spojrzenia zwiedzających</p>
+</td>
+<td>
+<p>to catch the visitors&rsquo; eye</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świadectwo średniowiecznej struktury miejskiej</p>
+</td>
+<td>
+<p>remnants of the city structure and trade buildings in the Middle Ages</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zabudowa targowa</p>
+</td>
+<td>
+<p>trade buildings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dawne</p>
+</td>
+<td>
+<p>former</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kramy</p>
+</td>
+<td>
+<p>stalls</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>urokliwe sklepiki z pamiątkami</p>
+</td>
+<td>
+<p>small enchanting souvenir shops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>unikatowe rękodzieło</p>
+</td>
+<td>
+<p>unique handicraft</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>godło cechu</p>
+</td>
+<td>
+<p>guild&rsquo;s coat of arms</p>
+</td>
+</tr>
+</tbody>
+</table>

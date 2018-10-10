@@ -1,0 +1,13 @@
+{
+  "title": "Noleggiare o comprare una bici",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Cerco una bici usata, con il cestino. Quanto costa?<\/p><\/td><td><\/td><\/tr><tr><td><p>Cerco una bici nuova, con le marce. Ce l\u2019ha\/avete?<\/p><\/td><td><\/td><\/tr><tr><td><p>Vorrei noleggiare una bicicletta per due giorni. Quanto spendo?<\/p><\/td><td><\/td><\/tr><tr><td><p>Che cosa succede in caso di furto della bici noleggiata?<\/p><\/td><td><\/td><\/tr><tr><td><p>Prima di prendere questa bici, posso provarla? Vorrei testare i freni e la pedalata.<\/p><\/td><td><\/td><\/tr><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

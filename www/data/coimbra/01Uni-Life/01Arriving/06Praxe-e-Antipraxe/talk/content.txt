@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Compreendo.<\/p>\r\n<p><em>I understand.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>N&atilde;o compreendo.<\/p>\r\n<p><em>I don&rsquo;t understand.<\/em><\/p>\r\n<p><strong>Negative sentence<\/strong><\/p>\r\n<p>N&atilde;o + verb<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pronounciation <\/strong>&lt;x&gt;<\/p>\r\n<p>[s] &mdash; pr&oacute;ximo (<em>next)<\/em> [p\u027E\u0254simu]<\/p>\r\n<p>[z] &mdash; exame [iz\u0250m\u0268]<\/p>\r\n<p>[\u0283] &mdash; praxe [p\u027Ea\u0283\u0268]<\/p>\r\n<p>[ks] &mdash; taxi [taksi]<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

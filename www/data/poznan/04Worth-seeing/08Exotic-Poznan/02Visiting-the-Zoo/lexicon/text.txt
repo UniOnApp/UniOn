@@ -1,0 +1,52 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>ogr&oacute;d zoologiczny</p>
+</td>
+<td>
+<p>zoological garden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być położonym na skraju miasta</p>
+</td>
+<td>
+<p>located at the city&rsquo;s outskirts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pag&oacute;rkowaty teren leśny</p>
+</td>
+<td>
+<p>hilly forest area</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stanowić naturalne siedlisko</p>
+</td>
+<td>
+<p>to be natural habitat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słynąć z kolekcji&nbsp;ptak&oacute;w drapieżnych</p>
+</td>
+<td>
+<p>to be famous for the collection of birds of prey</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być zagrożonym wyginięciem</p>
+</td>
+<td>
+<p>to be engedered species</p>
+</td>
+</tr>
+</tbody>
+</table>

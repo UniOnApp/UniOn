@@ -1,0 +1,13 @@
+{
+  "title": "Pharmacy",
+  "latitude": "66.497956",
+  "longitude": "25.754179",
+  "difficulty": "",
+  "keyword": ["health","sick","apteekki","painkiller","antibiotics","medicine","prescription"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time! Time expressions",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Quiz time! Time expressions<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p>Can you say these phrases in Finnish? Tap on the phrase to check.<\/p>\r\n<p>\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p><strong>It\u2019s quarter to two.<\/strong><\/p>\r\n<p>Kello on varttia vaille kaksi.<\/p>\r\n<p>\u00A0<\/p>\r\n  <\/div><div class=\"ht\">\r\n<p><strong>It\u2019s ten minutes past two.<\/strong><\/p>\r\n<p>Kello on kymmenen minuuttia yli kaksi.<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>What time is it?<\/strong><\/p>\r\n<p>Mit\u00E4 kello on?<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>It\u2019s half past one.<\/strong><\/p>\r\n<p>Kello on puoli kaksi.<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>I\u2019m at the University at four o\u2019clock.<\/strong><\/p>\r\n<p>Min\u00E4 olen yliopistolla kello nelj\u00E4.<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>At what time does the course begin?<\/strong><\/p>\r\n<p>Milloin kurssi alkaa?<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div><div class=\"ht\">\r\n<p><strong>The lecture ends at one o\u2019clock.<\/strong><\/p>\r\n<p>Luento p\u00E4\u00E4ttyy kello yksi.<\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<p>Hyv\u00E4. Paljonko kello on nyt? (Good. What time is it now?)<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

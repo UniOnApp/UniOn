@@ -1,0 +1,13 @@
+{
+  "title": "Il caff\u00E8 sospeso",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["caff\u00E8 sospeso"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

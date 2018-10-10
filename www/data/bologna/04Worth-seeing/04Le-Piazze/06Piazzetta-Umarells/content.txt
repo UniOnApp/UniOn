@@ -1,0 +1,13 @@
+{
+  "title": "Piazzetta degli Umarells",
+  "latitude": "44.495644",
+  "longitude": "11.366296",
+  "difficulty": "mid",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

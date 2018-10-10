@@ -1,0 +1,13 @@
+{
+  "title": "Wild food",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Looking for the best of the best of local meat products? You should definitely try out some reindeer or elk, both as ready-made specialities and as ingredients of your own innovative dishes. Remember, game dishes can be perfected with some local berries on the side!<\/p>\r\n<p>Here&rsquo;s a list of tasty words to help you on your next visit to the meat counter:<\/p>\r\n<p><strong>hilla<\/strong> cloudberry<\/p>\r\n<p><strong>hirvik&auml;ristys <\/strong>saut&eacute;ed elk<\/p>\r\n<p><strong>karpalo<\/strong> cranberry<\/p>\r\n<p><strong>kylm&auml;savustettu poronliha<\/strong> cold-smoked reindeer meat<\/p>\r\n<p><strong>makkara<\/strong> sausage<\/p>\r\n<p><strong>mustikka<\/strong> blueberry<\/p>\r\n<p><strong>poronk&auml;ristys<\/strong> saut&eacute;ed reindeer<\/p>\r\n<p><strong>porolastu<\/strong> reindeer meat crisps (thinly sliced)<\/p>\r\n<p><strong>poronliha<\/strong> reindeer meat<\/p>\r\n<p><strong>poronpaisti<\/strong> reindeer roast<\/p>\r\n<p><strong>poron sis&auml;file<\/strong> reindeer tenderloin<\/p>\r\n<p><strong>porosalami, ohuen ohut<\/strong> reindeer meat salami, thinly sliced<\/p>\r\n<p><strong>puolukka<\/strong> lingonberry<\/p>\r\n<p><strong>riista<\/strong> game<\/p>\r\n<p><strong>riistaburgerpihvi <\/strong>game burger patty<\/p>\r\n<p><strong>riistak&auml;ristys<\/strong> saut&eacute;ed game<\/p>\r\n<p><strong>savustettu<\/strong> smoked<\/p>\r\n<p><strong>vadelma <\/strong>raspberry<\/p>\r\n",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

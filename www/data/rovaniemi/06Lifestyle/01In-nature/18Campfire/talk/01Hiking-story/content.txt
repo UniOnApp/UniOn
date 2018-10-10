@@ -1,0 +1,13 @@
+{
+  "title": "Hiking story",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>In some wilderness huts, or even lean-tos you&rsquo;ll find a visitors&rsquo; journal. It&rsquo;s there for any hiker to make short notes and leave their greetings to fellow nature lovers. You&rsquo;re free to write in any language you choose, so why not try Finnish next time? Here&rsquo;s a short message written by an unknown traveller; see if you can intepret the meaning. Please scroll down for a translation in English.<\/p>\r\n<p><strong>lauantai, 21. lokakuuta 2017<\/strong><\/p>\r\n<p>Ensilumi. Tulimme Rumakurulta aikaisin aamulla, onneksi t&auml;&auml;ll&auml; oli kamiina l&auml;mpim&auml;n&auml;. N&auml;imme kuukkelin, kaksi riekkoa ja kymmeni&auml; poroja matkalla t&auml;nne. Nyt vaatteiden kuivattelua, ruokailu ja sitten matka jatkuu kohti Rautulampea. Kiitokset hienosta k&auml;mp&auml;st&auml;, t&auml;&auml;ll&auml; on mukava pit&auml;&auml; taukoa. Terveisin vaeltajat Kouvolasta, Kari ja Pirkko.<\/p>\r\n<p><strong>kamiina<\/strong> a stove type of fireplace<\/p>\r\n<p><strong>kuukkeli<\/strong> a Siberian jay (<em>Perisoreus infaustus<\/em>)<\/p>\r\n<p><strong>riekko<\/strong> a willow grouse (<em>Lagopus lagopus<\/em>)<\/p>\r\n<p><strong>poro<\/strong> a reindeer<\/p>\r\n<p><strong>kuivattelu<\/strong> drying off<\/p>\r\n<p><strong>ruokailu<\/strong> dining<\/p>\r\n<p><strong>k&auml;mpp&auml;<\/strong> a wilderness hut<\/p>\r\n<p><strong>tauko<\/strong> a break<\/p>\r\n<p><strong>vaeltaja<\/strong> a hiker<\/p>\r\n<p><strong>Saturday, October 21, 2017<\/strong><\/p>\r\n<p>First snow. We came from Rumakuru early in the morning, luckily finding a heated fireplace waiting. On our way here, we spotted a jay, two grouse, and dozens of reindeer. Now we&rsquo;re drying off our clothes, dining and then on our way towards Rautulampi. Thanks for a nice hut, it&rsquo;s nice to take a break here. Best wishes, hikers from Kouvola, Kari and Pirkko.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

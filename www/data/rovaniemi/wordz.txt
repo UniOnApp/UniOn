@@ -1,0 +1,733 @@
+[
+  	{"word": "krapula", "text": "hangover"},
+
+	{"word": "Anteeksi!", "text": "I'm sorry. Excuse me"},
+
+	{"word": "avantouinti", "text": "ice swimming"},
+
+  	{"word": "sisu", "text": "Finnish perseverance, guts"},
+
+	{"word": "Ihanaa!", "text": "Wonderful!Lovely!"},
+
+	{"word": "potkukelkka", "text": "kick sled"},
+
+  	{"word": "moottoriturpa", "text": "motor mouth"},
+
+	{"word": "maapallo", "text": "the Earth"},
+
+	{"word": "rääkätä", "text": "to ill-treat, to mistreat"},
+
+  	{"word": "sydän", "text": "heart"},
+
+	{"word": "kuperkeikka", "text": "somersault"},
+
+	{"word": "töpseli", "text": "plug"},
+
+  	{"word": "kuiskaus", "text": "whisper"},
+
+	{"word": "huutonauru", "text": "laughing out loud"},
+
+	{"word": "känkkäränkkäpäivä", "text": "cranky pants day"},
+
+	{"word": "sikahyvä", "text": "super good (literally: pig good)"},
+
+	{"word": "revontulet", "text": "Nothern lights, Aurora"},
+
+  	{"word": "höpöttää", "text": "to babble"},
+
+	{"word": "kimurantti", "text": "complicated, tricky (colloquial)"},
+
+	{"word": "käpy", "text": "(pine) cone"},
+
+	{"word": "Kippis!", "text": "Cheers!"},
+
+	{"word": "homma", "text": "task, job, work (colloquial"},
+
+	{"word": "Palataan!", "text": "See you! (literally: let's come back)"},
+
+  	{"word": "nörtti", "text": "nerd, geek"},
+
+	{"word": "visto", "text": "disgusting (colloquial, local expression"},
+
+	{"word": "miksi", "text": "why"},
+
+	{"word": "ostoskärry", "text": "shopping cart"},
+
+	{"word": "sytkäri", "text": "a lighter (colloquial"},
+
+	{"word": "missä", "text": "where"},
+
+  	{"word": "joo", "text": "yeah"},
+
+	{"word": "illalla", "text": "in the evening"},
+
+	{"word": "Siistii!", "text": "Cool! (literally clean, neat or tidy)"},
+
+	{"word": "paukkupakkanen", "text": "very cold weather (temperatures well below -20 degrees)"},
+
+	{"word": "latu", "text": "skiing track"},
+
+	{"word": "jäänmurtaja", "text": "icebreaker"},
+
+  	{"word": "laulu", "text": "song or singing"},
+
+	{"word": "saamen kieli", "text": "Sámi language"},
+
+	{"word": "Juoksentelisinkohan?", "text": "I wonder if I should run around aimlessly?"},
+
+	{"word": "hiljaisuus", "text": "silence"},
+
+	{"word": "tietokone", "text": "computer (literally: knowledge machine"},
+
+	{"word": "laudeliina", "text": "small towel to sit on in a sauna"},
+
+  	{"word": "laskiainen", "text": "Shrovetide"},
+
+	{"word": "eloisa", "text": "lively"},
+
+	{"word": "innostunut", "text": "excited, inspired, enthusiastic"},
+
+	{"word": "ystävä", "text": "friend (Valentine's Day is ystävänpäivä in Finnish"},
+
+	{"word": "lohikäärme", "text": "dragon (literally: salmon snake)"},
+
+	{"word": "aasinsilta", "text": "awkward transition to a new topic (literally: donkey's bridge)"},
+
+  	{"word": "kilpikonna", "text": "turtle, tortoise (literally: shield toad)"},
+
+	{"word": "pyykkipoika", "text": "clothes peg, clothespin (literally: laundry-boy)"},
+
+	{"word": "persaukinen", "text": "to be broke (colloquial, literally: ass wide open)"},
+
+	{"word": "hauis", "text": "bicep"},
+
+	{"word": "Mennään!", "text": "Let's go"},
+
+	{"word": "henkilöllisyystodistus", "text": "identity card, ID (colloquially also henkkarit)"},
+
+  	{"word": "kirpputori", "text": "flea market"},
+
+	{"word": "hanki", "text": "blanket of snow"},
+
+	{"word": "rämäpää", "text": "daredevil"},
+
+	{"word": "Perhana!", "text": "Darn it!"},
+
+	{"word": "lippu", "text": "flag, ticket (e.g. a Finnish flag, a bus ticket)"},
+
+	{"word": "Kalevala", "text": "Kalevala, the Finnish national epic"},
+
+  	{"word": "sinkku", "text": "single, unmarried (colloquial)"},
+
+	{"word": "Vautsi vau!", "text": "Wow!"},
+
+	{"word": "kevät", "text": "spring"},
+
+	{"word": "sukset", "text": "skis"},
+
+	{"word": "kaveri", "text": "mate, friend, pal, buddy"},
+
+	{"word": "Minä rakastan sinua.", "text": "I love you."},
+
+  	{"word": "tykky", "text": "crown snow load (accumulates on tree branches)"},
+
+	{"word": "lumiukko", "text": "snowman"},
+
+	{"word": "hiihtää", "text": "to ski"},
+
+	{"word": "leiväpaahdin", "text": "toaster"},
+
+	{"word": "lumienkeli", "text": "snowangel"},
+
+	{"word": "moottorikelkka", "text": "snowmobile"},
+
+  	{"word": "nöyrä", "text": "humble"},
+
+	{"word": "kolari", "text": "(car) crash"},
+
+	{"word": "ujo", "text": "shy"},
+
+	{"word": "eduskunta", "text": "The Parliament of Finland"},
+
+	{"word": "megapussi", "text": "a mega size bag of e.g. crisps or candies"},
+
+	{"word": "helppo nakki", "text": "piece of cake (literally: easy wiener)"},
+
+  	{"word": "biisi", "text": "song (colloquial)"},
+
+	{"word": "tasa-arvo", "text": "(gender) equality"},
+
+	{"word": "mielikuvitus", "text": "imagination"},
+
+	{"word": "outo", "text": "weird, strange"},
+
+	{"word": "Kivaa!", "text": "Nice!"},
+
+	{"word": "luonto", "text": "nature"},
+
+  	{"word": "kömpelö", "text": "clumsy"},
+
+	{"word": "yllin kyllin", "text": "more than enough"},
+
+	{"word": "sipsit", "text": "crisps, potato chips"},
+
+	{"word": "kaunis", "text": "beautiful"},
+
+	{"word": "mämmi", "text": "Finnish Easter pudding (It doesn't look very nice, but you should taste it.)"},
+
+	{"word": "trulli", "text": "troll, Easter witch"},
+
+  	{"word": "pupu", "text": "bunny"},
+
+	{"word": "ankara", "text": "harsh, strict, rigorous"},
+
+	{"word": "aprillipäivä", "text": "April Fools' Day"},
+
+	{"word": "läppä", "text": "joke, humorous chit-chat (colloquial"},
+
+	{"word": "hölynpölyä", "text": "nonsense"},
+
+	{"word": "Ukko", "text": "a male name, old man (also the God of Thunder according to old Finnish belief)"},
+
+  	{"word": "typötyhjä", "text": "completely empty"},
+
+	{"word": "railo", "text": "a crack in ice"},
+
+	{"word": "limsa", "text": "soda pop, lemonade, soft drink"},
+
+	{"word": "hymy", "text": "smile"},
+
+	{"word": "aapinen", "text": "an alphabet book"},
+
+	{"word": "Ei ongelmaa!", "text": "No problem!"},
+
+  	{"word": "pingis", "text": "ping pong, table tennis"},
+
+	{"word": "peukku", "text": "thumb (colloquial)"},
+
+	{"word": "halipula", "text": "shortage of hugs"},
+
+	{"word": "ilo", "text": "joy, happiness"},
+
+	{"word": "heittämällä", "text": "easily (literally: by throwing it)"},
+
+	{"word": "lauha", "text": "mild weather"},
+
+  	{"word": "tunturi", "text": "nordic fell"},
+
+	{"word": "puhelias", "text": "talkative"},
+
+	{"word": "laavu", "text": "lean-to"},
+
+	{"word": "kynä", "text": "pen, pencil"},
+
+	{"word": "vaara", "text": "danger, forested hill or fell"},
+
+	{"word": "ämpäri", "text": "bucket"},
+
+  	{"word": "vapaus", "text": "freedom"},
+
+	{"word": "ulkomaalainen", "text": "foreigner"},
+
+	{"word": "Markku", "text": "a male name"},
+
+	{"word": "söpö", "text": "cute"},
+
+	{"word": "veteraani", "text": "veteran (of war)"},
+
+	{"word": "kota", "text": "Lappish hut"},
+
+  	{"word": "sima", "text": "mead"},
+
+	{"word": "kuohari", "text": "sparkling wine (colloquial)"},
+
+	{"word": "vappuviuhka", "text": "Finnish May Day pom pom"},
+
+	{"word": "Älä viitti!", "text": "No way! Come on!"},
+
+	{"word": "takatalvi", "text": "cold snap in late spring or even early summer"},
+
+	{"word": "tavara", "text": "one piece of stuff, goods, or belongings"},
+
+  	{"word": "jääkiekko", "text": "ice hockey"},
+
+	{"word": "hurrata", "text": "to cheer"},
+
+	{"word": "lavuaari", "text": "washbasin, sink"},
+
+	{"word": "taivas", "text": "sky, also heaven"},
+
+	{"word": "helatorstai", "text": "Ascencion day"},
+
+	{"word": "menestyä", "text": "to succeed"},
+
+  	{"word": "vallaton", "text": "frisky"},
+
+	{"word": "tunne", "text": "emotion, feeling"},
+
+	{"word": "äiti", "text": "mother"},
+
+	{"word": "auringonnousu", "text": "sunrise"},
+
+	{"word": "verot", "text": "taxes"},
+
+	{"word": "hiirenkorva", "text": "a new, small leaf of a tree in the spring"},
+
+  	{"word": "sateenkaari", "text": "rainbow"},
+
+	{"word": "ilmiö", "text": "phenomenon"},
+
+	{"word": "maito", "text": "milk"},
+
+	{"word": "siitepöly", "text": "pollen"},
+
+	{"word": "koivu", "text": "birch tree"},
+
+	{"word": "pullonpalautus", "text": "bottle recycling"},
+
+  	{"word": "näyttely", "text": "exhibition"},
+
+	{"word": "pesäpallo", "text": "Finnish baseball"},
+
+	{"word": "hiillos", "text": "embers"},
+
+	{"word": "skaippi", "text": "Skype (colloquial)"},
+
+	{"word": "polkupyörä", "text": "bicycle"},
+
+	{"word": "kävellä", "text": "to walk"},
+
+  	{"word": "tutkinto", "text": "(academic) degree"},
+
+	{"word": "koti", "text": "home"},
+
+	{"word": "Minulla on ikävä sinua.", "text": "I miss you"},
+
+	{"word": "loma", "text": "holiday, vacation"},
+
+	{"word": "jalkapallo", "text": "football, soccer"},
+
+	{"word": "mäyräkoira", "text": "dachshund or a twelwe-pack of beer"},
+
+  	{"word": "Puolustusvoimat", "text": "The Finnish Defence Forces"},
+
+	{"word": "ottelu", "text": "game, match"},
+
+	{"word": "kaksoset", "text": "twins"},
+
+	{"word": "Suvi", "text": "a female name, also summer"},
+
+	{"word": "perhonen", "text": "butterfly"},
+
+	{"word": "Ahvenanmaa", "text": "Åland islands"},
+
+  	{"word": "katiska", "text": "a fish trap"},
+
+	{"word": "kärpäslätkä", "text": "flyswatter"},
+
+	{"word": "kastemato", "text": "earthworm"},
+
+	{"word": "makkara", "text": "sausage"},
+
+	{"word": "yötön yö", "text": "the midnight sun"},
+
+	{"word": "mökki", "text": "summer cottage"},
+
+  	{"word": "päivänkakkara", "text": "daisy"},
+
+	{"word": "karuselli", "text": "merry-go-round"},
+
+	{"word": "hääyöaie", "text": "a wedding night intention"},
+
+	{"word": "juhannus", "text": "Midsummer"},
+
+	{"word": "löyly", "text": "heat in the sauna"},
+
+  	{"word": "kokko", "text": "bonfire"},
+
+	{"word": "sukupolvi", "text": "generation"},
+
+	{"word": "vihta", "text": "bath whisk"},
+
+	{"word": "lonkero", "text": "tentacle or an alcoholic beverage made of gin and grapefruit soda"},
+
+  	{"word": "tyyni", "text": "calm, serene, still"},
+
+	{"word": "etana", "text": "snail"},
+
+	{"word": "muovituoppi", "text": "beer mug made of plastic"},
+
+	{"word": "pihvi", "text": "steak"},
+
+	{"word": "vene", "text": "boat"},
+
+  	{"word": "lapsi", "text": "child"},
+
+	{"word": "hyttynen", "text": "mosquito"},
+
+	{"word": "poninhäntä", "text": "ponytail"},
+	
+	{"word": "Näkki", "text": "Neck (in Finnish mythology: a shapeshifting water spirit"},
+
+	{"word": "ukonilma", "text": "thunderstorm"},
+
+  	{"word": "helle", "text": "heat, hot weather (temperatures over 25 degrees)"},
+
+	{"word": "runoilija", "text": "poet"},
+
+	{"word": "lämpimämpi", "text": "warmer (lämmin: warm)"},
+
+	{"word": "hupsu", "text": "silly"},
+
+	{"word": "laiska", "text": "lazy"},
+
+  	{"word": "kaiku", "text": "echo"},
+
+	{"word": "äyskäri", "text": "bailer (for e.g. scooping water out of a boat"},
+
+	{"word": "mustikka", "text": "blueberry"},
+
+	{"word": "karhu", "text": "bear"},
+
+  	{"word": "rantapallo", "text": "beach ball"},
+
+	{"word": "mänty", "text": "pine tree"},
+
+	{"word": "meikata", "text": "to make up"},
+
+	{"word": "hauki", "text": "pike"},
+
+	{"word": "haltia", "text": "fairy, elf"},
+
+  	{"word": "ahven", "text": "perch"},
+
+	{"word": "hiljaa", "text": "quietly, still, or slowly"},
+
+	{"word": "öykkäröidä", "text": "to bully, to make trouble"},
+
+	{"word": "neliapila", "text": "four-leaf clover"},
+
+  	{"word": "nuotio", "text": "camp-fire"},
+
+	{"word": "tuoksu", "text": "scent, odour, fragrance, perfume"},
+
+	{"word": "Nätti-Jussi", "text": "literally: Pretty-John (legendary Lappish lumberjack, creator of and inspiration to numerous stories)"},
+
+	{"word": "tikkataulu", "text": "(Finnish) dartboard"},
+
+	{"word": "lehti", "text": "leaf, journal, magazine, or newspaper"},
+
+  	{"word": "mehiläinen", "text": "bee"},
+
+	{"word": "kukkaketo", "text": "field of wild flowers"},
+
+	{"word": "arki", "text": "weekday (see also grey, everyday, mundane)"},
+
+	{"word": "sähköposti", "text": "e-mail"},
+
+  	{"word": "kätellä", "text": "to shake hands with someone"},
+
+	{"word": "pusu", "text": "(small) kiss, peck"},
+
+	{"word": "salmiakki", "text": "salty liquorice"},
+
+	{"word": "veri", "text": "blood"},
+
+	{"word": "Terve!", "text": "Hi!"},
+
+  	{"word": "kännykkä", "text": "cell phone, mobile (colloquial)"},
+
+	{"word": "jänishousu", "text": "coward, chicken, scaredy cat (literally: rabbit-pant)"},
+
+	{"word": "napapiiri", "text": "polar circle (pohjoinen napapiiri: the Arctic Circle)"},
+
+	{"word": "raha", "text": "money"},
+
+  	{"word": "ilmaiseksi", "text": "for free"},
+
+	{"word": "duuni", "text": "work, job (colloquial)"},
+
+	{"word": "Onnea!", "text": "Congratulations! Good luck!"},
+
+	{"word": "avaimet", "text": "keys"},
+
+	{"word": "Kiitti!", "text": "Thanks!"},
+
+	{"word": "Täh?", "text": "What? (colloquial)"},
+
+  	{"word": "onnellinen", "text": "happy"},
+
+	{"word": "kieli", "text": "language, tongue"},
+
+	{"word": "Mitä kuuluu?", "text": "How are you?"},
+
+	{"word": "taide", "text": "art"},
+
+	{"word": "tuunata", "text": "to tweak to improve, to pimp (colloquial)"},
+
+	{"word": "tiede", "text": "science"},
+
+  	{"word": "Niin?", "text": "Yes? So?"},
+
+	{"word": "läppäri", "text": "laptop (colloquial"},
+
+	{"word": "Voi ei!", "text": "Oh, no!"},
+
+	{"word": "kypärä", "text": "helmet"},
+
+	{"word": "linkkari", "text": "bus or pocketknife (colloquial)"},
+
+	{"word": "marjastusaika", "text": "berry-picking season"},
+
+  	{"word": "rapujuhla", "text": "crayfish party"},
+
+	{"word": "syntymäpäivä", "text": "birthday"},
+
+	{"word": "sanakirja", "text": "dictionary"},
+
+	{"word": "loppu", "text": "The end."},
+
+	{"word": "passi", "text": "passport"},
+
+	{"word": "hitaammin", "text": "slower"},
+
+	{"word": "Hauska tutustua!", "text": "Nice to meet you!"},
+
+	{"word": "Kahville?", "text": "Would you like to go for a coffee?"},
+
+	{"word": "yrittäjä", "text": "entrepreneur, business person"},
+
+	{"word": "mie", "text": "I, me (Lappish version of minä)"},
+
+	{"word": "En ymmärrä", "text": "I don't understand."},
+
+	{"word": "ruska", "text": "autumn colours"},
+
+	{"word": "netti", "text": "the Internet (colloquial)"},
+
+	{"word": "sadepäivä", "text": "rainy day"},
+
+	{"word": "haave", "text": "dream, fancy"},
+
+	{"word": "Apua!", "text": "Help!"},
+
+	{"word": "partitiivi", "text": "partitive case"},
+
+	{"word": "Minä olen...", "text": "I am..."},
+
+	{"word": "Pitkästä aikaa!", "text": "Long time no see!"},
+
+	{"word": "Hilla", "text": "a female name, also cloudberry"},
+
+	{"word": "lentokonesuihkuturbiinimoottoriapumekaanikkoaliupseerioppilas", "text": "airplane jet turbine engine auxiliary mechanic non-commissioned officer in training"},
+
+	{"word": "Totta!", "text": "True! (repeat this now and then in a discussion to create an illusion of a native speaker"},
+
+	{"word": "Totta kai!", "text": "Of course!"},
+
+	{"word": "F-siipi", "text": "F-wing"},
+
+	{"word": "yliopisto", "text": "university"},
+
+	{"word": "sähly", "text": "floorball"},
+
+	{"word": "fuksi", "text": "freshman"},
+
+	{"word": "hölökykölökyn", "text": "Cheers! (colloquial, humorous)"},
+
+	{"word": "ikkuna", "text": "window"},
+
+	{"word": "örkki", "text": "orc"},
+
+	{"word": "lääpällään", "text": "head over heels"},
+
+	{"word": "nyyttikestit", "text": "pot luck party"},
+
+	{"word": "hullu", "text": "mad, crazy, insane, bonkers (try also combinations like hillahullu: crazy over cloudberries)"},
+
+	{"word": "työmyyrä", "text": "workhorse"},
+
+	{"word": "tuuli", "text": "wind"},
+
+	{"word": "hämärä", "text": "dusk, twilight (also: suspicious, fishy, or faint)"},
+
+	{"word": "yömyssy", "text": "night cap"},
+	
+	{"word": "Hyvää päivänjatkoa!", "text": "Have a nice day!"},
+
+	{"word": "apteekki", "text": "pharmacy"},
+
+	{"word": "Näpit irti!", "text": "Hands off!"},
+
+	{"word": "porukka", "text": "gang, posse, a group of friends"},
+
+	{"word": "päntätä", "text": "to cram, to swot (colloquial)"},
+
+	{"word": "kirjallisuus", "text": "literature"},
+
+	{"word": "kivi", "text": "stone, rock"},
+
+	{"word": "elää", "text": "to live"},
+
+	{"word": "näppärä", "text": "handy, clever"},
+
+	{"word": "yökyöpeli", "text": "night owl (colloquial)"},
+
+	{"word": "ksylitoli", "text": "xylitol"},
+
+	{"word": "Minulla on...", "text": "I have..."},
+	
+	{"word": "opintopiste", "text": "(ECTS) credit"},
+
+	{"word": "hana", "text": "tap, faucet"},
+
+	{"word": "maittava", "text": "delicious, tasty"},
+
+	{"word": "napa", "text": "belly button, navel, pole"},
+
+	{"word": "googlata", "text": "to google"},
+
+	{"word": "kalsarikännit", "text": "getting drunk at home in your underwear without any intention to go out"},
+
+	{"word": "ateria", "text": "meal"},
+
+	{"word": "Te teette teetä.", "text": "You are making some tea."},
+
+	{"word": "vessa", "text": "toilet, lavatory (colloquial)"},
+
+	{"word": "pula", "text": "shortage (olla pulassa: to be in trouble)"},
+
+	{"word": "täysikuu", "text": "full moon"},
+
+	{"word": "nitoja", "text": "stapler"},
+
+	{"word": "keräysastia", "text": "bin, container (for rubbish, etc.)"},
+
+	{"word": "lomake", "text": "template, form"},
+	
+	{"word": "painajainen", "text": "nightmare"},
+
+	{"word": "Karkki vai kepponen?", "text": "Trick or treat?"},
+
+	{"word": "kyykkyviini", "text": "cheap bottle of wine, usually located on the lower shelves in Alko (literally: croutch wine)"},
+
+	{"word": "halla", "text": "frost (freezing temperatures during growing season)"},
+
+	{"word": "yötyö", "text": "night job"},
+
+	{"word": "pakastua", "text": "to freeze"},
+
+	{"word": "automaatti", "text": "automatic machine (e.g. vending machine, dispenser)"},
+
+	{"word": "ruotsin kieli", "text": "the Swedish language"},
+
+	{"word": "Ei pöllömpää!", "text": "Not too bad! (literally: Not too owlish!)"},
+
+	{"word": "taiteilija", "text": "artist"},
+
+	{"word": "harmaa", "text": "grey"},
+
+	{"word": "tentti", "text": "exam"},
+
+	{"word": "isä", "text": "father"},
+
+	{"word": "Oho", "text": "Oops!"},
+	
+	{"word": "Kamalaa!", "text": "Awful!"},
+
+	{"word": "kuura", "text": "frost"},
+
+	{"word": "varovasti", "text": "carefully"},
+
+	{"word": "kuntosali", "text": "gym"},
+
+	{"word": "Ihanko totta?", "text": "Really? No kidding?"},
+
+	{"word": "jääriite", "text": "thin crust of ice"},
+
+	{"word": "lätäkkö", "text": "puddle"},
+
+	{"word": "Lapsen oikeuksien päivä", "text": "International Children's Day"},
+
+	{"word": "silta", "text": "bridge"},
+
+	{"word": "räntä", "text": "sleet"},
+
+	{"word": "virta", "text": "current, stream, flow"},
+
+	{"word": "onneksi", "text": "luckily, fortunately"},
+
+	{"word": "loska", "text": "slush"},
+
+	{"word": "Sovittu!", "text": "Agreed! It's a deal!"},
+	
+	{"word": "Lykkyä tykö!", "text": "Good luck! (colloquial)"},
+
+	{"word": "Nähdään!", "text": "See you!"},
+
+	{"word": "Lappi", "text": "Lapland"},
+
+	{"word": "ei mitään", "text": "nothing"},
+
+	{"word": "talvirenkaat", "text": "winter tyres"},
+
+	{"word": "sarvet", "text": "antlers"},
+
+	{"word": "kynttilä", "text": "candle"},
+
+	{"word": "adventti", "text": "Advent"},
+
+	{"word": "lyhty", "text": "lantern"},
+
+	{"word": "itsenäisyys", "text": "independence"},
+
+	{"word": "kotikalja", "text": "homemade ale"},
+
+	{"word": "säveltäjä", "text": "composer"},
+
+	{"word": "runosuoni", "text": "poetic vein"},
+
+	{"word": "askartelu", "text": "crafts, hobby"},
+	
+	{"word": "tonttu", "text": "elf, gnome"},
+
+	{"word": "kurkistaa", "text": "to peek"},
+
+	{"word": "Lucian päivä", "text": "Saint Lucy's Day"},
+
+	{"word": "rauha", "text": "peace"},
+
+	{"word": "kortti", "text": "card"},
+
+	{"word": "torkkupeitto", "text": "snoozing blanket"},
+
+	{"word": "tarina", "text": "story, tale"},
+
+	{"word": "pirtti", "text": "farmhouse livingroom"},
+
+	{"word": "lumikola", "text": "snow scoop"},
+
+	{"word": "kaamos", "text": "polar night"},
+
+	{"word": "pipari, piparkakku", "text": "gingerbread"},
+
+	{"word": "joulukinkku", "text": "christmas ham"},
+
+	{"word": "joulukuusenjalka", "text": "christmas tree stand"},
+
+	{"word": "Joulupukki", "text": "Santa Claus (literally: Christmas goat)"},
+	
+	{"word": "lahja", "text": "present, gift"},
+	
+	{"word": "rekiretki", "text": "sleigh ride"},
+
+	{"word": "viisas", "text": "wise"},
+
+	{"word": "viaton", "text": "innocent"},
+
+	{"word": "pakkanen", "text": "winter frost"},
+
+	{"word": "viima", "text": "icy or piercing wind"},
+
+	{"word": "ilotulitus", "text": "fireworks"}
+]

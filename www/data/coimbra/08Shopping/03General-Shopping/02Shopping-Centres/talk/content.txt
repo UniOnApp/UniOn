@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Balc&atilde;o de informa&ccedil;&otilde;es &ndash; <em>info counter<\/em><\/p>\r\n<p>Acesso ao parque &ndash; <em>access to the car park<\/em><\/p>\r\n<p>&Aacute;rea de alimenta&ccedil;&atilde;o &ndash; <em>food court<\/em><\/p>\r\n<p>Escadas\/ escadas rolantes\/ elevadores &ndash; <em>stairs\/ escalators\/ elevators<\/em><\/p>\r\n<p>Sanit&aacute;rios &ndash; <em>wc\/ restrooms<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

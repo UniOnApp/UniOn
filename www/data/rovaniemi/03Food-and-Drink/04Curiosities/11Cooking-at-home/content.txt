@@ -1,0 +1,13 @@
+{
+  "title": "Cooking at home",
+  "latitude": "66.505426",
+  "longitude": "25.705500",
+  "difficulty": "",
+  "keyword": ["dish","mealtime","dinner","martat","course","tradition","school","children"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

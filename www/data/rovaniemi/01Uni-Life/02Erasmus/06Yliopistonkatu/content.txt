@@ -1,0 +1,13 @@
+{
+  "title": "Yliopistonkatu",
+  "latitude": "66.491889",
+  "longitude": "25.727550",
+  "difficulty": "",
+  "keyword": ["street","katu","pyöräillä","bike","Kemijoki","Kirkkolampi","river","church"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

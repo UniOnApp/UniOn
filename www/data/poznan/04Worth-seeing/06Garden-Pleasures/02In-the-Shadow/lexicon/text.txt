@@ -1,0 +1,36 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Ogr&oacute;d Zamkowy</p>
+</td>
+<td>
+<p>Castle Graden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prywatny ogr&oacute;d rezydencjonalny</p>
+</td>
+<td>
+<p>private residential garden</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zlokalizowany</p>
+</td>
+<td>
+<p>located</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Ogr&oacute;d R&oacute;żany</p>
+</td>
+<td>
+<p>rose garden</p>
+</td>
+</tr>
+</tbody>
+</table>

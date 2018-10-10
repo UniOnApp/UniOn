@@ -1,0 +1,156 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>kultura ludowa</p>
+</td>
+<td>
+<p>folk culture</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>doceniać</p>
+</td>
+<td>
+<p>appreciate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lokalność</p>
+</td>
+<td>
+<p>local heritage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozmaite odsłony</p>
+</td>
+<td>
+<p>various aspects</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ocalić</p>
+</td>
+<td>
+<p>to preserve</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zapomniana tradycja</p>
+</td>
+<td>
+<p>forgotten tradition</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zapewnić</p>
+</td>
+<td>
+<p>to guarantee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>taneczna podr&oacute;ż w czasie</p>
+</td>
+<td>
+<p>dance trip back in time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyśpiewki</p>
+</td>
+<td>
+<p>folk songs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>barwne stroje</p>
+</td>
+<td>
+<p>colorful outfits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zwyczaje wielkopolskie</p>
+</td>
+<td>
+<p>Greater Poland traditions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Podkoziołek</p>
+</td>
+<td>
+<p>local name for Shrove Tuesday </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oczepiny</p>
+</td>
+<td>
+<p>unveiling and uncapping ceremony</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obrzędy dożynkowe</p>
+</td>
+<td>
+<p>harvest customs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>polonez</p>
+</td>
+<td>
+<p>the polonaise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kujawiak</p>
+</td>
+<td>
+<p>the kujawiak</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mazur</p>
+</td>
+<td>
+<p>the mazurka</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oberek</p>
+</td>
+<td>
+<p>the oberek</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>krakowiak</p>
+</td>
+<td>
+<p>the krakowiak</p>
+</td>
+</tr>
+</tbody>
+</table>

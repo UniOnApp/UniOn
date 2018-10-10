@@ -1,0 +1,52 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Zaczyna (zaczynać) się</p>
+</td>
+<td>
+<p>begins (to begin)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>po zmroku</p>
+</td>
+<td>
+<p>after dark</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyruszają (wyruszać) na miasto</p>
+</td>
+<td>
+<p>to go out</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyprawa</p>
+</td>
+<td>
+<p>expedition</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wskaz&oacute;wki</p>
+</td>
+<td>
+<p>tips</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niespodzianki</p>
+</td>
+<td>
+<p>surprises</p>
+</td>
+</tr>
+</tbody>
+</table>

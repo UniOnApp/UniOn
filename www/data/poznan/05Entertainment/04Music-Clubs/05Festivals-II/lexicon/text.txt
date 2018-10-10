@@ -1,0 +1,188 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Ch&oacute;r, chłopięcy, męski, dziewczęcy</p>
+</td>
+<td>
+<p>(boy/ men/ girl) choir</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie dziwi (dziwić się)</p>
+</td>
+<td>
+<p>it comes as no surprise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>międzynarodowy</p>
+</td>
+<td>
+<p>international</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podziwiać</p>
+</td>
+<td>
+<p>to admire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>od początku istnienia</p>
+</td>
+<td>
+<p>since the beginning of its existence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stowarzyszenie przyjaci&oacute;ł</p>
+</td>
+<td>
+<p>friends&rsquo; association</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>muzyka dawna</p>
+</td>
+<td>
+<p>early music</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>możliwość wysłuchania</p>
+</td>
+<td>
+<p>to have an opportunity to listen</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w ramach tego festiwalu</p>
+</td>
+<td>
+<p>within the framework of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>grają (grać)</p>
+</td>
+<td>
+<p>they play (to play)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;łczesny</p>
+</td>
+<td>
+<p>contemporary</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kochający (kochać)</p>
+</td>
+<td>
+<p>fond of (to be fond of)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>brać udział</p>
+</td>
+<td>
+<p>to take part </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niezwykłym wydarzeniu</p>
+</td>
+<td>
+<p>extraordinary event</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dając</p>
+</td>
+<td>
+<p>giving</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prowadząc</p>
+</td>
+<td>
+<p>running</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warsztaty</p>
+</td>
+<td>
+<p>workshops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znajdzie coś dla siebie</p>
+</td>
+<td>
+<p>to find sth for sb&rsquo;s liking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odkryć nowe oblicza</p>
+</td>
+<td>
+<p>discover the new face of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wstęp jest wolny</p>
+</td>
+<td>
+<p>entrance is free</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>publiczność</p>
+</td>
+<td>
+<p>audience</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zbi&oacute;rka</p>
+</td>
+<td>
+<p>charity raise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pierniczki w kształcie gitary</p>
+</td>
+<td>
+<p>guitar-shaped ginger cakes</p>
+</td>
+</tr>
+</tbody>
+</table>

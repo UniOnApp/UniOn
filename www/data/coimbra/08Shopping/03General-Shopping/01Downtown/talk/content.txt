@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Estes brincos s&atilde;o de filigrana? &ndash; <em>Are these filigree earrings?<\/em><\/p>\r\n<p>Onde posso comprar uma carteira em corti&ccedil;a? - <em>Where can I find a cork handbag?<\/em><\/p>\r\n<p>S&atilde;o artesanais? &ndash; <em>Are they handmade?<\/em><\/p>\r\n<p>Onde s&atilde;o produzidos? &ndash; <em>Where are they made?<\/em><\/p>\r\n<p>&Eacute; t&iacute;pico de Coimbra\/ Portugal? &ndash; <em>Is it typical of Coimbra\/ Portugal?<\/em><\/p>\r\n<p>Isto &eacute; mesmo pele? <em>&ndash; Is this real leather?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

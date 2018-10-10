@@ -1,0 +1,13 @@
+{
+  "title": "Midnight sun",
+  "latitude": "66.497442",
+  "longitude": "25.742950",
+  "difficulty": "",
+  "keyword": ["aurinko","summer","tourism","keskiyö"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

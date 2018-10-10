@@ -1,0 +1,13 @@
+{
+  "title": "The Pillory",
+  "latitude": "52.408407",
+  "longitude": "16.934146",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

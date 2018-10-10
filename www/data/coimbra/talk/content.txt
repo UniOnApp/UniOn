@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>How to tell people your name<\/strong><\/p>\r\n<p>Sou<strong> a <\/strong>Hanna.\/ Chamo-me Hanna.<\/p>\r\n<p>Sou <strong>o <\/strong>Peter.\/ Chamo-me Peter.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>How to tell people what country you&rsquo;re from: <em>ser de<\/em><\/strong><\/p>\r\n<p>Sou da B&eacute;lgica.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Meeting people<\/strong><\/p>\r\n<p>Muito gosto! = Muito prazer!<\/p>\r\n<p>[Nice to meet you!]<\/p>\r\n<p><strong>Definite<\/strong> <strong>article<\/strong><\/p>\r\n<p>Usa-se o artigo definido antes dos nomes pr&oacute;prios. Exceto quando chamamos a pessoa.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Preposition &ldquo;de&rdquo;<\/strong><\/p>\r\n<p>de + a(s)= da(s)<\/p>\r\n<p>de + o(s)= do(s)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Verb SER <\/strong>[to be]<\/p>\r\n<p>Eu <strong><em>sou <\/em><\/strong>[I]<\/p>\r\n<p>Tu <strong><em>&eacute;s<\/em> <\/strong>[you informal]<\/p>\r\n<p>Voc&ecirc;\/ ele\/ ela <strong><em>&eacute;<\/em> <\/strong>[you formal, he, she]<\/p>\r\n<p>N&oacute;s <strong><em>somos<\/em> <\/strong>[we]<\/p>\r\n<p>Voc&ecirc;s\/ eles\/ elas <strong><em>s&atilde;o<\/em> [<\/strong>you+ pl., they+masc., they+fem.] <\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pronounciation<\/strong> <\/p>\r\n<p>Muito gosto!<\/p>\r\n<p>[mwitugo\u0283tu] <\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Muito prazer!<\/p>\r\n<p>[mwitup\u027E\u0250ze\u027E]<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Ser<\/strong><\/p>\r\n<p>nome<\/p>\r\n<p>nacionalidade<\/p>\r\n<p>de+pa&iacute;s<\/p>\r\n<p>profiss&atilde;o<\/p>\r\n<p>estado civil<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

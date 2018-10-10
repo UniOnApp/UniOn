@@ -1,0 +1,13 @@
+{
+  "title": "Banks & Accounts",
+  "latitude": "40.207905",
+  "longitude": "-8.424280",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

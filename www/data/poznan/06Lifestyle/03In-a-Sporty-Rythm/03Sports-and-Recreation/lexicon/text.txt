@@ -1,0 +1,108 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Spędzać czas</p>
+</td>
+<td>
+<p>to spend time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piłka nożna</p>
+</td>
+<td>
+<p>football</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>siatk&oacute;wka</p>
+</td>
+<td>
+<p>volleyball</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koszyk&oacute;wka</p>
+</td>
+<td>
+<p>basketball</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>żużel</p>
+</td>
+<td>
+<p>speedway</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piłka ręczna</p>
+</td>
+<td>
+<p>handball</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>hokej</p>
+</td>
+<td>
+<p>hockey</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pływalnia</p>
+</td>
+<td>
+<p>swimming pool</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rzut dyskiem/oszczepem/młotem</p>
+</td>
+<td>
+<p>hammer throw/ discus throw/ javelin</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kręgielnia</p>
+</td>
+<td>
+<p>bowling club</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kort tenisowy</p>
+</td>
+<td>
+<p>tennis court</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>plac zabaw</p>
+</td>
+<td>
+<p>playground</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypożyczalnia rower&oacute;w</p>
+</td>
+<td>
+<p>bike rental</p>
+</td>
+</tr>
+</tbody>
+</table>

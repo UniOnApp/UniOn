@@ -1,0 +1,14 @@
+{
+  "title": "Sui colli",
+  "latitude": "44.442402",
+  "longitude": "11.304047",
+  "difficulty": "low",
+  "keyword": ["Parco Cavaioni",
+"griglia"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

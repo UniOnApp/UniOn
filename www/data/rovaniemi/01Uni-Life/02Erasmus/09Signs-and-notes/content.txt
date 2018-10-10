@@ -1,0 +1,13 @@
+{
+  "title": "Signs and notes",
+  "latitude": "66.496977",
+  "longitude": "25.729964",
+  "difficulty": "",
+  "keyword": ["information","pyörä","kyltti","university"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

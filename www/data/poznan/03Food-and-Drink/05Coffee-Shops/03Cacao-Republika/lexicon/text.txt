@@ -1,0 +1,76 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Łasuch</p>
+</td>
+<td>
+<p>a person who has a sweet tooth/ gourmand</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsce godne polecenia</p>
+</td>
+<td>
+<p>renowned</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znana</p>
+</td>
+<td>
+<p>famous</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kr&oacute;lestwo czekolady</p>
+</td>
+<td>
+<p>kingdom of chocolate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stylowa kamienica</p>
+</td>
+<td>
+<p>stylish tenement house</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyciągać</p>
+</td>
+<td>
+<p>to attract</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prawdziwa/gęsta/gorąca czekolada</p>
+</td>
+<td>
+<p>genuine/ thick/ hot chocolate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>smak</p>
+</td>
+<td>
+<p>taste</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaskoczyć</p>
+</td>
+<td>
+<p>to surprise</p>
+</td>
+</tr>
+</tbody>
+</table>

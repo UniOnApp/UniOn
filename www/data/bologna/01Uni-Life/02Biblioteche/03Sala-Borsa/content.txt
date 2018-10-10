@@ -1,0 +1,22 @@
+{
+  "title": "Sala Borsa",
+  "latitude": "44.494688",
+  "longitude": "11.342338",
+  "difficulty": "mid",
+  "keyword": ["Sala Borsa",
+"Palazzo d\u2019Accursio",
+"Comune di Bologna",
+"Piazza del Nettuno",
+"Piazza Maggiore",
+"Borsa di Bologna",
+"Auditorium ",
+"prestito",
+"Urban Center",
+"libri"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

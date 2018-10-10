@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Desportos\/ modalidades desportivas<\/strong>&nbsp; - <em>sports<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Jogar\/ praticar<\/strong><\/p>\r\n<p>Andebol <em>- handball<\/em><\/p>\r\n<p>Badminton<\/p>\r\n<p>Basquetebol <em>- basketball<\/em><\/p>\r\n<p>Futsal <\/p>\r\n<p>H&oacute;quei em Patins <em>&ndash; roller hockey<\/em><\/p>\r\n<p>Voleibol <em>- volleyball<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

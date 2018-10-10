@@ -1,0 +1,15 @@
+{
+  "title": "Classica o fantasia del pizzaiolo?",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "low",
+  "keyword": ["pizza",
+"ricetta",
+"Margherita"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

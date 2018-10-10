@@ -1,0 +1,13 @@
+{
+  "title": "Skiing in Poznań",
+  "latitude": "52.400012",
+  "longitude": "16.980105",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

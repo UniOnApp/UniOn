@@ -1,0 +1,13 @@
+{
+  "title": "Going South? Take the train!",
+  "latitude": "66.498419",
+  "longitude": "25.704858",
+  "difficulty": "",
+  "keyword": ["juna","travel","matkustaa","Helsinki","meatballs","sleeping","announcement","case"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

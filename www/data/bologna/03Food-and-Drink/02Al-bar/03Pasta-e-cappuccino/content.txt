@@ -1,0 +1,19 @@
+{
+  "title": "Pasta e cappuccino",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["colazione",
+"tabaccheria",
+"marca da bollo",
+"sigarette",
+"pasta",
+"brioche",
+"cornetto"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

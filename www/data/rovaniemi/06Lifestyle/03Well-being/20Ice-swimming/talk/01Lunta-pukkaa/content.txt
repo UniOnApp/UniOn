@@ -1,0 +1,13 @@
+{
+  "title": "Lunta pukkaa!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Water can take all kinds of forms, and in winter most of the forms are rather cold. However, you should be able to make a difference between light snow and once-in-a-lifetime blizzard to avoid turning into a popsicle. The best way to do this is of course in Finnish, since we have clear-cut expressions for most kinds of snow. Tap to see the Finnish expressions!<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>Snow.<\/p>\r\n<p>Lumi.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Soft snow, perfect material for making snowmen.<\/p>\r\n<p>Nuoska.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Slush.<\/p>\r\n<p>Loska.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>A thick cover of snow.<\/p>\r\n<p>Hanki.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>A thick cover of snow in spring, with an icy crust, hard enough to walk on.<\/p>\r\n<p>Kantohanki.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Snow-load on crowns of trees; formed by fog or low-level clouds, or sometimes unusually wet snow freezing and accumulating to the wind-facing side of the trees.<\/p>\r\n<p>Tykky.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Recently snowed light snow which is dry and has small flake size.<\/p>\r\n<p>Viti.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>It&rsquo;s snowing heavily, with a brisk wind.<\/p>\r\n<p>Pyrytt&auml;&auml;.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>It&rsquo;s snowing, and the flakes are unusually large (and usually also wet).<\/p>\r\n<p>Sataa jalkar&auml;ttej&auml;.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>To be completely frozen, perhaps after spending too much time in a hole-in-the-ice.<\/p>\r\n<p>J&auml;&auml;ss&auml; kuin kaivo&auml;mp&auml;ri (lit. frozen as a bucket).<\/p>\r\n  <p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

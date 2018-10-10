@@ -1,0 +1,13 @@
+{
+  "title": "Kontti",
+  "latitude": "66.490372",
+  "longitude": "25.673009",
+  "difficulty": "",
+  "keyword": ["clothes","clothing","vaatteet","second hand","flea market","vintage","kirpputori","charity"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

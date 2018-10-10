@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Na dziedzińcu</p>
+</td>
+<td>
+<p>at a courtyard</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kawiarnia literacka</p>
+</td>
+<td>
+<p>literary caf&eacute;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>u przyjaci&oacute;ł</p>
+</td>
+<td>
+<p>At friends&rsquo;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bogaty wyb&oacute;r</p>
+</td>
+<td>
+<p>wide range of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>herbaty smakowe</p>
+</td>
+<td>
+<p>flavored tea</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>coś na ząb</em></p>
+</td>
+<td>
+<p>light meal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gry planszowe</p>
+</td>
+<td>
+<p>board games</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nastrojowa muzyka</p>
+</td>
+<td>
+<p>ambient music</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>randka</p>
+</td>
+<td>
+<p>date</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szufladki</p>
+</td>
+<td>
+<p>drawers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>karteczki</p>
+</td>
+<td>
+<p>paper</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oł&oacute;wki</p>
+</td>
+<td>
+<p>pencils</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>schować</p>
+</td>
+<td>
+<p>to hide</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spektakle</p>
+</td>
+<td>
+<p>performances</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>teatr</p>
+</td>
+<td>
+<p>theater</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strych kamienicy</p>
+</td>
+<td>
+<p>attic of the tenement house</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyjątkowi aktorzy</p>
+</td>
+<td>
+<p>remarkable actors</p>
+</td>
+</tr>
+</tbody>
+</table>

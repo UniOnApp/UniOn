@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Cze\u015B\u0107, mo\u017Ce p&oacute;jdziemy dzi\u015B wieczorem do kina?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Ch\u0119tnie, to dobry pomys\u0142!<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Nie, niestety, dzisiaj wieczorem nie mog\u0119.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Proponuj\u0119 <em>Pasa\u017Cer&oacute;w<\/em>, podobno to dobry film.<\/p>\r\n<p>Dobrze, mo\u017Cemy i\u015B\u0107 na <em>Pasa\u017Cer&oacute;w<\/em>.<\/p>\r\n<p>Nie jestem pewny\/a czy to dobry film? Wola\u0142bym\/Wola\u0142abym zobaczy\u0107 co\u015B innego.<\/p>\r\n<p>Nie przepadam za filmami fantastycznymi. Mo\u017Ce jaka\u015B komedia?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Dzie\u0144 dobry, prosz\u0119 dwa bilety studenckie na <em>Gwiezdne wojny<\/em> na seans o godzinie 17:30.<\/p>\r\n<p>Prosz\u0119 bardzo, rz\u0105d pi\u0119tnasty (15), miejsca dziewi\u0105te (9) i dziesi\u0105te (10).<\/p>\r\n<p>Niestety, nie ma ju\u017C wolnych miejsc na ten seans. Mamy wolne miejsca na godzin\u0119 19:00.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Dobrze, mo\u017Ce by\u0107 na 19:00. Ile p\u0142ac\u0119?<\/p>\r\n<p>Poprosz\u0119 o 46 PLN. Dzi\u0119kuj\u0119 i \u017Cycz\u0119 mi\u0142ego seansu!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Bilet normalny, bilet ulgowy studencki, rezerwacja miejsca, rz\u0105d, miejsce, ekran, projekcja, kino, kino letnie, kasa biletowa, naby\u0107=zakupi\u0107, lubi\u0107 = przepada\u0107 za, premiera, zwiastun.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

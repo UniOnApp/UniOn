@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Are these claims oikein (correct) or v&auml;&auml;rin (incorrect)? Tap to check.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Food is not important in Finnish celebrations.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> The role of food is crucially important in Finnish celebrations: birthdays, weddings or annual celebrations like Christmas are not the same without the typical food.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Having a ham on the table over Christmas is important.<\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> A Christmas ham, <strong>joulukinkku<\/strong>, has been a must for centuries.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>In a Finnish wedding, the couple cuts a ham as a symbol of their dedication to one another. <\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> The couple cuts a cake, as is typical in many other cultures.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Laskiainen means Shrovetide.<\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> <strong>Laskiainen<\/strong> is an annual celebration of the winter, taking place in February. People go out sledding and skiing, and enjoy <strong>kuuma kaakao<\/strong> &ndash; hot chocolate, with <strong>laskiaispulla<\/strong> &ndash; a Shrovetide sweet bun cut in half and filled with whipped cream and jam. <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Gl&ouml;gi is the Finnish word for Christmas. <\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> Almost true! <strong>Gl&ouml;gi<\/strong> is the most important drink over Christmas. The Finnish word for Christmas is <strong>joulu<\/strong>.<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

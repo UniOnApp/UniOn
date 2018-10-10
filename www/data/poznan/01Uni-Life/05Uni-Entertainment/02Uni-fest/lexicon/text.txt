@@ -1,0 +1,60 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Festiwal studencki</p>
+</td>
+<td>
+<p>Student rag</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spędzać czas z przyjaci&oacute;łmi</p>
+</td>
+<td>
+<p>to spend time with friends</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>złapać oddech przed letnimi egzaminami</p>
+</td>
+<td>
+<p>take a break before the examinations start</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie odbywają się zajęcia</p>
+</td>
+<td>
+<p>no classes are held</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>udział dla student&oacute;w jest bezpłatny</p>
+</td>
+<td>
+<p>students may participate for free</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>barwny poch&oacute;d przebierańc&oacute;w</p>
+</td>
+<td>
+<p>colorful parade of masqueraders</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>otrzymać klucze do miasta</p>
+</td>
+<td>
+<p>to be bestowed keys to the city</p>
+</td>
+</tr>
+</tbody>
+</table>

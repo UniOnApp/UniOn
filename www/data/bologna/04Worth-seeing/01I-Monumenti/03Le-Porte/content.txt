@@ -1,0 +1,19 @@
+{
+  "title": "Le porte",
+  "latitude": "44.490442",
+  "longitude": "11.329894",
+  "difficulty": "high",
+  "keyword": ["mura",
+"porte",
+"Porta San Mamolo",
+"Porta Sant\u2019Isaia",
+"Porta Saragozza",
+"Porta Santo Stefano",
+"Porta San Vitale"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

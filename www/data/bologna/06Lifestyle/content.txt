@@ -1,0 +1,22 @@
+{
+  "title": "Vita sana",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["piscine",
+"piscina",
+"palestre",
+"palestra",
+"sport",
+"parco",
+"parchi ",
+"giardino",
+"giardini ",
+"Cusb"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

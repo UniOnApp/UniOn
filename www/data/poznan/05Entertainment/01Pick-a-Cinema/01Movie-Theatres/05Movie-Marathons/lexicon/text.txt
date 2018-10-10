@@ -1,0 +1,84 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Śledzić</p>
+</td>
+<td>
+<p><strong>to stay tuned</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>witryny internetowe</p>
+</td>
+<td>
+<p><strong>websites</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przeglądy filmowe</p>
+</td>
+<td>
+<p><strong>movie reviews</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odbywać się cyklicznie</p>
+</td>
+<td>
+<p><strong>held periodically</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niepowtarzalne</p>
+</td>
+<td>
+<p><strong>unique</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być nocnym markiem</p>
+</td>
+<td>
+<p><strong>to be a night owl</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gościć</p>
+</td>
+<td>
+<p><strong>to guest/ to hold</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dobrane tematycznie</p>
+</td>
+<td>
+<p><strong>chosen by theme</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyświetlać kilka film&oacute;w pod rząd</p>
+</td>
+<td>
+<p><strong>project movies in order</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>horrory</p>
+</td>
+<td>
+<p><strong>horror movies</strong></p>
+</td>
+</tr>
+</tbody>
+</table>

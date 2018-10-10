@@ -1,0 +1,13 @@
+{
+  "title": "Śnieżycowy Jar",
+  "latitude": "52.613437",
+  "longitude": "16.930801",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

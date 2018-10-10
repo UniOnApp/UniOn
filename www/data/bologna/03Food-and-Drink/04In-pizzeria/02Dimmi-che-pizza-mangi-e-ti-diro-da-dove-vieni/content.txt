@@ -1,0 +1,13 @@
+{
+  "title": "Dimmi che pizza mangi e ti dir\u00F2 da dove vieni",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "high",
+  "keyword": ["pizza"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

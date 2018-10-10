@@ -1,0 +1,13 @@
+{
+  "title": "Classical music",
+  "latitude": "66.500907",
+  "longitude": "25.718681",
+  "difficulty": "",
+  "keyword": ["musiikki","music","classical","Jean Sibelius","composer","conductor","Saraste","orchestra","kamariorkesteri"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

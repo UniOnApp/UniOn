@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Usługi przewozowe</p>
+</td>
+<td>
+<p>transportation services</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Miejskie Przedsiębiorstwo Komunikacyjne</p>
+</td>
+<td>
+<p>Municipal Transport Company</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozkład jazdy</p>
+</td>
+<td>
+<p>timetable</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mapa przebiegu wszystkich linii</p>
+</td>
+<td>
+<p>map of bus and tram network</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przystanki autobusowe</p>
+</td>
+<td>
+<p>bus stops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przystanek na żądanie</p>
+</td>
+<td>
+<p>request stop</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zamachaj (zamachać) ręką na przejeżdżający autobus</p>
+</td>
+<td>
+<p>wave your hand at the coming bus</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>naciśnij czerwony przycisk STOP</p>
+</td>
+<td>
+<p>push the red STOP button</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nocne linie autobusowe</p>
+</td>
+<td>
+<p>night bus lines</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dostosowana jest do potrzeb niepełnosprawnych</p>
+</td>
+<td>
+<p>handicap-accessible</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niskopodłogowe</p>
+</td>
+<td>
+<p>low-floored</p>
+</td>
+</tr>
+</tbody>
+</table>

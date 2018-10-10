@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- To jest w\u0142a\u015Bnie Stary Marych, jego <strong>rower<\/strong> i <strong>teka<\/strong>.<\/p>\r\n<p>- A Ty <strong>s\u0142ucha\u0142e\u015B audycji<\/strong> ze Starym Marychem?<\/p>\r\n<p>- Nie, ale moja mama i babcia s\u0142ucha\u0142y. Ja <strong>by\u0142em za ma\u0142y<\/strong> &ndash; Marian Pogasz zmar\u0142 w 1999 roku. Czyta\u0142em teksty Juliusza Kubla w ksi\u0105\u017Cce. Interesuj\u0119 si\u0119 <strong>gwar\u0105 pozna\u0144sk\u0105<\/strong>.<\/p>\r\n<p>- O, to ciekawe. Czy mo\u017Cesz mnie nauczy\u0107 jakich\u015B <strong>wyra\u017Ce\u0144 gwarowych<\/strong>?<\/p>\r\n<p>- No.<\/p>\r\n<p>- Nie? Dlaczego?<\/p>\r\n<p>- Ale\u017C tak &ndash; <em>no<\/em> w j\u0119zyku potocznym znaczy <em>tak<\/em>.<\/p>\r\n<p>- Serio? <strong>Troch\u0119 dziwne&hellip;<\/strong><\/p>\r\n<p>- Pami\u0119tasz te <strong>ciastka<\/strong> dro\u017Cd\u017C&oacute;wki?<\/p>\r\n<p>- Tak, bardzo smaczne.<\/p>\r\n<p>- Dla poznaniak&oacute;w to <em>szneki<\/em>.<\/p>\r\n<p>- Wi\u0119c <strong>chod\u017Amy na<\/strong> szneki, tu jest <strong>cukiernia<\/strong> <em>Elite<\/em>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Rower, teka, by\u0142em za ma\u0142y, s\u0142ucha\u0107 audycji, wyra\u017Cenia gwarowe, gwara pozna\u0144ska, troch\u0119 dziwne, ciastko\/a, chod\u017Amy na&hellip;, cukiernia.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Here&rsquo;s some vocabulary about movies!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>draama <\/strong>a drama<\/p>\r\n<p><strong>elokuva<\/strong> a movie, a film<\/p>\r\n<p><strong>elokuvat&auml;hti<\/strong> a movie star<\/p>\r\n<p><strong>juoni<\/strong> a plot<\/p>\r\n<p><strong>j&auml;nnitys(elokuva)<\/strong> a thriller<\/p>\r\n<p><strong>kauhu<\/strong> horror<\/p>\r\n<p><strong>kohtaus<\/strong> a scene<\/p>\r\n<p><strong>komedia<\/strong> a comedy<\/p>\r\n<p><strong>k&auml;sikirjoitus<\/strong> a manuscript<\/p>\r\n<p><strong>lastenelokuva<\/strong> a children&rsquo;s movie<\/p>\r\n<p><strong>loppuratkaisu <\/strong>a d&eacute;nouement (the final part of the film where matters are resolved)<\/p>\r\n<p><strong>mustavalkoelokuva<\/strong> a black-and-white film<\/p>\r\n<p><strong>mykk&auml;elokuva<\/strong> a silent film<\/p>\r\n<p><strong>n&auml;yttelij&auml;<\/strong> an actor, an actress<\/p>\r\n<p><strong>ohjaaja<\/strong> a director<\/p>\r\n<p><strong>romantiikka<\/strong> romance<\/p>\r\n<p><strong>toiminta<\/strong> action<\/p>\r\n<p><strong>tunteet<\/strong> feelings, emotions<\/p>\r\n<p><strong>t&auml;hti<\/strong> a star<\/p>\r\n<p><strong>valkokangas<\/strong> silver screen, big screen, movie screen<\/p>\r\n<p><strong>viini<\/strong> wine<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

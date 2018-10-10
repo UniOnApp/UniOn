@@ -1,0 +1,44 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Ubezpieczenie zdrowotne</p>
+</td>
+<td>
+<p>health insurance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pokrycie wydatk&oacute;w na opiekę medyczną</p>
+</td>
+<td>
+<p>covering medical expenses</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>udzielać ochrony ubezpieczeniowej cudzoziemcom</p>
+</td>
+<td>
+<p>to provide insurance for foreigners</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dostosowywać się do indywidualnych potrzeb</p>
+</td>
+<td>
+<p>to adjust to individual needs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>elastyczny czas trwania ubezpieczenia</p>
+</td>
+<td>
+<p>elastic coverage time</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Regional Offer",
+  "latitude": "52.410895",
+  "longitude": "16.955116",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p onclick=\"tts('W czym mog\u0119 pom&oacute;c?')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Sprzedawca: W czym mog\u0119 pom&oacute;c?<\/p>\r\n<p onclick=\"tts('Poprosz\u0119 m\u0119skie spodnie.')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Klient: Poprosz\u0119 m\u0119skie spodnie.<\/p>\r\n<p onclick=\"tts('Jaki rozmiar Pan nosi?')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Sprzedawca: Jaki rozmiar Pan nosi?<\/p>\r\n<p onclick=\"tts('Nie wiem, chyba 50.')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Klient: Nie wiem, chyba 50.<\/p>\r\n<p>Sprzedawca: Tak? Nosi Pan rozmiar 50? A jaki kolor maj\u0105 mie\u0107 spodnie?<\/p>\r\n<p>Klient: Czy s\u0105 br\u0105zowe d\u017Cinsy?<\/p>\r\n<p>Sprzedawca: Niestety, nie mamy br\u0105zowych. Czy mog\u0105 by\u0107 czarne?<\/p>\r\n<p>Klient: Tak, prosz\u0119 pokaza\u0107.<\/p>\r\n<p>Sprzedawca: Prosz\u0119. Przymierzalnia jest na lewo.<\/p>\r\n<p>Klient: Dobrze, dzi\u0119kuj\u0119.<\/p>\r\n<p>Sprzedawca: I jak? Pasuj\u0105 te spodnie?<\/p>\r\n<p>Klient: Niestety, s\u0105 o wiele za ma\u0142e. Czy ma Pan wi\u0119ksze?<\/p>\r\n<p>Sprzedawca: Dam Panu rozmiar 52 i 54.<\/p>\r\n<p>Klient: Ostatnio troch\u0119 przyty\u0142em.<\/p>\r\n<p>Sprzedawca: Czy te spodnie lepiej le\u017C\u0105?<\/p>\r\n<p>Klient: Tak, poprosz\u0119 te 54. Ile kosztuj\u0105?<\/p>\r\n<p>Sprzedawca: 149 z\u0142.<\/p>\r\n<p>Klient: Prosz\u0119 bardzo.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk:<\/strong><\/p>\r\n<p>M\u0119skie spodnie, rozmiar, nosi\u0107, br\u0105zowe d\u017Cinsy, niestety, przymierzalnia, na lewo, ostatnio, troch\u0119, przyty\u0107, dobrze le\u017Ce\u0107.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Which language?",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Asking what language someone speaks<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p>Tap to see the translations.<\/p>\r\n<p>\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p>Mit\u00E4 kielt\u00E4 sin\u00E4 puhut?<br>\r\nMik\u00E4 sinun \u00E4idinkieli on?<\/p>\r\n<p>What language do you speak?<br>\r\nWhat is your native language \/ mother tongue?<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

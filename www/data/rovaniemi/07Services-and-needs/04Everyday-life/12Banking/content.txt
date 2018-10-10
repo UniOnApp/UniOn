@@ -1,0 +1,13 @@
+{
+  "title": "Banking",
+  "latitude": "66.502228",
+  "longitude": "25.721992",
+  "difficulty": "",
+  "keyword": ["bank","pankki","raha","ATM","credit card","debit card","ID card","money"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

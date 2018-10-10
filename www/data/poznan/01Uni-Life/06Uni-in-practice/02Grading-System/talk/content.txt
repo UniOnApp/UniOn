@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Cze\u015B\u0107, jestem Marek, a Ty?<\/p>\r\n<p>- Cze\u015B\u0107, jestem Anna.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>Co studiujesz?<\/strong><\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>J\u0119zyk polski<\/strong>, a Ty?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Ja <strong>prawo<\/strong>, ale mam kurs polskiego.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>Co teraz robisz?<\/strong><\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>Mam lektorat<\/strong>, a Ty?<\/p>\r\n<p>- <strong>Mam kolokwium<\/strong>, <strong>a jutro egzamin, sesja ju\u017C za miesi\u0105c.<\/strong><\/p>\r\n<p>- <strong>Ja mam tylko zaliczenie.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Co studiujesz (studiowa\u0107)?, Co robisz (robi\u0107)?, kolokwium, egzamin, sesja, zaliczenie, lektorat, jutro, mam (mie\u0107) lektorat, prawo, j\u0119zyk polski, mam tylko zaliczenie, sesja ju\u017C za miesi\u0105c.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

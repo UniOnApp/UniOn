@@ -1,0 +1,13 @@
+{
+  "title": "Stay sharp",
+  "latitude": "66.505840",
+  "longitude": "25.725617",
+  "difficulty": "",
+  "keyword": ["knife","woodwork","gifts","souvenirs","design"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

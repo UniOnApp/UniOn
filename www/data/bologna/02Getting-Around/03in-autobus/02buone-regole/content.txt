@@ -1,0 +1,14 @@
+{
+  "title": "Buone regole",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["fermata",
+"biglietto"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

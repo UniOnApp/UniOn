@@ -1,0 +1,76 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Galeria usługowo-handlowa</p>
+</td>
+<td>
+<p>shopping mall</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zintegrowane centrum komunikacyjne</p>
+</td>
+<td>
+<p>integrated transportation center</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>punkty usługowe</p>
+</td>
+<td>
+<p>customer service points</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>punkty gastronomiczne</p>
+</td>
+<td>
+<p>eating&amp;drinking facilities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znane firmy</p>
+</td>
+<td>
+<p>well-known companies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zagraniczny</p>
+</td>
+<td>
+<p>foreign</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wielopoziomowy parking</p>
+</td>
+<td>
+<p>multistory parking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>służy (służyć)</p>
+</td>
+<td>
+<p>serves (to serve)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wystawy czasowe</p>
+</td>
+<td>
+<p>temporary art. Exhibitions</p>
+</td>
+</tr>
+</tbody>
+</table>

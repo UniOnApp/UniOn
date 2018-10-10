@@ -1,0 +1,13 @@
+{
+  "title": "ACM",
+  "latitude": "40.208137",
+  "longitude": "-8.419915",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

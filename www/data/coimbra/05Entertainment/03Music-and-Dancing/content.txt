@@ -1,0 +1,13 @@
+{
+  "title": "Music & Dancing",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["music","festivals","concert"," dance","rock","punk","clássica","fado"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

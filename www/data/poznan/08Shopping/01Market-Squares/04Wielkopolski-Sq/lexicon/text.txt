@@ -1,0 +1,116 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Wyglądać inaczej</p>
+</td>
+<td>
+<p>to look differently</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cegielnia</p>
+</td>
+<td>
+<p>brickyard</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>młyn wodny</p>
+</td>
+<td>
+<p>watermill</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>staw</p>
+</td>
+<td>
+<p>pond</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>służyć jako kąpielisko</p>
+</td>
+<td>
+<p>serve as a lido</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie ma śladu</p>
+</td>
+<td>
+<p>remain no traces of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ocalać</p>
+</td>
+<td>
+<p>to escape destruction</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>socrealistyczna koncepcja</p>
+</td>
+<td>
+<p>socialist realist canon</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieszkańcy</p>
+</td>
+<td>
+<p>dwellers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>narzekać</p>
+</td>
+<td>
+<p>to complain</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niefunkcjonalne wnętrza</p>
+</td>
+<td>
+<p>impractical interiors</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z ciekawostek</p>
+</td>
+<td>
+<p>fun fact</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>targ żywnościowy</p>
+</td>
+<td>
+<p>food marketplace</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>żebracy</p>
+</td>
+<td>
+<p>beggars</p>
+</td>
+</tr>
+</tbody>
+</table>

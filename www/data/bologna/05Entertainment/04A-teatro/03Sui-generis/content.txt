@@ -1,0 +1,14 @@
+{
+  "title": "Sui generis",
+  "latitude": "44.546563",
+  "longitude": "11.360230",
+  "difficulty": "mid",
+  "keyword": ["spettacolo",
+"match di improvvisazione teatrale"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

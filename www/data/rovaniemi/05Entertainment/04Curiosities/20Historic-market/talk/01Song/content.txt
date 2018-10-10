@@ -1,0 +1,13 @@
+{
+  "title": "Song",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Rovaniemen markkinat <\/strong>was such a significant event for a long time that people made songs it about and there&rsquo;s even a movie <a href=\"http:\/\/www.elonet.fi\/fi\/elokuva\/119006\">Rovaniemen markkinoilla, 1951<\/a>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>The spirit of the Rovaniemi market is crystallised in the eponymous song performed in the film. Here&rsquo;s an excerpt of the lyrics, and a translation follows:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>Rovaniemen markkinoille vein m&auml; Lapin kultaa<\/em><\/p>\r\n<p><em>no sit&auml;h&auml;n on mulla niinkuin etel&auml;ss&auml; multaa<\/em><\/p>\r\n<p><em>ruma rilluma rilluma rei<\/em><\/p>\r\n<p><em>sit&auml; on mulla, toisilla ei.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>I took Lapland gold to the Rovaniemi market<\/em><\/p>\r\n<p><em>well, I got it as much as southerners have soil<\/em><\/p>\r\n<p><em>ruma rilluma rilluma rei <\/em><\/p>\r\n<p><em>I got it, others don&rsquo;t.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>The song and the movie <strong>Rovaniemen markkinoilla <\/strong>marked the beginning of the so-called <strong>rillumarei<\/strong> culture in the 1950s. Some more movies were made in its spirit: <strong>L&auml;nnen<\/strong> <strong>lokarin<\/strong> <strong>veli<\/strong>, <strong>Rantasalmen<\/strong> <strong>sulttaani<\/strong>, <strong>Lent&auml;v&auml;<\/strong> <strong>kalakukko<\/strong>, and <strong>Hei, rillumarei<\/strong>!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>The word <strong>rillumarei <\/strong>doesn&rsquo;t mean anything as such, but it does imply a connection to the verb <strong>rillutella <\/strong>&ndash; to party merrily. The spirit has lived on and has also done its part in boosting Lapland&rsquo;s reputation as a place where you can relax and let go of your worries.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

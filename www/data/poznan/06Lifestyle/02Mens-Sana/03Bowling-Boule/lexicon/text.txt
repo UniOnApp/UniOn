@@ -1,0 +1,148 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Wymarzone miejsce</p>
+</td>
+<td>
+<p>perfect spot</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pasjonat</p>
+</td>
+<td>
+<p>enthusiast</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gry kręglarskie</p>
+</td>
+<td>
+<p>bowling games</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w pobliżu</p>
+</td>
+<td>
+<p>in the vicinity/ nearby</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pochodzenie</p>
+</td>
+<td>
+<p>origins</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zwana</p>
+</td>
+<td>
+<p>known as</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znaleźć</p>
+</td>
+<td>
+<p>to find</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w pełni zautomatyzowane tory</p>
+</td>
+<td>
+<p>fully automated lanes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podliczanie punktacji</p>
+</td>
+<td>
+<p>tracking the scores</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prezentacja na tablicach</p>
+</td>
+<td>
+<p>presentation on the board</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyniki</p>
+</td>
+<td>
+<p>results</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ułatwiać grę</p>
+</td>
+<td>
+<p>to facilitate the game</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świetna rozrywka</p>
+</td>
+<td>
+<p>great entertainment </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>początkujący gracze</p>
+</td>
+<td>
+<p>amateurs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>amatorzy gry</p>
+</td>
+<td>
+<p>fan of the game</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gra rekreacyjna</p>
+</td>
+<td>
+<p>recreational game</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>specjalnie urządzony tor</p>
+</td>
+<td>
+<p>specially designed track</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>r&oacute;żny stopień trudności</p>
+</td>
+<td>
+<p>various difficulty level</p>
+</td>
+</tr>
+</tbody>
+</table>

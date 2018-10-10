@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Kasa<\/strong>: Prosz\u0119.<\/p>\r\n<p onclick=\"tts('Dzie\u0144 dobry, poprosz\u0119 cztery bilety do Zoo.')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>Klient<\/strong>: Dzie\u0144 dobry, <strong>poprosz\u0119 cztery bilety<\/strong> do Zoo.<\/p>\r\n<p onclick=\"tts('Czy to ma by\u0107 bilet rodzinny?')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Kasa: <strong>Czy to ma by\u0107 bilet rodzinny?<\/strong><\/p>\r\n<p onclick=\"tts('Nie, nie jeste\u015Bmy rodzin\u0105.')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Klient: <strong>Nie, nie jeste\u015Bmy rodzin\u0105.<\/strong><\/p>\r\n<p onclick=\"tts('Bilety normalne czy ulgowe?')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Kasa: <strong>Bilety normalne czy ulgowe?<\/strong><\/p>\r\n<p onclick=\"tts('A dla kogo s\u0105 ulgi?')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Klient: <strong>A dla kogo s\u0105 ulgi?<\/strong><\/p>\r\n<p>Kasa: Zni\u017Cki maj\u0105 dzieci w wieku przedszkolnym, uczniowie oraz studenci, emeryci i renci\u015Bci.<\/p>\r\n<p>Klient: Aha, to nie mamy zni\u017Cki. A czy s\u0105 <strong>bilety grupowe<\/strong>?<\/p>\r\n<p>Kasa: Tak, od 20 os&oacute;b.<\/p>\r\n<p>Klient: to poprosz\u0119 4 bilety normalne.<\/p>\r\n<p>Kasa: 80 PLN prosz\u0119.<\/p>\r\n<p>Klient: <strong>A dlaczego tak drogo?<\/strong><\/p>\r\n<p>Kasa: Bo dzisiaj jest niedziela.<\/p>\r\n<p>Klient: Prosz\u0119. Mam 100 PLN.<\/p>\r\n<p>Kasa: Dzi\u0119kuj\u0119 bardzo. <strong>Reszta dla Pana.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Kasa, klient, poprosz\u0119 cztery bilety, czy to ma by\u0107 bilet rodzinny?, nie, nie jeste\u015Bmy rodzin\u0105, bilety normalne czy ulgowe?, a dla kogo s\u0105 ulgi?, bilety grupowe, dlaczego tak drogo?, reszta dla Pana.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

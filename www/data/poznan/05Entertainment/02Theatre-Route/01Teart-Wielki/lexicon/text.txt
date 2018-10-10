@@ -1,0 +1,284 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Spektakl</p>
+</td>
+<td>
+<p>spectacle/ play</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odegrać na deskach</p>
+</td>
+<td>
+<p>to stage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sztuki teatralne</p>
+</td>
+<td>
+<p>theater play</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opera</p>
+</td>
+<td>
+<p>opera</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>balet</p>
+</td>
+<td>
+<p>ballet</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>scena muzyczna</p>
+</td>
+<td>
+<p>musical stage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przerwa</p>
+</td>
+<td>
+<p>suspension</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>działalność</p>
+</td>
+<td>
+<p>activity</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wymuszona</p>
+</td>
+<td>
+<p>forced</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wznowić działalność artystyczną</p>
+</td>
+<td>
+<p>to reactivate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z czasem</p>
+</td>
+<td>
+<p>over time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zesp&oacute;ł opery poznańskiej</p>
+</td>
+<td>
+<p>Poznań Opera House troupe</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;łpracować</p>
+</td>
+<td>
+<p>to cooperate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z powodzeniem brać udział</p>
+</td>
+<td>
+<p>to participate with geat success</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wracać z wieloma nagrodami i wyr&oacute;żnieniami</p>
+</td>
+<td>
+<p>to return being awarded with prizes and medals</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uhonorować</p>
+</td>
+<td>
+<p>to honor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nagroda specjalna</p>
+</td>
+<td>
+<p>special prize</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kreowanie</p>
+</td>
+<td>
+<p>realization</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>scena kameralna</p>
+</td>
+<td>
+<p>small stage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prezentowanie małych form muzycznych</p>
+</td>
+<td>
+<p>presenting small musical forms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cykl spektakli</p>
+</td>
+<td>
+<p>a series of spectacles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kompozycje salonowe</p>
+</td>
+<td>
+<p>salon music compositions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>P&oacute;jść</p>
+</td>
+<td>
+<p>to go</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dawno</p>
+</td>
+<td>
+<p>long time ago</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świetny</p>
+</td>
+<td>
+<p>great</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>młody</p>
+</td>
+<td>
+<p>young</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nigdzie</p>
+</td>
+<td>
+<p>nowhere</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miasto</p>
+</td>
+<td>
+<p>city</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tydzień</p>
+</td>
+<td>
+<p>week</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wisieć</p>
+</td>
+<td>
+<p>to hang</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powiedzieć</p>
+</td>
+<td>
+<p>to say</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>posłuchać na żywo</p>
+</td>
+<td>
+<p>to listen live</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chętnie</p>
+</td>
+<td>
+<p>gladly/ eagerly</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powiedzieć coś na coś - co powiesz na koncert?</p>
+</td>
+<td>
+<p>How about a concert?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świetny pomysł</p>
+</td>
+<td>
+<p>great idea</p>
+</td>
+</tr>
+</tbody>
+</table>

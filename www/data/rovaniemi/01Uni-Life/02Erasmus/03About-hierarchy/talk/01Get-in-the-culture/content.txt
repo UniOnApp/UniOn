@@ -1,0 +1,13 @@
+{
+  "title": "Get in the culture",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p class=\"p1\">If you want to impress your teacher with some Finnish, we have some tips for you. Tap on the English phrase to see it in Finnish.<\/p>\r\n<p class=\"p2\">\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p class=\"p1\">Hello<\/p>\r\n<p class=\"p3\">Hei \/ Moi \/ Terve<\/p>\r\n<\/div>\r\n<p class=\"p2\">\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p class=\"p1\">Good morning<\/p>\r\n<p class=\"p3\">Hyv\u00E4\u00E4 huomenta<\/p>\r\n<\/div><p class=\"p2\">\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p class=\"p1\">Good afternoon<\/p>\r\n<p class=\"p3\">Hyv\u00E4\u00E4 iltap\u00E4iv\u00E4\u00E4<\/p>\r\n  <\/div><p class=\"p2\">\u00A0<\/p><div class=\"ht\">\r\n<p class=\"p1\">Nice to meet you<\/p>\r\n<p class=\"p3\">Hauska tavata<\/p>\r\n<\/div><p class=\"p2\">\u00A0<\/p><div class=\"ht\">\r\n<p class=\"p1\">Thank you<\/p>\r\n<p class=\"p3\">Kiitos<\/p>\r\n<\/div><p class=\"p2\">\u00A0<\/p><div class=\"ht\">\r\n<p class=\"p1\">Likewise, thank you<\/p>\r\n<p class=\"p3\">Kiitos samoin<\/p>\r\n<\/div><p class=\"p2\">\u00A0<\/p><div class=\"ht\">\r\n<p class=\"p1\">You\u2019re welcome \/ Don\u2019t mention it<\/p>\r\n<p class=\"p3\">Ole hyv\u00E4<\/p>\r\n<\/div><p class=\"p2\">\u00A0<\/p><div class=\"ht\">\r\n<p class=\"p1\">I understand<\/p>\r\n<p class=\"p3\">Ymm\u00E4rr\u00E4n<\/p>\r\n<\/div><p class=\"p2\">\u00A0<\/p><div class=\"ht\">\r\n<p class=\"p1\">I don\u2019t understand<\/p>\r\n<p class=\"p3\">En ymm\u00E4rr\u00E4<\/p>\r\n<\/div><p class=\"p2\">\u00A0<\/p><div class=\"ht\">\r\n<p class=\"p1\">Sorry<\/p>\r\n<p class=\"p3\">Anteeksi<\/p>\r\n<\/div><p class=\"p2\">\u00A0<\/p><div class=\"ht\">\r\n<p class=\"p1\">Never mind \/ That\u2019s okay<\/p>\r\n<p class=\"p3\">Ei se mit\u00E4\u00E4n<\/p>\r\n<\/div><p class=\"p2\">\u00A0<\/p><div class=\"ht\">\r\n<p class=\"p1\">Bye bye<\/p>\r\n<p class=\"p3\">Hei hei \/ Heippa<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

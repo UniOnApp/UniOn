@@ -1,0 +1,13 @@
+{
+  "title": "Teart Wielki",
+  "latitude": "52.410209",
+  "longitude": "16.917618",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>You don&rsquo;t need to be fluent in Finnish for bowling. However, as the mental side of this sport is half the victory, here are a few words you can use to impress the opponent &ndash; or hopefully even throw them off their game!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>keilailu<\/strong> bowling<\/p>\r\n<p><strong>keilahalli <\/strong>a bowling alley<\/p>\r\n<p><strong>keilapallo<\/strong> a bowling ball<\/p>\r\n<p><strong>keila <\/strong>a pin<\/p>\r\n<p><strong>rata<\/strong> a lane<\/p>\r\n<p><strong>kouru, r&auml;nni<\/strong> a gutter<\/p>\r\n<p><strong>kaato<\/strong> a strike<\/p>\r\n<p><strong>paikkoheitto, paikko<\/strong> a spare<\/p>\r\n<p><strong>tarjota<\/strong> to offer<\/p>\r\n<p><strong>tarjoan<\/strong> I&rsquo;ll buy, I&rsquo;ll offer<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>You can also practice some expressions. Tap to see the translation!<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Menn&auml;&auml;n keilaamaan!<\/strong><\/p>\r\n<p>Let&rsquo;s go bowling!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Kaato! Taisi olla jo kolmas.<\/strong><\/p>\r\n<p>A strike! I think it was already my third.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Jos saat kaksisataa (pistett&auml;), min&auml; tarjoan oluen!<\/strong><\/p>\r\n<p>If you score 200 (points) or more, I&rsquo;ll buy you a beer!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>R&auml;nnipallo. Taas.<\/strong><\/p>\r\n<p>A gutterball. Again.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Pit&auml;isik&ouml;h&auml;n sinun valita lastenpallo?<\/strong><\/p>\r\n<p>I wonder if you should choose a children&rsquo;s ball.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

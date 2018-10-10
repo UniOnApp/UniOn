@@ -1,0 +1,18 @@
+{
+  "title": "Conoscere l'italiano",
+  "latitude": "44.499556",
+  "longitude": "11.354637",
+  "difficulty": "low",
+  "keyword": ["lingua italiana",
+"livello di conoscenza della lingua",
+"corso di italiano",
+"corsi di italiano ",
+"esame",
+"tandem linguistico"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

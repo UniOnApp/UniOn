@@ -1,0 +1,13 @@
+{
+  "title": "The New Old Castle",
+  "latitude": "52.409188",
+  "longitude": "16.931083",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

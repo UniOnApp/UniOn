@@ -1,0 +1,13 @@
+{
+  "title": "Supermarkets",
+  "latitude": "40.204427",
+  "longitude": "-8.407127",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

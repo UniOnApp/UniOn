@@ -1,0 +1,13 @@
+{
+  "title": "Street Fairs",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["fair","feira","clothes","souvenir","velharias","medieval"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

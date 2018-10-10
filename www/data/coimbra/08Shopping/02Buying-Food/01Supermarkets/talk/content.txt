@@ -1,0 +1,13 @@
+{
+  "title": "Supermarkets",
+  "latitude": "40.204427",
+  "longitude": "-8.407127",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>No supermercado<\/strong> &ndash; at the supermarket<\/p>\r\n<p>Pode ajudar-me? - <em>Can you help me?<\/em><\/p>\r\n<p>Com certeza. &ndash; <em>Of course<\/em><\/p>\r\n<p>Onde posso encontrar gel de banho? &ndash; <em>Where can I find shower gel?<\/em><\/p>\r\n<p>No terceiro corredor, &agrave; direita. &ndash; <em>Third corridor, right side.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Lista de compras &ndash; <em>shopping list<\/em><\/p>\r\n<p>Um <strong>quilo<\/strong> de farinha &ndash; <em>1kg of flour<\/em><\/p>\r\n<p>Um <strong>litro <\/strong>de azeite &ndash; <em>1l of olive oil<\/em><\/p>\r\n<p>Uma <strong>caixa<\/strong> de ovos &ndash; <em>1 box of eggs<\/em><\/p>\r\n<p>Duas <strong>latas <\/strong>de cerveja &ndash; <em>2 cans of beer<\/em><\/p>\r\n<p>Uma <strong>garrafa <\/strong>de vinho &ndash; <em>1 bottle of wine<\/em><\/p>\r\n<p>Tr&ecirc;s <strong>pacotes<\/strong> de bolachas &ndash; <em>3 packs of biscuits<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

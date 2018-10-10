@@ -1,0 +1,13 @@
+{
+  "title": "Chiedere informazioni sugli esami",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p style=\"text-align: center;\">Talk<\/p><\/th><th><p style=\"text-align: center;\">Answer Models<\/p><\/th><\/tr><tr><td><p>Quando &egrave; il prossimo appello?<\/p><\/td><td><p>Il prossimo appello &egrave; a ottobre<\/p><p>Non ci sono pi&ugrave; appelli in questa sessione<\/p><\/td><\/tr><tr><td><p>&Egrave; un esame scritto o orale?<\/p><p>Bisogna scrivere una tesina?<\/p><\/td><td><\/td><\/tr><tr><td><p>Dove posso prendere in prestito i libri?<\/p><p>Dove posso comprare i libri?<\/p><p>Dove si comprano i libri?<\/p><\/td><td><p>Puoi andare alla biblioteca del tuo dipartimento<\/p><\/td><\/tr><tr><td><p>Quanti appelli ci sono in un anno?<\/p><\/td><td><p>In un anno di solito ci sono 6 appelli<\/p><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Posso<\/strong> + verb = <em>May I&hellip;?\/ Can I&hellip;?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Posso? &eacute; usado para todas as stiua&ccedil;&otilde;es em que h&aacute; um pedido. O sentido do verbo principal est&aacute; no contexto em que a pergunta &eacute; usada:<\/p>\r\n<p><em>Is used for every request situation.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Posso (sentar-me)? <em>May I sit down?<\/em><\/p>\r\n<p>Posso (levar a cadeira)? <em>May I take the chair?<\/em><\/p>\r\n<p>Posso (usar a caneta)? <em>Can I use the pen?<\/em><\/p>\r\n<p>Posso (entrar)? <em>Can I come in?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>During a test\/ an exam<\/strong><\/p>\r\n<p>- <strong>Posso<\/strong> escrever a l&aacute;pis?<\/p>\r\n<p><em>- Can I write with a pencil?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- <strong>Posso<\/strong> usar uma folha de rascunho?<\/p>\r\n<p><em>- Can I use a sheet of paper for rough work?<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

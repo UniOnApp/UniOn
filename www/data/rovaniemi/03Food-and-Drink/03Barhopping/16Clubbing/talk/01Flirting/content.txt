@@ -1,0 +1,13 @@
+{
+  "title": "Flirting",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>See if you can guess the meanings of some more or less successful opening lines. Tap to see the translation.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>Sinulla on kauniit silm&auml;t.<\/p>\r\n<p>You have beautiful eyes.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>K&auml;yts&auml; usein t&auml;&auml;ll&auml;? (K&auml;yts&auml; = k&auml;ytk&ouml; sin&auml;)<\/p>\r\n<p>Do you come here often?<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Opiskeletko sin&auml; yliopistossa?<\/p>\r\n<p>Do you study at the university?<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>T&auml;m&auml; b&auml;ndi\/biisi kuulostaa hyv&auml;lt&auml;!<\/p>\r\n<p>This band\/song sounds great!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Min&auml; olen italialainen\/puolalainen\/portugalilainen\/--.<\/p>\r\n<p>I am Italian\/Polish\/Portuguese\/--.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Taisin n&auml;hd&auml; sinut t&auml;&auml;ll&auml; my&ouml;s viime viikolla.<\/p>\r\n<p>I think I saw you here last week as well.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Ajattelin hakea uuden oluen. Tuonko sinulle toisen?<\/p>\r\n<p>I think I&rsquo;ll get another beer. Would you like another one?<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Teille vai meille?<\/p>\r\n<p>Your place or mine?<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Suksi kuuseen!<\/p>\r\n<p>Get lost! (Lit.: ski to a spruce tree)<\/p>\r\n  <p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

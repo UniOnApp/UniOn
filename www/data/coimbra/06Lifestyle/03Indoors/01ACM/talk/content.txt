@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Hor&aacute;rio de abertura &ndash; <\/strong><em>opening hours<\/em><\/p>\r\n<p><strong>Hor&aacute;rio de encerramento &ndash; <\/strong><em>closing hours<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Prendere l’autobus",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "low",
+  "keyword": ["autobus",
+"Tper",
+"percorso",
+"percorsi ",
+"orario",
+"orari ",
+"linea",
+"linee",
+"biglietto",
+"biglietti"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

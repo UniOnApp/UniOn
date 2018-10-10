@@ -1,0 +1,65 @@
+<p><strong>Persone</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' >L'attore/L'attrice</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/03Sui-generis/")' >L'attore/L'attrice dilettante, professionista</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >La compagnia teatrale</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >La maschera</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >Il suggeritore</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' >Lo spettatore/La spettatrice</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >L'ospite d&rsquo;onore</span></p>
+<p>&nbsp;</p>
+<p><strong>Generi teatrali</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro di prosa</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro tragico, tragedia</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro drammatico, dramma</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro comico, commedia</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro d&rsquo;opera, opera</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro lirico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro d&rsquo;operetta</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro di variet&agrave;</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Cabaret</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro popolare</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro classico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro contemporaneo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' style="color: #3366ff;">Teatro orientale</span></p>
+<p>&nbsp;</p>
+<p><strong>Luoghi</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >La balconata</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >La galleria</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >Il palco</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >Il palcoscenico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >La platea</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >Il sipario</span></p>
+<img style="width:100%;"  src="data/bologna/05Entertainment/04A-teatro/lexicon/teatro.jpg" alt=""/><br>
+<p>Figura: piantina teatro auditorium Manzoni di Bologna </p>
+<p>&nbsp;</p>
+<p><strong>Altre parole a teatro </strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >L'abbonamento</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >L'atto</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' >La rappresentazione</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/03Sui-generis/")' >Il canovaccio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/03Sui-generis/")' >Il cartellone</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >L'intervallo o <em>entracte</em></span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >La pi&egrave;ce teatrale</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >La programmazione</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >La rassegna</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' >La recitazione</span></p>
+<p><span>La replica</span></p>
+<p><span>La riduzione</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/03Sui-generis/")' >Lo spettacolo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >la stagione artistica</span></p>
+<p>&nbsp;</p>
+<p><strong>Azioni a teatro</strong></p>
+<p><span>Aprire il sipario: </span><em>“alle 21.00 in punto si è aperto il sipario ed è iniziata la Bohème”. “all’apertura del sipario, sono usciti tutti gli attori sul palco”.</em></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >Applaudire: </span><em>“il pubblico ha applaudito per cinque minuti alla fine dello spettacolo”. “applaudire è segno di apprezzamento per lo spettacolo e la compagnia teatrale”.</em></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >Entrare in scena: </span><em>“l’attrice protagonista è entrata in scena prima del previsto”.</em></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/03Sui-generis/")' >Fare un provino: </span><em>“per ottenere la parte, bisogna fare un provino negli Studi di Milano”. “per gli attori fare i provini è sempre stressante”.</em></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' >Recitare: </span><em>“recitare è una passione che può diventare una professione”.</em></p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e Modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/01Benvenuti-a-teatro/")' >Di nicchia (eng. niche, niche product, niche market)</span>: <em>&ldquo;Costa molto, &egrave; un prodotto di nicchia&rdquo;; &ldquo;Solo una nicchia di mercato apprezza l&rsquo;innovazione tecnologica&rdquo;.</em><br /> Di nicchia significa adatto, rivolto o riservato a particolari gruppi di persone, di solito poche, e con peculiarit&agrave; specifiche, cio&egrave; interessi, passioni o disponibilit&agrave; economica<em>.</em></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >Dietro le quinte (eng. behind the scenes)</span>: <em>&ldquo;Ha agito dietro le quinte&rdquo;. </em><br /> Dietro le quinte &egrave; una espressione figurata che significa fare qualcosa di nascosto, senza farsi vedere, o senza attirare l&rsquo;attenzione degli altri. </p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >Un applauso fragoroso (eng. a loud and long applause)</span>: <em>&ldquo;Lo spettacolo &egrave; terminato con un applauso fragoroso del pubblico&rdquo;.</em><br /> L&rsquo;applauso (verbo: applaudire) &egrave; il sostantivo che indica battere le mani, di solito alla fine di uno spettacolo o di un evento, per congratularsi ed esprimere apprezzamento. L&rsquo;applauso fragoroso &egrave; particolarmente vivace e prolungato nel tempo.<em><br /></em></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >Arrotondare le entrate (eng. to round up the income)</span>: <em>&ldquo;Faccio qualche lavoretto estivo per arrotondare le entrate&rdquo;.<br /> </em>Espressione metaforica che significa guadagnare un po&rsquo; di soldi, di solito quel che basta per coprire le proprie necessit&agrave;, e non con l&rsquo;intento di arricchirsi.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/02Parole-a-teatro/")' >A 360 gradi (eng. well-rounded)</span>: <em>&ldquo;Si impegna sempre a 360 gradi&rdquo;; &ldquo;&Egrave; un artista a 360 gradi&rdquo;.</em> <br /> Indica completezza nelle azioni o nelle caratteristiche. Significa &lsquo;a fondo, al massimo&rsquo; o &lsquo;in tutte le direzioni&rsquo;.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/03Sui-generis/")' >A cavallo tra (eng. over, between)</span>: <em>&ldquo;Accadde a cavallo tra i due secoli&rdquo;; &ldquo;a cavallo tra lo sport e la danza artistica...&rdquo;.<br /> </em>In riferimento ai periodi di tempo, &lsquo;a cavallo tra&rsquo; significa nell&rsquo;arco temporale che va da un periodo a un altro. In generale &lsquo;a cavallo tra&rsquo; una cosa e l&rsquo;altra, significa avere caratteristiche di entrambe le cose menzionate. Se una disciplina &egrave; a cavallo tra uno sport e un&rsquo;arte, per esempio, vuol dire che per alcune caratteristiche &egrave; uno sport e per altre &egrave; un&rsquo;arte.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/04A-teatro/03Sui-generis/")' >Di nome e di fatto (eng. in name and in deed)</span>: <em>&ldquo;&Egrave; Bruno, di nome e di fatto&rdquo;.<br /> </em>Si usa come rafforzativo, per precisare che &egrave; davvero cos&igrave;, e non soltanto all&rsquo;apparenza. Nel caso di un uomo di nome Bruno, vuol dire che oltre a chiamarsi Bruno, ha anche i capelli neri.</p>

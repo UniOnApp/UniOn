@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Nieformalnie:<\/p>\r\n<p>A)<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>Cze\u015B\u0107<\/strong>, jestem Marek, a Ty?<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Cze\u015B\u0107, <strong>jestem <\/strong>Anna.<\/p>\r\n<p>B)<\/p>\r\n<p>&ndash; Cze\u015B\u0107, mam na imi\u0119 Marek, a Ty?<\/p>\r\n<p>- Cze\u015B\u0107, Anna.<\/p>\r\n<p>Cze\u015B\u0107 <strong>mam na imi\u0119<\/strong> &hellip;, a Ty?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Formalnie:<\/p>\r\n<p>A)<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/> Dzie\u0144 dobry, nazywam si\u0119 Marek Nowak.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Dzie\u0144 dobry, nazywam si\u0119 Anna Kowalska.<\/p>\r\n<p onclick=\"tts(this.innerHTML)\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Dzie\u0144 dobry, nazywam si\u0119 ... ... .<\/p>\r\n<p>B)<\/p>\r\n<p>- Dobry wiecz&oacute;r, nazywam si\u0119 Marek Nowak.<\/p>\r\n<p>- Dobry wiecz&oacute;r, Anna Kowalska.<\/p>\r\n<p>- Dobry wiecz&oacute;r, nazywam si\u0119 ... ... .<\/p>\r\n<p>C)&nbsp;<\/p>\r\n<p>- Dzie\u0144 dobry, Pani profesor\/<strong>Panie <\/strong>profesorze.<\/p>\r\n<p>- Dzie\u0144 dobry, <strong>Pani <\/strong>Anno\/Panie Marku.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Po\u017Cegnanie<\/strong>:<\/p>\r\n<p><strong>Nieformalnie:<\/strong><\/p>\r\n<p>- <strong>Na razie<\/strong>.<\/p>\r\n<p>-<strong> Cze\u015B\u0107<\/strong>.<\/p>\r\n<p>- <strong>Pa<\/strong>.<\/p>\r\n<p><strong>Formalnie<\/strong>:<\/p>\r\n<p>- <strong>Do widzenia<\/strong>.<\/p>\r\n<p>- <strong>Do zobaczenia<\/strong>.<\/p>\r\n<p>- <strong>Dobranoc<\/strong>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Cze\u015B\u0107, mam (mie\u0107) na imi\u0119 Anna\/jestem Anna, nazywam si\u0119 (nazywa\u0107 si\u0119) Anna Kowalska, Pani\/ Pan, na razie, cze\u015B\u0107, pa, do widzenia\/zobaczenia, dobranoc.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

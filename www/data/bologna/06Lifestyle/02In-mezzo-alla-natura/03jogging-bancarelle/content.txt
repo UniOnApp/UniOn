@@ -1,0 +1,17 @@
+{
+  "title": "Jogging tra le bancarelle",
+  "latitude": "44.502656",
+  "longitude": "11.346628",
+  "difficulty": "mid",
+  "keyword": ["Parco della Montagnola",
+"Pincio",
+"mercato",
+"Piazza VIII Agosto",
+"Montagnola"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

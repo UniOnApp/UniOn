@@ -1,0 +1,13 @@
+{
+  "title": "Śródecki Market Sq.",
+  "latitude": "52.410897",
+  "longitude": "16.953864",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

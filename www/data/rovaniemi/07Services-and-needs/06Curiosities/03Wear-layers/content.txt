@@ -1,0 +1,13 @@
+{
+  "title": "Wear layers!",
+  "latitude": "66.511885",
+  "longitude": "25.740351",
+  "difficulty": "",
+  "keyword": ["clothes","winter","talvi","vaatteet","pukeutuminen"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

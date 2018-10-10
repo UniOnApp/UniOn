@@ -1,0 +1,13 @@
+{
+  "title": "Jeżycki Market Sq.",
+  "latitude": "52.412186",
+  "longitude": "16.904575",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

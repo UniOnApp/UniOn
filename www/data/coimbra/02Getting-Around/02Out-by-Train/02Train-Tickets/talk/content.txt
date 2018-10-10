@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Multibanco fora de servi&ccedil;o.<\/p>\r\n<p><em>ATM is out of order.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>At the train station<\/strong><\/p>\r\n<p>- Queria comprar um bilhete de ida e volta no pr&oacute;ximo comboio para Lisboa-Oriente<\/p>\r\n<p><em>- I would like to buy a return ticket for the next train to Lisboa-Oriente.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Queria um bilhete em tur&iacute;stica, se faz favor.<\/p>\r\n<p><em>- I would like a 2<\/em><em><sup>nd<\/sup><\/em><em> class ticket please.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Posso ter um lugar &agrave; janela\/ no corredor?<\/p>\r\n<p><em>- Can I have a window seat\/ corridor seat?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Preferia um lugar de frente, por favor, n&atilde;o gosto de viajar de costas em comboios.<\/p>\r\n<p><em>- I would prefer to sit facing forwards, please, I don&rsquo;t like to face backwards on trains.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>esta&ccedil;&atilde;o - <em>station<\/em><\/p>\r\n<p>apeadeiro - <em>railway halt<\/em><\/p>\r\n<p>conforto\/ 1.&ordf; &ne; tur&iacute;stica\/ 2.&ordf;<em> - comfort\/ 1st class &ne; tourist\/ 2nd class<\/em><\/p>\r\n<p>passageiros - <em>passengers<\/em><\/p>\r\n<p>carruagem -<em> carriage<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

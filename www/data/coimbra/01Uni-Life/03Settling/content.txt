@@ -1,0 +1,13 @@
+{
+  "title": "Settling in",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["services","union","associação","AAC","serviços","académicos","Lusofonia","fitas"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

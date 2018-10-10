@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Finnish design includes a lot of glassware. They&rsquo;re often sets that consist of many different glass items with a specific function. Many Finns also like to collect a complete set of items that they&rsquo;ve happened to get from relatives or friends as a Christmas gift, for example.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Here's a vocabulary list for you:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>juomalasi<\/strong> a glass, a tumbler<\/p>\r\n<p><strong>kaadin<\/strong> a jug <\/p>\r\n<p><strong>karahvi<\/strong> a decanter, a carafe<\/p>\r\n<p><strong>kulho<\/strong> a bowl<\/p>\r\n<p><strong>kuohuviinilasi<\/strong> a champagne glass<\/p>\r\n<p><strong>kynttil&auml;lyhty<\/strong> a candle lantern<\/p>\r\n<p><strong>kynttil&auml;njalka<\/strong> a candlestick<\/p>\r\n<p><strong>lasilintu<\/strong> a glass bird<\/p>\r\n<p><strong>lasikoriste<\/strong> a glass decoration<\/p>\r\n<p><strong>lasivalaisin<\/strong> a glass lamp<\/p>\r\n<p><strong>lautanen<\/strong> a plate<\/p>\r\n<p><strong>malja<\/strong> a bowl, a cup<\/p>\r\n<p><strong>maljakko<\/strong> a vase<\/p>\r\n<p><strong>olutlasi<\/strong> a beer glass<\/p>\r\n<p><strong>punaviinilasi<\/strong> a red wine glass <\/p>\r\n<p><strong>ryyppylasi<\/strong> a shot glass<\/p>\r\n<p><strong>tarjoiluvati<\/strong> a dish, a platter <\/p>\r\n<p><strong>tuikkukynttil&auml;<\/strong> a tealight<\/p>\r\n<p><strong>valkoviinilasi<\/strong> a white wine glass<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

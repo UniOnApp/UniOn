@@ -1,0 +1,13 @@
+{
+  "title": "Fish vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>To tempt your tastebuds, here&rsquo;s some fish vocabulary for you!<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>graavilohi<\/strong> salt-cured raw salmon, gravlax<\/p>\r\n<p><strong>kalakukko<\/strong> Finnish fish pasty<\/p>\r\n<p><strong>kirjolohi<\/strong> rainbow trout<\/p>\r\n<p><strong>kylm&auml;savulohi<\/strong> cold-smoked salmon<\/p>\r\n<p><strong>lohikeitto<\/strong> salmon soup<\/p>\r\n<p><strong>loimulohi<\/strong> &ldquo;blazed&rdquo; salmon (a fillet of salmon, or rainbow trout, is nailed to a plank with wooden pegs and cooked over an open fire)<\/p>\r\n<p><strong>m&auml;ti<\/strong> fish roe<\/p>\r\n<p><strong>nahkiainen<\/strong> lamprey<\/p>\r\n<p><strong>Norjan lohi<\/strong> Norwegian salmon<\/p>\r\n<p><strong>paistetut muikut<\/strong> fried vendace<\/p>\r\n<p><strong>rapu <\/strong>crayfish<\/p>\r\n<p><strong>rautu <\/strong>arctic char<\/p>\r\n<p><strong>savusiika<\/strong> smoked whitefish<\/p>\r\n<p><strong>siika <\/strong>whitefish<\/p>\r\n<p><strong>sillilautanen <\/strong>herring platter<\/p>\r\n<p><strong>villi lohi<\/strong> wild salmon<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Try different types of fish and find your favourite! In addition to salmon and rainbow trout, Finns appreciate <strong>siika<\/strong> (whitefish), <strong>taimen<\/strong> (trout), <strong>harjus<\/strong> (grayling), <strong>muikku<\/strong> (vendace), <strong>ahven<\/strong> (perch) and <strong>kuha<\/strong> (pikeperch). They&rsquo;re all very tasty and healthy, and often caught nearby. Ask the waiter in the restaurant or the salesperson in the supermarket for details about the origin of the fish &ndash; they&rsquo;ll be happy to tell you! <\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

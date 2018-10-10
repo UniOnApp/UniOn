@@ -1,0 +1,132 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Zima</p>
+</td>
+<td>
+<p>winter</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gwiazda</p>
+</td>
+<td>
+<p>star</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zmrok</p>
+</td>
+<td>
+<p>nightfall</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>barszcz z uszkami</p>
+</td>
+<td>
+<p>red borscht with raviolis</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pierogi z kapustą i grzybami</p>
+</td>
+<td>
+<p>dumplings stuffed with sauerkraut and mushrooms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kapusta z grochem</p>
+</td>
+<td>
+<p>braised sauerkraut with peas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>karp w r&oacute;żnych odsłonach</p>
+</td>
+<td>
+<p>carp served in several styles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>makowiec</p>
+</td>
+<td>
+<p>poppy seed cake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kolędy</p>
+</td>
+<td>
+<p>carols</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>choinka</p>
+</td>
+<td>
+<p>Christmas tree</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opłatek</p>
+</td>
+<td>
+<p>wafer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>post</p>
+</td>
+<td>
+<p>Advent</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>śnieg</p>
+</td>
+<td>
+<p>snow</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzielić się opłatkiem</p>
+</td>
+<td>
+<p>to break the wafer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;lnie kolędować</p>
+</td>
+<td>
+<p>carol singing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rzeźba lodowa</p>
+</td>
+<td>
+<p>ice sculpture</p>
+</td>
+</tr>
+</tbody>
+</table>

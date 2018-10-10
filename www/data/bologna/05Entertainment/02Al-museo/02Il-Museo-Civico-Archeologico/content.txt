@@ -1,0 +1,15 @@
+{
+  "title": "Il Museo Civico Archeologico",
+  "latitude": "44.4931800",
+  "longitude": "11.3436506",
+  "difficulty": "high",
+  "keyword": ["Museo Civico Archeologico",
+"Palazzo Galvani",
+"Felsina"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

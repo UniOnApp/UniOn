@@ -1,0 +1,18 @@
+{
+  "title": "Sotto le stelle",
+  "latitude": "44.501910",
+  "longitude": "11.336576",
+  "difficulty": "mid",
+  "keyword": ["Discoteche all\u2019aperto",
+"Villa Serena",
+"Chalet dei Giardini Margherita",
+"Vicolo Bolognetti",
+"Parco del Cavaticcio ",
+"discoteca"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

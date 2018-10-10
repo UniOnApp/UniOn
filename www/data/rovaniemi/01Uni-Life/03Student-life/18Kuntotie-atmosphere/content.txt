@@ -1,0 +1,13 @@
+{
+  "title": "Kuntotie atmosphere",
+  "latitude": "66.492064",
+  "longitude": "25.767944",
+  "difficulty": "",
+  "keyword": ["home","international","cook","sauna","culture","like","dislike","pitää"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

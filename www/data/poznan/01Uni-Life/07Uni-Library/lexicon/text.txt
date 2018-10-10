@@ -1,0 +1,124 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>biblioteka</p>
+</td>
+<td>
+<p>library</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zbiory historyczne</p>
+</td>
+<td>
+<p>historical collections</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wielodziedzinowe</p>
+</td>
+<td>
+<p>on various subject areas</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nowoczesna zdalna platforma</p>
+</td>
+<td>
+<p>modern online platform</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>baza elektroniczna</p>
+</td>
+<td>
+<p>electronic database</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Centrum Informacji Naukowej i Katalogu</p>
+</td>
+<td>
+<p>the Research and Reference Information Centre + Catalogue Information</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>konsultacje online</p>
+</td>
+<td>
+<p>online support</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Nocne Rendez-BU</p>
+</td>
+<td>
+<p>Night Rendez-BU</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>by m&oacute;c korzystać ze zbior&oacute;w Biblioteki trzeba się zapisać i wpłacić roczną opłatę wysokości 12 złotych</p>
+</td>
+<td>
+<p>To use the Library collections, it is necessary to sign in and pay the yearly fee of 12 zł</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypożyczać</p>
+</td>
+<td>
+<p>to borrow </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>hasło</p>
+</td>
+<td>
+<p>password</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypożyczalnia</p>
+</td>
+<td>
+<p>lending library</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czytelnia</p>
+</td>
+<td>
+<p>reading room</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czy to wszystko?</p>
+</td>
+<td>
+<p>Is that all?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>proszę bardzo</p>
+</td>
+<td>
+<p>Here you are.</p>
+</td>
+</tr>
+</tbody>
+</table>

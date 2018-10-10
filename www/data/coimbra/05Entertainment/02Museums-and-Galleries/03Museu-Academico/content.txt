@@ -1,0 +1,13 @@
+{
+  "title": "Museu Acad\u00E9mico",
+  "latitude": "40.208607",
+  "longitude": "-8.422638",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Education system",
+  "latitude": "66.503650",
+  "longitude": "25.717218",
+  "difficulty": "",
+  "keyword": ["pisa","children","honesty","written assignments","luento","study","essay","anteeksi"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

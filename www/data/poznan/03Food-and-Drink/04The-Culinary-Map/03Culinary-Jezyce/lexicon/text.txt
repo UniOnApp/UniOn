@@ -1,0 +1,68 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Targ warzyw i owoc&oacute;w</p>
+</td>
+<td>
+<p>fruit and vegetable market</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oryginalne lokale</p>
+</td>
+<td>
+<p>original restaurants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wegetarianie</p>
+</td>
+<td>
+<p>vegetarians</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>weganie</p>
+</td>
+<td>
+<p>vegans</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>smakosze mięsa/ kuchni tradycyjnej/międzynarodowej/orientalnej/żywności ekologicznej,</p>
+</td>
+<td>
+<p>enthusiasts of meat, traditional, international/ oriental cuisines/ organic food</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zdrowa żywność</p>
+</td>
+<td>
+<p>healthy food</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świeżo wyciskane soki</p>
+</td>
+<td>
+<p>Freshly squeezed juices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w zależności od sezonu</p>
+</td>
+<td>
+<p>depending on the season</p>
+</td>
+</tr>
+</tbody>
+</table>

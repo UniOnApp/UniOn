@@ -1,0 +1,132 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Polisa ubezpieczeniowa</p>
+</td>
+<td>
+<p>insurance policy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pochodzić spoza strefy Shengen lub spoza Unii Europejskiej</p>
+</td>
+<td>
+<p>come from a non-Shengen state, or outside the EU</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obowiązkowe ubezpieczenie medyczne</p>
+</td>
+<td>
+<p>obligatory health insurance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obcokrajowiec</p>
+</td>
+<td>
+<p>foreigner</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skorzystać z pomocy w sytuacjach losowych</p>
+</td>
+<td>
+<p>to get help in unforeseen circumstances</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nagłe zachorowania</p>
+</td>
+<td>
+<p>sudden illness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nieszczęśliwy wypadek</p>
+</td>
+<td>
+<p>unfortunate accident</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opieka lekarska</p>
+</td>
+<td>
+<p>medical care</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyjęcie do szpitala</p>
+</td>
+<td>
+<p>hospital treatment</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pomoc stomatologiczna</p>
+</td>
+<td>
+<p>visit to a dentist</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nastąpi zwrot koszt&oacute;w leczenia</p>
+</td>
+<td>
+<p>reimbursement of medical help costs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>osoby odwiedzające Europę</p>
+</td>
+<td>
+<p>foreigners visiting Europe</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podr&oacute;żujące służbowo</p>
+</td>
+<td>
+<p>on a business trip</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wiza Shengen</p>
+</td>
+<td>
+<p>Shengen visa</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>karta pobytu</p>
+</td>
+<td>
+<p>residence card</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pozwolenie o pracę</p>
+</td>
+<td>
+<p>work permit</p>
+</td>
+</tr>
+</tbody>
+</table>

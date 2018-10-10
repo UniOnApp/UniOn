@@ -1,0 +1,13 @@
+{
+  "title": "Ordinare in gelateria",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p >Talk<\/p><\/th><th><p >Answer Models<\/p><\/th><\/tr><tr><td><p>Salve, vorrei un gelato con due gusti. Nel cono per favore.<\/p><\/td><td><\/td><\/tr><tr><td><p>Per me una coppetta con crema e nocciola.<\/p><\/td><td><\/td><\/tr><tr><td><p>Vorrei una focaccia con il gelato. Pu&ograve; scaldarla un po&rsquo; per favore?<\/p><\/td><td><\/td><\/tr><tr><td><p>Pu&ograve; aggiungere un po&rsquo; di panna montata?<\/p><\/td><td><\/td><\/tr><tr><td><p>Avete dei sorbetti?<\/p><\/td><td><\/td><\/tr><tr><td><p>Vorrei una granita alla menta da portare via per favore<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

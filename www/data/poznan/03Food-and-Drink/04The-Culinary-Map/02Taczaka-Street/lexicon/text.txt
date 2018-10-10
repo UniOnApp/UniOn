@@ -1,0 +1,76 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Idealna alternatywa dla Starego Rynku</p>
+</td>
+<td>
+<p>perfect alternative for the Old Market</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyciągać tłumy młodzieży</p>
+</td>
+<td>
+<p>to swarm with young people</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oferować</p>
+</td>
+<td>
+<p>to offer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kuchnia międzynarodowa</p>
+</td>
+<td>
+<p>international cuisine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kuchnia polska</p>
+</td>
+<td>
+<p>Polish cuisine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kuchnia włoska</p>
+</td>
+<td>
+<p>Italian cuisine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kuchnia meksykańska</p>
+</td>
+<td>
+<p>Mexican cuisine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kuchnia orientalna</p>
+</td>
+<td>
+<p>Oriental cuisine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>por&oacute;wnywać</p>
+</td>
+<td>
+<p>to compare</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Ulubiony nap&oacute;j</p>
+</td>
+<td>
+<p>favorite beverage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piwo jasne beczkowe</p>
+</td>
+<td>
+<p>classic pale lager from a cask</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z sokami</p>
+</td>
+<td>
+<p>with juice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przez słomkę</p>
+</td>
+<td>
+<p>through a straw</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>grzane piwo z przyprawami</p>
+</td>
+<td>
+<p>mulled ale with spices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słynie (słynąć)</p>
+</td>
+<td>
+<p>to be famous for</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>browar</p>
+</td>
+<td>
+<p>brewery</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sponsor</p>
+</td>
+<td>
+<p>sponsor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stara fabryka piwa</p>
+</td>
+<td>
+<p>old brewery</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>piwo lokalne</p>
+</td>
+<td>
+<p>local beer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>technika produkcji</p>
+</td>
+<td>
+<p>production technique</p>
+</td>
+</tr>
+</tbody>
+</table>

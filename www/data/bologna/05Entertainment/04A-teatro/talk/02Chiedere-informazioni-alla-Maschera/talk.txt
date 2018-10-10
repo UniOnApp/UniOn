@@ -1,0 +1,1 @@
+<table class="talkTable"><tbody><tr><th>Talk</th><th>Answer Models</th></tr><tr><td><p>Mi scusi, abbiamo i posti 55 e 56, in Platea, fila R</p></td><td></td></tr><tr><td><p>Quanto dura l&rsquo;intervallo tra il primo e il secondo atto?</p></td><td></td></tr></tbody></table>

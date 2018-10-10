@@ -1,0 +1,13 @@
+{
+  "title": "Orto botanico",
+  "latitude": "44.499248",
+  "longitude": "11.352789",
+  "difficulty": "mid",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

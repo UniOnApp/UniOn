@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Celnik<\/strong>: <strong>Czy to jest Pana baga\u017C?<\/strong><\/p>\r\n<p><strong>Student<\/strong>: Tak.<\/p>\r\n<p><strong>C<\/strong>: <strong>Czy ma Pan jakie\u015B p\u0142yny?<\/strong><\/p>\r\n<p><strong>S<\/strong>: Tak, <strong>kosmetyki w ma\u0142ych opakowaniach.<\/strong><\/p>\r\n<p><strong>C<\/strong>: <strong>Prosz\u0119 wyj\u0105\u0107 i pokaza\u0107. Czy ma Pan ostre narz\u0119dzia?<\/strong><\/p>\r\n<p><strong>S<\/strong>: Nie, nie mam.<\/p>\r\n<p><strong>C<\/strong>: <strong>Czy ma Pan co\u015B do oclenia?<\/strong><\/p>\r\n<p><strong>S<\/strong>: Nie, mam tylko <strong>rzeczy osobiste i dokumenty. <\/strong><\/p>\r\n<p><strong>C<\/strong>: <strong>Czy m&oacute;g\u0142by Pan otworzy\u0107 t\u0119 walizk\u0119? <\/strong><\/p>\r\n<p><strong>S<\/strong>: Oczywi\u015Bcie. (Otwiera walizk\u0119).<\/p>\r\n<p><strong>C<\/strong>: Dzi\u0119kuj\u0119 bardzo, <strong>\u017Cycz\u0119 udanego lotu<\/strong>, do widzenia.<\/p>\r\n<p><strong>S<\/strong>: Dzi\u0119kuj\u0119 i do widzenia.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Czy to jest Pana baga\u017C?, Czy ma (mie\u0107) Pan jakie\u015B p\u0142yny?, kosmetyki w ma\u0142ych opakowaniach, prosz\u0119 wyj\u0105\u0107 i pokaza\u0107, czy ma Pan ostre narz\u0119dzia?, czy ma Pan co\u015B do oclenia?, rzeczy osobiste i dokumenty, czy m&oacute;g\u0142by Pan otworzy\u0107 t\u0119 walizk\u0119, \u017Cycz\u0119 (\u017Cyczy\u0107) udanego lotu.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

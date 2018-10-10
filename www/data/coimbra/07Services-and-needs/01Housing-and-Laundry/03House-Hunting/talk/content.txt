@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Procuro <\/strong> <em>- I am looking for<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&bull; quarto em apartamento &ndash; <em>room in an apartment<\/em><\/p>\r\n<p>&bull; quarto em moradia &ndash; <em>room in a house<\/em><\/p>\r\n<p>&bull; quarto em estabelecimento de hospedagem <em>&ndash; room in an accommodation establishment<\/em><\/p>\r\n<p>&bull; apartamento <em>&ndash; apartment<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>renda = mensalidade <em>&ndash; rent (in Portugal it tends to be monthly)<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

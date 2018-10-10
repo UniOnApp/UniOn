@@ -1,0 +1,13 @@
+{
+  "title": "Driving in winter",
+  "latitude": "66.489145",
+  "longitude": "25.655554",
+  "difficulty": "",
+  "keyword": ["driving","snow","winter","rally","ice","road","car","reindeer"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

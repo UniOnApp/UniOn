@@ -1,0 +1,13 @@
+{
+  "title": "Monumentais",
+  "latitude": "40.2081292",
+  "longitude": "-8.4218983",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

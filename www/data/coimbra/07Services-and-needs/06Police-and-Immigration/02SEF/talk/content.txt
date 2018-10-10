@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>verb SER<\/strong><\/p>\r\n<p>eu <strong>sou<\/strong> | I am<\/p>\r\n<p>tu <strong>&eacute;s<\/strong> | you are<\/p>\r\n<p>ele\/ela\/voc&ecirc; <strong>&eacute;<\/strong> | he\/she\/you is<\/p>\r\n<p>n&oacute;s <strong>somos<\/strong> | we are<\/p>\r\n<p>eles\/elas\/voc&ecirc;s <strong>s&atilde;o<\/strong> | they+masc., they+fem., you+ pl. are<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Sou polaco\/ finland&ecirc;s\/ alem&atilde;o\/ italiano... &ndash;<em> I am Polish\/ Finnish\/ German\/ Italian&hellip;<\/em><\/p>\r\n<p>Sou estrangeiro &ndash;<em> I am a foreigner.<\/em><\/p>\r\n<p>As aulas de Portugu&ecirc;s para estrangeiros come&ccedil;am na pr&oacute;xima semana. &ndash; <em>The Portuguese for foreigners classes start next week.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>um estranho\/ uma estranha<\/strong> &ndash; <em>a stranger<\/em><\/p>\r\n<p>but<\/p>\r\n<p><strong>estranho\/ estranha<\/strong> &ndash; <em>strange, weird<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>N&atilde;o &eacute; permitida a entrada a pessoas estranhas ao servi&ccedil;o. &ndash; <em>No admittance except to employees.<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

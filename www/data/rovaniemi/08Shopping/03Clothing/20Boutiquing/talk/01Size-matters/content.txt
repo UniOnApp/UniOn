@@ -1,0 +1,13 @@
+{
+  "title": "Size matters",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Here you have some basic vocabulary that you&rsquo;d need in a Finnish clothing shop.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>You can comment on a piece of clothing for instance this way: <strong>T&auml;m&auml; on iso. Tarvitsen pienemm&auml;n.<\/strong> <em>This is big. I need a smaller one. <\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>If you want to try something on, then you can say: <strong>Voinko kokeilla t&auml;t&auml;?<\/strong> <em>Can I try this?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Take a look at the vocabulary below. Try to figure out how you&rsquo;d say the following phrases in Finnish! Tap on the phrase to see the translation. <\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>hyv&auml;<\/strong> good, fine<\/p>\r\n<p><strong>iso<\/strong> big<\/p>\r\n<p><strong>isompi<\/strong> bigger<\/p>\r\n<p><strong>kaunis<\/strong> beautiful<\/p>\r\n<p><strong>kiva<\/strong> nice<\/p>\r\n<p><strong>kokeilla<\/strong> to try, to try on<\/p>\r\n<p><strong>parempi<\/strong> better<\/p>\r\n<p><strong>pieni<\/strong> small<\/p>\r\n<p><strong>pienempi<\/strong> smaller<\/p>\r\n<p><strong>sopiva<\/strong> suitable<\/p>\r\n<p><strong>sovittaa<\/strong> to fit, to try on<\/p>\r\n<p><strong>tarvita<\/strong> to need<\/p>\r\n<p><strong>tarvitsen<\/strong> I need<\/p>\r\n<p><strong>tosi<\/strong> true; really<\/p>\r\n<p><strong>t&auml;m&auml;; t&auml;t&auml;<\/strong> this; this (in the partitive case form)<\/p>\r\n<p><strong>voida<\/strong> to can, to be able to<\/p>\r\n<p><strong>Voinko<\/strong> Can I&hellip;?<\/p>\r\n<p><strong>v&auml;h&auml;n<\/strong> a little<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>This is beautiful. <\/p>\r\n<p>T&auml;m&auml; on kaunis.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>This is nice, this is better.<\/p>\r\n<p>T&auml;m&auml; on kiva, t&auml;m&auml; on parempi.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Can I try this on?<\/p>\r\n<p>Voinko sovittaa t&auml;t&auml;? \/ Voinko kokeilla t&auml;t&auml;?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>This is a little bit small. I need a bigger one.<\/p>\r\n<p>T&auml;m&auml; on v&auml;h&auml;n pieni. (Min&auml;) tarvitsen isomman. <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>This is really good, this fits!<\/p>\r\n<p>T&auml;m&auml; on tosi hyv&auml;, t&auml;m&auml; on sopiva!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

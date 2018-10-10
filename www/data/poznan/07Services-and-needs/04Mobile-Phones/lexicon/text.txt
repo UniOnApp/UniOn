@@ -1,0 +1,148 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Działa/działać</p>
+</td>
+<td>
+<p>to operate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>operator sieci kom&oacute;rkowej</p>
+</td>
+<td>
+<p>mobile network provider</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oferują/oferować</p>
+</td>
+<td>
+<p>they offer/to offer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>usługi w abonamencie</p>
+</td>
+<td>
+<p>contract cell phone plan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>system mieszany&ndash; tzw. mix,</p>
+</td>
+<td>
+<p>mix option</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zarejestrować</p>
+</td>
+<td>
+<p>to register</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zadowolony</p>
+</td>
+<td>
+<p>satisfied</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dotychczasowy</p>
+</td>
+<td>
+<p>current</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zmienić</p>
+</td>
+<td>
+<p>to switch</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zachować</p>
+</td>
+<td>
+<p>to keep</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>załatwić formalności</p>
+</td>
+<td>
+<p>to go through formalities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podpisywanie umowy</p>
+</td>
+<td>
+<p>signing a contract</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzwonić</p>
+</td>
+<td>
+<p>to call</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>esemesować</p>
+</td>
+<td>
+<p>to send messages</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>korzystać z Internetu</p>
+</td>
+<td>
+<p>to use the Internet</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>punkt sprzedaży</p>
+</td>
+<td>
+<p>authorized dealers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>punkt obsługi klienta</p>
+</td>
+<td>
+<p>customer service points</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zrezygnować z&hellip;</p>
+</td>
+<td>
+<p>to resign from</p>
+</td>
+</tr>
+</tbody>
+</table>

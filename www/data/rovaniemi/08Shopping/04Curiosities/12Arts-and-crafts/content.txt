@@ -1,0 +1,13 @@
+{
+  "title": "Arts & crafts",
+  "latitude": "66.503691",
+  "longitude": "25.730804",
+  "difficulty": "",
+  "keyword": ["handicraft","art","artist","harrastus","askartelu"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

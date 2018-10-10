@@ -1,0 +1,13 @@
+{
+  "title": "A scuola di ballo",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Vorrei frequentare un corso di ballo scozzese per principianti. Ci sono posti disponibili?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Quando iniziano i corsi di lindi hop? Vorrei iscrivermi.<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Ho un tavolo prenotato a nome Conrad, per 6.<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Quanto costa il corso di danze popolari? Quante lezioni ci sono in tutto?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Fate anche corsi di tip tap, livello intermedio?<\/p><\/td><td>&nbsp;<\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

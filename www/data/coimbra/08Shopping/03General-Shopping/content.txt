@@ -1,0 +1,13 @@
+{
+  "title": "General Shopping",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["comercial","baixa","downtown","retail","outlet","roupa","calçado"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

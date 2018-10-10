@@ -1,0 +1,13 @@
+{
+  "title": "Reindeer stew",
+  "latitude": "66.502303",
+  "longitude": "25.737438",
+  "difficulty": "",
+  "keyword": ["poronkäristys","Pohjanhovi","recipe","restaurant","hotelli","ravintola","lingonberry"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

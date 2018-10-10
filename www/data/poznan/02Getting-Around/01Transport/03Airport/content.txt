@@ -1,0 +1,13 @@
+{
+  "title": "Airport",
+  "latitude": "52.419912",
+  "longitude": "16.829560",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

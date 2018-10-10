@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- To mo\u017Ce do <em>Cuba Libre<\/em>? Graj\u0105 tam rytmy latino. Mo\u017Cna nawet <strong>wzi\u0105\u0107 lekcje ta\u0144ca<\/strong> u profesjonalnych instruktor&oacute;w.<\/p>\r\n<p>- Nie musz\u0119 zaraz ta\u0144czy\u0107 jak Kuba\u0144czyk. <strong>Chc\u0119 si\u0119<\/strong> po prostu <strong>troch\u0119 porusza\u0107<\/strong>, <strong>rozprostowa\u0107 ko\u015Bci<\/strong> i dobrze si\u0119 bawi\u0107.<\/p>\r\n<p>- Jasne, po sesji wszyscy tego potrzebujemy.<\/p>\r\n<p>- Mo\u017Ce we\u017Amiemy z sob\u0105 koleg&oacute;w?<\/p>\r\n<p>- Dlaczego nie? Carmen i Aida chodz\u0105 tam cz\u0119sto, wi\u0119c wybior\u0105 si\u0119 z nami.<\/p>\r\n<p>- A kto z ch\u0142opak&oacute;w?<\/p>\r\n<p>- Wojtek lubi ta\u0144czy\u0107 i mo\u017Ce jeszcze Jaser.<\/p>\r\n<p>- No, to ju\u017C <strong>niez\u0142a paczka<\/strong>.<\/p>\r\n<p>- No to w sobot\u0119 ko\u0142o 21?<\/p>\r\n<p>- Mo\u017Ce 22. Nie lubi\u0119 by\u0107 pierwszy na imprezie.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Mam ochot\u0119, pota\u0144czy\u0107, siedzia\u0142em, pisa\u0142em, wzi\u0105\u0107 lekcje ta\u0144ca, chc\u0119 si\u0119 troch\u0119 porusza\u0107, rozprostowa\u0107 ko\u015Bci , niez\u0142a, <em>paczka<\/em>.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

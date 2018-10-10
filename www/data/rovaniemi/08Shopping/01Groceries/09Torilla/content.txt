@@ -1,0 +1,13 @@
+{
+  "title": "Torilla",
+  "latitude": "66.500364",
+  "longitude": "25.714362",
+  "difficulty": "",
+  "keyword": ["food","tori","berries","fruit","vegetables","market","peruna"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

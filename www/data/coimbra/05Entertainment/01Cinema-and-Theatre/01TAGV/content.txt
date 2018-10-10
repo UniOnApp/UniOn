@@ -1,0 +1,13 @@
+{
+  "title": "TAGV",
+  "latitude": "40.2093367",
+  "longitude": "-8.4227658",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><span>Here&rsquo;s some important vocabulary for you! You can also try out some expressions if you need them.<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>apteekki <\/strong>a pharmacy<\/span><\/p>\r\n<p><span><strong>haava<\/strong> a wound, a cut<\/span><\/p>\r\n<p><span><strong>hyttyskarkote<\/strong> mosquito repellent<\/span><\/p>\r\n<p><span><strong>kipu<\/strong> pain<\/span><\/p>\r\n<p><span><strong>kuumemittari<\/strong> a thermometer<\/span><\/p>\r\n<p><span><strong>laastari<\/strong> a plaster, a band-aid<\/span><\/p>\r\n<p><span><strong>l&auml;&auml;ke <\/strong>medicine<\/span><\/p>\r\n<p><span><strong>resepti <\/strong>a prescription<\/span><\/p>\r\n<p><span><strong>s&auml;rky<\/strong> ache, pain<\/span><\/p>\r\n<p><span><strong>tabletti<\/strong> a pill<\/span><\/p>\r\n<p><span><strong>vitamiinit<\/strong> vitamins<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Minulla on p&auml;&auml;ns&auml;rky&auml;.<\/strong><\/span><\/p>\r\n<p><span>I have some headache.<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Minulla on jalka \/ k&auml;si \/ selk&auml; kipe&auml;.<\/strong><\/span><\/p>\r\n<p><span>I have pain in my foot (or leg) \/ hand (or arm) \/ back.<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Loukkasin jalan \/ k&auml;den \/ sel&auml;n.<\/strong><\/span><\/p>\r\n<p><span>I hurt my foot (or leg) \/ hand (or arm) \/ back.<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Tarvitsen allergial&auml;&auml;kett&auml;.<\/strong><\/span><\/p>\r\n<p><span>I need medicin for my allergy.<\/span><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><span><strong>Tarvitsen s&auml;rkyl&auml;&auml;kett&auml;.<\/strong><\/span><\/p>\r\n<p><span>I need painkillers.<\/span><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

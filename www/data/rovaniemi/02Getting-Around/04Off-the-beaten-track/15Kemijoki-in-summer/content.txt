@@ -1,0 +1,13 @@
+{
+  "title": "Kemijoki in summer",
+  "latitude": "66.500699",
+  "longitude": "25.743263",
+  "difficulty": "",
+  "keyword": ["Kemijoki","joki","river","Ounasjoki","swim","uida"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

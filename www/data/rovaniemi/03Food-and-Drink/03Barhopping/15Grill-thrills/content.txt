@@ -1,0 +1,13 @@
+{
+  "title": "Grill thrills",
+  "latitude": "66.498138",
+  "longitude": "25.731337",
+  "difficulty": "",
+  "keyword": ["kiosk","hamburger","alakunnas","drive-through","autogrilli","hampurilainen","makkara","rops"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

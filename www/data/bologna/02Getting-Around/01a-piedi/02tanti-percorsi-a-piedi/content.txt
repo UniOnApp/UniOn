@@ -1,0 +1,17 @@
+{
+  "title": "Tanti percorsi a piedi",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["itinerario",
+"via D\u2019Azeglio",
+"Ghetto ebraico",
+"Canale delle Moline",
+"Finestrella di via Piella"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

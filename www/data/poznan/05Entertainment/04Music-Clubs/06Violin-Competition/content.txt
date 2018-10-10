@@ -1,0 +1,13 @@
+{
+  "title": "Violin Competition",
+  "latitude": "52.408520",
+  "longitude": "16.916144",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

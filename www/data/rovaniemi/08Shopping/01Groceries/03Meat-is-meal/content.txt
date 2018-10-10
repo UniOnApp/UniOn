@@ -1,0 +1,13 @@
+{
+  "title": "Meat is meal",
+  "latitude": "66.493203",
+  "longitude": "25.664070",
+  "difficulty": "",
+  "keyword": ["liha","berry","food","ruoka","delicacy"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

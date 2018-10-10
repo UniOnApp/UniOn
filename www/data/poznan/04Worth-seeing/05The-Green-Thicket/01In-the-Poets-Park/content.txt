@@ -1,0 +1,13 @@
+{
+  "title": "In the Poet's Park",
+  "latitude": "52.409671",
+  "longitude": "16.917230",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

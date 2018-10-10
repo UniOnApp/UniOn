@@ -1,0 +1,13 @@
+{
+  "title": "Art everywhere!",
+  "latitude": "66.485914",
+  "longitude": "25.718280",
+  "difficulty": "",
+  "keyword": ["design","exhibition","gallery","kilo","kajo","hämärä","katve","valo"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

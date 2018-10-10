@@ -1,0 +1,13 @@
+{
+  "title": "Jardim da Manga",
+  "latitude": "40.211123",
+  "longitude": "-8.4299928",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

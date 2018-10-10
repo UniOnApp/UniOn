@@ -1,0 +1,13 @@
+{
+  "title": "Chocolate",
+  "latitude": "66.502853",
+  "longitude": "25.729856",
+  "difficulty": "",
+  "keyword": ["Fazer","cafe","kahvila","dialogue","ice cream","buying","jäätelö","suklaa","berry"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

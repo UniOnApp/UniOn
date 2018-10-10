@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Kasjerka<\/strong>: Dzie\u0144 dobry, s\u0142ucham?<\/p>\r\n<p><strong>Student<\/strong>: Dzie\u0144 dobry, <strong>poprosz\u0119 dwa bilety do Poznania<\/strong><u>.<\/u><\/p>\r\n<p><strong>K<\/strong>: <strong>Na kiedy?<\/strong><\/p>\r\n<p><strong>S<\/strong>: <strong>Na dzisiaj.<\/strong><\/p>\r\n<p><strong>K<\/strong>: O kt&oacute;rej godzinie chce Pan jecha\u0107?<\/p>\r\n<p><strong>S<\/strong>: Oko\u0142o dwunastej.<\/p>\r\n<p><strong>K<\/strong>: Jest <strong>poci\u0105g pospieszny o jedenastej pi\u0119\u0107dziesi\u0105t<\/strong> i Intercity o dwunastej pi\u0119tna\u015Bcie.<\/p>\r\n<p><strong>S<\/strong>: To poprosz\u0119 ten pospieszny.<\/p>\r\n<p><strong>K<\/strong>: Jakie bilety?<\/p>\r\n<p><strong>S<\/strong>: Poprosz\u0119 trzy bilety studenckie.<\/p>\r\n<p><strong>K<\/strong>: <strong>Kt&oacute;ra klasa?<\/strong><u> <\/u><\/p>\r\n<p><strong>S<\/strong>: <strong>Druga. Czy mog\u0119 prosi\u0107 o miejsca w wagonie bezprzedzia\u0142owym?<\/strong><\/p>\r\n<p><strong>K<\/strong>: <strong>Niestety, ju\u017C nie ma. Czy miejsca maj\u0105 by\u0107 obok siebie? <\/strong><\/p>\r\n<p><strong>S<\/strong>: Tak, poprosz\u0119. Czy mog\u0119 zap\u0142aci\u0107 kart\u0105?<\/p>\r\n<p><strong>K<\/strong>: Tak, oczywi\u015Bcie. <strong>Dwie\u015Bcie trzydzie\u015Bci osiem z\u0142otych osiemdziesi\u0105t groszy<\/strong>.<\/p>\r\n<p><strong>S<\/strong>: Prosz\u0119.<\/p>\r\n<p><strong>K<\/strong>: Oto bilet i reszta dla Pana. <strong>\u017Byczymy mi\u0142ej podr&oacute;\u017Cy<\/strong>.<\/p>\r\n<p><strong>S<\/strong>: Dzi\u0119kuj\u0119. <strong>Z kt&oacute;rego peronu odje\u017Cd\u017Ca ten poci\u0105g? <\/strong><\/p>\r\n<p><strong>K<\/strong>: Z pierwszego.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Poprosz\u0119 (poprosi\u0107) dwa bilety do Poznania, na kiedy?, na dzisiaj, poci\u0105g pospieszny, o jedenastej pi\u0119\u0107dziesi\u0105t, kt&oacute;ra klasa?, druga klasa, niestety, ju\u017C nie ma, czy miejsca maj\u0105 by\u0107 obok siebie?, czy mog\u0119 prosi\u0107 o miejsca w wagonie bezprzedzia\u0142owym? z kt&oacute;rego peronu odje\u017Cd\u017Ca (odje\u017Cd\u017Ca\u0107) ten poci\u0105g?, \u017Cyczymy (\u017Cyczy\u0107) mi\u0142ej podr&oacute;\u017Cy.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

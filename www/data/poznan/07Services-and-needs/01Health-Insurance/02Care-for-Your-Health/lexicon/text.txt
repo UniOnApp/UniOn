@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Cudzoziemiec</p>
+</td>
+<td>
+<p>foreigner</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świadczenia opieki zdrowotnej</p>
+</td>
+<td>
+<p>medical care services</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>finansowany ze środk&oacute;w publicznych</p>
+</td>
+<td>
+<p>financed from public funds</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Narodowy Fundusz Zdrowia (NFZ)</p>
+</td>
+<td>
+<p>National Health Fund (NFZ)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obowiązkowe i dobrowolne</p>
+</td>
+<td>
+<p>compulsory and voluntary</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cudzoziemcy ubezpieczeni w krajach Unii Europejskiej lub w krajach Europejskiego Stowarzyszenia Wolnego Handlu</p>
+</td>
+<td>
+<p>insured citizens of the EU and EFTA countries</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>osoby pracujące w Polsce</p>
+</td>
+<td>
+<p>people employed in Poland</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>członkowie rodzin os&oacute;b ubezpieczonych</p>
+</td>
+<td>
+<p>family members of the insured</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uchodźcy</p>
+</td>
+<td>
+<p>refugees</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>osoby bezrobotne</p>
+</td>
+<td>
+<p>the unemployed</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>duchowni</p>
+</td>
+<td>
+<p>the clergy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzieci objęte nauką w szkole</p>
+</td>
+<td>
+<p>children who attend school</p>
+</td>
+</tr>
+</tbody>
+</table>

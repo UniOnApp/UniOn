@@ -1,0 +1,13 @@
+{
+  "title": "Describing art",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>While visiting a museum or an exhibition, it&rsquo;s handy to know some basic expressions. Here&rsquo;s a list of key words for your convenience:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>akvarelli<\/strong> a watercolour, a watercolour painting<\/p>\r\n<p><strong>grafiikka<\/strong> graphic arts<\/p>\r\n<p><strong>kuva<\/strong> a picture<\/p>\r\n<p><strong>kuvataiteilija<\/strong> an (visual) artist<\/p>\r\n<p><strong>maalaus<\/strong> a painting<\/p>\r\n<p><strong>olla mallina<\/strong> to pose<\/p>\r\n<p><strong>sivellin<\/strong> a brush<\/p>\r\n<p><strong>synkk&auml;<\/strong> grim<\/p>\r\n<p><strong>taidemaalari<\/strong> an artist, a painter<\/p>\r\n<p><strong>taiden&auml;yttely<\/strong> an art exhibition<\/p>\r\n<p><strong>taideteos, teos<\/strong> a work of art, an artwork<\/p>\r\n<p><strong>taiteilija<\/strong> an artist<\/p>\r\n<p><strong>valo<\/strong> light<\/p>\r\n<p><strong>valoisa<\/strong> sunny, bright<\/p>\r\n<p><strong>varjo<\/strong> a shadow<\/p>\r\n<p><strong>veistos<\/strong> a sculpture<\/p>\r\n<p><strong>&ouml;ljyv&auml;ri<\/strong> oil colour, oil paint<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>You could also try out some expressions! Tap to see the translation.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Kenen taulu t&auml;m&auml; on?<\/strong><\/p>\r\n<p>Whose painting is this?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Kenen teos t&auml;m&auml; on?<\/strong><\/p>\r\n<p>Whose work is this?<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>T&auml;m&auml;n ty&ouml;n on tehnyt Reidar S&auml;rest&ouml;niemi. H&auml;n on lappilainen taiteilija.<\/strong><\/p>\r\n<p>This work is made by Reidar S&auml;rest&ouml;niemi. He is a Lappish artist.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Tuossa taulussa on kauniit v&auml;rit.<\/strong><\/p>\r\n<p>That painting has beautiful colours.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>T&auml;m&auml; maalaus on synkk&auml;.<\/strong><\/p>\r\n<p>This painting is grim.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>Tuo teos on vaikuttava.<\/strong><\/p>\r\n<p>That artwork is impressive.<\/p>\r\n  <p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

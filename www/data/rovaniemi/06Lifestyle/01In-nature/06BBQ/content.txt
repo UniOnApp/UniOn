@@ -1,0 +1,13 @@
+{
+  "title": "BBQ",
+  "latitude": "66.485631",
+  "longitude": "25.756559",
+  "difficulty": "",
+  "keyword": ["summer","makkara","sausage","barbeque","food","grilli","recipe"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

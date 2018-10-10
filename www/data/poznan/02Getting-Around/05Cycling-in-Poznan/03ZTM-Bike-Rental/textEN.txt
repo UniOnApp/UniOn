@@ -1,0 +1,29 @@
+<p><strong>ZTM&rsquo;s bike rental</strong></p>
+<p>Bike rental is equipped with 80 bicycles. </p>
+<p><strong>Opening hours </strong></p>
+<p>from 1 April to 31 October:</p>
+<ul>
+<li>Monday &ndash; Friday: from 7.00 a.m. to 9.00 p.m, </li>
+<li>Sunday, Saturday, holidays: from 10.00 a.m. to 8.00 p.m. </li>
+</ul>
+<p><strong>Bike rates:</strong></p>
+<ul>
+<li>For every one hour - 2,5 PLN </li>
+<li>For 5 hours and longer (until the closing time of the bike rental on the same day) - 12 PLN </li>
+<li>For every consecutive day - 12 PLN </li>
+<li>Subscription: </li>
+<ul>
+<li>monthly - 25 PLN </li>
+<li>season - 100 PLN </li>
+</ul>
+</ul>
+<p>The monthly and season subscription rates are applicable for the holders of valid monthly ticket for public transport.</p>
+<p>Price list for the holders of a valid ticket for the network on the PEKA card:</p>
+<ul>
+<li>Initial non-refundable fee - 7 PLN </li>
+<li>For each rental and returning bicycle on the following day before the closing time of the bike rental &ndash; free of charge </li>
+<li>For every consecutive day - 10 PLN </li>
+</ul>
+<p><strong>Contact details</strong></p>
+<p>Bus station at os. Jana III Sobieskiego. <br /> e-mail address: rowery@ztm.poznan.pl</p>
+<p>Phone: 61 834 61 24</p>

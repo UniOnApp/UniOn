@@ -1,0 +1,13 @@
+{
+  "title": "Going North? Take the bus!",
+  "latitude": "66.498855",
+  "longitude": "25.715168",
+  "difficulty": "",
+  "keyword": ["travel","bus","linja-auto","Tromssa","Norway","Posio","Ranua","matkustaa"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

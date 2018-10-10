@@ -1,0 +1,7 @@
+<p>text to speech TEST</p>
+<p><span onclick="tts('Il palazzo presenta allesterno un lungo portico di 30 arcate e si articola in due piani intorno ad un cortile centrale a doppio ordine di logge.')" >
+Il palazzo presenta all'esterno un lungo portico di 30 arcate e si articola in due piani intorno ad un cortile centrale a doppio ordine di logge.
+</span></p>
+
+<p><span onclick="tts('Dal 24 settembre 2012, data della cerimonia di inaugurazione, il DIRI si trova in un bellissimo edificio storico dellUniversità di Bologna')" >
+Dal 24 settembre 2012, data della cerimonia di inaugurazione, il DIRI si trova in un bellissimo edificio storico dell’Università di Bologna</span></p>

@@ -1,0 +1,13 @@
+{
+  "title": "At Fiedler's",
+  "latitude": "52.275771",
+  "longitude": "16.867178",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

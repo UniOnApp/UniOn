@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Przestrzeń akademicka</p>
+</td>
+<td>
+<p>academic surroundings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warto zapytać o drogę</p>
+</td>
+<td>
+<p>it&rsquo;s worth to ask for directions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zasada sygnalizowania piętra</p>
+</td>
+<td>
+<p>method of indicating the floor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>salom patronują znani uczeni i artyści</p>
+</td>
+<td>
+<p>classrooms are named after famous researchers and artists</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Przepraszam, gdzie jest sala Śniadeckich?</p>
+</td>
+<td>
+<p>Excuse me, where can I find the Śniadeckich Hall?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na drugim piętrze</p>
+</td>
+<td>
+<p>on the second floor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>po prawej stronie</p>
+</td>
+<td>
+<p>on the right</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tu jest winda, a tam schody</p>
+</td>
+<td>
+<p>Here&rsquo;s the elevator and stairs.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gdzie są zajęcia z języka polskiego?</p>
+</td>
+<td>
+<p>Where do the Polish classes take place?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Co to znaczy?</p>
+</td>
+<td>
+<p>What doeas it mean?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Pierwszy poziom</p>
+</td>
+<td>
+<p>ground floor</p>
+</td>
+</tr>
+</tbody>
+</table>

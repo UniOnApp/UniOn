@@ -1,0 +1,100 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Bar szybkiej obsługi</p>
+</td>
+<td>
+<p>fast food serving traditional Polish cuisine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niedrogie dania</p>
+</td>
+<td>
+<p>cheap dishes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tanio</p>
+</td>
+<td>
+<p>cheap</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>smacznie</p>
+</td>
+<td>
+<p>tasty</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsce kultowe</p>
+</td>
+<td>
+<p>legendary places</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>r&oacute;żnorodny wyb&oacute;r</p>
+</td>
+<td>
+<p>a variety of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skromnie</p>
+</td>
+<td>
+<p>modest</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>schludnie</p>
+</td>
+<td>
+<p>neat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niskie ceny</p>
+</td>
+<td>
+<p>low prices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na miejscu</p>
+</td>
+<td>
+<p>dine in</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na wynos</p>
+</td>
+<td>
+<p>takeout</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zasada samoobsługi</p>
+</td>
+<td>
+<p>self-service</p>
+</td>
+</tr>
+</tbody>
+</table>

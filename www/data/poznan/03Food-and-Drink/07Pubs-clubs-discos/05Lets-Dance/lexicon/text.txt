@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Tańczyć</p>
+</td>
+<td>
+<p>to dance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie nudzić się</p>
+</td>
+<td>
+<p>not get bored</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>duży/mały parkiet</p>
+</td>
+<td>
+<p>small/ large dance floor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znaleźć własny klimat</p>
+</td>
+<td>
+<p>to find one&rsquo;s favorite tune</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>muzyka elektroniczna</p>
+</td>
+<td>
+<p>electronic music</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rytmy latynoskie</p>
+</td>
+<td>
+<p>Latin rhythms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>muzyka wsp&oacute;łczesna</p>
+</td>
+<td>
+<p>contemporary music</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>hip-hop</p>
+</td>
+<td>
+<p>hip-hop</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koncerty na żywo</p>
+</td>
+<td>
+<p>live concerts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p><em>żubr&oacute;wka</em></p>
+</td>
+<td>
+<p>type of Polish vodka</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zapiekanka</p>
+</td>
+<td>
+<p>baked casserole</p>
+</td>
+</tr>
+</tbody>
+</table>

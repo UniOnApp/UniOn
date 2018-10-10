@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>livre &ne; ocupado<\/p>\r\n<p>available &ne; occupied<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Desculpe, est&aacute; livre?<\/p>\r\n<p><em>- Excuse me, are you free?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- &Eacute; para a esta&ccedil;&atilde;o de Coimbra-B, se faz favor.<\/p>\r\n<p><em>- To Coimbra-B station, please.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Quanto &eacute;?<\/p>\r\n<p><em>- How much is it?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>on the phone<\/strong><\/p>\r\n<p>- Queria um t&aacute;xi para a porta da Faculdade de Medicina, se faz favor.<\/p>\r\n<p>- Um momento. &Eacute; o carro n&uacute;mero 32.<\/p>\r\n<p>- Muito obrigada!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><em>- I would like to order a taxi to the School of Medicine entrance.<\/em><\/p>\r\n<p><em>- Just a moment. It&rsquo;s car number 32.<\/em><\/p>\r\n<p><em>- Thank you very much.<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

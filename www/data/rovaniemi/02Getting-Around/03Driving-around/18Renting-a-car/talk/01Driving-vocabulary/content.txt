@@ -1,0 +1,13 @@
+{
+  "title": "Driving vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><span style=\"text-decoration: underline;\">ajokortti<\/span> a driving licence<\/p>\r\n<p><span style=\"text-decoration: underline;\">ajovalot<\/span> headlights<\/p>\r\n<p><span style=\"text-decoration: underline;\">autovuokraamo<\/span> a car rental<\/p>\r\n<p><span style=\"text-decoration: underline;\">etuvetoinen<\/span> front wheel drive<\/p>\r\n<p><span style=\"text-decoration: underline;\">henkil&ouml;auto<\/span>, auto a car<\/p>\r\n<p><span style=\"text-decoration: underline;\">kuljettaja<\/span> a driver<\/p>\r\n<p><span style=\"text-decoration: underline;\">maantie<\/span> a road, a highway<\/p>\r\n<p><span style=\"text-decoration: underline;\">moottoripy&ouml;r&auml;<\/span> a motor cycle<\/p>\r\n<p><span style=\"text-decoration: underline;\">nelivetoinen<\/span> four-wheel drive<\/p>\r\n<p><span style=\"text-decoration: underline;\">sakko<\/span> a fine, a penalty<\/p>\r\n<p><span style=\"text-decoration: underline;\">suksiboksi<\/span> a ski box<\/p>\r\n<p><span style=\"text-decoration: underline;\">turvavy&ouml;<\/span> a seat belt<\/p>\r\n<p><span style=\"text-decoration: underline;\">vuokra-auto<\/span> a rental car<\/p>\r\n<p><span style=\"text-decoration: underline;\">vuokrata<\/span> to rent<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

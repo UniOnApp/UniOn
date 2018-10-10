@@ -1,0 +1,13 @@
+{
+  "title": "Giardini Margherita",
+  "latitude": "44.482342",
+  "longitude": "11.352704",
+  "difficulty": "mid",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

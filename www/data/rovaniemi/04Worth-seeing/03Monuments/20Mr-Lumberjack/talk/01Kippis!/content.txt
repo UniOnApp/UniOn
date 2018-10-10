@@ -1,0 +1,13 @@
+{
+  "title": "Kippis!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><em>Talk<\/em><\/p>\r\n<p>During the vappu celebrations you&rsquo;ll definitely hear many odd Finnish expressions said as a toast when people are drinking together. At some point of the vappu evening you&rsquo;re perhaps willing to create your own version as well!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Here you have some typical Finnish phrases for making a toast, the most popular one being <strong>Kippis!<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Kippis<\/strong> Cheers!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>h&ouml;l&ouml;kynk&ouml;l&ouml;kyn<\/strong> cheers (dialect of the Savo district in Eastern Finland)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Kes&auml;n tulolle!<\/strong> To the coming of summer! (This is often a joke, because it&rsquo;s usually freezing cold at the beginning of May in Lapland.)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Yhdet viel&auml;!<\/strong> One for the road!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Otetaan sille! <\/strong>Let&rsquo;s drink to that! (To whatever was just mentioned in the conversation!)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pohjanmaan kautta!<\/strong> Bottoms up!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Hyvin menee mutta menk&ouml;&ouml;n!<\/strong> It&rsquo;s going well but let&rsquo;s let it go!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Vapulle!<\/strong> To the First of May!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

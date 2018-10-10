@@ -1,0 +1,13 @@
+{
+  "title": "Martat",
+  "latitude": "66.499447",
+  "longitude": "25.726346",
+  "difficulty": "",
+  "keyword": ["martha","course","home","food","cook","tradition","perinne"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

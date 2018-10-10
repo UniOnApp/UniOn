@@ -1,0 +1,13 @@
+{
+  "title": "Torre de Anto",
+  "latitude": "40.2098663",
+  "longitude": "-8.4304424",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

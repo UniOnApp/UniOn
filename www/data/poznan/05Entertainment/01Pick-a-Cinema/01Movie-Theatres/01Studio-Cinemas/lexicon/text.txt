@@ -1,0 +1,276 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Prezentować</p>
+</td>
+<td>
+<p>to present</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>światowa klasyka</p>
+</td>
+<td>
+<p>world classic</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powracać do łask</p>
+</td>
+<td>
+<p>to come back into favor</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odrestaurować</p>
+</td>
+<td>
+<p>to restore</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;lna cecha</p>
+</td>
+<td>
+<p>common feature </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>seanse</p>
+</td>
+<td>
+<p>screenings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyświetlać</p>
+</td>
+<td>
+<p>to screen</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kultowe</p>
+</td>
+<td>
+<p>cult</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>starannie wybrany repertuar</p>
+</td>
+<td>
+<p>carefully </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cyklicznie organizowane festiwale</p>
+</td>
+<td>
+<p>periodically organized festivals</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gromadzić tłumy</p>
+</td>
+<td>
+<p>to draw in crowds</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przenieść klimatem</p>
+</td>
+<td>
+<p>lend a climate to </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szczycić się bogatymi tradycjami</p>
+</td>
+<td>
+<p>pride onself on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prestiżowy program</p>
+</td>
+<td>
+<p>prestigious repertoire</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>filmy kr&oacute;tkometrażowe</p>
+</td>
+<td>
+<p>short films</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dokumenty historyczne</p>
+</td>
+<td>
+<p>historic documentaries</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uwielbiane</p>
+</td>
+<td>
+<p>beloved</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zdjęcia gwiazd filmowych</p>
+</td>
+<td>
+<p>pictures of movie stars</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gwarantować domową atmosferę</p>
+</td>
+<td>
+<p>guarantee home-like feel</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>cykliczne wydarzenia towarzyszące</p>
+</td>
+<td>
+<p>additional periodical events</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>projekcje</p>
+</td>
+<td>
+<p>screenings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Bilet normalny</p>
+</td>
+<td>
+<p>normal ticket</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bilet ulgowy studencki</p>
+</td>
+<td>
+<p>reduced-price ticket</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rezerwacja miejsca</p>
+</td>
+<td>
+<p>seat booking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rząd, miejsce</p>
+</td>
+<td>
+<p>row, seat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ekran</p>
+</td>
+<td>
+<p>screen</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>projekcja</p>
+</td>
+<td>
+<p>screening</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kino</p>
+</td>
+<td>
+<p>cinema/ movie theater</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kino letnie</p>
+</td>
+<td>
+<p>summer outdoor cinema</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kasa biletowa</p>
+</td>
+<td>
+<p>box office</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nabyć=zakupić</p>
+</td>
+<td>
+<p>to buy = to purchase</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lubić = przepadać za</p>
+</td>
+<td>
+<p>to like = to be keen on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>premiera</p>
+</td>
+<td>
+<p>premiere</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zwiastun</p>
+</td>
+<td>
+<p>trailer</p>
+</td>
+</tr>
+</tbody>
+</table>

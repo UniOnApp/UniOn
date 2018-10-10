@@ -1,0 +1,13 @@
+{
+  "title": "AMU Sports Campus",
+  "latitude": "52.468583",
+  "longitude": "16.942430",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

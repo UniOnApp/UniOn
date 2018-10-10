@@ -1,0 +1,8 @@
+Here you have some words that you might need when choosing from a range of sporty activities. Combine the Finnish word with its proper equivalent in English.
+[pair]ryhmäliikunta_group exercise
+[pair]kahvakuula_kettlebell
+[pair]venyttely_stretching
+[pair]jooga_yoga
+[pair]vesijuoksu_aqua running
+[pair]spinning_spinning
+[pair]kuntosali_gym

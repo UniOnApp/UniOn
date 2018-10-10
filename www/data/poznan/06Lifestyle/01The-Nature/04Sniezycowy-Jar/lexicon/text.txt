@@ -1,0 +1,196 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Śnieżycowy Jar</p>
+</td>
+<td>
+<p>Spring Snowflake Gorge</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kres zimy</p>
+</td>
+<td>
+<p>at the end of the winter season</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spektakl natury</p>
+</td>
+<td>
+<p>spectacle of Nature</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zapowiadać wiosnę</p>
+</td>
+<td>
+<p>to herald the spring/ to be a harbinger of spring</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skłaniać</p>
+</td>
+<td>
+<p>to encourage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podjęcie wyprawy</p>
+</td>
+<td>
+<p>to set on a trip</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niepostrzeżenie</p>
+</td>
+<td>
+<p>unnoticeably</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rzadko występować</p>
+</td>
+<td>
+<p>to grow rarely</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niziny</p>
+</td>
+<td>
+<p>lowlands</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gwałtowność</p>
+</td>
+<td>
+<p>abruptness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kwitnienie</p>
+</td>
+<td>
+<p>blossoming</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>szczeg&oacute;lna czujność</p>
+</td>
+<td>
+<p>exceptional alertness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przeoczyć</p>
+</td>
+<td>
+<p>to miss</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>widok</p>
+</td>
+<td>
+<p>sight</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sprawdzać zapisy</p>
+</td>
+<td>
+<p>to check the entries</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niezapomniane wrażenie</p>
+</td>
+<td>
+<p>unforgettable impression</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zachować</p>
+</td>
+<td>
+<p>to keep</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>brak światła</p>
+</td>
+<td>
+<p>lack of light</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tęsknota</p>
+</td>
+<td>
+<p>longing for</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wiosna</p>
+</td>
+<td>
+<p>spring</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>eksplozja</p>
+</td>
+<td>
+<p>explosion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>biel</p>
+</td>
+<td>
+<p>whiteness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kruche piękno</p>
+</td>
+<td>
+<p>fragile beauty</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>trwać</p>
+</td>
+<td>
+<p>to last</p>
+</td>
+</tr>
+</tbody>
+</table>

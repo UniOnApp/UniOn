@@ -1,0 +1,36 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Akademik - dom studencki</p>
+</td>
+<td>
+<p>dormitory/ residence hall</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dogodne miejsce zamieszkania</p>
+</td>
+<td>
+<p>convenient place to stay</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>imprezy okolicznościowe</p>
+</td>
+<td>
+<p>parties</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>płatne</p>
+</td>
+<td>
+<p>payable</p>
+</td>
+</tr>
+</tbody>
+</table>

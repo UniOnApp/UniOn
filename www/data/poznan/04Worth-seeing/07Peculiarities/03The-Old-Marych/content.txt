@@ -1,0 +1,13 @@
+{
+  "title": "The Old Marych",
+  "latitude": "52.405206",
+  "longitude": "16.931214",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

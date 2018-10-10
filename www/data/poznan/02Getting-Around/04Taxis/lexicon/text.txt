@@ -1,0 +1,60 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Post&oacute;j taks&oacute;wek</p>
+</td>
+<td>
+<p>taxi stand</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znaki drogowe</p>
+</td>
+<td>
+<p>road signs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyposażone w widoczny licznik oraz cennik</p>
+</td>
+<td>
+<p>equipped with visible taximeter and fare table</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>naklejka z ceną</p>
+</td>
+<td>
+<p>sticker with prices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>taks&oacute;wkarz</p>
+</td>
+<td>
+<p>taxi driver</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>terminal kart płatniczych</p>
+</td>
+<td>
+<p>credit card terminal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zam&oacute;wić telefonicznie</p>
+</td>
+<td>
+<p>to order by phone</p>
+</td>
+</tr>
+</tbody>
+</table>

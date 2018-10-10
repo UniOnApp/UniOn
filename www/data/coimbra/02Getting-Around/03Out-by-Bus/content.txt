@@ -1,0 +1,13 @@
+{
+  "title": "Out by Bus",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["terminal","connections","rodoviária","Rodonorte","camioneta","Rede-Expressos"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

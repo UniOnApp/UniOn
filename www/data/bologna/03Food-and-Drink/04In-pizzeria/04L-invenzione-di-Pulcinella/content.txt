@@ -1,0 +1,13 @@
+{
+  "title": "L'invenzione di Pulcinella",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "high",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

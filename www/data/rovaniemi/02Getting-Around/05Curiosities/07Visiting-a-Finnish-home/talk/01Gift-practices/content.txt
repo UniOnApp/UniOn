@@ -1,0 +1,13 @@
+{
+  "title": "Gift practices",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>It&rsquo;s of course polite to bring a gift when you visit a Finnish home, but keep it moderate. Something small, such as chocolate or flowers, will be fine and much appreciated. The gesture in itself is what matters.<\/p>\r\n<p><br \/> <strong>Ole hyv&auml;<\/strong> is the expression you can use when giving the gift. The answer you get will be <strong>kiitos<\/strong>.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

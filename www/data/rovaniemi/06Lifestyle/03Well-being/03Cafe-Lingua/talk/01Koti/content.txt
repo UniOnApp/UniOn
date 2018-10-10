@@ -1,0 +1,13 @@
+{
+  "title": "Koti",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Hopefully Caf&eacute; Lingua meetings will be <em>cozy<\/em> and you&rsquo;ll feel <em>at home<\/em> there. There&rsquo;s a Finnish adjective for describing this feeling: <strong>kotoisa<\/strong>. The word for <em>home <\/em>is <strong>koti<\/strong>, and logically, it&rsquo;s the root word for <strong>kotoisa<\/strong>. Words related to being at home occur surprisingly often in everyday Finnish, implying that it&rsquo;s an important word and concept for Finns. <\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Please find below some home-related terminology. You can see that compound words are written as one word, not as separate words like in English. Tap to see the translation.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>kotimaa<\/p>\r\n<p>home country<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>p&auml;iv&auml;koti<\/p>\r\n<p>Literally &ldquo;day home&rdquo;. In practice, this word is the Finnish version for a day care centre or a kindergarten.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>kotimainen<\/p>\r\n<p>domestic<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>omakotitalo<\/p>\r\n<p>Lit. &ldquo;own home house&rdquo;. In practice, this word means a detached house.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>kotikalja<\/p>\r\n<p>home-made ale (non-alcoholic)<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>kotikirppis<\/p>\r\n<p>Lit. &ldquo;home flea market&rdquo;. Meaning in practice: a garage sale.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>koti&auml;iti<\/p>\r\n<p>housewife, home maker<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>koti-is&auml;<\/p>\r\n<p>househusband, home maker<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>kotihiiri<\/p>\r\n<p>Lit. &ldquo;house mouse&rdquo;. This is a word describing a person who likes being at home and spends most of her\/his time at home.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>kotitonttu<\/p>\r\n<p>Lit. &ldquo;home elf&rdquo;. This is yet another word to describe a person who likes being at home and spends most of her\/his time at home.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>koti-ik&auml;v&auml;<\/p>\r\n<p>homesickness<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Kotipizza<\/p>\r\n<p>This is one of the most popular pizzeria chains in Finland. Maybe the reason for its popularity lies behind the ingenious name!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Health",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["health","farmácia","médico","centro","saúde","european","insurance","seguro","card","cartão","exame"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

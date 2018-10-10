@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Student: Dzie\u0144 dobry. Chcia\u0142bym wykupi\u0107 ubezpieczenie.<\/p>\r\n<p>Dzia\u0142 Nauczania: A sk\u0105d Pan pochodzi?<\/p>\r\n<p>Student: Przyjecha\u0142am ze Szwajcarii.<\/p>\r\n<p>Dzia\u0142 Nauczania: Czy posiada Pan ubezpieczenie w Pana kraju?<\/p>\r\n<p>Student: Tak, oczywi\u015Bcie, mam.<\/p>\r\n<p>Dzia\u0142 Nauczania: Prosz\u0119 o legitymacj\u0119 studenck\u0105 i paszport. Czy ma Pan przy sobie jaki\u015B <strong>dow&oacute;d ubezpieczenia<\/strong>?<\/p>\r\n<p>Student: Nie, nie mam. Czy musz\u0119 w tej sytuacji wykupi\u0107 drugie ubezpieczenie?<\/p>\r\n<p>Dzia\u0142 Nauczania: Nie, nie musi Pan, mo\u017Ce Pan korzysta\u0107 z <strong>bezp\u0142atnych \u015Bwiadcze\u0144 opieki zdrowotnej<\/strong>, udzielanych przez wybrane firmy. Prosz\u0119 o <strong>wype\u0142nienie<\/strong> tego <strong>wniosku<\/strong>.<\/p>\r\n<p>Student: Prosz\u0119 bardzo. Czy mam <strong>wpisa\u0107 drugie imi\u0119<\/strong>?<\/p>\r\n<p>Dzia\u0142 Nauczania: Tak, bardzo prosz\u0119. Na jak d\u0142ugo Pan przyjecha\u0142 do Polski?<\/p>\r\n<p>Student: Na p&oacute;\u0142 roku.<\/p>\r\n<p>Dzia\u0142 Nauczania: A teraz prosz\u0119 <strong>podpisa\u0107 to za\u015Bwiadczenie<\/strong>.<\/p>\r\n<p>Student: Prosz\u0119 uprzejmie.<\/p>\r\n<p>Dzia\u0142 Nauczania: <strong>Polisa<\/strong> gotowa. Prosz\u0119 zawsze mie\u0107 j\u0105 przy sobie. W razie <strong>wypadku<\/strong> prosz\u0119 dzwoni\u0107 pod ten numer.<\/p>\r\n<p>Student: Bardzo Pani dzi\u0119kuj\u0119. Do widzenia.<\/p>\r\n<p>Dzia\u0142 Nauczania: Prosz\u0119, do widzenia.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk:<\/strong><\/p>\r\n<p>Dow&oacute;d ubezpieczenia, bezp\u0142atne \u015Bwiadczenia opieki zdrowotnej, wpisa\u0107 drugie imi\u0119, wype\u0142ni\u0107 wniosek, podpisa\u0107 za\u015Bwiadczenie, polisa, wypadek.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Understand more",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>There&rsquo;s lots to see in Arktikum; you can easily spend a whole day there! The permanent exhibition about the area of Lapland does its part in explaining the &ndash; sometimes peculiar &ndash; everyday life and habits of Laplanders. <\/p>\r\n<p>Learn about the Rovaniemi market, the Lapland war, northern livelihoods, reindeer herding, unique characteristics of the local environment, the S&aacute;mi people and their culture, and the Petsamo region. Are you already familiar with some of these topics? Why &ndash; in your opinion &ndash; are these topics considered so central that they&rsquo;re present in the exhibition? <\/p>\r\n<p>Lapland is generally divided into three parts: Rovaniemi, Southern Lapland and Upper Lapland. After visiting the exhibition, can you speculate why?<\/p>\r\n<p>If you see a museum guide, why not discuss these questions with the guide, too! If you can explain these points to your friends and family, you&rsquo;ve become a true Lapland ambassador!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

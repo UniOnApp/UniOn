@@ -1,0 +1,4 @@
+[
+  { "question": "Latem:", "answers": ["jazda na \u0142y\u017Cwach", "opalanie si\u0119", "odpoczynek na pla\u017Cy", "p\u0142ywanie"] },
+  { "question": "Na basenie:", "answers": ["jazda na rolkach", "nurkowanie", "skoki do wody", "tor p\u0142ywacki"] }
+]

@@ -1,0 +1,13 @@
+{
+  "title": "Winter sports",
+  "latitude": "66.507521",
+  "longitude": "25.788555",
+  "difficulty": "",
+  "keyword": ["skiing","skating","clothes","snowshoeing","ice fishing","hiihto","luistelu"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

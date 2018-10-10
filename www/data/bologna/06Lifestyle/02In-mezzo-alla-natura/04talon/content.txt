@@ -1,0 +1,14 @@
+{
+  "title": "Parco Talon",
+  "latitude": "44.475085",
+  "longitude": "11.284294",
+  "difficulty": "mid",
+  "keyword": ["Parco Talon",
+"Parco della Chiusa"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

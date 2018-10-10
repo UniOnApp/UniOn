@@ -1,0 +1,19 @@
+{
+  "title": "Dal tabaccaio",
+  "latitude": "44.491474",
+  "longitude": "11.346778",
+  "difficulty": "low",
+  "keyword": ["tabaccheria",
+"sigarette",
+"tabacco",
+"francobolli",
+"francobollo",
+"marca da bollo",
+"tabaccaio"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

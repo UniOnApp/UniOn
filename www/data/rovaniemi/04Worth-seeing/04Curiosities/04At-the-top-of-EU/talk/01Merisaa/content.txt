@@ -1,0 +1,13 @@
+{
+  "title": "Meris\u00E4\u00E4",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Keep your ears open for one of the oldest radio programmes in Finland: <strong>Meris&auml;&auml; <\/strong>&ndash; the marine weather forecast. Meris&auml;&auml; is broadcast on Yle Radio Suomi and on Yle Vega, altogether five times a day. This highly informative programme is nearly meditative, as the monotonous list of temperature, wind, water level, and visibility readings from different locations is read with a serious attitude!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Here&rsquo;s a useful list of compass points in Finnish:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>ilmansuunnat<\/strong> compass points <\/p>\r\n<p><strong>pohjoinen<\/strong> north <\/p>\r\n<p><strong>etel&auml;<\/strong> south <\/p>\r\n<p><strong>it&auml;<\/strong> east <\/p>\r\n<p><strong>l&auml;nsi<\/strong> west <\/p>\r\n<p><strong>koillinen<\/strong> northeast <\/p>\r\n<p><strong>kaakko<\/strong> southeast <\/p>\r\n<p><strong>lounas<\/strong> southwest <\/p>\r\n<p><strong>luode<\/strong> northwest <\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Listen to Meris&auml;&auml; on the radio and see if you can recognise some compass points and maybe even numbers!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

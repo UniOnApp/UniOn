@@ -1,0 +1,108 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Obowiązująca waluta</p>
+</td>
+<td>
+<p>valid currency</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>złoty</p>
+</td>
+<td>
+<p>Polish currency - zloty </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>grosze</p>
+</td>
+<td>
+<p>Polish coins (1 grosz = 1/100 of Polish zloty)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skr&oacute;ty</p>
+</td>
+<td>
+<p>abbreviation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oznaczenie</p>
+</td>
+<td>
+<p>designation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nominały monet</p>
+</td>
+<td>
+<p>coins in circulation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>banknoty</p>
+</td>
+<td>
+<p>notes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wartość</p>
+</td>
+<td>
+<p>worth</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wysokość aktualnego kursu</p>
+</td>
+<td>
+<p>current exchange rate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wymienić walutę</p>
+</td>
+<td>
+<p>to change currency</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kantor</p>
+</td>
+<td>
+<p>exchange counter</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bankomaty</p>
+</td>
+<td>
+<p>ATMs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>umożliwiać wypłatę</p>
+</td>
+<td>
+<p>to allow withdrawal</p>
+</td>
+</tr>
+</tbody>
+</table>

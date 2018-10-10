@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Here&rsquo;s some vocabulary for you! <\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>lavatanssit <\/strong>a summertime open-air dance in a pavilion <\/p>\r\n<p><strong>tanssi<\/strong> dance<\/p>\r\n<p><strong>tanssit<\/strong> a dance (event)<\/p>\r\n<p><strong>tanssija<\/strong> a dancer<\/p>\r\n<p><strong>tanssilava<\/strong> a dance platform<\/p>\r\n<p><strong>tanssipaviljonki<\/strong> a dance pavilion<\/p>\r\n<p><strong>tanssisali<\/strong> a dance hall<\/p>\r\n<p><strong>tanssia<\/strong> to dance<\/p>\r\n<p><strong>riiuu<\/strong> courtship, wooing<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Saanko luvan? <\/strong>May I have this dance?<\/p>\r\n<p><strong>saada<\/strong> to get<\/p>\r\n<p><strong>saan<\/strong> I get<\/p>\r\n<p><strong>Saanko?<\/strong> May I?<\/p>\r\n<p><strong>lupa<\/strong> permission<\/p>\r\n<p><strong>-ko, -k&ouml;?<\/strong> whether, if (adding the ending <strong>&ndash;ko<\/strong> or <strong>&ndash;k&ouml;<\/strong> turns any word into a question)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Tanssitaan!<\/strong> Let&rsquo;s dance!<\/p>\r\n<p><strong>Tanssitaanko?<\/strong> Shall we dance?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Follow the signs on the wall of the dance pavilion to see if it&rsquo;s men's or women's turn to ask for a dance. Yes, we&rsquo;re very equal in this culture! If there&rsquo;s no sign, usually the band announces the change of the turn.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>nainen<\/strong> a woman<\/p>\r\n<p><strong>mies<\/strong> a man<\/p>\r\n<p><strong>naisten haku <\/strong>women&rsquo;s turn (to ask for a dance)<\/p>\r\n<p><strong>miesten haku <\/strong>men&rsquo;s turn (to ask for a dance)<\/p>\r\n<p><strong>sekahaku <\/strong>mixed (meaning that both genders can ask for a dance)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>If you wish to read more about the topic, search for <em>social dancing in Finland, Finnish dance pavilion<\/em>s, or <em>Finnish tango<\/em> online to explore the topic! There are some nice videos available, too!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

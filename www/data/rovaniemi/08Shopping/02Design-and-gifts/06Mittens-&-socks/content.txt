@@ -1,0 +1,13 @@
+{
+  "title": "Mittens & socks",
+  "latitude": "66.504211",
+  "longitude": "25.718498",
+  "difficulty": "",
+  "keyword": ["handicraft","souvenirs","knitting","wool","market"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

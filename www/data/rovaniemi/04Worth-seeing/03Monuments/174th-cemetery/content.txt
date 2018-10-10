@@ -1,0 +1,13 @@
+{
+  "title": "4th cemetery",
+  "latitude": "66.487404",
+  "longitude": "25.698598",
+  "difficulty": "",
+  "keyword": ["peace","war","sota","rauha","christmas","independence","itsenäisyys","grave","hauta","candle","Nätti-Jussi"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

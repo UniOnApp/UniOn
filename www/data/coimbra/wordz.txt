@@ -1,0 +1,1465 @@
+[{
+		"word": "fado",
+		"text": "fate; destiny; traditional Portuguese song"
+	},
+	{
+		"word": "saudade",
+		"text": "longing for; missing something or someone; nostalgic feeling"
+	},
+	{
+		"word": "fantasiar",
+		"text": "to fantasise"
+	},
+	{
+		"word": "madeira",
+		"text": "wood; a type of wine from the namesake Portuguese island"
+	},
+	{
+		"word": "cortiça",
+		"text": "cork; one of the main exported materials; most popular around souvenir shops"
+	},
+	{
+		"word": "amor",
+		"text": "love; an affectionate name"
+	},
+	{
+		"word": "desenrascar-se",
+		"text": "somehow manage to do the job; make do with what you've got"
+	},
+	{
+		"word": "cunha",
+		"text": "wedge (lit.); use your connections to get something, like a job, a promotion, etc. (fig.)"
+	},
+	{
+		"word": "balúrdio",
+		"text": "something very expensive, that costs a fortune: Isto custa um balúrdio!"
+	},
+	{
+		"word": "caloiro/a",
+		"text": "a freshman/a freshwoman at the uni"
+	},
+	{
+		"word": "gamar",
+		"text": "to steal or to take something (slang)"
+	},
+	{
+		"word": "marrar",
+		"text": "to cram for the exam"
+	},
+	{
+		"word": "cábula",
+		"text": "an illegal 'memory aid' used during an exam"
+	},
+	{
+		"word": "dona",
+		"text": "a polite form for addressing a woman; an owner"
+	},
+	{
+		"word": "torta",
+		"text": "a rolled cake; something not quite right"
+	},
+	{
+		"word": "desumificador",
+		"text": "a dehumidifier; a life saver in the Portuguese winter"
+	},
+	{
+		"word": "insonso/insosso",
+		"text": "something tasteless but also uninteresting, not exciting"
+	},
+	{
+		"word": "pasta",
+		"text": "a folder; toothpaste; any cooking paste"
+	},
+	{
+		"word": "massa",
+		"text": "cooking dough; italian pasta; cash"
+	},
+	{
+		"word": "chávena",
+		"text": "a cup of tea, of coffee"
+	},
+	{
+		"word": "giro",
+		"text": "a positive reaction to something you don't have an opinion about"
+	},
+	{
+		"word": "engraçado",
+		"text": "something funny, cute, similar to giro"
+	},
+	{
+		"word": "fixe",
+		"text": "sounds like 'fish' and it means 'Very cool!'"
+	},
+	{
+		"word": "otorrinolaringologista",
+		"text": "an ear, nose and throat medical specialist"
+	},
+	{
+		"word": "pá",
+		"text": "a spade; a pal (informal), it usually ends sentences"
+	},
+	{
+		"word": "república",
+		"text": "in Coimbra, a central square and a student commune"
+	},
+	{
+		"word": "praça",
+		"text": "fresh food market; in Coimbra, short for Praça da República"
+	},
+	{
+		"word": "cabra",
+		"text": "a she-goat; in Coimbra, the university tower and the students' newspaper"
+	},
+	{
+		"word": "constipado/a",
+		"text": "to have a cold -  not to be constipated!"
+	},
+	{
+		"word": "viola",
+		"text": "most used word for classical guitar"
+	},
+	{
+		"word": "senhor/a",
+		"text": "a polite term of treatment (Sir/ Madam and Mr./Mrs.)"
+	},
+	{
+		"word": "menina",
+		"text": "young woman; colloquial term to address any woman up to 90 years old"
+	},
+	{
+		"word": "senhorio/a",
+		"text": "a landlord/lady"
+	},
+	{
+		"word": "calções",
+		"text": "shorts; swimming trunks"
+	},
+	{
+		"word": "sobretudo",
+		"text": "an overcoat, usually quite formal; mainly, above all"
+	},
+	{
+		"word": "sobremesa",
+		"text": "a dessert: literally, 'on the table'"
+	},
+	{
+		"word": "entrada",
+		"text": "an entrance; a meal starter"
+	},
+	{
+		"word": "XPTO",
+		"text": "VIP and cutting-edge technology, with a touch of irony"
+	},
+	{
+		"word": "campeonato",
+		"text": "a championship; a critical moment: Nesta altura do campeonato"
+	},
+	{
+		"word": "capa",
+		"text": "Coimbra students' cloak; a book cover; Greek letter K"
+	},
+	{
+		"word": "académico/a",
+		"text": "academic; Coimbra's football club and student union"
+	},
+	{
+		"word": "Briosa",
+		"text": "nickname for Coimbra's football club; proud (fem.)"
+	},
+	{
+		"word": "chinês",
+		"text": "Chinese; strange and unknown: Isto, para mim, é chinês!"
+	},
+	{
+		"word": "grego",
+		"text": "Greek; hard and difficult to do: Vejo-me grego para..."
+	},
+	{
+		"word": "namorado/a",
+		"text": "a boyfriend; a girlfriend"
+	},
+	{
+		"word": "fino",
+		"text": "0.25 ml tall beer glass; something elegant, fancy"
+	},
+	{
+		"word": "camioneta",
+		"text": "an intercity bus; a lorry"
+	},
+	{
+		"word": "recolha",
+		"text": "collection of (donations; trash, etc)"
+	},
+	{
+		"word": "faculdade",
+		"text": "a faculty; in Coimbra: Vou à Faculdade rather than 'I'm going to the uni'"
+	},
+	{
+		"word": "tosta mista",
+		"text": "a ham and cheese toastie: students swear by it!"
+	},
+	{
+		"word": "prego",
+		"text": "a metal nail; a beef sandwich"
+	},
+	{
+		"word": "rocambolesco",
+		"text": "something incredible bordering on unbelievable and extraordinary"
+	},
+	{
+		"word": "prenda",
+		"text": "a present; a gift"
+	},
+	{
+		"word": "óculos",
+		"text": "glasses"
+	},
+	{
+		"word": "margarida",
+		"text": "a daisy (flower and women's name)"
+	},
+	{
+		"word": "mestrando/a",
+		"text": "a Master's student"
+	},
+	{
+		"word": "esperançoso/a",
+		"text": "hopeful"
+	},
+	{
+		"word": "rancoroso/a",
+		"text": "someone who holds a grudge"
+	},
+	{
+		"word": "senha",
+		"text": "bus ticket; password; the number from a ticket dispenser to wait for your turn"
+	},
+	{
+		"word": "águas-furtadas",
+		"text": "literally, 'stolen waters'; the floor underneath the roof slope"
+	},
+	{
+		"word": "gorjeta",
+		"text": "a tip (in a restaurant, in a taxi, in a beauty salon)"
+	},
+	{
+		"word": "vestido",
+		"text": "a dress"
+	},
+	{
+		"word": "meia",
+		"text": "a sock; a half, as in meia-hora"
+	},
+	{
+		"word": "ténis",
+		"text": "tennis; sneakers"
+	},
+	{
+		"word": "Carnaval",
+		"text": "Carnival"
+	},
+	{
+		"word": "cujo/a/os/as",
+		"text": "whose; to whom it belongs or relates to"
+	},
+	{
+		"word": "corte",
+		"text": "a haircut, knife cut, scissors cut; a split in a relationship"
+	},
+	{
+		"word": "todxs/tod@s",
+		"text": "a newly coined, politically correct inclusive form of address in written Portuguese"
+	},
+	{
+		"word": "calçada",
+		"text": "outdoor stone pavement"
+	},
+	{
+		"word": "rubrica",
+		"text": "to write your initials in a document; a section in a TV programme"
+	},
+	{
+		"word": "aproveitar",
+		"text": "make the most of the situation"
+	},
+	{
+		"word": "pois",
+		"text": "used in conversation to show you are listening and agreeing with what's being said"
+	},
+	{
+		"word": "envergonhado/a",
+		"text": "shy; bashful; ashamed"
+	},
+	{
+		"word": "elétrico",
+		"text": "a tram; anything electrical"
+	},
+	{
+		"word": "chico/a-esperto/a",
+		"text": "people who think they're smarter than others for bending the rules"
+	},
+	{
+		"word": "baba",
+		"text": "drool; a popular dessert: Baba de camelo (Camel's drool)"
+	},
+	{
+		"word": "geleia",
+		"text": "a runny jam with no fruit pieces (not a jelly)"
+	},
+	{
+		"word": "percebes",
+		"text": "a verb form: Percebes? ('Do you understand?); barnacles - a seafood"
+	},
+	{
+		"word": "utente",
+		"text": "public services user"
+	},
+	{
+		"word": "chatice",
+		"text": "a nuisance; a bother; a small problem"
+	},
+	{
+		"word": "boleia",
+		"text": "a lift somewhere: you can take it, give it or catch it"
+	},
+	{
+		"word": "bola",
+		"text": "a ball"
+	},
+	{
+		"word": "bolo",
+		"text": "a cake, as in birthday cake; a small pastry, as in a sweet bun"
+	},
+	{
+		"word": "cúpula",
+		"text": "a dome; a summit"
+	},
+	{
+		"word": "doutor/a",
+		"text": "in Coimbra, a sophomore, a medical doctor; a PhD"
+	},
+	{
+		"word": "perder",
+		"text": "to lose; to miss a bus, a train, an opportunity, etc"
+	},
+	{
+		"word": "apanhar",
+		"text": "to catch; to grab; to sunbathe: Apanhar sol"
+	},
+	{
+		"word": "borla",
+		"text": "a freebie; something very cheap"
+	},
+	{
+		"word": "pena",
+		"text": "a feather; a pity: Que pena!; to be worth it: Valer a pena"
+	},
+	{
+		"word": "achar",
+		"text": "to find something; Acho que… colloquial way of saying  'I think…'"
+	},
+	{
+		"word": "vez",
+		"text": "a turn; a time; a go"
+	},
+	{
+		"word": "nabo",
+		"text": "a parsnip; someone not too good at doing something"
+	},
+	{
+		"word": "cadeira",
+		"text": "a chair; a uni subject"
+	},
+	{
+		"word": "fechado",
+		"text": "closed; finished; completed"
+	},
+	{
+		"word": "bazar",
+		"text": "a covered market; leaving: Vou bazar! (slang)"
+	},
+	{
+		"word": "semifrio",
+		"text": "a type of dessert, usually with condensed milk; literally, 'half-cold'"
+	},
+	{
+		"word": "impressão",
+		"text": "a print; an impression (good or bad); an itch; a pain"
+	},
+	{
+		"word": "cromo/a",
+		"text": "a nerd; someone very peculiar or particular"
+	},
+	{
+		"word": "safar-se",
+		"text": "to manage to avoid or to escape from a tricky situation"
+	},
+	{
+		"word": "golpe",
+		"text": "a blow, a shock"
+	},
+	{
+		"word": "francesinha",
+		"text": "a typical sandwich made with several sorts of meat and a special sauce; literally: 'a little French lady'"
+	},
+	{
+		"word": "inquilino",
+		"text": "a tennant; someone who lives in a rented place"
+	},
+	{
+		"word": "bifana",
+		"text": "a pork cutlet, usually eaten between two pieces of bread"
+	},
+	{
+		"word": "caros/as",
+		"text": "an inclusive form of formal address in writing"
+	},
+	{
+		"word": "Páscoa",
+		"text": "Easter"
+	},
+	{
+		"word": "talão",
+		"text": "a part of a check or a receipt that is kept as a record"
+	},
+	{
+		"word": "filme",
+		"text": "a film or a movie; a tricky or unpleasant situation: Tirem-me deste filme!"
+	},
+	{
+		"word": "tráfico",
+		"text": "illegal dealings, negotiating activities"
+	},
+	{
+		"word": "trânsito",
+		"text": "traffic, passage, flow"
+	},
+	{
+		"word": "sebenta",
+		"text": "an abridged version of course materials; a notebook"
+	},
+	{
+		"word": "tal",
+		"text": "the one': Ela é a tal."
+	},
+	{
+		"word": "bloco",
+		"text": "a block; a pad; a political coalition"
+	},
+	{
+		"word": "pão",
+		"text": "bread; sustenance; a very attractive person"
+	},
+	{
+		"word": "jeitoso/a",
+		"text": "handsome, also in a figurative sense"
+	},
+	{
+		"word": "cravo",
+		"text": "a red flower and a symbol of the Portuguese revolution"
+	},
+	{
+		"word": "Abril",
+		"text": "the fourth month and the historic mark in the Portuguese history"
+	},
+	{
+		"word": "passar",
+		"text": "to pass; to succeed; to iron: Passar a ferro"
+	},
+	{
+		"word": "passar-se",
+		"text": "to happen; to get crazy: Ele passou-se"
+	},
+	{
+		"word": "saldos",
+		"text": "sales"
+	},
+	{
+		"word": "promoções",
+		"text": "discounts, promotions"
+	},
+	{
+		"word": "carrinha",
+		"text": "a van; not a smaller but a bigger car"
+	},
+	{
+		"word": "bosque",
+		"text": "a wood"
+	},
+	{
+		"word": "floresta",
+		"text": "a forest; a wooded expanse"
+	},
+	{
+		"word": "mata",
+		"text": "a thicket; a large group of trees (of predominantly one species)"
+	},
+	{
+		"word": "pechincha",
+		"text": "a bargain, something very cheap"
+	},
+	{
+		"word": "coisa",
+		"text": "a thing: used to replace the forgotten word."
+	},
+	{
+		"word": "Queima",
+		"text": "short for Queima das Fitas - Coimbra's biggest student festival"
+	},
+	{
+		"word": "fita",
+		"text": "a tape; a ribbon; a tantrum"
+	},
+	{
+		"word": "copos",
+		"text": "glasses; drinks; to be drunk: Estar com os copos"
+	},
+	{
+		"word": "birra",
+		"text": "a tantrum; whining; 'beer' in Angolan Portuguese"
+	},
+	{
+		"word": "pronto/a",
+		"text": "to be ready or prepared"
+	},
+	{
+		"word": "lanchar",
+		"text": "to have a snack between meals"
+	},
+	{
+		"word": "abraço",
+		"text": "a hug; an informal expression to finish a letter or an email"
+	},
+	{
+		"word": "embora",
+		"text": "although; to leave or go away: Ir embora"
+	},
+	{
+		"word": "borrifar-se",
+		"text": "to be uninterested, indifferent about something: Estou a borrifar-me para isto"
+	},
+	{
+		"word": "pifar",
+		"text": "to break down; to go dead on someone (about any technical equipment)"
+	},
+	{
+		"word": "serra",
+		"text": "a saw; a mountain range: Serra da Lousã, da Estrela; short for: Queijo da serra"
+	},
+	{
+		"word": "borboleta",
+		"text": "a butterfly"
+	},
+	{
+		"word": "boneca",
+		"text": "a doll; a pretty girl"
+	},
+	{
+		"word": "fofo",
+		"text": "cute; fluffy; soft"
+	},
+	{
+		"word": "perigoso",
+		"text": "dangerous"
+	},
+	{
+		"word": "atenção",
+		"text": "attention"
+	},
+	{
+		"word": "cuidado",
+		"text": "care; be careful: Tem cuidado!"
+	},
+	{
+		"word": "íngreme",
+		"text": "steep"
+	},
+	{
+		"word": "chumbar",
+		"text": "to seal with lead; to fail, to flunk"
+	},
+	{
+		"word": "estreito",
+		"text": "narrow"
+	},
+	{
+		"word": "descida",
+		"text": "a descent; a slope down"
+	},
+	{
+		"word": "subida",
+		"text": "a slope up; a climb"
+	},
+	{
+		"word": "couraça",
+		"text": "a breastplate; armor; a sloping street between the city walls"
+	},
+	{
+		"word": "sé",
+		"text": "another word for a cathedral"
+	},
+	{
+		"word": "bolacha",
+		"text": "a biscuit; a cookie"
+	},
+	{
+		"word": "biscoitos",
+		"text": "homemade biscuits"
+	},
+	{
+		"word": "amigável",
+		"text": "friendly"
+	},
+	{
+		"word": "luxuoso",
+		"text": "luxurious"
+	},
+	{
+		"word": "pretender",
+		"text": "to intend to"
+	},
+	{
+		"word": "fingir",
+		"text": "to fake; to pretend."
+	},
+	{
+		"word": "apertar",
+		"text": "to take in (clothes); to squeeze; to hold tight; to fasten (safety belt)."
+	},
+	{
+		"word": "alargar",
+		"text": "to loosen (clothes); to extend (deadlines)"
+	},
+	{
+		"word": "solitário",
+		"text": "lonely"
+	},
+	{
+		"word": "brincos",
+		"text": "earrings"
+	},
+	{
+		"word": "anel",
+		"text": "a ring"
+	},
+	{
+		"word": "tuga",
+		"text": "from Portugal, Portuguese"
+	},
+	{
+		"word": "colar",
+		"text": "a necklace"
+	},
+	{
+		"word": "pulseira",
+		"text": "a bracelet"
+	},
+	{
+		"word": "manjerico",
+		"text": "dwarf bush basil in a pot, an attribute of Santos Populares festivities (St. John; St. Anthony; St. Peter)"
+	},
+	{
+		"word": "quadro",
+		"text": "a painting; a black or white board; a board"
+	},
+	{
+		"word": "armário",
+		"text": "a closet; a wardrobe; any type of cupboard"
+	},
+	{
+		"word": "licença",
+		"text": "a license; a permission; excuse me: Com licença!"
+	},
+	{
+		"word": "multa",
+		"text": "a fine (parking, speed, etc)"
+	},
+	{
+		"word": "taxa",
+		"text": "a fee"
+	},
+	{
+		"word": "imposto",
+		"text": "a state tax"
+	},
+	{
+		"word": "crente",
+		"text": "a believer"
+	},
+	{
+		"word": "missa",
+		"text": "a mass"
+	},
+	{
+		"word": "encravado",
+		"text": "stuck (in time, in a place, in a machine, in a problem, etc)"
+	},
+	{
+		"word": "tinteiro",
+		"text": "an ink cartridge"
+	},
+	{
+		"word": "espelho",
+		"text": "a mirror"
+	},
+	{
+		"word": "resma",
+		"text": "a ream; a huge amount of something (fig.)"
+	},
+	{
+		"word": "tesoura",
+		"text": "scissors"
+	},
+	{
+		"word": "delicado",
+		"text": "delicate; well-mannered"
+	},
+	{
+		"word": "amizade",
+		"text": "friendship"
+	},
+	{
+		"word": "paixão",
+		"text": "passion"
+	},
+	{
+		"word": "beleza",
+		"text": "beauty"
+	},
+	{
+		"word": "chapa 5",
+		"text": "a repetitive pre-formatted job; more of the same"
+	},
+	{
+		"word": "maçada",
+		"text": "a nuisance and annoyance; has little to do with maças ('apples')"
+	},
+	{
+		"word": "reflexão",
+		"text": "a reflection (of thought or image)"
+	},
+	{
+		"word": "pensamento",
+		"text": "a thought"
+	},
+	{
+		"word": "asas",
+		"text": "wings"
+	},
+	{
+		"word": "voo",
+		"text": "a flight"
+	},
+	{
+		"word": "reserva",
+		"text": "a booking"
+	},
+	{
+		"word": "marcação",
+		"text": "an appointment"
+	},
+	{
+		"word": "cortina",
+		"text": "a curtain"
+	},
+	{
+		"word": "respeitosamente",
+		"text": "with respect (formal writing)"
+	},
+	{
+		"word": "aula",
+		"text": "a class (subject you are going to learn about)"
+	},
+	{
+		"word": "turma",
+		"text": "a class (group of people)"
+	},
+	{
+		"word": "sala",
+		"text": "a classroom; a social room of a house or building (living room; conference room; dining room, etc)"
+	},
+	{
+		"word": "lição",
+		"text": "a lesson"
+	},
+	{
+		"word": "ligeiro/a",
+		"text": "light"
+	},
+	{
+		"word": "pesado/a",
+		"text": "heavy in weight or in content: Que filme pesado!"
+	},
+	{
+		"word": "tabuleiro",
+		"text": "a tray"
+	},
+	{
+		"word": "borracho",
+		"text": "small pigeon; 'hot' man or woman"
+	},
+	{
+		"word": "lama",
+		"text": "mud; lama (animal)"
+	},
+	{
+		"word": "relva",
+		"text": "grass (tended and cut)"
+	},
+	{
+		"word": "cheirar",
+		"text": "to smell; to sniff"
+	},
+	{
+		"word": "provar",
+		"text": "to try food or clothes"
+	},
+	{
+		"word": "experimentar",
+		"text": "to try something new (food, clothes, activities, etc)"
+	},
+	{
+		"word": "afeiçoar-se",
+		"text": "to grow fond of"
+	},
+	{
+		"word": "encostar-se",
+		"text": "lean against, lean in"
+	},
+	{
+		"word": "pratada",
+		"text": "a huge plate of food"
+	},
+	{
+		"word": "fila",
+		"text": "a line; a queue; a row"
+	},
+	{
+		"word": "felicidade",
+		"text": "happiness"
+	},
+	{
+		"word": "alegria",
+		"text": "joy"
+	},
+	{
+		"word": "tristeza",
+		"text": "sadness"
+	},
+	{
+		"word": "agulha",
+		"text": "a needle"
+	},
+	{
+		"word": "linha",
+		"text": "a line (ruled notebook); a thread; a track (linha de comboio)"
+	},
+	{
+		"word": "louvar",
+		"text": "to praise"
+	},
+	{
+		"word": "engarrafamento",
+		"text": "bottling up; a traffic jam"
+	},
+	{
+		"word": "artesanato",
+		"text": "handcrafts"
+	},
+	{
+		"word": "esquisito",
+		"text": "picky eater; strange personality; weirdo"
+	},
+	{
+		"word": "picuinhas",
+		"text": "someone generally very picky"
+	},
+	{
+		"word": "tímido",
+		"text": "shy"
+	},
+	{
+		"word": "travessa",
+		"text": "a laneway; a serving tray"
+	},
+	{
+		"word": "castigo",
+		"text": "a punishment; something boring or difficult to do"
+	},
+	{
+		"word": "baliza",
+		"text": "a football goal (structure where the players aim)"
+	},
+	{
+		"word": "campo",
+		"text": "a field (football); countryside"
+	},
+	{
+		"word": "mar",
+		"text": "sea: in Portugal, it refers to the Atlantic ocean"
+	},
+	{
+		"word": "separação",
+		"text": "separation (of trash);a breakup"
+	},
+	{
+		"word": "económico/a",
+		"text": "economic; cheap; affordable"
+	},
+	{
+		"word": "grave",
+		"text": "serious (problem, condition, situation, look)"
+	},
+	{
+		"word": "greve",
+		"text": "a strike"
+	},
+	{
+		"word": "golo",
+		"text": "a sip; a goal"
+	},
+	{
+		"word": "espreguiçar-se",
+		"text": "to stretch"
+	},
+	{
+		"word": "espreguiçadeira",
+		"text": "a deck chair"
+	},
+	{
+		"word": "bocejar",
+		"text": "to yawn"
+	},
+	{
+		"word": "suspirar",
+		"text": "to sigh"
+	},
+	{
+		"word": "espirrar",
+		"text": "to sneeze"
+	},
+	{
+		"word": "sussurrar",
+		"text": "to whisper"
+	},
+	{
+		"word": "aperfeiçoar",
+		"text": "to perfect something"
+	},
+	{
+		"word": "pendurar",
+		"text": "to hang (clothes on a hanger; paintings on the wall, etc)"
+	},
+	{
+		"word": "estender",
+		"text": "to hang out (clothes on the line); to spread out (a blanket, a map); to extend (a deadline)"
+	},
+	{
+		"word": "impulsionar",
+		"text": "to impel"
+	},
+	{
+		"word": "carregador",
+		"text": "a charger for phones, computers, cameras, etc"
+	},
+	{
+		"word": "fósforos",
+		"text": "matches"
+	},
+	{
+		"word": "isqueiro",
+		"text": "a lighter"
+	},
+	{
+		"word": "bateria",
+		"text": "an inbuilt battery in cars, phones, computers, etc"
+	},
+	{
+		"word": "pilhas",
+		"text": "small batteries for remote controls, torches, cameras, etc"
+	},
+	{
+		"word": "comando",
+		"text": "a remote control"
+	},
+	{
+		"word": "arrasar",
+		"text": "to sweep away; to overwhelm; to impress someone"
+	},
+	{
+		"word": "derradeiro/a",
+		"text": "ultimate; final; extreme"
+	},
+	{
+		"word": "parvo/a",
+		"text": "silly; foolish; idiotic"
+	},
+	{
+		"word": "amanhã",
+		"text": "tomorrow; 'See you tomorrow': Até amanhã!"
+	},
+	{
+		"word": "saúde",
+		"text": "health; what you say when someone sneezes"
+	},
+	{
+		"word": "oito",
+		"text": "number eight; if you see someone in a week, you say: De hoje a oito!"
+	},
+	{
+		"word": "matrícula",
+		"text": "registration (both the list and the fee); a number plate"
+	},
+	{
+		"word": "inscrição",
+		"text": "enrolment; inscription; application; entry"
+	},
+	{
+		"word": "boa",
+		"text": "good (fem.); an expression of admiration or irony"
+	},
+	{
+		"word": "lamentar",
+		"text": "to regret, to pity; to feel sorry"
+	},
+	{
+		"word": "saco",
+		"text": "a shopping bag; a sports bag; a sack (always maleable)"
+	},
+	{
+		"word": "mala",
+		"text": "a handbag; a suitcase"
+	},
+	{
+		"word": "tiracolo",
+		"text": "to wear a bag over a shoulder"
+	},
+	{
+		"word": "polícia",
+		"text": "police; a police officer: O polícia"
+	},
+	{
+		"word": "adiar",
+		"text": "to postpone"
+	},
+	{
+		"word": "adiantar",
+		"text": "to speed things up; to argue; to advance"
+	},
+	{
+		"word": "acrescentar",
+		"text": "to add; to increase; to insert; to add on"
+	},
+	{
+		"word": "aluno/a",
+		"text": "a student; a schoolboy/girl"
+	},
+	{
+		"word": "estudante",
+		"text": "a student; a learner"
+	},
+	{
+		"word": "prova",
+		"text": "a proof; a test and the exam sheet; hardship, ordeal"
+	},
+	{
+		"word": "exame",
+		"text": "an exam (medical or scholarly)"
+	},
+	{
+		"word": "custar",
+		"text": "to cost; something that requires much psychological and physical effort: Isto custa!"
+	},
+	{
+		"word": "serenata",
+		"text": "a serenade; in Coimbra, it opens student festivals"
+	},
+	{
+		"word": "secção",
+		"text": "a section; a part"
+	},
+	{
+		"word": "repartição",
+		"text": "a division; a section within governmental service"
+	},
+	{
+		"word": "banco",
+		"text": "a bank; a bench"
+	},
+	{
+		"word": "segurança",
+		"text": "security; safety; self-control; confidence"
+	},
+	{
+		"word": "marcar",
+		"text": "to make a booking or an appointment (at the doctor's; a trip, etc.)"
+	},
+	{
+		"word": "consulta",
+		"text": "an appointment; consultation"
+	},
+	{
+		"word": "reserva",
+		"text": "a reservation; a booking; vintage (food and drink)"
+	},
+	{
+		"word": "cortejo",
+		"text": "a procession; in Coimbra: Cortejo da Latada and Cortejo da Queima das Fitas"
+	},
+	{
+		"word": "conselho",
+		"text": "a piece of advice; a lesson; a council; a board"
+	},
+	{
+		"word": "concelho",
+		"text": "a municipality"
+	},
+	{
+		"word": "caramelo",
+		"text": "a hardfudge candy; a sauce; any person whose name you have forgotten or avoid to say"
+	},
+	{
+		"word": "calhar",
+		"text": "to fit; to suit; to take place; to happen; maybe: Se calhar"
+	},
+	{
+		"word": "bicho",
+		"text": "an animal; a word used for any unknown insect or animal; a non-friendly term towards a person"
+	},
+	{
+		"word": "humor",
+		"text": "humour; a good state of mind: Bom humor"
+	},
+	{
+		"word": "tempo",
+		"text": "time; weather"
+	},
+	{
+		"word": "petiscar",
+		"text": "to have a snack; to graze on"
+	},
+	{
+		"word": "gente",
+		"text": "people; very informal for we, us: A gente vai ao cinema"
+	},
+	{
+		"word": "cachopo/a",
+		"text": "a young boy or a girl"
+	},
+	{
+		"word": "moço/a",
+		"text": "a youngster; someone young(ish)"
+	},
+	{
+		"word": "cota",
+		"text": "a book code (in a library); a parent, someone much older (slang)"
+	},
+	{
+		"word": "pessoal",
+		"text": "personal; confidential; staff, personnel, team; 'guys, people' (informal)"
+	},
+	{
+		"word": "olha",
+		"text": "I say!';  'Look...!'; 'Look here!'"
+	},
+	{
+		"word": "cena",
+		"text": "a scene; stuff: Tenho muitas cenas em casa; a situation (informal)"
+	},
+	{
+		"word": "personagem",
+		"text": "a character (film or literature); a person (disapprovingly: Aquela personagem...)"
+	},
+	{
+		"word": "aliança",
+		"text": "a wedding band; an alliance"
+	},
+	{
+		"word": "malta",
+		"text": "the island of Malta; a group of friends"
+	},
+	{
+		"word": "quadriculado/a",
+		"text": "checkered, squared (paper)"
+	},
+	{
+		"word": "pautado/a",
+		"text": "guided, ruled (paper)"
+	},
+	{
+		"word": "força",
+		"text": "strength; an expression used to encourage someone"
+	},
+	{
+		"word": "liso/a",
+		"text": "straight (hair); plain (paper)"
+	},
+	{
+		"word": "complicado/a",
+		"text": "complicated; tricky; fiddly and elaborate"
+	},
+	{
+		"word": "simples",
+		"text": "simple; no frills; plain; easy"
+	},
+	{
+		"word": "oi",
+		"text": "a greeting: Oi!; an expression of amazement: Oi? (from Brazilian Portuguese)"
+	},
+	{
+		"word": "brutal",
+		"text": "brutal; brutish; impressive, spectacular (informal)"
+	},
+	{
+		"word": "livraria",
+		"text": "a bookshop; in programming: library"
+	},
+	{
+		"word": "monitor",
+		"text": "a group leader; a computer screen"
+	},
+	{
+		"word": "quispo",
+		"text": "a warm padded jacket, usually waterproof"
+	},
+	{
+		"word": "x-ato",
+		"text": "a paper-cutting instrument with a sharp edge"
+	},
+	{
+		"word": "escaldão",
+		"text": "a sunburn: Apanhar um escaldão"
+	},
+	{
+		"word": "baldar-se",
+		"text": "to miss a class or an appointment, to slack behind"
+	},
+	{
+		"word": "despensa",
+		"text": "a pantry; a boxroom"
+	},
+	{
+		"word": "serventia",
+		"text": "an included service: Serventia de limpeza"
+	},
+	{
+		"word": "T0",
+		"text": "a studio flat"
+	},
+	{
+		"word": "lusófono/a",
+		"text": "from the lusophone (Portuguese-speaking) world"
+	},
+	{
+		"word": "beliscar",
+		"text": "to pinch"
+	},
+	{
+		"word": "migalha",
+		"text": "a crumb"
+	},
+	{
+		"word": "magusto",
+		"text": "a popular celebration on St. Martin's Day; the bonfire where chestnuts are roasted"
+	},
+	{
+		"word": "caracol",
+		"text": "a snail; Portuguese eat them, especially in the summer, with a beer; a hair curl"
+	},
+	{
+		"word": "bandeira",
+		"text": "a flag"
+	},
+	{
+		"word": "semáforo",
+		"text": "a traffic light"
+	},
+	{
+		"word": "criança",
+		"text": "a child"
+	},
+	{
+		"word": "torneira",
+		"text": "a tap; a faucet"
+	},
+	{
+		"word": "azulejo",
+		"text": "a ceramic wall tile of Arabic origin"
+	},
+	{
+		"word": "teclas",
+		"text": "keys on a musical instrument or on a keyboard"
+	},
+	{
+		"word": "raízes",
+		"text": "roots (of a tree, of a person)"
+	},
+	{
+		"word": "apaixonar-se",
+		"text": "to fall in love"
+	},
+	{
+		"word": "tremoços",
+		"text": "fermented lupin seeds; typical Portuguese snack served with a beer"
+	},
+	{
+		"word": "cobertor",
+		"text": "a blanket"
+	},
+	{
+		"word": "aquecedor",
+		"text": "a heater"
+	},
+	{
+		"word": "merenda",
+		"text": "a snack"
+	},
+	{
+		"word": "poltrona",
+		"text": "a comfy armchair"
+	},
+	{
+		"word": "calhamaço",
+		"text": "a big, heavy book, often tedious"
+	},
+	{
+		"word": "pontapé",
+		"text": "a kick"
+	},
+	{
+		"word": "pestanas",
+		"text": "eyelashes"
+	},
+	{
+		"word": "palhaço",
+		"text": "a clown"
+	},
+	{
+		"word": "xarope",
+		"text": "a syrup, both medicinal and for cooking"
+	},
+	{
+		"word": "castanha",
+		"text": "a chestnut; an autumn treat, preferably bought from a street vendor"
+	},
+	{
+		"word": "gafanhoto",
+		"text": "a grasshopper"
+	},
+	{
+		"word": "pântano",
+		"text": "a swamp"
+	},
+	{
+		"word": "arco-íris",
+		"text": "a rainbow"
+	},
+	{
+		"word": "macacão",
+		"text": "a jumpsuit; an overall"
+	},
+	{
+		"word": "lambidela",
+		"text": "a lick (from a dog, on an ice-cream)"
+	},
+	{
+		"word": "paulatinamente",
+		"text": "a big fancy word that means slowly, bit by bit"
+	},
+	{
+		"word": "ferrugento/a",
+		"text": "rusty"
+	},
+	{
+		"word": "chicote",
+		"text": "a whip"
+	},
+	{
+		"word": "cambalhota",
+		"text": "a somersault"
+	},
+	{
+		"word": "reviravolta",
+		"text": "turnaround; twist"
+	},
+	{
+		"word": "pirilampo",
+		"text": "a firefly"
+	},
+	{
+		"word": "sorridente",
+		"text": "smiley"
+	},
+	{
+		"word": "pesadelo",
+		"text": "a nightmare; a difficult  situation"
+	},
+	{
+		"word": "clarabóia",
+		"text": "a skylight"
+	},
+	{
+		"word": "fantasma",
+		"text": "a ghost"
+	},
+	{
+		"word": "fada",
+		"text": "a fairy"
+	},
+	{
+		"word": "funcho",
+		"text": "fennel"
+	},
+	{
+		"word": "magoar-se",
+		"text": "to get hurt"
+	},
+	{
+		"word": "espada",
+		"text": "a sword"
+	},
+	{
+		"word": "bisbilhoteiro/a",
+		"text": "someone nosy; snooper"
+	},
+	{
+		"word": "penhasco",
+		"text": "a cliff"
+	},
+	{
+		"word": "sereia",
+		"text": "a mermaid"
+	},
+	{
+		"word": "bacalhau",
+		"text": "in Portugal, dry and salted cod; one of  the most popular foods with zillions of recipes"
+	},
+	{
+		"word": "Natal",
+		"text": "Christmas"
+	},
+	{
+		"word": "atacadores",
+		"text": "shoe laces"
+	},
+	{
+		"word": "ladrão",
+		"text": "a thief; a robber; a burglar"
+	},
+	{
+		"word": "bule",
+		"text": "a teapot"
+	},
+	{
+		"word": "pó",
+		"text": "dust; powder; dirt"
+	},
+	{
+		"word": "lâmpada",
+		"text": "a light bulb; a lamp (as in the home of a genie)"
+	},
+	{
+		"word": "escadote",
+		"text": "a ladder"
+	}
+]

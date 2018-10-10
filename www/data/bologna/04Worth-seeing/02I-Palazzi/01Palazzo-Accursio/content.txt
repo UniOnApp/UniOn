@@ -1,0 +1,16 @@
+{
+  "title": "Palazzo Accursio",
+  "latitude": "44.493712",
+  "longitude": "11.342209",
+  "difficulty": "high",
+  "keyword": ["Piazza Maggiore",
+"Comune di Bologna",
+"Torre dell\u2019orologio",
+"Piazza del Nettuno"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

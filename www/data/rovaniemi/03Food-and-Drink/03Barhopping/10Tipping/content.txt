@@ -1,0 +1,13 @@
+{
+  "title": "Tipping",
+  "latitude": "66.501965",
+  "longitude": "25.734819",
+  "difficulty": "",
+  "keyword": ["kuppi","service","restaurant","bar","change","credit card","etiquette","pub"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Michael: - <\/strong>Dzie\u0144 dobry!<\/p>\r\n<p><strong>Sprzedawca: - <\/strong>Dzie\u0144 dobry! <strong>Co Pana interesuje?<\/strong><\/p>\r\n<p onclick=\"tts('Chcia\u0142bym kupi\u0107 rower.')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>M.<\/strong> &ndash; <strong>Chcia\u0142bym <\/strong>kupi\u0107 rower.<\/p>\r\n<p onclick=\"tts('A jaki? Nowy, u\u017Cywany, damski, m\u0119ski, g&oacute;rski, szosowy, miejski?')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>S.<\/strong> &ndash; A jaki? Nowy, u\u017Cywany, <strong>damski, m\u0119ski, g&oacute;rski, szosowy, miejski?<\/strong><\/p>\r\n<p onclick=\"tts('Nowy rower jest za drogi, jestem studentem. Interesuje mnie rower u\u017Cywany, ale w dobrym stanie.')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/><strong>M.<\/strong>- Nowy rower jest za drogi, jestem studentem. Interesuje mnie rower u\u017Cywany, ale w dobrym stanie.<\/p>\r\n<p><strong>S.<\/strong> &ndash; Do jazdy po mie\u015Bcie czy na wycieczki?<\/p>\r\n<p><strong>M.<\/strong> &ndash; Chc\u0119 je\u017Adzi\u0107 i na uniwersytet i na wycieczki.<\/p>\r\n<p><strong>S.<\/strong> &ndash; To my\u015Bl\u0119, \u017Ce ten b\u0119dzie dobry dla pana. Ma 5 <strong>bieg&oacute;w, hamulce tarczowe<\/strong>, dobre opony &ndash; mo\u017Cna je\u017Adzi\u0107 na wycieczki.<\/p>\r\n<p><strong>M.<\/strong> &ndash; \u0141adny, czy mog\u0119 <strong>wypr&oacute;bowa\u0107<\/strong>.<\/p>\r\n<p><strong>S.<\/strong> &ndash; Prosz\u0119 bardzo.<\/p>\r\n<p><strong>M.<\/strong> &ndash; Chyba musz\u0119 podnie\u015B\u0107 <strong>siode\u0142ko<\/strong>, jestem do\u015B\u0107 wysoki.<\/p>\r\n<p><strong>S.<\/strong> &ndash; I jak? Bierze Pan ten rower?<\/p>\r\n<p><strong>M. &ndash; <\/strong>A ile kosztuje?<\/p>\r\n<p><strong>S.<\/strong> &ndash; Czterysta (400) z\u0142otych, jest prawie nowy.<\/p>\r\n<p><strong>M.<\/strong> &ndash; To troch\u0119 du\u017Co dla studenta.<\/p>\r\n<p><strong>S.<\/strong> &ndash; No dobrze, dla studenta i pierwszego klienta dzisiaj trzysta pi\u0119\u0107dziesi\u0105t (350).<\/p>\r\n<p><strong>M.<\/strong> &ndash; Bior\u0119 go.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Chcia\u0142bym (chcie\u0107), damski, m\u0119ski, g&oacute;rski, szosowy, miejski, biegi, hamulce, siode\u0142ko, wypr&oacute;bowa\u0107, co Pana interesuje (interesowa\u0107)?, hamulce tarczowe, ile kosztuje (kosztowa\u0107)?<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

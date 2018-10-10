@@ -1,0 +1,54 @@
+<p><strong>Generi musicali</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Commerciale</span></p>
+<p><span>Pop</span></p>
+<p><span>Rock</span></p>
+<p><span>Classica</span></p>
+<p><span>Hip Hop</span></p>
+<p><span>Leggera</span></p>
+<p><span>Melodica</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>House</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Dance pop</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Synth pop</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Jazz house</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Hard core</span></span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Trance</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Electronic dance music</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Disco music</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Electro house</span></p>
+<p>&nbsp;</p>
+<p><strong>Tipi di ballo</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>Di coppia</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>Individuale</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>Di gruppo</span></p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>Il liscio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>Il latino-americano</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>Il tango</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>La mazurka</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>La polka</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>Il valzer</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>La tarantella</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>Il lindy hop</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/04Balli-con-me/")'>Le danze popolari</span></p>
+<p>&nbsp;</p>
+<p><strong>Persone</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Il/La PR</span>: addetto alle pubbliche relazioni che fa pubblicità alla discoteca, distribuisce inviti, sconti, promozioni.</p>
+<p><span  class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Il buttafuori</span>: persona addetta alla sicurezza e al controllo della discoteca.</p>
+<p><span>Il/La cubista: persona che balla sui cubi.</p>
+<p><span>Il/La barista: persona che serve al bar.</p>
+<p><span>Il/La DJ: disk jockey.</p>
+<p><span>Il/La vocalist: animatore del locale che si occupa di musica e intrattenimento insieme al DJ.</p>
+<p>&nbsp;</p>
+<p><strong>Altri termini a Ballare</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>La lista, essere in lista</span>: avere il proprio nominativo in una lista che di solito porta il nome del PR della discoteca, per avere sconti o ingressi agevolati senza fila.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/03Sotto-le-stelle/")'>L’ingresso libero</span>: entrare senza pagare il biglietto.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>La consumazione</span>: quello che si ordina, di solito cocktail, bibita, birra o altro, al bar o al bancone.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Free drink</span>: consumazione gratuita. </p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>La serata a tema</span>: serata, festa, evento incentrato su una tematica (per esempio una epoca come gli anni ’60, feste in costume, genere musicale, ecc.).</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")'>Il guardaroba</span>: zona del locale, armadio, ripostiglio dove è possibile lasciare giacche e borse, spesso a pagamento.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/03Sotto-le-stelle/")'>La pista</span>: area della discoteca in cui le persone ballano.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e Modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")' >Farsi da parte (eng. to step aside)</span>: <em>&ldquo;Fatti da parte, non tocca a noi!&rdquo;; &ldquo;Pu&ograve; farsi da parte? Dovrei passare&rdquo;; &ldquo;Si &egrave; fatta da parte lei, o &egrave; stata esclusa?&rdquo;.<br /> </em>L&rsquo;espressione &lsquo;farsi da parte&rsquo; significa spostarsi per lasciare spazio a qualcuno o a qualcosa. Pu&ograve; essere usata in senso fisico (spostarsi fisicamente, scansarsi) oppure in senso metaforico (tirarsi fuori, escludersi, uscire da un gruppo, da un processo).</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/01Sei-in-lista/")' >Essere in tiro (eng. full rig, spruced up)</span>: <em>&lsquo;Come sei in tiro stasera!&rsquo;; &lsquo;Ho visto Sara ieri, era tutta tirata, andava a una festa&rsquo;.<br /> </em>&lsquo;Essere in tiro&rsquo; &egrave; un&rsquo;espressione familiare utilizzata per donne e uomini per indicare particolare eleganza o ricercatezza nell&rsquo;abbigliamento. Si pu&ograve; anche usare per indicare appariscenza nell&rsquo;aspetto, senza che questa corrisponda a una particolare eleganza.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/03Sotto-le-stelle/")' >In senso stretto (eng. in the strict sense of the word)</span>: deriva dalla locuzione latina &lsquo;stricto sensu&rsquo; e si usa per delimitare, circoscrivere il significato di un termine, di una espressione, di un concetto. Usato soprattutto nel linguaggio giuridico e scientifico.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/05Entertainment/05A-ballare/03Sotto-le-stelle/")' >La bella stagione (eng. the beautiful season, i.e. summer)</span>: &egrave; un modo di dire che si usa per indicare la stagione in cui il tempo &egrave; bello, dunque solitamente l&rsquo;estate o la primavera.</p>

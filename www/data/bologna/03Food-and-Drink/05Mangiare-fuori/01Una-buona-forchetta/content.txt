@@ -1,0 +1,20 @@
+{
+  "title": "Una buona forchetta",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["cucina tradizionale",
+"sfoglia",
+"tortellini",
+"lasagne",
+"tagliatelle",
+"mortadella",
+"rag\u00F9",
+"appetito"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

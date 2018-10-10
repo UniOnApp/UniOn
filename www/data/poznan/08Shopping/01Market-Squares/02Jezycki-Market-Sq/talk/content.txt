@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry, chcia\u0142bym\/chcia\u0142abym kupi\u0107 bukiet dla przyjaci&oacute;\u0142ki. Czy mo\u017Ce mi Pani doradzi\u0107?<\/p>\r\n<p>- Oczywi\u015Bcie! Bukiet ma by\u0107 z r&oacute;\u017Cnych kwiat&oacute;w, czy tylko z r&oacute;\u017C\/ tulipan&oacute;w\/s\u0142onecznik&oacute;w?<\/p>\r\n<p>- Poprosz\u0119 kolorowy z r&oacute;\u017Cnych kwiat&oacute;w.<\/p>\r\n<p>- Dobrze, zrobi\u0119 bukiet z r&oacute;\u017C, frezji, tulipan&oacute;w i ze s\u0142onecznik&oacute;w.<\/p>\r\n<p>- Ojej, nie znam nazw tych kwiat&oacute;w.<\/p>\r\n<p>- Zaraz Pani\/Panu poka\u017C\u0119 je.<\/p>\r\n<p>- Pi\u0119kny jest ten bukiet. Ile p\u0142ac\u0119?<\/p>\r\n<p>- Poprosz\u0119 45 PLN.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Chcia\u0142abym (chcie\u0107), kupi\u0107, bukiet dla przyjaci&oacute;\u0142ki, doradzi\u0107, z r&oacute;\u017Cnych kwiat&oacute;w, tylko z r&oacute;\u017C\/ tulipan&oacute;w\/s\u0142onecznik&oacute;w, poprosz\u0119 (poprosi\u0107), kolorowy z r&oacute;\u017Cnych kwiat&oacute;w, bukiet z r&oacute;\u017C, frezji, tulipan&oacute;w i z s\u0142onecznik&oacute;w; nie znam (nie zna\u0107) nazw kwiat&oacute;w, poka\u017C\u0119 (pokaza\u0107).<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

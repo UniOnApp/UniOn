@@ -1,0 +1,19 @@
+{
+  "title": "Universitaria",
+  "latitude": "44.496981",
+  "longitude": "11.353048",
+  "difficulty": "high",
+  "keyword": ["Biblioteca Universitaria",
+"Museo Marsili",
+"Museo Aldrovandi",
+"Quadreria",
+"Aula Magna",
+"manoscritti",
+"libri"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

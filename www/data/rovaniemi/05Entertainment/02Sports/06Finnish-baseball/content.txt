@@ -1,0 +1,13 @@
+{
+  "title": "Finnish baseball",
+  "latitude": "66.503425",
+  "longitude": "25.701163",
+  "difficulty": "",
+  "keyword": ["baseball","pesäpallo","team sport","Tahko Pihkala","pesis"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

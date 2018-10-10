@@ -1,0 +1,13 @@
+{
+  "title": "Recognising cases",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>On Finnish trains you have a good chance to practise understanding what you hear. These are some typical announcements that you&rsquo;ll hear on the train on your way south. Pay attention especially to the case endings - illative case endings like <span style=\"text-decoration: underline;\">Helsinki<span style=\"background-color: #99ccff;\">in<\/span><\/span> or inessive endings like <span style=\"text-decoration: underline;\">juna<span style=\"background-color: #99ccff;\">ssa<\/span><\/span> or allative ending like <span style=\"text-decoration: underline;\">Tamperee<span style=\"background-color: #99ccff;\">lle<\/span><\/span> or elative ending like <span style=\"text-decoration: underline;\">Kemi<span style=\"background-color: #99ccff;\">st&auml;<\/span><\/span>.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

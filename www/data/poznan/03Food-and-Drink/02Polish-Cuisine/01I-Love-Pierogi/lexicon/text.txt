@@ -1,0 +1,156 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Kuchnia polska</p>
+</td>
+<td>
+<p>Polish cuisine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zmieniła się (zmieniać)</p>
+</td>
+<td>
+<p>evolved (to evolve)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na przestrzeni wiek&oacute;w</p>
+</td>
+<td>
+<p>over time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>okoliczności historyczne</p>
+</td>
+<td>
+<p>historical circumstances</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spowodowały (spowodować)</p>
+</td>
+<td>
+<p>to result in</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wiele wpływ&oacute;w</p>
+</td>
+<td>
+<p>many influences</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kuchnia żydowska</p>
+</td>
+<td>
+<p>Jewish cuisine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>duża ilość mięsa</p>
+</td>
+<td>
+<p>richness in meat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dr&oacute;b</p>
+</td>
+<td>
+<p>poultry</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wieprzowina</p>
+</td>
+<td>
+<p>pork</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wołowina</p>
+</td>
+<td>
+<p>beef</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dziczyzna</p>
+</td>
+<td>
+<p>game</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>r&oacute;żnorodność warzyw</p>
+</td>
+<td>
+<p>variety of vegetables</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ziemniaki</p>
+</td>
+<td>
+<p>potatoes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kapusta</p>
+</td>
+<td>
+<p>cabbage</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>buraki</p>
+</td>
+<td>
+<p>beet</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyprawy</p>
+</td>
+<td>
+<p>spices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dania mączne</p>
+</td>
+<td>
+<p>dishes made of flour</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozsławione (rozsławiać) pierogi</p>
+</td>
+<td>
+<p>renowned pierogi</p>
+</td>
+</tr>
+</tbody>
+</table>

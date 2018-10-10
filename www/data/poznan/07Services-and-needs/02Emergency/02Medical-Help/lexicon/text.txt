@@ -1,0 +1,132 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Numery alarmowe</p>
+</td>
+<td>
+<p>emergency numbers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Operator medyczny</p>
+</td>
+<td>
+<p>operator/dispatcher</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pow&oacute;d wezwania</p>
+</td>
+<td>
+<p>ground for assistance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dramatyczna sytuacja</p>
+</td>
+<td>
+<p>life-threatening situation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie należy</p>
+</td>
+<td>
+<p>you shouldn&rsquo;t</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podnoszenie głosu</p>
+</td>
+<td>
+<p>to raise voice</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ponaglać</p>
+</td>
+<td>
+<p>to hasten</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podać podstawowe informacje</p>
+</td>
+<td>
+<p>to give basic information</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>osoba poszkodowana</p>
+</td>
+<td>
+<p>injured person</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przytomna</p>
+</td>
+<td>
+<p>conscious</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>reagować na dotyk/b&oacute;l</p>
+</td>
+<td>
+<p>to respond to touch/pain</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lokalizacja</p>
+</td>
+<td>
+<p>whereabouts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>potrzebować pomocy</p>
+</td>
+<td>
+<p>to need medical assistance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>telefon kontaktowy</p>
+</td>
+<td>
+<p>contact phone number</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zgłaszający</p>
+</td>
+<td>
+<p>caller</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dodatkowe informacje</p>
+</td>
+<td>
+<p>additional information</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,35 @@
+<p style="text-align: center;"><strong>Lessico</strong></p>
+<p><span class="internalLink" style="color: #3366ff;">pacco/pacchi</span> (eng. <em>package</em>): contenitore di solito di cartone che contiene oggetti destinati a essere spediti.</p>
+<p><span class="internalLink" style="color: #3366ff;">lettera</span> (eng. <em>letter</em>): comunicazione scritta che una persona invia a un&rsquo;altra.</p>
+<p><span class="internalLink" style="color: #3366ff;">sportello</span> (eng. <em>window, help desk</em>): angolo, piccolo vano, separazione tra il pubblico e l&rsquo;operatore che presta servizio per esempio in una banca o in una posta. Cfr. dizionario visuale.</p>
+<p><span class="internalLink" style="color: #3366ff;">prelievo</span> (eng. <em>withdrawal</em>): ritirare, nel caso specifico, denaro.</p>
+<p><span class="internalLink" style="color: #3366ff;">bollettino postale</span> (eng. <em>postal payment slip</em>): documento precompilato (o no) con il quale ci si reca in Posta per il pagamento di alcuni servizi.</p>
+<p><span class="internalLink" style="color: #3366ff;">spedizione</span> (eng. <em>sending, posting</em>): invio.</p>
+<p><span class="internalLink" style="color: #3366ff;">ritiro</span> (eng. <em>pick up</em>): prendere un pacco, una lettera, o altro, in giacenza in un luogo specifico.</p>
+<p><span class="internalLink" style="color: #3366ff;">lettera raccomandata</span> (eng. <em>registered letter</em>): &ldquo;lettera registrata dalle Poste contro pagamento e consegnata al destinatario che ne firma ricevuta&rdquo;.</p>
+<p><span class="internalLink" style="color: #3366ff;">buchetta delle lettere</span> (eng. <em>mailbox</em>): Cfr. dizionario visuale</p>
+<p><span class="internalLink" style="color: #3366ff;">conto corrente</span> (eng. <em>bank account, post account</em>): contratto bancario che d&agrave; diritto a una serie di servizi.</p>
+<p><span class="internalLink" style="color: #3366ff;">libretto di risparmio</span> (eng. <em>saving book</em>): deposito in cui versare i soldi che riusciamo a risparmiare cio&egrave; a mettere da parte perch&eacute; non vengono spesi.</p>
+<p><span class="internalLink" style="color: #3366ff;">busta</span> (eng. <em>envelope</em>): piccolo contenitore di carta in cui si inseriscono le lettere o altri documeti, per la spedizione o semplicemente per proteggerli.</p>
+<p><span class="internalLink" style="color: #3366ff;">francobollo</span> (eng. <em>stamp</em>): affrancatura, bollo, da applicare su cartoline, lettere, pacchi, ecc. per pagarne la spedizione. Cfr. dizionario visuale</p>
+<p><span class="internalLink" style="color: #3366ff;">filiale</span> (eng. <em>branch</em>): sede secondaria di una banca, di una posta, o di una azienda, diversa dalla sede principale. Sinonimo di succursale.</p>
+<p><span class="internalLink" style="color: #3366ff;">sportello bancomat</span> (eng. <em>ATM</em>): dispositivo esterno della banca dove &egrave; possibile ritirare soldi contanti dal proprio conto corrente, e effettuare altre operazioni bancarie.</p>
+<p><span class="internalLink" style="color: #3366ff;">obbligazione</span> (eng. <em>bond</em>): tipologia di investimento finanziario.</p>
+<p><span class="internalLink" style="color: #3366ff;">azione</span> (eng. <em>stock</em>): tipologia di investimento finanziario soggetta alle oscillazioni della borsa.</p>
+<p><span class="internalLink" style="color: #3366ff;">fondo</span> (eng. <em>fund</em>): tipologia di investimento composta da pi&ugrave; strumenti finanziari.</p>
+<p><span class="internalLink" style="color: #3366ff;">titoli di stato</span> (eng. <em>government bond</em>): tipologia di investimento.</p>
+<p><span class="internalLink" style="color: #3366ff;">correntista</span> (eng. <em>account holder</em>): chi detiene un conto corrente, in banca o in posta.</p>
+<p><span class="internalLink" style="color: #3366ff;">libretto degli assegni</span> (eng. <em>checkbook</em>): blocchetto cartaceo composto da un certo numero di assegni circolari.</p>
+<p><span class="internalLink" style="color: #3366ff;">bonifico</span> (eng. <em>credit transfer</em>): trasferimento di denaro.</p>
+<p><span class="internalLink" style="color: #3366ff;">accredito</span> (eng. <em>credit</em>): somma di denaro ricevuta.</p>
+<p><span class="internalLink" style="color: #3366ff;">stipendio</span> (eng. <em>salary</em>): salario che riceve un lavoratore, di solito con cadenza mensile.</p>
+<p><span class="internalLink" style="color: #3366ff;">addebito</span> (eng. <em>debit</em>): somma di denaro prelevata, sottratta.</p>
+<p><span class="internalLink" style="color: #3366ff;">bollette</span> (eng. <em>bill</em>): rapporto che descrive il consumo di un servizio (per esempio acqua, luce, gas) e per il quale &egrave; necessario pagare un importo.</p>
+<p><span class="internalLink" style="color: #3366ff;">prestito</span> (eng. <em>loan</em>): anticipo di una somma di denaro che dovr&agrave; essere restituita, a certe condizioni.</p>
+<p><span class="internalLink" style="color: #3366ff;">mutuo</span> (eng. <em>mortgage</em>): prestito di denaro finalizzato all&rsquo;acquisto di una casa.</p>
+<p><span class="internalLink" style="color: #3366ff;">a rate</span> (eng. <em>in instalment</em>): a piccole tranche.</p>
+<p><span class="internalLink" style="color: #3366ff;">codice segreto</span> (eng. <em>secret code</em>): sequenza di numeri o di altri caratteri che si impostano per ragioni di sicurezza.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e modi di dire</strong></p>
+<p><span class="internalLink" style="color: #ff6600;">fare la fila</span> (eng. <em>stand in line</em>): aspettare il proprio turno in mezzo a un gruppo di persone ordinate una dietro l&rsquo;altra.</p>
+<p><span class="internalLink" style="color: #ff6600;">perdere il turno</span> (eng. <em>miss your turn</em>): si perde il turno quando, dopo un&rsquo;attesa, saltano alla persona successiva.</p>

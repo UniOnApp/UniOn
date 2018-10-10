@@ -1,0 +1,13 @@
+{
+  "title": "How to ask when",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p class=\"p1\"><span class=\"s1\"><strong><em>How to ask when<\/em><\/strong><\/span><\/p>\r\n<p class=\"p1\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\">The questions When? or At what time? in Finnish are <\/span><span class=\"s2\"><span style=\"text-decoration: underline;\">Milloin<\/span>?<\/span><span class=\"s1\"> or <\/span><span class=\"s2\"><span style=\"text-decoration: underline;\">Mihin aikaan<\/span>?<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Milloin luento alkaa?<\/strong> When does the lecture begin?<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Luento alkaa kello yksi.<\/strong> The lecture begins at one o&rsquo;clock.<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Mihin aikaan kurssi p&auml;&auml;ttyy?<\/strong> What time does the course end?<\/span><\/p>\r\n<p class=\"p2\">&nbsp;<\/p>\r\n<p class=\"p1\"><span class=\"s1\"><strong>Kurssi p&auml;&auml;ttyy kello puoli nelj&auml;.<\/strong> The course ends at half past three. <\/span><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

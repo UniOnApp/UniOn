@@ -1,0 +1,332 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Wysłać list</p>
+</td>
+<td>
+<p>to send a letter</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nadać poczkę</p>
+</td>
+<td>
+<p>to dispatch a package</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>charakterystyczny znak</p>
+</td>
+<td>
+<p>characteristic sign</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>złoty r&oacute;g na czerwonym tle</p>
+</td>
+<td>
+<p>golden horn on a red background</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sieć plac&oacute;wek pocztowych</p>
+</td>
+<td>
+<p>chain of postal offices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skrzynki pocztowe</p>
+</td>
+<td>
+<p>postboxes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>drobne przesyłki</p>
+</td>
+<td>
+<p>small packages</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znaczki</p>
+</td>
+<td>
+<p>stamps</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>widok&oacute;wki</p>
+</td>
+<td>
+<p>postcards</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kartki pocztowe</p>
+</td>
+<td>
+<p>holiday cards</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uchodzić za...</p>
+</td>
+<td>
+<p>to be considered as</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miły sygnał wysyłany bliskim</p>
+</td>
+<td>
+<p>a nice massage to relatives</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prasa</p>
+</td>
+<td>
+<p>newspapers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>artykuły papiernicze</p>
+</td>
+<td>
+<p>stationery</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zadziwiające towary</p>
+</td>
+<td>
+<p>surprising goods</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wydawnictwa dewocyjne</p>
+</td>
+<td>
+<p>devotional articles</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zabawki</p>
+</td>
+<td>
+<p>toys</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ręczniki</p>
+</td>
+<td>
+<p>towels</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świadczyć usługi finansowe</p>
+</td>
+<td>
+<p>provide financial services</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypłacić pieniądze</p>
+</td>
+<td>
+<p>to withdraw money</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opłacić rachunki</p>
+</td>
+<td>
+<p>to pay bills</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pobierać opłaty</p>
+</td>
+<td>
+<p>to charge fees</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>paczkomat</p>
+</td>
+<td>
+<p>shipping services</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kiosk Ruchu</p>
+</td>
+<td>
+<p>Ruch kiosk</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Wykonanie przelewu</p>
+</td>
+<td>
+<p>to make a bank transfer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>płatność za zakupy internetowe</p>
+</td>
+<td>
+<p>online payments</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>posiadanie własnego konta bankowego</p>
+</td>
+<td>
+<p>to hold a bank account</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>konto studenckie</p>
+</td>
+<td>
+<p>student bank account</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>konto osobiste</p>
+</td>
+<td>
+<p>personal account</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>korzystanie z konta</p>
+</td>
+<td>
+<p>to use an account</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przelewy</p>
+</td>
+<td>
+<p>transfers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>karta płatnicza</p>
+</td>
+<td>
+<p>debit card</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dostęp do pieniędzy</p>
+</td>
+<td>
+<p>access to money</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bankomaty</p>
+</td>
+<td>
+<p>ATMs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bankowość online</p>
+</td>
+<td>
+<p>e-banking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>aplikacja mobilna</p>
+</td>
+<td>
+<p>mobile app</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dodatkowe korzyści</p>
+</td>
+<td>
+<p>perks</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rabaty</p>
+</td>
+<td>
+<p>discounts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>promocje</p>
+</td>
+<td>
+<p>promotions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oferty specjalne</p>
+</td>
+<td>
+<p>special offers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jakość obsługi klienta</p>
+</td>
+<td>
+<p>quality of the customer service</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,68 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Dworzec autobusowy</p>
+</td>
+<td>
+<p>bus station</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>połączenia lokalne</p>
+</td>
+<td>
+<p>domestic connections</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znajdujący się (znajdować się)</p>
+</td>
+<td>
+<p>situated (to be situated)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>u kierowcy autobusu</p>
+</td>
+<td>
+<p>from the bus driver</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na wybrane połączenia</p>
+</td>
+<td>
+<p>for chosen connections</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>z wyprzedzeniem</p>
+</td>
+<td>
+<p>in advance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podr&oacute;żni</p>
+</td>
+<td>
+<p>travellers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oczekujący (oczekiwać)</p>
+</td>
+<td>
+<p>awaiting (to wait)</p>
+</td>
+</tr>
+</tbody>
+</table>

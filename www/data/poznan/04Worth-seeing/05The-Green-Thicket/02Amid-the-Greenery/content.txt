@@ -1,0 +1,13 @@
+{
+  "title": "Amid the Greenery",
+  "latitude": "52.422105",
+  "longitude": "16.905171",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

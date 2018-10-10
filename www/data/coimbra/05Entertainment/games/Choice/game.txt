@@ -1,0 +1,58 @@
+[
+  {
+    "question": "Sweet or salted and a good film! Let’s get some…",
+    "answers": [
+      "pipocas",
+      "pipis",
+      "percebes"
+    ]
+  },
+  {
+    "question": "The tower that was part of the ancient city walls.",
+    "answers": [
+      "Torre de Anto",
+      "Torre de Belém",
+      "Torre da Universidade"
+    ]
+  },
+  {
+    "question": "UC theatre, unique in Portugal.",
+    "answers": [
+      "Teatro Académico Gil Vicente",
+      "Escola da Noite",
+      "Bonifrates"
+    ]
+  },
+  {
+    "question": "Miniature size Portuguese monuments park aka Portugal dos…",
+    "answers": [
+      "Pequenitos",
+      "Pequeninos",
+      "Infantes"
+    ]
+  },
+  {
+    "question": "In Portugal, a film is usually not dubbed but has…",
+    "answers": [
+      "legendas",
+      "subtítulos",
+      "lendas"
+    ]
+  },
+  {
+    "question": "The most popular Portuguese type of song is the…",
+    "answers": [
+      "Fado",
+      "Fandango",
+      "Funaná"
+    ]
+  },
+  {
+    "question": "José Afonso is popularly known as…",
+    "answers": [
+      "Zeca Afonso",
+      "Zé Afonso",
+      "Jô Afonso"
+    ]
+  }
+]

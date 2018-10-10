@@ -1,0 +1,13 @@
+{
+  "title": "Aforismi e aneddoti",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

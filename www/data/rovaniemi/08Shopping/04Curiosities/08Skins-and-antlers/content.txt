@@ -1,0 +1,13 @@
+{
+  "title": "Skins & antlers",
+  "latitude": "66.567173",
+  "longitude": "25.945890",
+  "difficulty": "",
+  "keyword": ["reindeer","souvenirs","gifts","knife","antler"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

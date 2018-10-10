@@ -1,0 +1,13 @@
+{
+  "title": "Cacao Republika",
+  "latitude": "52.409001",
+  "longitude": "16.932243",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

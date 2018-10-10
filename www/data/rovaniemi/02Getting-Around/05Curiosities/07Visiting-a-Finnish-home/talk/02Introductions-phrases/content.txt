@@ -1,0 +1,13 @@
+{
+  "title": "Introductions & phrases",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>When meeting face-to-face for the first time, you often shake hands and make eye contact introducing yourself. When shaking hands, it&rsquo;s polite of men and young people to stand up. In fact, shaking hands is the failsafe way to greet in any formal situation in Finland.<\/p>\r\n<p>In informal situations a nod of the head or raising your hand with a short greeting like hei or moi is perfectly enough.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Embracing people when greeting is common only among close friends and relatives, especially among women. Finnish men embrace each other only in occasion of the gold medal in the Ice Hockey World Championship. The European habit of kisses on the cheek is not entirely unknown in Finland, but Finns rarely do so.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Here are some greetings and phrases that can be useful in everyday situations:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Hauska tavata!<\/strong> Nice to meet you!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Hei, mit&auml; kuuluu?<\/strong> Hello, how are you?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Kiitos hyv&auml;&auml;, ent&auml; sinulle?<\/strong> Fine thanks, how about you?<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Hauskaa iltaa!<\/strong> Have a nice evening!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Hauskaa viikonloppua!<\/strong> Have a nice weekend!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Kiitos samoin!<\/strong> Thanks, likewise!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>N&auml;hd&auml;&auml;n!<\/strong> See you!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Voi, anteeksi!<\/strong> Oh, I&rsquo;m sorry!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Ei se mit&auml;&auml;n<\/strong>. Never mind \/ That&rsquo;s okay.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

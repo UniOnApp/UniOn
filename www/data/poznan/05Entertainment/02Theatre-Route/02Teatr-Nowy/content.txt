@@ -1,0 +1,13 @@
+{
+  "title": "Teatr Nowy",
+  "latitude": "52.411045",
+  "longitude": "16.912388",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

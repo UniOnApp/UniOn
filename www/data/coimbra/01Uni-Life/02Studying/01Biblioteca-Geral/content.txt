@@ -1,0 +1,13 @@
+{
+  "title": "General Library",
+  "latitude": "40.207643",
+  "longitude": "-8.425136",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

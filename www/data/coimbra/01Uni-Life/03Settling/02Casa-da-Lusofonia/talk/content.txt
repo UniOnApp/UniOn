@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Falo um pouco de portugu&ecirc;s.<\/p>\r\n<p><em>I speak a little bit of portuguese.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Falo bem&hellip;<\/p>\r\n<p><em>I speak well...<\/em><\/p>\r\n<p>S&oacute; falo &hellip;<\/p>\r\n<p><em>I only speak...<\/em><\/p>\r\n<p>Tamb&eacute;m falo&hellip;<\/p>\r\n<p><em>I also speak...<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>regular verb ending in &lsquo;-ar&rsquo; (falar)<\/strong><\/p>\r\n<p>eu fal<strong>o <\/strong>| I speak<\/p>\r\n<p>tu fal<strong>as <\/strong>| you speak<\/p>\r\n<p>ele\/ela\/voc&ecirc; fal<strong>a | <\/strong>he\/she\/you speaks<\/p>\r\n<p>n&oacute;s fal<strong>amos | <\/strong>we speak<\/p>\r\n<p>eles\/elas\/voc&ecirc;s fal<strong>am <\/strong>| they+masc., they+fem., you+ pl.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>L&iacute;nguas<\/strong><\/p>\r\n<p>Ingl&ecirc;s<\/p>\r\n<p>Franc&ecirc;s<\/p>\r\n<p>Alem&atilde;o<\/p>\r\n<p>Espanhol<\/p>\r\n<p>Italiano<\/p>\r\n<p>Grego<\/p>\r\n<p>Sueco<\/p>\r\n<p>Russo<\/p>\r\n<p>Chin&ecirc;s<\/p>\r\n<p>Polaco<\/p>\r\n<p>Finland&ecirc;s<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

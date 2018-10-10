@@ -1,0 +1,13 @@
+{
+  "title": "Retail Parks",
+  "latitude": "40.192088",
+  "longitude": "-8.510221",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

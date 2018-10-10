@@ -1,0 +1,13 @@
+{
+  "title": "Mr. Lumberjack",
+  "latitude": "66.503908",
+  "longitude": "25.738691",
+  "difficulty": "",
+  "keyword": ["jätkä","vappu","festival","may","picnic","carnival","statue","cheers","kippis"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

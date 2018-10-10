@@ -1,0 +1,13 @@
+{
+  "title": "Indoors",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["gym","swimming","pool","natação","yoga","ballet","sauna"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

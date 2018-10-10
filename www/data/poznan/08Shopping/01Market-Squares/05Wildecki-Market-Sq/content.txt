@@ -1,0 +1,13 @@
+{
+  "title": "Wildecki Market Sq.",
+  "latitude": "52.393228",
+  "longitude": "16.920061",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

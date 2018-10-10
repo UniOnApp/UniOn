@@ -1,0 +1,13 @@
+{
+  "title": "Bus Tickets",
+  "latitude": "40.2091207",
+  "longitude": "-8.4194316",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,22 @@
+<p><strong>I Luoghi</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/01a-spasso-per-Bologna/")' >La strada</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/02tanti-percorsi-a-piedi/")' >La via</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/01a-spasso-per-Bologna/")' >La piazza</span></p>
+<p>Il viale/I viali</p>
+<p>Il vicolo</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/02tanti-percorsi-a-piedi/")' >Il quartiere</span></p>
+<p>Il marciapiede</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/03camminare-sotto-i-portici/")' >Il portico/I portici</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/01a-spasso-per-Bologna/")' >La zona/area pedonale</span></p>
+<p>Le strisce pedonali</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/01a-spasso-per-Bologna/")' >L&rsquo;incrocio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/01a-spasso-per-Bologna/")' >Il semaforo</span></p>
+<p>&nbsp;</p>
+<p><strong>Le Azioni</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/02tanti-percorsi-a-piedi/")' >Passeggiare, camminare, girare in citt&agrave;/per la citt&agrave;</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/01a-spasso-per-Bologna/")' >Andare a spasso/in giro/a zonzo</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/02tanti-percorsi-a-piedi/")' >Visitare la citt&agrave;/un museo/una chiesa</span></p>
+<p>Fare una visita guidata</p>
+<p>Chiedere e dare informazioni</p>
+<p><span class="internalLink" onclick='goto("data/bologna/02Getting-Around/01a-piedi/01a-spasso-per-Bologna/")' >Attraversare la strada sulle strisce pedonali</span></p>
+<p>Aspettare che il semaforo diventi verde</p>

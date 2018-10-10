@@ -1,0 +1,172 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Jeśli chcesz poznać</p>
+</td>
+<td>
+<p><strong>if you would like to check out</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pozbawione</p>
+</td>
+<td>
+<p><strong>without</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tradycyjne eksponaty</p>
+</td>
+<td>
+<p><strong>traditional artifacts</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>interaktywne i multimedialne</p>
+</td>
+<td>
+<p><strong>interactive and multimedia</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uznane za...</p>
+</td>
+<td>
+<p><strong>considered as</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skupione</p>
+</td>
+<td>
+<p><strong>focused on</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przeszłość</p>
+</td>
+<td>
+<p><strong>the past</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;łczesność</p>
+</td>
+<td>
+<p><strong>the present</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koniecznie</p>
+</td>
+<td>
+<p><strong>definitely</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>idea</p>
+</td>
+<td>
+<p><strong>concept</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsce spotkania</p>
+</td>
+<td>
+<p><strong>meeting place</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>metaforycznie nazwane</p>
+</td>
+<td>
+<p><strong>metaphorically-called</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>woda</p>
+</td>
+<td>
+<p><strong>water</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>złoto </p>
+</td>
+<td>
+<p><strong>gold</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>witraż</p>
+</td>
+<td>
+<p><strong>stained glass</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poprowadzić</p>
+</td>
+<td>
+<p><strong>to lead</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>promować</p>
+</td>
+<td>
+<p><strong>to promote</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>hasło</p>
+</td>
+<td>
+<p><strong>slogan</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wycieczki tematyczne</p>
+</td>
+<td>
+<p><strong>theme routes</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przyjrzeć się</p>
+</td>
+<td>
+<p><strong>to scout out</strong></p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niekonwencjonalnie</p>
+</td>
+<td>
+<p><strong>unconventional</strong></p>
+</td>
+</tr>
+</tbody>
+</table>

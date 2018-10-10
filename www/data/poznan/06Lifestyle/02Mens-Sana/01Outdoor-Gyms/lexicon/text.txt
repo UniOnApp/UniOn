@@ -1,0 +1,212 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Osiedle/osiedla</p>
+</td>
+<td>
+<p>housing estate/estates</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pojawić się</p>
+</td>
+<td>
+<p>to spring up across</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>urządzenia do ćwiczeń</p>
+</td>
+<td>
+<p>exercise machines</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wioślarz</p>
+</td>
+<td>
+<p>rowing machine</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>biegacz</p>
+</td>
+<td>
+<p>stepper</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>orbitrek</p>
+</td>
+<td>
+<p>rrbitrek</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wahadło</p>
+</td>
+<td>
+<p>pendulum</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>twister</p>
+</td>
+<td>
+<p>twisting station</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzielnica</p>
+</td>
+<td>
+<p>district</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>można korzystać</p>
+</td>
+<td>
+<p>can be used</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dbać o kondycję</p>
+</td>
+<td>
+<p>to keep in shape</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>blado/blady</p>
+</td>
+<td>
+<p>pale</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyglądasz/wyglądać</p>
+</td>
+<td>
+<p>to look</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na spacer</p>
+</td>
+<td>
+<p>for a walk</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>potrzebować</p>
+</td>
+<td>
+<p>to need</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>świeże powietrze</p>
+</td>
+<td>
+<p>fresh air</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ruch</p>
+</td>
+<td>
+<p>exercise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>p&oacute;jść do siłowni/na siłownię</p>
+</td>
+<td>
+<p>visit a gym</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>liczyć na</p>
+</td>
+<td>
+<p>to count on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie licz na&hellip;</p>
+</td>
+<td>
+<p>don&rsquo;t count on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>starsi ludzie/seniorzy/starsi państwo</p>
+</td>
+<td>
+<p>seniors</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dla każdego</p>
+</td>
+<td>
+<p>for everyone</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>śmiać się z kogoś</p>
+</td>
+<td>
+<p>to laugh at</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przed południem</p>
+</td>
+<td>
+<p>in the morning</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>popołudnie</p>
+</td>
+<td>
+<p>in the afternoon</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>poruszać się</p>
+</td>
+<td>
+<p>to exercise</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Buying Food",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["food","market","supermercado","gluten","diabetes"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

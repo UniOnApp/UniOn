@@ -1,0 +1,6 @@
+hooks
+platforms
+plugins
+.DS_Store
+resources/signing
+*.xcuserdatad

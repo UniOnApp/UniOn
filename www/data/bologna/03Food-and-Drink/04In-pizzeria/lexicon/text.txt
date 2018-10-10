@@ -1,0 +1,38 @@
+<p><strong>La Pizza</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >al tavolo</span>: servita nel piatto a persone sedute a tavola.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >da asporto</span>: ordinata al telefono e servita a casa, di solito nei cartoni.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >al taglio, al trancio</span>: fetta di pizza che si pu&ograve; mangiare anche mentre si passeggia.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >surgelata</span>: pizza che &egrave; stata messa nel congelatore per conservarsi. Di solito si acquistano al supermercato e si tengono in freezer a casa.</p>
+<p>&nbsp;</p>
+<p><strong>Gli Oggetti in pizzeria</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/01Classica-o-fantasia-del-pizzaiolo/")' >La ricetta</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/01Classica-o-fantasia-del-pizzaiolo/")' >Il men&ugrave;</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/01Classica-o-fantasia-del-pizzaiolo/")' >Il forno a legna</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/03Questione-di-gusti/")' >Il piatto unico</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >Le posate</span>: la forchetta, il coltello, il cucchiaio, il cucchiaino</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/03Questione-di-gusti/")' >La birra</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/03Questione-di-gusti/")' >La bibita</span></p>
+<p>&nbsp;</p>
+<p><strong>Gli Ingredienti</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/01Classica-o-fantasia-del-pizzaiolo/")' >La farina</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/01Classica-o-fantasia-del-pizzaiolo/")' >Il lievito di birra, lievito madre</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/01Classica-o-fantasia-del-pizzaiolo/")' >Il sale</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/01Classica-o-fantasia-del-pizzaiolo/")' >L&rsquo;olio extravergine di oliva</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >L&rsquo;aglio</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >Lo strutto</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >Il sale grosso</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >La mozzarella</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >Il pomodoro</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >Il basilico</span></p>
+<p>&nbsp;</p>
+<p><strong>Le Persone</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >Il pizzaiolo/La pizzaiola</span></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >Il fornaio/La fornaia</span></p>
+<p>&nbsp;</p>
+<p><strong>Espressioni e modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/01Classica-o-fantasia-del-pizzaiolo/")' >Figuriamoci (eng. never mind, no problem)</span>: &ldquo;<em>Buongiorno, posso entrare, disturbo?</em>&rdquo; &ldquo;<em>Ma no, figurati, sei la benvenuta!</em>&rdquo;.<br />&ldquo;<em>Figuriamoci se si &egrave; ricordata di avvisare suo padre! Non lo fa mai!</em>&rdquo;<br /> Fig&ugrave;rati!, Figuriamoci!, Si figuri!, Figurarsi! Sono espressioni rafforzative, a volte esclamative, usate per confermare una affermazione oppure per negarla, per contraddirla.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/03Questione-di-gusti/")' >Questione di gusti (eng. it&rsquo;s a matter of taste)</span>: questa espressione, a volte preceduta da &ldquo;&egrave;&rdquo; (&ldquo;<em>&egrave; una questione di gusti</em>&rdquo;) significa che una certa scelta dipende dalle preferenze di ciascuno.<br />"<em>Preferisco il pesce alla carne ma &egrave; una questione di gusti</em>".<br />"<em>Clint Eastwood mi piace di pi&ugrave; come regista che come attore ma &egrave; una questione di gusti</em>".</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/03Questione-di-gusti/")' >Non si fanno scrupoli (eng. they are not scrupolous)</span>: non farsi scrupoli, non avere scrupoli significa non avere attenzioni, preoccupazioni o riguardi nei confronti di una certa cosa. &ldquo;<em>Non ti fare scrupoli a chiedermi quello che ti serve</em>&rdquo;.<br />Invece, essere senza scrupoli ha un significato pi&ugrave; forte e vuol dire agire senza coscienza, moralit&agrave; o onest&agrave;.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >Spesso e volentieri (eng. often and willingly)</span>: &egrave; un'espressione colloquiale usata per indicare che un certo evento si ripete di frequente. L&rsquo;associazione dell&rsquo;avverbio "spesso" a "volentieri" le d&agrave; una connotazione ironica, scherzosa ma non ne cambia il significato. Spesso e volentieri significa dunque frequentemente.<br />&ldquo;<em>Fissa gli appuntamenti, ma spesso e volentieri dimentica di andarci</em>&rdquo;.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >Da capogiro (eng. astonishing, shock-inducing, making your head turning)</span>: "capo" vuol dire testa, nuca; giro viene dal verbo girare; dunque letteralmente significa "<em>da far girare la testa</em>". Da capogiro significa stupefacente, sbalorditivo. &ldquo;<em>Sono prezzi da capogiro</em>&rdquo;, cio&egrave; talmente alti da far girare la testa.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/04In-pizzeria/02Dimmi-che-pizza-mangi-e-ti-diro-da-dove-vieni/")' >Non l&rsquo;avesse mai detto (eng. If I have never said it)</span>: espressione, modo di dire che indica il rimpianto, il pentimento di avere detto qualcosa. Probabilmente quello che &egrave; stato detto ha provocato effetti negativi, rabbia o altre reazioni simili.</p>

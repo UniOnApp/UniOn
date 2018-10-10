@@ -1,0 +1,13 @@
+{
+  "title": "YTHS",
+  "latitude": "66.485212",
+  "longitude": "25.712720",
+  "difficulty": "",
+  "keyword": ["health","sickness","fshs","flu","fever","doctor"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

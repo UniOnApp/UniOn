@@ -1,0 +1,11 @@
+<p> Każdy prowadzący zajęcia ustala ze studentami <strong>formy zaliczenia przedmiotu</strong>. Najczęstszą formą są <strong>oceny w skali od oceny bardzo dobrej do niedostatecznej. </strong></p>
+<p>bardzo dobry (bdb; 5)</p>
+<p>dobry plus (db plus; 4,5)</p>
+<p>dobry (db; 4)</p>
+<p>dostateczny plus (dst +; 3,5)</p>
+<p>dostateczny (dst; 3)</p>
+<p>niedostateczny (ndst.; 2)</p>
+<p><strong>A/5 </strong>EXCELLENT - outstanding performance<strong><br /> B/4+ </strong>VERY GOOD - above the average standard with only minor errors<strong><br /> C/4 </strong>GOOD - generally sound work with some minor errors<strong><br /> D/3+ </strong>SATISFACTORY - fair but with a number of notable errors<strong><br /> E/3 </strong>SUFFICIENT - fair but with significant shortcomings<strong><br /> F/2 </strong>FAIL</p>
+<p>Studenci są zarejestrowani w Uniwersyteckim Systemie Oceny Studenta (USOS), kt&oacute;ry jest <strong>elektroniczną wersją tradycyjnego indeksu</strong>. W systemie tym wykładowcy wpisują oceny z poszczeg&oacute;lnych przedmiot&oacute;w. </p>
+<p>Na uczelniach w Polsce <strong>obowiązuje Europejski System Transferu Punkt&oacute;w (ECTS)</strong>. Jest to spos&oacute;b oceny postęp&oacute;w studenta i służy do potwierdzania oraz zaliczenia kolejnych etap&oacute;w kształcenia.</p>
+<p>Niekt&oacute;re przedmioty kończą się <strong>egzaminem</strong>, inne <strong>zaliczeniami z oceną</strong>. W trakcie roku akademickiego przeprowadza się <strong>kolokwia</strong> sprawdzające wiedzę nabytą podczas zajęć. </p>

@@ -1,0 +1,13 @@
+{
+  "title": "Campo Santa Cruz",
+  "latitude": "40.210449",
+  "longitude": "-8.416444",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>To play<\/strong><\/p>\r\n<p><strong>a) Jogar <\/strong><em>&ndash; to play sports with a ball; to play boardgames<\/em><\/p>\r\n<p>Eu jogo rugby. <\/p>\r\n<p><em>I play rugby.<\/em><\/p>\r\n<p>N&oacute;s jogamos Uno. <\/p>\r\n<p><em>We play Uno.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>b) Tocar<\/strong> <em>&ndash; to play an instrument; to play music<\/em><\/p>\r\n<p>Eles tocam piano.<\/p>\r\n<p><em>They play piano.<\/em><\/p>\r\n<p>Elas tocam m&uacute;sica tradicional.<\/p>\r\n<p><em>They play folk music.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>c) Brincar<\/strong><em> &ndash; children play, but also to joke.<\/em><\/p>\r\n<p>Os mi&uacute;dos brincam no parque.<\/p>\r\n<p><em>The kids play in the park.<\/em><\/p>\r\n<p>Estou a brincar!<\/p>\r\n<p><em>I&rsquo;m kidding\/ I&rsquo;m joking.<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

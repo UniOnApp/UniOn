@@ -1,0 +1,53 @@
+<p>You can <strong>combine walking and sightseeing</strong> by using the Poznań City Card. It is a card valid for bearer only with an ID card. It is available in one-, two- and three-day versions, with or without transportation. Having the card, you can stop walking anytime to enter a museum (free admission), enjoy the attractions in the sports facilities (the card grants you discounted admission), spend time in the Palm House (discounted admission), or rest at a restaurant (discounts).</p>
+<table cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>
+<p>Discounted</p>
+</td>
+<td>
+<p>Public Transport</p>
+</td>
+<td>
+<p>No Public Transport</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1 day</p>
+</td>
+<td>
+<p>25 PLN</p>
+</td>
+<td>
+<p>20 PLN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2 day</p>
+</td>
+<td>
+<p>35 PLN</p>
+</td>
+<td>
+<p>30 PLN</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3 day</p>
+</td>
+<td>
+<p>45 PLN</p>
+</td>
+<td>
+<p>38 PLN</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>You can purchase the card in the City Information Center, National Museum (Aleje Marcinkowskiego 9), Palm House (18 Matejki st.), or from the administrators of Malta Thermal Baths (1 Termalna st.) and Malta Ski (2 Wiankowa st.).</p>
+<p><a href="http://www.poznan.pl/mim/cim/poznanska-karta-miejska,p,581.html"><u>http://www.poznan.pl/mim/cim/poznanska-karta-miejska,p,581.html</u><u></u></a></p>
+<p>Tourist lines such as tram no. 0 and bus no. 100, operating from 30 April to 25 September, enable you to combine strolling in the city with a ride in public transport.</p>
+<iframe src="https://www.youtube-nocookie.com/embed/wmApPUTkefg?rel=0&amp;controls=0&amp;showinfo=0" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

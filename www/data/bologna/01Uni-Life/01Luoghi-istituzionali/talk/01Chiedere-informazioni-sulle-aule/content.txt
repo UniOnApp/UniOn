@@ -1,0 +1,13 @@
+{
+  "title": "Chiedere informazioni sulle aule",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p >Talk<\/p><\/th><th><p >Answer Models<\/p><\/th><\/tr><tr><td><p>Dove posso trovare l&rsquo;Aula 5?<\/p><p>Dov&rsquo;&egrave; l&rsquo;Aula Magna?<\/p><p>Dove si trova l&rsquo;aula?<\/p><p>A che piano &egrave; l&rsquo;aula 4?<\/p><\/td><td><p>Al primo\/secondo\/terzo piano<\/p><p>Nel seminterrato<\/p><\/td><\/tr><tr><td><p>A che ora apre\/chiude la sala studio?<\/p><\/td><td><p>La Sala Studio apre\/chiude alle \u2026<\/p><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

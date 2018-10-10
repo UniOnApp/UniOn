@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>W akademiku. Alex, Kasia i Tomek rozmawiaj\u0105.<\/p>\r\n<p>Alex: <strong>Co robimy<\/strong> dzi\u015B wieczorem?<\/p>\r\n<p onclick=\"tts('Mo\u017Ce p&oacute;jdziemy na imprez\u0119 pota\u0144czy\u0107?')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Kasia: <strong>Mo\u017Ce p&oacute;jdziemy na imprez\u0119<\/strong> pota\u0144czy\u0107?<\/p>\r\n<p onclick=\"tts('Mo\u017Ce by\u0107, ale tylko do klubu z muzyk\u0105 elektroniczn\u0105.')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>Tomek: <strong>Mo\u017Ce by\u0107<\/strong>, ale tylko do klubu z muzyk\u0105 elektroniczn\u0105.<\/p>\r\n<p onclick=\"tts('Ok, to proponuj\u0119 SQ Klub.')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>A: Ok, <strong>to proponuj\u0119<\/strong> <em>SQ Klub<\/em>.<\/p>\r\n<p onclick=\"tts('Jestem za')\"><img style=\"width:9px; margin:0 2px 0 -5px;\" src=\"img\/voice.png\"\/>K: <strong>Jestem za<\/strong>!<\/p>\r\n<p>T: Dobrze, to si\u0119 <strong>szykujcie<\/strong>!<\/p>\r\n<p>A: To zadzwoni\u0119 do Jane, mo\u017Ce p&oacute;jdzie z nami!<\/p>\r\n<p>W klubie:<\/p>\r\n<p>T: Kasiu, <strong>czego si\u0119 napijesz<\/strong>?<\/p>\r\n<p>K: Wiesz, \u017Ce ja <strong>ma\u0142o pij\u0119<\/strong>. Zam&oacute;w mi tylko coca-col\u0119.<\/p>\r\n<p>T: <strong>Tylko?<\/strong> Ok, jak chcesz. A Ty, Alex?<\/p>\r\n<p>A: Ja spr&oacute;buj\u0119 \u017Cubr&oacute;wki z sokiem jab\u0142kowym.<\/p>\r\n<p>T: <strong>\u015Awietny wyb&oacute;r<\/strong>!<\/p>\r\n<p>K: Oooo, jest i Jane!<\/p>\r\n<p>T: Cze\u015B\u0107 Jane, id\u0119 do baru po drinki, <strong>co dla Ciebie<\/strong>?<\/p>\r\n<p>J: Cze\u015B\u0107 wszystkim! Dzi\u0119ki Tomku, ale ja ju\u017C mam drinka.<\/p>\r\n<p>T: No nie, s\u0142uchajcie, dzi\u015B zda\u0142em wa\u017Cny egzamin, wi\u0119c <strong>stawiam<\/strong><u> <\/u>wszystkim!<\/p>\r\n<p>K: To musia\u0142 by\u0107 naprawd\u0119 wa\u017Cny egzamin. Chod\u017Amy do baru!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Co robimy?; mo\u017Ce p&oacute;jdziemy na imprez\u0119?; mo\u017Ce by\u0107; proponuj\u0119...; jestem za; szykowa\u0107 si\u0119; czego si\u0119 napijesz?; \u015Bwietny wyb&oacute;r; co dla Ciebie?; stawia\u0107 drinki; uwielbiam...; zamawiam...; zamawia si\u0119 przy barze; o to chodzi; na zdrowie!; gor\u0105czka sobotniej nocy; idziemy na (piwo, imprez\u0119, pota\u0144czy\u0107).<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

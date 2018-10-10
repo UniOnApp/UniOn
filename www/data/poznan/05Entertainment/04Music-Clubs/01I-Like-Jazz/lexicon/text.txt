@@ -1,0 +1,92 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Znajdziesz (znaleźć)</p>
+</td>
+<td>
+<p>you can find (to find)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>spędzisz (spędzić) wiecz&oacute;r</p>
+</td>
+<td>
+<p>you&rsquo;ll spend (to spend) an evening</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>posłuchasz (posłuchać)</p>
+</td>
+<td>
+<p>you&rsquo;ll listen (to listen)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>potańczysz (potańczyć)</p>
+</td>
+<td>
+<p>you&rsquo;ll dance (to dance)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miłośnik</p>
+</td>
+<td>
+<p>fan</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>położony w centrum</p>
+</td>
+<td>
+<p>situated in the downtown/ heart of the city</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w bezpośrednim sąsiedztwie</p>
+</td>
+<td>
+<p>in the nearest vicinity of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>osoby kochające muzykę</p>
+</td>
+<td>
+<p>music lover/ enthusiast</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tysiące</p>
+</td>
+<td>
+<p>thousands of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wykonawca</p>
+</td>
+<td>
+<p>player/ musician</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sławy zagraniczne</p>
+</td>
+<td>
+<p>world-renowned foreign performers</p>
+</td>
+</tr>
+</tbody>
+</table>

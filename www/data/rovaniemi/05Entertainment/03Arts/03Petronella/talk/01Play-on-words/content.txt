@@ -1,0 +1,13 @@
+{
+  "title": "Play on words",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Did you know that the term <strong>ulapalla <\/strong>is a play on words? You need to know a little bit of Finnish to be able to understand it. <\/p>\r\n<p>&nbsp;<\/p>\r\n<p>As you know, the abbreviation of the University of Lapland is <strong>ULapland<\/strong>. The word <strong>ulapalla<\/strong>, then again, means being, sailing or even drifting pointlessly in open waters. The word <strong>ulapalla <\/strong>is also used outside the concrete nautical context: if you say that a person is <strong>ulapalla<\/strong>, you&rsquo;re saying that they&rsquo;re completely clueless about something and don&rsquo;t have any idea of a matter that they should be aware of. Like this:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Mikko on ihan ulapalla.<\/strong> Mikko is completely clueless.<\/p>\r\n<p><strong>Min&auml; olen ihan ulapalla. \/ M&auml; oon ihan ulapalla.<\/strong> I&rsquo;m completely clueless. \/ I have no idea [of the matter at hand]. (The latter version in Finnish is more informal).<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>The basic form of the word is <strong>ulappa<\/strong>, which translates as open water in a sea or large lake. The word can&rsquo;t really be used for smaller waterways. The word is bent by adding the ending <strong>-lla<\/strong>, and it means that something &ndash; or someone &ndash; is on the surface of the open water:<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Laiva seilaa ulapalla.<\/strong> A ship is sailing in open waters.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>In conclusion, as you can see, the words <strong>ulapalla<\/strong> and <strong>ULapland<\/strong> are very similar to each other, implying that if you stay tuned about what the Ulapalla team is posting on social media, you&rsquo;ll remain up-to-date of what&rsquo;s going on at ULapland.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,18 @@
+{
+  "title": "Mercanzia",
+  "latitude": "44.4937630",
+  "longitude": "11.34647",
+  "difficulty": "mid",
+  "keyword": ["Piazza della Mercanzia",
+"Quadrilatero",
+"Palazzo della Mercanzia",
+"Museo Medievale",
+"Torre degli Alberici",
+"Case Serracchioli"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

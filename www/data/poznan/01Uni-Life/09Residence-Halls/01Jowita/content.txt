@@ -1,0 +1,13 @@
+{
+  "title": "Jowita",
+  "latitude": "52.407982",
+  "longitude": "16.910083",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

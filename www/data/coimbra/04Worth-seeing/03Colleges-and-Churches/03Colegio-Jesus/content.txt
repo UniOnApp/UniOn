@@ -1,0 +1,13 @@
+{
+  "title": "Col\u00E9gio Jesus",
+  "latitude": "40.2100922",
+  "longitude": "-8.4256351",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Here&rsquo;s a convenient list of words for you to try out. Feel free to add your own words, arts and crafts come in many shapes and sizes.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>askartelu<\/strong> hobby activities, crafts<\/p>\r\n<p><strong>galleria<\/strong> a gallery<\/p>\r\n<p><strong>grafiikka<\/strong> graphic arts, graphics<\/p>\r\n<p><strong>kartonki<\/strong> cardboard<\/p>\r\n<p><strong>kehys<\/strong> a frame<\/p>\r\n<p><strong>kehyst&auml;m&ouml;<\/strong> an arts and crafts supply store (lit. framing shop)<\/p>\r\n<p><strong>kortti<\/strong> a card<\/p>\r\n<p><strong>k&auml;sity&ouml;t<\/strong> handicrafts<\/p>\r\n<p><strong>lanka<\/strong> wire, string<\/p>\r\n<p><strong>liima<\/strong> glue<\/p>\r\n<p><strong>nauha<\/strong> a ribbon, a string<\/p>\r\n<p><strong>n&auml;perrell&auml;<\/strong> to tinker<\/p>\r\n<p><strong>paspis<\/strong> a passepartout<\/p>\r\n<p><strong>silkkipaperi<\/strong> tissue paper<\/p>\r\n<p><strong>sivellin<\/strong> a brush<\/p>\r\n<p><strong>taide<\/strong> art<\/p>\r\n<p><strong>taiteilija<\/strong> an artist<\/p>\r\n<p><strong>teippi <\/strong>tape<\/p>\r\n<p><strong>tussi <\/strong>a marker pen<\/p>\r\n<p><strong>v&auml;rikyn&auml;<\/strong> a pencil crayon<\/p>\r\n<p><strong>&ouml;ljyv&auml;ri <\/strong>oil colour, oil paint<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

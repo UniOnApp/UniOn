@@ -1,0 +1,18 @@
+{
+  "title": "Alla Posta",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "mid",
+  "keyword": ["ufficio postale",
+"Posta",
+"pacco",
+"pacchi",
+"lettera",
+"lettere"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

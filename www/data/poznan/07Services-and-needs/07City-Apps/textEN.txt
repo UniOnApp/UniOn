@@ -1,0 +1,14 @@
+<p>Most apps related to and operating in Poznań will help you get around the city efficiently:</p>
+<ul>
+<li>At every MPK public transport stop you&rsquo;ll find QR codes, if you scan them, you&rsquo;ll get information about the timetables;</li>
+<li><strong>JakDojadę</strong> (<a href="https://jakdojade.pl/poznan/trasa/">https://jakdojade.pl/poznan/trasa/</a>) will allow you to plan your journey: the app chooses the shortest, or the least tedious route plus the timetables;</li>
+<li><strong>Nextbike </strong>(<a href="https://nextbike.pl/">https://nextbike.pl/</a>) will allow you to rent a city bike;</li>
+<li><strong>moBILET </strong>(<a href="http://www.mobilet.pl/">http://www.mobilet.pl/</a>) and <strong>SkyCash</strong> (http://www.skycash.com/aplikacja-skycash/) are used for m-ticketing (mobile payments for public transportation tickets and parking within the paid parking zone).</li>
+</ul>
+<p><strong>Mobilny Poznań </strong>connects transport with sightseeing </p>
+<p>(<a href="https://play.google.com/store/apps/details?id=com.pierwiastek.mobilnypoznan&amp;hl=pl">https://play.google.com/store/apps/details?id=com.pierwiastek.mobilnypoznan&amp;hl=pl</a>), this app features current information on the public transport and GPS tracking, and in addition you get notifications on cultural events, which will be held in the close vicinity. </p>
+<p><strong>Codzienny Poznań </strong>on the other hand, <strong>(</strong><a href="https://play.google.com/store/apps/details?id=pl.codziennypoznan.mobile&amp;hl=pl">https://play.google.com/store/apps/details?id=pl.codziennypoznan.mobile&amp;hl=pl</a>) and<strong> Poznań (</strong><a href="https://play.google.com/store/apps/details?id=com.poznan&amp;hl=pl">https://play.google.com/store/apps/details?id=com.poznan&amp;hl=pl</a><strong>) </strong>give you insight into <strong>daily current affairs and news from the capital of the Greater Poland region</strong>. </p>
+<p><strong>Poznam Poznań (</strong><a href="https://play.google.com/store/apps/details?id=kowalskichal.app.poznan&amp;hl=pl">https://play.google.com/store/apps/details?id=kowalskichal.app.poznan&amp;hl=pl</a>) focuses on tourist city attractions. </p>
+<p>If you plan a longer journey, check out the app called <strong>Polska Niezwykła</strong> <a href="https://play.google.com/store/apps/details?id=com.netmart.pnandroid&amp;hl=pl">https://play.google.com/store/apps/details?id=com.netmart.pnandroid&amp;hl=pl</a>, which notifies you about the places worth visiting in the nearby area &ndash; they are not only ranked by the app designers, but also the users. </p>
+<p>If you are a special offer hunter, or just don&rsquo;t like to overpay, install <strong>Qpony </strong>&ndash; the app will let you in on attractive discounts and weekly flyers of shops, restaurants, pubs, etc. </p>
+<p>Surely you will pick up some Polish phrases when you use these apps.</p>

@@ -1,0 +1,13 @@
+{
+  "title": "Interagire con il conducente",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Mi scusi, devo andare in via Santo Stefano. Va bene questo autobus?<\/p><\/td><td><\/td><\/tr><tr><td><p>Mi scusi, la macchinetta per comprare\/timbrare i biglietti \u00E8 guasta.<\/p><\/td><td><\/td><\/tr><tr><td><p>Mi scusi, quanto tempo ci vuole per arrivare a Piazza Maggiore?<\/p><\/td><td><\/td><\/tr><tr><td><p>Mi scusi, \u00E8 confermato lo sciopero di domani?<\/p><\/td><td><\/td><\/tr><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

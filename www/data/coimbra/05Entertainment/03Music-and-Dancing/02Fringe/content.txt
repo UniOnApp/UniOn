@@ -1,0 +1,13 @@
+{
+  "title": "Fringe",
+  "latitude": "40.2086244",
+  "longitude": "-8.4252246",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

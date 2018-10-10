@@ -1,0 +1,13 @@
+{
+  "title": "Let it simmer",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Can you understand the recipe below? Scroll down to see the supporting vocabulary.<\/p>\r\n<p><strong>Grillatut herkkusienet<\/strong><\/p>\r\n<ul>\r\n<li>6 isoa herkkusient&auml;<\/li>\r\n<li>1 pkt tuorejuustoa (esim. valkosipulin makuinen)<\/li>\r\n<li>12 siivua pekonia<\/li>\r\n<li>foliota<\/li>\r\n<\/ul>\r\n<p>Irrota herkkusienist&auml; kannat ja puhdista sienet. T&auml;yt&auml; herkkusienet tuorejuustolla. K&auml;&auml;ri jokaisen sienen ymp&auml;rille ristikk&auml;in kaksi siivua pekonia. K&auml;&auml;ri sienet folioon ja laita grilliin. 30 minuuttia ja ruoka on valmis!<\/p>\r\n<p><strong>iso <\/strong>big<\/p>\r\n<p><strong>herkkusieni<\/strong> a champignon<\/p>\r\n<p><strong>pkt<\/strong> (abbreviation for <strong>paketti <\/strong>or <strong>pakkaus<\/strong>) a packet<\/p>\r\n<p><strong>siivu <\/strong>a slice; (about bacon) a rasher<\/p>\r\n<p><strong>pekoni <\/strong>bacon<\/p>\r\n<p><strong>folio<\/strong> foil<\/p>\r\n<p><strong>irrottaa <\/strong>to loosen, to release, to separate<\/p>\r\n<p><strong>kanta<\/strong> a stipe, a stem<\/p>\r\n<p><strong>puhdistaa <\/strong> to clean<\/p>\r\n<p><strong>t&auml;ytt&auml;&auml; <\/strong>to fill<\/p>\r\n<p><strong>tuorejuusto<\/strong> cream cheese<\/p>\r\n<p><strong>valkosipuli <\/strong>garlic<\/p>\r\n<p><strong>maku <\/strong>a flavour, a taste<\/p>\r\n<p><strong>k&auml;&auml;ri&auml;<\/strong> to wrap<\/p>\r\n<p><strong>ristikk&auml;in<\/strong> across<\/p>\r\n<p><strong>laittaa<\/strong> to put<\/p>\r\n<p><strong>valmis<\/strong> ready<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

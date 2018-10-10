@@ -1,0 +1,13 @@
+{
+  "title": "Dialogues",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Listen and check the translations below only if necessary.<\/p>\r\n<p>\u00A0<\/p>\r\n<p>Dialogue 1<\/p>\r\n<audio controls>\r\n  <source src=\"data\/rovaniemi\/01Uni-Life\/03Student-life\/10Everyday-words\/talk\/01Dialogues\/audio1.mp3\" type=\"audio\/mpeg\">\r\nError loading audio\r\n<\/audio><p>Anna: Hei!<\/p>\r\n<p>Alex: Moi, mit\u00E4 kuuluu?<\/p>\r\n<p>Anna: Ihan hyv\u00E4\u00E4. Ent\u00E4 sinulle?<\/p>\r\n<p>Alex: Hyv\u00E4\u00E4, kiitti (kysym\u00E4st\u00E4). Menn\u00E4\u00E4nk\u00F6 kahville?<\/p>\r\n<p>Anna: Joo, hyv\u00E4 idea, menn\u00E4\u00E4n! <\/p>\r\n<p>Alex: Okei!<\/p>\r\n<p>\u00A0<\/p>\r\n<p>Dialogue 2<\/p>\r\n<audio controls>\r\n  <source src=\"data\/rovaniemi\/01Uni-Life\/03Student-life\/10Everyday-words\/talk\/01Dialogues\/audio2.mp3\" type=\"audio\/mpeg\">\r\nError loading audio\r\n<\/audio><p>Jussi: Moi Tiina!<\/p>\r\n<p>Tiina: Hei Jussi! Mit\u00E4 kuuluu?<\/p>\r\n<p>Jussi: No, ei kovin hyv\u00E4\u00E4.<\/p>\r\n<p>Tiina: No, mik\u00E4 on?<\/p>\r\n<p>Jussi: V\u00E4sytt\u00E4\u00E4 ja on flunssa.<\/p>\r\n<p>Tiina: Harmi. Menn\u00E4\u00E4nk\u00F6 kahville?<\/p>\r\n<p>\u00A0<\/p>\r\n<p>Translation of dialogue 1:<\/p>\r\n<p>Anna: Hello!<\/p>\r\n<p>Alex: Hi, how are you?<\/p>\r\n<p>Anna: I\u2019m fine. And you?<\/p>\r\n<p>Alex: Fine, thanks (for asking). Should we go for a coffee?<\/p>\r\n<p>Anna: Yeah, a good idea, let\u2019s go! <\/p>\r\n<p>Alex: Okay!<\/p>\r\n<p>\u00A0<\/p>\r\n<p>Translation of dialogue 2:<\/p>\r\n<p>Jussi: Hi Tiina!<\/p>\r\n<p>Tiina: Hello Jussi! How are you?<\/p>\r\n<p>Jussi: Well, not too good.<\/p>\r\n<p>Tiina: Well, what\u2019s wrong?<\/p>\r\n<p>Jussi: I\u2019m tired and have the flu.<\/p>\r\n<p>Tiina: Too bad. Should we go for a coffee?<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

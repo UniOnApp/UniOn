@@ -1,0 +1,44 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Konkurs skrzypcowy, im. (imienia)</p>
+</td>
+<td>
+<p>violin contest</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skrzypek</p>
+</td>
+<td>
+<p>violinist</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>II wojna światowa</p>
+</td>
+<td>
+<p>World War II</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>towarzystwo</p>
+</td>
+<td>
+<p>company</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>członek</p>
+</td>
+<td>
+<p>member</p>
+</td>
+</tr>
+</tbody>
+</table>

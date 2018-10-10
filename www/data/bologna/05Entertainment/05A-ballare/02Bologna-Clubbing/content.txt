@@ -1,0 +1,23 @@
+{
+  "title": "Bologna Clubbing",
+  "latitude": "44.494546",
+  "longitude": "11.347121",
+  "difficulty": "mid",
+  "keyword": ["Kinki",
+"Hobby One",
+"Qu-B\u00F2",
+"Arteria ",
+"Millenium ",
+"Cassero",
+"Ruvido",
+"Link",
+"Matis",
+"Locomotiv ",
+"Zona Roveri"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

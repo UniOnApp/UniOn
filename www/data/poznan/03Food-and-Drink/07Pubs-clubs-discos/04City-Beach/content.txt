@@ -1,0 +1,13 @@
+{
+  "title": "City Beach",
+  "latitude": "52.405795",
+  "longitude": "16.944948",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

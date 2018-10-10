@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Studentka: Przepraszam, <strong>czy mog\u0119 zapyta\u0107 o<\/strong> programy edukacyjne?<\/p>\r\n<p>ESN student: A co Ci\u0119 konkretnie interesuje?<\/p>\r\n<p>Studentka: S\u0142ysza\u0142am, \u017Ce jest taki program dla wolontariuszy, kt&oacute;rzy chc\u0105 <strong>pracowa\u0107 z dzie\u0107mi<\/strong>.<\/p>\r\n<p>ESN student: Tak, jest taka grupa, pracuje <strong>w szkole podstawowej<\/strong>.<\/p>\r\n<p>Studentka: <strong>A na czym polega ta praca?<\/strong><\/p>\r\n<p>ESN student: To s\u0105 zaj\u0119cia popo\u0142udniowe <strong>w \u015Bwietlicy szkolnej<\/strong>.<\/p>\r\n<p>Studentka: W jakim wieku s\u0105 te dzieci?<\/p>\r\n<p>ESN student: Od 6 do 9 lat.<\/p>\r\n<p>Studentka: O! to bardzo dobrze!<\/p>\r\n<p>ESN student: Ma Pani <strong>przygotowanie pedagogiczne<\/strong>?<\/p>\r\n<p>Studentka: Nie, ale <strong>mam rodze\u0144stwo<\/strong> w tym wieku i lubi\u0119 <strong>sp\u0119dza\u0107 czas z dzie\u0107mi<\/strong>.<\/p>\r\n<p>ESN student: <strong>To \u015Bwietnie<\/strong><u>!<\/u> <strong>Szukamy<\/strong> <strong>kogo\u015B z pasj\u0105<\/strong>.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Czy mog\u0119 zapyta\u0107?, pracowa\u0107 z dzie\u0107mi, w szkole podstawowej, na czym polega (polega\u0107) ta praca?, w \u015Bwietlicy szkolnej, przygotowanie pedagogiczne, mam (mie\u0107) rodze\u0144stwo, sp\u0119dza\u0107 czas z dzie\u0107mi, to \u015Bwietnie!, szukamy (szuka\u0107) kogo\u015B z pasj\u0105<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

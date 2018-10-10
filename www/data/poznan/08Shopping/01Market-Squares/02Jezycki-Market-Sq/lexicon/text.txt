@@ -1,0 +1,153 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Słynąć</p>
+</td>
+<td>
+<p>to be famous for</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>targowisko</p>
+</td>
+<td>
+<p>marketplace</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stragany</p>
+</td>
+<td>
+<p>stands</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kwiaciarnie</p>
+</td>
+<td>
+<p>florists</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czynne</p>
+</td>
+<td>
+<p>open</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uwielbiać</p>
+</td>
+<td>
+<p>adore</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dobra okazja</p>
+</td>
+<td>
+<p>promotion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>do wręczenia</p>
+</td>
+<td>
+<p>to be given</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>urodziny</p>
+</td>
+<td>
+<p>birthdays</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>imieniny</p>
+</td>
+<td>
+<p>name days</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podziękowania</p>
+</td>
+<td>
+<p>thanks</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gratulacje</p>
+</td>
+<td>
+<p>congratulations</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przeprosiny</p>
+</td>
+<td>
+<p>apologies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyznania miłosne</p>
+</td>
+<td>
+<p>declarations of love</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zarezerwować</p>
+</td>
+<td>
+<p>to reserve</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uroczystości pogrzebowe</p>
+</td>
+<td>
+<p>funeral services</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być świadkiem</p>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<p>mroczne wydarzenia</p>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<p>strajki</p>
+</td>
+  <td>
+</td>
+</tr>
+</tbody>
+</table>

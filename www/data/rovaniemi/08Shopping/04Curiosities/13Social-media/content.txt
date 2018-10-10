@@ -1,0 +1,13 @@
+{
+  "title": "Social media",
+  "latitude": "66.491773",
+  "longitude": "25.768439",
+  "difficulty": "",
+  "keyword": ["some","kirppis","flea market","marketplace","second hand","käytetty"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

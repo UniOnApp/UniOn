@@ -1,0 +1,20 @@
+{
+  "title": "Dove posso trovare una bici?",
+  "latitude": "44.503426",
+  "longitude": "11.345532",
+  "difficulty": "mid",
+  "keyword": ["bicicletta",
+"bici",
+"due ruote",
+"C\u2019entro in Bici",
+"Amici della bici",
+"Dynamo ",
+"velostazione",
+"Pincio"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

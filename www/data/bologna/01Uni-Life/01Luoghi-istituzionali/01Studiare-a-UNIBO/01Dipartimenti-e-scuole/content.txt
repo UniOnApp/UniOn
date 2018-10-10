@@ -1,0 +1,20 @@
+{
+  "title": "Dipartimenti e Scuole",
+  "latitude": "44.496229",
+  "longitude": "44.496229",
+  "difficulty": "low",
+  "keyword": ["multicampus",
+"dipartimento",
+"scuola",
+"dottore",
+"dottoressa",
+"laurea triennale",
+"laurea magistrale",
+"dottorato di ricerca"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

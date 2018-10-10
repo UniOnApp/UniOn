@@ -1,0 +1,1457 @@
+[{
+		"word": "kac",
+		"text": "when you had too much champagne the day before"
+	}, {
+		"word": "noworoczne postanowienia",
+		"text": "New Year’s resolutions"
+	},
+	{
+		"word": "karnawał",
+		"text": "the period from New Year to Ash Wednesday"
+	},
+	{
+		"word": "zadymka",
+		"text": "its windy and snowing"
+	},
+	{
+		"word": "kulig",
+		"text": "if there is snow, you can tie a few sleighs together, which can be pulled by a horse or a tractor"
+	},
+	{
+		"word": "Trzej królowie",
+		"text": "the Three King's Day, according to the Gospel they visited the newborn Jesus"
+	},
+	{
+		"word": "WOŚP",
+		"text": "the biggest charity event in Poland"
+	},
+	{
+		"word": "domówka",
+		"text": "a home party for friends"
+	},
+	{
+		"word": "kolędnicy",
+		"text": "a group of carol singers dressed in costumes"
+	},
+	{
+		"word": "turoń",
+		"text": "a fantastic beast following the carol singers"
+	},
+	{
+		"word": "krupnik",
+		"text": "a thick soup whose main ingredient is pearl barley"
+	},
+	{
+		"word": "lodowisko ",
+		"text": "a place where you go ice skating"
+	},
+	{
+		"word": "Koziorożec",
+		"text": "today’s sign of the zodiac"
+	},
+	{
+		"word": "nieśmiałość",
+		"text": "today is the Shy People’s Day"
+	},
+	{
+		"word": "bałwan",
+		"text": "a figure made of snow, also a term describing a dumb person"
+	},
+	{
+		"word": "kominek",
+		"text": "it’s good to sit by it on a cold day…"
+	},
+	{
+		"word": "fajny",
+		"text": "a great adjective – you don’t need to know any other: ładny, dobry, miły, sympatyczny…"
+	},
+	{
+		"word": "Kubuś Puchatek",
+		"text": "Today is his day. How do you call this friendly bear in your language?"
+	},
+	{
+		"word": "Rzeszów",
+		"text": "a city in Poland. Have you been there yet?"
+	},
+	{
+		"word": "bigos",
+		"text": "a traditional Polish dish made of sauerkraut, various kinds of meat and dried mushrooms"
+	},
+	{
+		"word": "babcia",
+		"text": "who else makes better cookies?"
+	},
+	{
+		"word": "dziadek",
+		"text": "without him your grandmother would be incomplete"
+	},
+	{
+		"word": "reklamówka",
+		"text": "a plastic shopping bag with a shop’s logo. A must-have in the communist system"
+	},
+	{
+		"word": "plotka",
+		"text": "if you talk about others, you spread it"
+	},
+	{
+		"word": "szyfr",
+		"text": "did you know than Polish cryptologists broke the Enigma code?"
+	},
+	{
+		"word": "przeszczep",
+		"text": "you shouldn’t miss out on the movie „Bogowie” by Łukasz Palkowski"
+	},
+	{
+		"word": "sopel",
+		"text": "Watch out, in winter it can hang from roof gutters"
+	},
+	{
+		"word": "fujarka",
+		"text": "a flute for beginners"
+	},
+	{
+		"word": "łamigłówka",
+		"text": "do you enjoy crosswords, riddles, charades? It’s great fun"
+	},
+	{
+		"word": "rogalik",
+		"text": "tastes best with jam. Did you know it was modelled on the crescent which appears on the Turkish flag?"
+	},
+	{
+		"word": "przytulać",
+		"text": "Today is the Day of Hugging. Who doesn’t like that?"
+	},
+	{
+		"word": "Wodnik",
+		"text": "a zodiac sign. It is said to live in every lake or pond"
+	},
+	{
+		"word": "szron",
+		"text": "trees look fabulous when it covers them"
+	},
+	{
+		"word": "nów",
+		"text": "dark side of the moon"
+	},
+	{
+		"word": "szadź",
+		"text": "it’s the same as szron, but more difficult to pronounce"
+	},
+	{
+		"word": "ferie",
+		"text": "short holidays in winter. Let’s go to the mountains!"
+	},
+	{
+		"word": "klikać",
+		"text": "if you have a mouse, you can click"
+	},
+	{
+		"word": "sierp",
+		"text": "moon crescent, in former times a sickle"
+	},
+	{
+		"word": "bezpieczeństwo",
+		"text": "did you buy insurance?"
+	},
+	{
+		"word": "międzynarodowy",
+		"text": "for example the Erasmus Plus program"
+	},
+	{
+		"word": "śnieżki",
+		"text": "you make them from snow (if it fell) and have great fun"
+	},
+	{
+		"word": "ojczysty",
+		"text": "for instance: language. In Polish język ojczysty literally means father tongue"
+	},
+	{
+		"word": "jaskiniowiec",
+		"text": "primitive man, sometimes our neighbor"
+	},
+	{
+		"word": "łyżwy",
+		"text": "without them you can’t go to the ice rink"
+	},
+	{
+		"word": "zakochani",
+		"text": "It’s Valentine’s Day! Remember about your significant other!"
+	},
+	{
+		"word": "drzemka",
+		"text": "nothing can equal a nap on the couch after dinner!"
+	},
+	{
+		"word": "kra",
+		"text": "Kra krę mija – Can you believe it's not in French?"
+	},
+	{
+		"word": "kociak",
+		"text": "this little furry ball will someday become a proud cat"
+	},
+	{
+		"word": "pełnia",
+		"text": "the moon shines through the windows at night"
+	},
+	{
+		"word": "Ryby",
+		"text": "another zodiac sign. Good on plate, too."
+	},
+	{
+		"word": "skrzypieć",
+		"text": "a beautiful onomatopoeia. Try reading it!"
+	},
+	{
+		"word": "językoznawca",
+		"text": "no one will explain linguistics better"
+	},
+	{
+		"word": "harcerz",
+		"text": "a Polish scout. Today is the Brotherhood Day"
+	},
+	{
+		"word": "smutas",
+		"text": "a person who doesn’t like to party, or hang out with anybody. A wet blanket"
+	},
+	{
+		"word": "całus",
+		"text": "buziak, kiss, buziaczek"
+	},
+	{
+		"word": "roztopy",
+		"text": "there’s sludge on the streets, your shoes soak through.. It’s always darkest before dawn!"
+	},
+	{
+		"word": "kolejka linowa",
+		"text": "did you know that the funicular to Kasprowy Wierch was opened on February 26, 1936?"
+	},
+	{
+		"word": "niedźwiedź",
+		"text": "a bear"
+	},
+	{
+		"word": "Tłusty Czwartek",
+		"text": "You must eat a doughnut! It’s tradition!"
+	},
+	{
+		"word": "przestępny",
+		"text": "a year with an extra day in February. Do people born on February 29 celebrate birthdays only every 4 years?"
+	},
+	{
+		"word": "odwilż",
+		"text": "all icicles already melted down"
+	},
+	{
+		"word": "przedwiośnie",
+		"text": "it’s not spring yet, but not winter either"
+	},
+	{
+		"word": "pisarz",
+		"text": "good activity for a rainy day"
+	},
+	{
+		"word": "pączek",
+		"text": "Did you eat a doughnut on the last Thursday before Lent? Today you should too. Last chance!"
+	},
+	{
+		"word": "ostatki",
+		"text": "today we party all night, next chance - after Easter"
+	},
+	{
+		"word": "Popielec",
+		"text": "Ash Wednesday marks the beginning of Lent"
+	},
+	{
+		"word": "przebiśnieg",
+		"text": "the first spring flower in your grandma’s garden"
+	},
+	{
+		"word": "Dzień Kobiet",
+		"text": "some people say it’s a relic of the past, but don’t believe them. Girls love getting flowers"
+	},
+	{
+		"word": "krokus",
+		"text": "these liliac flowers blossom in the mountain meadows. Did you know that saffron is made from a species of crocus?"
+	},
+	{
+		"word": "męski",
+		"text": "brave, protective, but also sensitive. Today is Men’s Day."
+	},
+	{
+		"word": "szpinak",
+		"text": "for now only frozen…"
+	},
+	{
+		"word": "rzeżucha ",
+		"text": "lacking vitamins, fresh vegetables? Sow this on a small plate on cotton wool, water it amply, and in 5 days you get delicious greens for your sandwiches."
+	},
+	{
+		"word": "liczydło",
+		"text": "and to think that grandma didn’t have a calculator…"
+	},
+	{
+		"word": "wierzba",
+		"text": "a tree with catkins. It doesn’t resemble aspirin at all"
+	},
+	{
+		"word": "trawa",
+		"text": "at last the lawns outside are green"
+	},
+	{
+		"word": "liść",
+		"text": "we’re waiting for the first ones to appear on trees"
+	},
+	{
+		"word": "koniczyna",
+		"text": "a three-leaf attribute to St. Patrick. On this day you can savor green-colored beer"
+	},
+	{
+		"word": "mózg",
+		"text": "sometimes it’s worth using your brain"
+	},
+	{
+		"word": "wędkarz",
+		"text": "many of them re-appeared on the banks of the Warta river. Regular students must wait for their season."
+	},
+	{
+		"word": "jarosz",
+		"text": "a vegetarian in Polish"
+	},
+	{
+		"word": "Marzanna ",
+		"text": "the first day of spring. According to old tradition you must make a dummy symbolizing winter, and then burnt it or throw into a river"
+	},
+	{
+		"word": "gaik",
+		"text": "Did you drown Marzanna? Now you need to decorate a green tree (gaik), or the spring won’t come"
+	},
+	{
+		"word": "dźwig",
+		"text": "an elevator slowly escalating in Collegium Maius"
+	},
+	{
+		"word": "bocian",
+		"text": "a bird – symbol of Polish spring, said to deliver babies"
+	},
+	{
+		"word": "trawnik",
+		"text": "beware, the only lawn you can walk on is the one in front of the Opera House"
+	},
+	{
+		"word": "zieleń",
+		"text": "color/ plants"
+	},
+	{
+		"word": "zielenina",
+		"text": "green vegetables and herbs (parsley, dill, chives, ect.)"
+	},
+	{
+		"word": "ziółko",
+		"text": "Peter is a real character! He didn’t say he had a new girlfriend."
+	},
+	{
+		"word": "źdźbło",
+		"text": "can you read this word? It is only a blade of grass!"
+	},
+	{
+		"word": "Wielki Tydzień",
+		"text": "Easter is coming!"
+	},
+	{
+		"word": "święconka",
+		"text": "on Easter Saturday Poles go to church where priests bless the Easter foods brought in Easter baskets"
+	},
+	{
+		"word": "psikus",
+		"text": "practical joke"
+	},
+	{
+		"word": "śmiać się",
+		"text": "when you're pleased, you grin and make the sound ha, ha, ha "
+	},
+	{
+		"word": "jajcarz",
+		"text": "someone who enjoys making jokes"
+	},
+	{
+		"word": "ciepły",
+		"text": "warm"
+	},
+	{
+		"word": "kwiat",
+		"text": "a decorative plant given to people on various occasions"
+	},
+	{
+		"word": "nowalijki",
+		"text": "fresh vegetables sold in early spring, for instance raddish, cucumber, lettuce"
+	},
+	{
+		"word": "wcinać",
+		"text": "to eat with appetite, fast, to gobble up"
+	},
+	{
+		"word": "lubić",
+		"text": "to like"
+	},
+	{
+		"word": "niezapominajka",
+		"text": "an inconspicuous blue flower, forget-me-not"
+	},
+	{
+		"word": "miły",
+		"text": "nice"
+	},
+	{
+		"word": "słodki",
+		"text": "sweet"
+	},
+	{
+		"word": "czekolada",
+		"text": "a delicious, sweet brown snack, which can be eaten or drank, to warm-up, strengthen, boost your mood, made of cacao beans"
+	},
+	{
+		"word": "gorzki",
+		"text": "bitter, also chocolate can be bitter"
+	},
+	{
+		"word": "gapić się",
+		"text": "to stare blankly"
+	},
+	{
+		"word": "niebo",
+		"text": "the blue over your head"
+	},
+	{
+		"word": "gwiazda",
+		"text": "millions of them sparkle in the night sky"
+	},
+	{
+		"word": "drzemać",
+		"text": "to fall asleep for a brief period of time"
+	},
+	{
+		"word": "szczęśliwy",
+		"text": "happy"
+	},
+	{
+		"word": "marzyciel",
+		"text": "a dreamer"
+	},
+	{
+		"word": "mak",
+		"text": "a red field flower; it's seeds are used to create opioid drugs"
+	},
+	{
+		"word": "piękny",
+		"text": "beautiful"
+	},
+	{
+		"word": "Ziemia",
+		"text": "the third planet from the Sun"
+	},
+	{
+		"word": "Słońce",
+		"text": " a huge star thanks to which life on Earth is possible"
+	},
+	{
+		"word": "korek",
+		"text": "a string of cars, which can't go in any direction"
+	},
+	{
+		"word": "klakson",
+		"text": "when a driver presses it, it makes the sound beep, beep"
+	},
+	{
+		"word": "samochód",
+		"text": "a motor vehicle on 4 wheels"
+	},
+	{
+		"word": "kwitnąć",
+		"text": "to blossom"
+	},
+	{
+		"word": "róża",
+		"text": "the queen of flowers, if it's red it may symbolize love"
+	},
+	{
+		"word": "czerwony",
+		"text": "red"
+	},
+	{
+		"word": "pracować",
+		"text": "to work"
+	},
+	{
+		"word": "robota",
+		"text": "the object of grumbling, a responsibility and source of income for every worker"
+	},
+	{
+		"word": "myszka",
+		"text": "grey, lab, although most often on your desk next to a computer"
+	},
+	{
+		"word": "konstytucja",
+		"text": "the most important law in a country"
+	},
+	{
+		"word": "nowoczesny",
+		"text": "modern"
+	},
+	{
+		"word": "piknik ",
+		"text": "for example breakfast on the grass, or any meal on a trip"
+	},
+	{
+		"word": "lenić się",
+		"text": "to do nothing"
+	},
+	{
+		"word": "opalać się",
+		"text": "to let the sun color you with a darker shade of skin"
+	},
+	{
+		"word": "mól książkowy",
+		"text": "a bookworm"
+	},
+	{
+		"word": "kartkować",
+		"text": "to skim through"
+	},
+	{
+		"word": "lektura",
+		"text": "required reading for students or pupils"
+	},
+	{
+		"word": "jabłonka",
+		"text": "a tree, commonly believed to bear fruits that led to mortal sin, surely – delicious fruits"
+	},
+	{
+		"word": "latać",
+		"text": "to fly in the air, or colloquially: to run"
+	},
+	{
+		"word": "powietrze",
+		"text": "what we breathe in"
+	},
+	{
+		"word": "czysty",
+		"text": "clean, fresh"
+	},
+	{
+		"word": "las",
+		"text": "a forest"
+	},
+	{
+		"word": "dzięcioł",
+		"text": "a colorful bird which seeks dinner in tree trunks"
+	},
+	{
+		"word": "kolorowy",
+		"text": "colorful"
+	},
+	{
+		"word": "lis",
+		"text": "an animal with red fur and beautiful tail, known for its trickery"
+	},
+	{
+		"word": "pływać żabką",
+		"text": "a frog stroke, swimming style"
+	},
+	{
+		"word": "jezioro",
+		"text": "a lake"
+	},
+	{
+		"word": "zimny",
+		"text": "cold"
+	},
+	{
+		"word": "zmęczony",
+		"text": "tired"
+	},
+	{
+		"word": "żółw",
+		"text": "sea or land creature with thick shell, or a slow man"
+	},
+	{
+		"word": "bawić się",
+		"text": "to play"
+	},
+	{
+		"word": "kochać",
+		"text": "to love"
+	},
+	{
+		"word": "mama",
+		"text": "female parent"
+	},
+	{
+		"word": "kołysanka",
+		"text": "a lullaby"
+	},
+	{
+		"word": "śpiewać",
+		"text": "to sing"
+	},
+	{
+		"word": "cichy",
+		"text": "quiet"
+	},
+	{
+		"word": "łąka",
+		"text": "a meadow"
+	},
+	{
+		"word": "bocian",
+		"text": "a large black or white bird with black wings, executioner of frogs, supplier of happiness"
+	},
+	{
+		"word": "lody",
+		"text": "a cold and sweet delicacy adored by children (and many adults)"
+	},
+	{
+		"word": "balon",
+		"text": "a baloon"
+	},
+	{
+		"word": "bobas",
+		"text": "a newborn human baby, who eats and sleeps in turn"
+	},
+	{
+		"word": "berek",
+		"text": "a game: one chases, the rest tries to flee"
+	},
+	{
+		"word": "łaskotać ",
+		"text": "to tickle"
+	},
+	{
+		"word": "dorastać",
+		"text": "to grow up"
+	},
+	{
+		"word": "linoskoczek",
+		"text": "an acrobat walking the line"
+	},
+	{
+		"word": "cyrk",
+		"text": "a show, which most often moves from place to place, presenting acrobat tricks, horseback riding, clown performances"
+	},
+	{
+		"word": "oklaskiwać",
+		"text": "to clap your hands to express respect and admiration"
+	},
+	{
+		"word": "klaun",
+		"text": "a fellow in a colorful costume who entertains people in a circus"
+	},
+	{
+		"word": "koń",
+		"text": "the animals cowboys ride"
+	},
+	{
+		"word": "truskawka",
+		"text": "a sweet red fruit growing on small bushes"
+	},
+	{
+		"word": "bita śmietana",
+		"text": "whipped cream"
+	},
+	{
+		"word": "soczysty",
+		"text": "juicy"
+	},
+	{
+		"word": "lemoniada ",
+		"text": "a refreshing lemon drink"
+	},
+	{
+		"word": " gasić pragnienie",
+		"text": "to quench one's thirst"
+	},
+	{
+		"word": "kowboj",
+		"text": "a cowboy"
+	},
+	{
+		"word": "noc",
+		"text": "night "
+	},
+	{
+		"word": "spacerować",
+		"text": "to take up sports for lazy persons –  you only need your legs and fresh air"
+	},
+	{
+		"word": "skakać",
+		"text": "to go up thanks to your leg muscle strength and fall down due to gravity"
+	},
+	{
+		"word": "ognisko",
+		"text": "a burning pile of wood, brings heat and fun, only if you dare to jump over it"
+	},
+	{
+		"word": "przesilenie letnie",
+		"text": "today the Sun shines the longest"
+	},
+	{
+		"word": "tata",
+		"text": "male parent"
+	},
+	{
+		"word": "odpoczywać",
+		"text": "to rest"
+	},
+	{
+		"word": "jeździć na rowerze",
+		"text": "to move from place to place on a two-wheeled vehicle, powered by the strength of leg muscles"
+	},
+	{
+		"word": "wakacje",
+		"text": "a summer or winter break anticipated by pupils"
+	},
+	{
+		"word": "urlop",
+		"text": "paid holidays"
+	},
+	{
+		"word": "podróżować autostopem",
+		"text": "to hitchhike"
+	},
+	{
+		"word": "namiot",
+		"text": "a small portable shelter made of cloth, mostly seen in camping sites"
+	},
+	{
+		"word": "śpiwór",
+		"text": "a sleeping bag"
+	},
+	{
+		"word": "lipa",
+		"text": "a species of tree, you can make tea from its flowers. It has healing properties, helps in airway innflamation"
+	}, {
+		"word": "ale lipa",
+		"text": "colloquial description of sth bad, of poor quality, a fiasco, impossibility to see sth through"
+	}, {
+		"word": "śniadaniówka",
+		"text": "tv program you watch when eating breakfast, a morning show"
+	},
+	{
+		"word": "brukowiec",
+		"text": "tabloid newspaper, a kind of magazine informing about celebrities, or unimportant news from the country and abroad (not neccessarily verified)"
+	}, {
+		"word": "na antenie",
+		"text": "something which is broadcasted in tv or radio show"
+	}, {
+		"word": "być na językach",
+		"text": "if your aquintances often  speak of someone, that means they are gossiping about them"
+	},
+	{
+		"word": "puścić w eter",
+		"text": "information about something was send out to public knowledge on the radio"
+	},
+	{
+		"word": "cisza w eterze",
+		"text": "no information about anything"
+	},
+	{
+		"word": "fejk",
+		"text": "when you’re trying to impress friends and you upgrade your pic (slim yourself for instance), or add special effects – you falsify, create a „fejk”. A fejkis also false, unverified information"
+	},
+	{
+		"word": "pocisk",
+		"text": "generally its a bullet shot from a weapon. Figuratively it’s a strong, blunt, sharp-tongued comment"
+	}, {
+		"word": "follower",
+		"text": "from English a person following your Facebook or Instagram activity"
+	},
+	{
+		"word": "wiara",
+		"text": "in Poznan dialect it denotes people"
+	},
+	{
+		"word": "wuchta wiary",
+		"text": "in Poznan dialect it means a large group of people, crowd"
+	}, {
+		"word": "kumpel/kumpela",
+		"text": "a close friend"
+	},
+	{
+		"word": "janusz",
+		"text": "masculine name written with small letter has recently attributed a new meaning – its a pejorative expression for a man who is convinced of his omniscience, doesn’t care about good manners nor style. It’s become so popular, that it appears as an entry in PWN Dictionary of Polish Language"
+	}, {
+		"word": "grażyna",
+		"text": "female name written with small letter which recently atributed new meaning. This popular word denotes a woman who isn’t very inteligent and is unable to adjust certain situation. It’s become so popular, that it appears as an entry in PWN Dictionary of Polish Language "
+	},
+	{
+		"word": "krejzol/krejzolka",
+		"text": "a funny, unconventional person, a prankster, sometimes infantile"
+	},
+	{
+		"word": "lajkować",
+		"text": "to accept, to like, for instance a photo on fb"
+	},
+	{
+		"word": "fejs",
+		"text": "abbreviation for Facebook"
+	},
+	{
+		"word": "insta",
+		"text": "abbreviation for Instagram"
+	},
+	{
+		"word": "selfik",
+		"text": "a picture of yourself, a selfie"
+	},
+	{
+		"word": "focić",
+		"text": "to make a lot of photos of interesting places or monuments while travelling around the world"
+	},
+	{
+		"word": "heheszki",
+		"text": "a colloquialism, something that amuses, makes one laugh. It is used instead of „he, he” (LOL)"
+	},
+	{
+		"word": "beka",
+		"text": "when someone makes you laugh, tells a joke, or does something funny, which you enjoy"
+	},
+	{
+		"word": "demot/demotywator",
+		"text": "an illustration, picture with a funny coment, usually a response to an event or comment by a well-known person, etc."
+	},
+	{
+		"word": "pirat drogowy",
+		"text": "a driver who doesn’t follow traffic regualtions"
+	},
+	{
+		"word": "autobana",
+		"text": "if you want to travel faster, use the highway, in Poznan dialect called autobana"
+	},
+	{
+		"word": "maczek",
+		"text": "a colloquial name of McDonald’s"
+	},
+	{
+		"word": "burgerownia",
+		"text": "a place where you can order and eat a hamburger"
+	},
+	{
+		"word": "mała czarna",
+		"text": "a colloquial name for a little black dress. You can often come across this expression in a coffee shop – where it means an espresso or black coffee"
+	},
+	{
+		"word": "słoik",
+		"text": "a glass jarr used for storing things. In contemporary Polish it acquired a new meaning, mainly for the inhabitants of Warsaw. A słoik is a person who is not a permanent inhabitant of the capital of Poland, but is a commuting student or worker. Such a person is famous for bringing food from family home packed in jars. Usually used in a humorous way, although it can also be a pejorative and offensive expression"
+	},
+	{
+		"word": "skarbonka",
+		"text": "a money-box"
+	},
+	{
+		"word": "powstaniec",
+		"text": "a person who took part in an insurgence"
+	},
+	{
+		"word": "wspomnienie",
+		"text": "something that happened in the past, but you still remeber it, a memory"
+	},
+	{
+		"word": "suweniry",
+		"text": "from English, souvenirs you buy during holiday travels"
+	},
+	{
+		"word": "smażing",
+		"text": "a derivate from the verb smażyć. The influence of English on Polish gave rise to new verbs in Polish with –ing endings. Hence smażing, which basically means to sunbathe"
+	},
+	{
+		"word": "plażing",
+		"text": "basking long in the sunshine on the beach"
+	},
+	{
+		"word": "parawan",
+		"text": "an indispensable attribute of every beachgoer on the Baltic Sea, the screen will shelter you from the wind, but can also be used to mark your territory"
+	},
+	{
+		"word": "laczki",
+		"text": "type of hellless shoes used for walking at home"
+	},
+	{
+		"word": "kuboty",
+		"text": "the most popular type of slippers. Their phenomenon is inexplicable, the sales are still high, though. It's said that kuboty are more than slippers, they're a life style"
+	},
+	{
+		"word": "kroksy",
+		"text": "from English word crocs – kind of rubber shoes, with thick sole and a strap on the heel. They have appeared on the shoe market only recently and, for a brief moment, outshined kuboty"
+	},
+	{
+		"word": "góral",
+		"text": "an inhabitant of Podhale, someone who lives in the mountains. The word is also used to describe a bicycle suitable for riding in mountanious areas (MTB – mountain terrain bike)"
+	},
+	{
+		"word": "ciupaga",
+		"text": "you can buy this object as a souvenir from the Tatra Mountains. It's a kind of cane combined with an alpenstock, used while moving in high mountains"
+	},
+	{
+		"word": "baca",
+		"text": "While travelling in the Tatra valleys you may come across an experienced shepherd. Such a man is callled baca"
+	},
+	{
+		"word": "gazda",
+		"text": "a word derived from Hungarian, denotes a house holder, a landlord in Podhale. Gazda keeps sheep, which are pastured by a baca"
+	},
+	{
+		"word": "juhas",
+		"text": "baca's younger apprentice"
+	},
+	{
+		"word": "oscypek",
+		"text": "a delicacy popular in Podhale. A kind of smoked goat cheese."
+	},
+	{
+		"word": "ceper",
+		"text": "if you're only a tourist in the Tatras, in Podhale dialect you can be called ceper"
+	},
+	{
+		"word": "obwarzanek",
+		"text": "traditional baker's delicacy from Cracow, braid-shaped. The term was derived from the way it's made - before baking, the pastry is blached in water. They are sold by street vendors"
+	},
+	{
+		"word": "precel",
+		"text": "another delicacy from Cracow, shaped differently than obwarzanek. It resembles a flattened number 8. It's more crunchy and harder than obwarzanek. It's believed that when he went to war, king Władysław Jagiełło took a few boxes of obwarzanki with him, because they can be stored for a long time"
+	},
+	{
+		"word": "bajgiel",
+		"text": "if you visit the Jewish district Kazimierz in Cracow, maybe you will have the opportunity to taste this pastry. In comparison to obwarzanek, bajgiel is not plaited. It's a kind of ring-shaped pastry, which is supposed to symbolize the circle of life. Historical sources say that Kazimierz, which used to be a separate village, had a law according to which every woman who gave birth was eligible for free bajgels"
+	},
+	{
+		"word": "grilować",
+		"text": "a popular activity in the summer months, preparation of various kinds of meat on a grill"
+	},
+	{
+		"word": "biwakować",
+		"text": "to camp outdoors for several days, usually in a tent"
+	},
+	{
+		"word": "schronisko",
+		"text": "if you walk in the Tatras, you can come across a building where you can buy something to eat, drink, or rent a room to spend the night"
+	},
+	{
+		"word": "pilotka",
+		"text": "a type of hat, buttoned under chin. It's name was derived from pilots who fly planes"
+	},
+	{
+		"word": "deska",
+		"text": "in general, it's a piece of wood. It can be a chopping board. It is also a colloquial name of a water sport - windsurfing. You can windsurf on a board, or without a sail, with a paddle (sup)"
+	},
+	{
+		"word": "lajtowy",
+		"text": "from the English word 'light', it can describe an easy, undemanding exam"
+	},
+	{
+		"word": "zresetować się",
+		"text": "to relax, unwind, forget about work and problems"
+	},
+	{
+		"word": "sztos",
+		"text": "an expression of amazement, for instance Nowa płyta Kazika to sztos!"
+	},
+	{
+		"word": "oksy",
+		"text": "you need them when the sun is shining, or when you have sight defects"
+	},
+	{
+		"word": "wakacje",
+		"text": "the time when you don't have to go to school or work"
+	},
+	{
+		"word": "klawo",
+		"text": "cool"
+	},
+	{
+		"word": "strajk",
+		"text": "a sign of refusal"
+	},
+	{
+		"word": "weteran",
+		"text": "a soldier who took part in a war or an uprising. Also, a very experienced man"
+	},
+	{
+		"word": "wrzos",
+		"text": "in Polish the name of the month wrzesieńis derived form the name of the plant wrzos (heather), which blossoms in September"
+	},
+	{
+		"word": "dolina",
+		"text": "a valley, colloquially: sadness, or depression students and pupils feel when the need to go back to school on September 1"
+	},
+	{
+		"word": "adapciak",
+		"text": "an integration meeting for freshmen students"
+	},
+	{
+		"word": "legitka",
+		"text": "colloquially: a student ID, you need to have it on you when you travel by city transport system"
+	},
+	{
+		"word": "biletomat",
+		"text": "TVM, a ticket vending machine , you can purchase tickets for tram or bus, usually placed near tram/bus stops"
+	},
+	{
+		"word": "kawomat",
+		"text": "a coffee vending machine"
+	},
+	{
+		"word": "wolontariusz",
+		"text": "a volunteer, a person who is not paid for their work"
+	},
+	{
+		"word": "kosmetyki",
+		"text": "substances for skin or hair care"
+	},
+	{
+		"word": "las",
+		"text": "a place full of trees and mushrooms"
+	},
+	{
+		"word": "dzień konia",
+		"text": "a day when everything should go smooth"
+	},
+	{
+		"word": "pasta do zębów",
+		"text": "refreshens you breath, a thoothpaste"
+	},
+	{
+		"word": "życiówka",
+		"text": "your best score in sth"
+	},
+	{
+		"word": "uśmiech",
+		"text": "it appears on your face when you are content, pleased, happy"
+	},
+	{
+		"word": "fyrtel",
+		"text": "in Poznan dialect: a part of a city, a district"
+	},
+	{
+		"word": "japa",
+		"text": "in Poznan dialect: a hole, or a face"
+	},
+	{
+		"word": "zesłaniec",
+		"text": "a person forced to live in a far away country, coerced to hard work"
+	},
+	{
+		"word": "przyroda",
+		"text": "plants, animals, water, air – nature"
+	},
+	{
+		"word": "żółwik/przybić żółwika",
+		"text": "a fist bump you do with your colleague"
+	},
+	{
+		"word": "kejter",
+		"text": "in Poznan dialect: a dog "
+	},
+	{
+		"word": "na zdrowie!",
+		"text": "when you sneeze, I’ll say „bless you”"
+	},
+	{
+		"word": "bana",
+		"text": "in Poznan dialect: a train"
+	},
+	{
+		"word": "grzybobranie",
+		"text": "the activity of picking mushrooms in a forest"
+	},
+	{
+		"word": "motyl",
+		"text": "this deaf insect symbollizes the culture of the deaf"
+	},
+	{
+		"word": "język migowy",
+		"text": "a way of communicating with the deaf"
+	},
+	{
+		"word": "serdeczny",
+		"text": "cordial, hospitable"
+	},
+	{
+		"word": "autostopowicz",
+		"text": "someone who hitchhickes"
+	},
+	{
+		"word": "szczepionka",
+		"text": "a substance injected to the bloodstream to prevent infectuous diseases"
+	},
+	{
+		"word": "przewodnik",
+		"text": "a person who gives you information about the places you sightsee"
+	},
+	{
+		"word": "przekład",
+		"text": "text translated from one language to another"
+	},
+	{
+		"word": "inauguracja  (roku akademickiego)",
+		"text": "organized at the beginning of every academic year"
+	},
+	{
+		"word": "pupil",
+		"text": "your pet, a dog, cat, hamster, or ferret"
+	},
+	{
+		"word": "wyprawka",
+		"text": "a complete set of books a pupil/student needs in a given school/academic year"
+	},
+	{
+		"word": "złota polska jesień",
+		"text": "beautiful autumn weather"
+	},
+	{
+		"word": "Uśmiechnij się!",
+		"text": "do it not only when you're in a good mood XD"
+	},
+	{
+		"word": "siłka",
+		"text": "a place where you exercise, colloquially a gym"
+	},
+	{
+		"word": "harcerka",
+		"text": "a girl scout"
+	},
+	{
+		"word": "babie lato",
+		"text": "Indian summer"
+	},
+	{
+		"word": "list",
+		"text": "you write it to your grandma if she doesn't use a mobile phone"
+	},
+	{
+		"word": "głupawka",
+		"text": "a state in which you expreience convulsions of laughter after a lot of intellectual or psysical effort"
+	},
+	{
+		"word": "owsianka",
+		"text": "porridge/ a soup based on milk"
+	},
+	{
+		"word": "ajzol",
+		"text": "in Poznan dialect: a metal object, tool"
+	},
+	{
+		"word": "garnitur",
+		"text": "a formal set of clothes, men's attire worn for special occasions such as final examinations"
+	},
+	{
+		"word": "belfer",
+		"text": "a teacher (infml)"
+	},
+	{
+		"word": "Umyj ręce przed jedzeniem!",
+		"text": "wash your hands before every meal!"
+	},
+	{
+		"word": "szef",
+		"text": "you work with someone who makes all decisions"
+	},
+	{
+		"word": "mgła",
+		"text": "when you can't see a thing outside the window"
+	},
+	{
+		"word": "listonosz",
+		"text": "a mailman"
+	},
+	{
+		"word": "ulewa",
+		"text": "a downpour"
+	},
+	{
+		"word": "krajobraz",
+		"text": "the landscape from your window when there's no fog"
+	},
+	{
+		"word": "boso",
+		"text": "barefoot, without socks"
+	},
+	{
+		"word": "rodzinka",
+		"text": "your parents, siblings and grandparents"
+	},
+	{
+		"word": "opadające liście",
+		"text": "the trees turn red and yellow"
+	},
+	{
+		"word": "otyłość",
+		"text": "sometimes you gain weight, even if you don't want to"
+	},
+	{
+		"word": "kundel",
+		"text": "a mongrel"
+	},
+	{
+		"word": "szczęście",
+		"text": "when you want a moment to last"
+	},
+	{
+		"word": "wichura",
+		"text": "a strong wind"
+	},
+	{
+		"word": "animacja",
+		"text": "stimulation, animation, encouragement"
+	},
+	{
+		"word": "laczki",
+		"text": " heelless home shoes"
+	},
+	{
+		"word": "alko",
+		"text": "alcohol (infml)"
+	},
+	{
+		"word": "korbol",
+		"text": "in Poznan dialect: a pumpkin, also plonk"
+	},
+	{
+		"word": "Wszystkich Świętych",
+		"text": "Catholic tradition of visiting your relatives' graves"
+	},
+	{
+		"word": "Zaduszki",
+		"text": "All Souls' Day, the word derives from the activity of praying for the souls of the dead"
+	},
+	{
+		"word": "polować",
+		"text": "to hunt wild animals"
+	},
+	{
+		"word": "mamrot",
+		"text": "plonk"
+	},
+	{
+		"word": "opowiadać bajki",
+		"text": "to tell stories, to invent, make up"
+	},
+	{
+		"word": "fyrtel",
+		"text": "in Poznan dialect: a district, neighbourhood"
+	},
+	{
+		"word": "schabowy/ kotlet schabowy",
+		"text": "the most popular Polish meat dish"
+	},
+	{
+		"word": "jakość",
+		"text": "class, value, kind; good or bad quality"
+	},
+	{
+		"word": "flirtować",
+		"text": "to seduce, to flirt, to hit on sb"
+	},
+	{
+		"word": "jeż",
+		"text": "a forest animal covered with spikes"
+	},
+	{
+		"word": "Święty Marcin",
+		"text": "the main street in Poznań, it's name day is celebrated in November"
+	},
+	{
+		"word": "leśnik",
+		"text": "a person who works in a forest"
+	},
+	{
+		"word": "niewidomy",
+		"text": "a visually impaired person"
+	},
+	{
+		"word": "sknera",
+		"text": "a stingy person"
+	},
+	{
+		"word": "fajka",
+		"text": "colloquially: a cigarette"
+	},
+	{
+		"word": "tolerancyjny",
+		"text": "accepting diversity, tolerant"
+	},
+	{
+		"word": "zabobon",
+		"text": "you think it brings bad luck"
+	},
+	{
+		"word": "lekarstwo",
+		"text": "you take it when you're sick"
+	},
+	{
+		"word": "Skorpion",
+		"text": "a zodiac sign"
+	},
+	{
+		"word": "koło",
+		"text": "colloquially: a test, oral exam"
+	},
+	{
+		"word": "pozdrowienia",
+		"text": "you send them to your friends when you're on holidays"
+	},
+	{
+		"word": "Strzelec",
+		"text": "a zodiac sign"
+	},
+	{
+		"word": "samoobsługa",
+		"text": "when you buy groceries in a shop without a shop assistant"
+	},
+	{
+		"word": "Katarzynki",
+		"text": "a folk ritual, counterpart of St. Andrew's day"
+	},
+	{
+		"word": "Ale z ciebie burak!",
+		"text": "You're suck a bumpkin!"
+	},
+	{
+		"word": "stypendysta, stażysta lub praktykant",
+		"text": "an international student on a scholarship or practice"
+	},
+	{
+		"word": "futro",
+		"text": "fur; futrzak - colloquially: a cat or a dog"
+	},
+	{
+		"word": "buźka",
+		"text": "colloquially: an emoticon, smile"
+	},
+	{
+		"word": "Andrzejki",
+		"text": "formerly a folk ritual (on November 29), a game of foretelling the future from melted wax"
+	},
+	{
+		"word": "grzaniec",
+		"text": "heated wine, best for cold evenings"
+	},
+	{
+		"word": "sztos",
+		"text": "colloqually: sth great, fantastic, amazing"
+	},
+	{
+		"word": "na luziku",
+		"text": "leisurely, peacefully"
+	},
+	{
+		"word": "parking dla niepełnosprawnych",
+		"text": "parking for the disabled"
+	},
+	{
+		"word": "Barbórka",
+		"text": "a traditional miners' holiday, celebrated on St. Barbara's Day"
+	},
+	{
+		"word": "ziemia",
+		"text": "terrain, field, territory, the globe"
+	},
+	{
+		"word": "Mikołajki",
+		"text": "on this day children await small presents from St. Nicolas"
+	},
+	{
+		"word": "lotnik",
+		"text": "a pilot of a plane"
+	},
+	{
+		"word": "handlowiec",
+		"text": "his profession is buying and selling"
+	},
+	{
+		"word": "korupcja",
+		"text": "if someone gives you money, or presents to gain sth, bribery, dishonesty"
+	},
+	{
+		"word": "prawo",
+		"text": "every human being has rights and freedom no matter their race, color of skin, sex, language, religious beliefs, or political opinions"
+	},
+	{
+		"word": "iść w tango",
+		"text": "to have a good time, to blow off steam, to party"
+	},
+	{
+		"word": "ślizgawka",
+		"text": "you can ice skate there in the winter"
+	},
+	{
+		"word": "księgarnia",
+		"text": "a bookshop"
+	},
+	{
+		"word": "„Planeta Małp”",
+		"text": "a movie 'Planet of the Apes' by Franklin J. Schaffner"
+	},
+	{
+		"word": "napój herbaciany",
+		"text": "tea with juice or water, tastes good with lemon, mead, or jam"
+	},
+	{
+		"word": "czekoladki",
+		"text": "little chocolates"
+	},
+	{
+		"word": "brzydkie wyrazy",
+		"text": "vulgarisms, curses; sometimes you can hear them on a bus"
+	},
+	{
+		"word": "wędrówka ludności",
+		"text": "economic or political migration"
+	},
+	{
+		"word": "bałwan",
+		"text": "kids make it of snow, a snowman"
+	},
+	{
+		"word": "Solidarność",
+		"text": "equality, concord, brotherhood, community"
+	},
+	{
+		"word": "brunetka",
+		"text": "a dark-haired woman"
+	},
+	{
+		"word": "Koziorożec",
+		"text": "a zodiac sign"
+	},
+	{
+		"word": "śnieżyca",
+		"text": "a blizzard"
+	},
+	{
+		"word": "Wigilia",
+		"text": "Christmas Eve, on this day Poles start to celebrate Christmas"
+	},
+	{
+		"word": "Gwiazdor",
+		"text": "in Poznań dialect: Santa Claus, the name was derived from the star the carrolers carried when they visited homes"
+	},
+	{
+		"word": "kolęda",
+		"text": "a Christmas caroll"
+	},
+	{
+		"word": "choinka",
+		"text": "a Christmas tree you decorate with lamps and baubles"
+	},
+	{
+		"word": "dać buzi",
+		"text": "to kiss somebody close to you"
+	},
+	{
+		"word": "wiara",
+		"text": "in Poznań dialect: people, group of people; if sb on the street shouts Tej, wiara! It means Hey, you!"
+	},
+	{
+		"word": "Sylwester",
+		"text": "when your neighbors set off a firework display, New Year's Eve"
+	}
+]

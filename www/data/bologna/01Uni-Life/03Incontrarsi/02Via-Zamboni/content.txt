@@ -1,0 +1,17 @@
+{
+  "title": "Via Zamboni",
+  "latitude": "44.494809",
+  "longitude": "11.347413",
+  "difficulty": "mid",
+  "keyword": ["Piazza Verdi",
+"Via Zamboni",
+"Rettorato",
+"Piazza Rossini",
+"Piazza Puntoni"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,148 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Posiłek</p>
+</td>
+<td>
+<p>meal</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dania</p>
+</td>
+<td>
+<p>dishes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pierwsze danie</p>
+</td>
+<td>
+<p>first course</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>drugie danie</p>
+</td>
+<td>
+<p>second course</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zupa</p>
+</td>
+<td>
+<p>soup</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mięso z warzywami</p>
+</td>
+<td>
+<p>meat with vegetables</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sur&oacute;wka</p>
+</td>
+<td>
+<p>salad</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ziemniaki</p>
+</td>
+<td>
+<p>potatoes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kompot</p>
+</td>
+<td>
+<p>kompot</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>deser</p>
+</td>
+<td>
+<p>dessert</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ciasto</p>
+</td>
+<td>
+<p>cake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>domowy wypiek</p>
+</td>
+<td>
+<p>homemade cake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być sytym</p>
+</td>
+<td>
+<p>to be full</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rodzinny obiad niedzielny</p>
+</td>
+<td>
+<p>Sunday family dinner</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tradycyjny obiad</p>
+</td>
+<td>
+<p>traditional dinner</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ros&oacute;ł</p>
+</td>
+<td>
+<p>chicken broth</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kotlet schabowy</p>
+</td>
+<td>
+<p>pork cutlet</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zarezerwować stolik</p>
+</td>
+<td>
+<p>to book a table</p>
+</td>
+</tr>
+</tbody>
+</table>

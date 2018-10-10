@@ -1,0 +1,13 @@
+{
+  "title": "Describe",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>What can you see on the rooftop of Sky Ounasvaara? Intensively green packed with coniferous trees, fells in the horizon, two great rivers, bogs, wilderness, and the sky. <\/p>\r\n<p>As you have already noticed, fells in Lapland are completely different from the mountains of Central Europe. This is because the massive retreating ice cover at the end of the Ice Age moulded this landscape into a tranquil formation, much like soothing waves of the sea.<\/p>\r\n<p>Lapland is a paradise for the outdoorsy: hikers, fishing enthusiasts, hunters and adventurers. It's also a haven for thousands of stories. Now this wilderness is part of your story, too. Often stories require a touch of the original language, to give them the authentic zing. Look at some Finnish words you can use to describe what you&rsquo;re seeing here.<\/p>\r\n<p><strong>er&auml;maa <\/strong>wilderness<\/p>\r\n<p><strong>joki <\/strong>a river<\/p>\r\n<p><strong>j&auml;rvi <\/strong>a lake<\/p>\r\n<p><strong>laakso <\/strong>a valley<\/p>\r\n<p><strong>rinne <\/strong>a slope, hillside<\/p>\r\n<p><strong>mets&auml; <\/strong>a forest<\/p>\r\n<p><strong>m&auml;ki <\/strong>a hill<\/p>\r\n<p><strong>niemi<\/strong> a cape, a ness<\/p>\r\n<p><strong>niitty <\/strong>a meadow<\/p>\r\n<p><strong>pelto<\/strong> a field <\/p>\r\n<p><strong>suo <\/strong>a bog, a swamp, a peatland<\/p>\r\n<p><strong>taivas <\/strong>sky; (also) heaven<\/p>\r\n<p><strong>tunturi <\/strong>a (Nordic) fell, a fjell <\/p>\r\n<p><strong>vaara <\/strong>a forested hill; (also) danger<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

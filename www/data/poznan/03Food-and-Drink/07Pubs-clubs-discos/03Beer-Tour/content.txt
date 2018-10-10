@@ -1,0 +1,13 @@
+{
+  "title": "Beer Tour",
+  "latitude": "52.408087",
+  "longitude": "16.932323",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

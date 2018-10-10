@@ -1,0 +1,13 @@
+{
+  "title": "Al Pronto Soccorso",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th><p style=\"text-align: center;\"><em>Talk<\/em><\/p><\/th><th><p style=\"text-align: center;\"><em>Answer Models<\/em><\/p><\/th><\/tr><tr><td><p>Sono caduto e ho battuto la testa per terra...<\/p><\/td><td><\/td><\/tr><tr><td><p>Ho un dolore fortissimo al braccio. Temo si sia rotto...<\/p><\/td><td><\/td><\/tr><tr><td><p>Ho difficolt\u00E0 a respirare e sento un dolore allo sterno...<\/p><\/td><td><\/td><\/tr><tr><td><p>Ho dei crampi dolorosissimi alla pancia...<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,124 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Przychylny</p>
+</td>
+<td>
+<p>friendly</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>doceniają (doceniać)</p>
+</td>
+<td>
+<p>appreciate (to appreciate)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zatłoczony</p>
+</td>
+<td>
+<p>congested</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>potrzeby rowerzyst&oacute;w</p>
+</td>
+<td>
+<p>needs of cyclists</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejskie trasy rowerowe</p>
+</td>
+<td>
+<p>urban bike paths</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kontrapasy</p>
+</td>
+<td>
+<p>contraflow lanes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przepisy rowerowe</p>
+</td>
+<td>
+<p>bicycle traffic regulations</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uważność</p>
+</td>
+<td>
+<p>caution</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>widoczność</p>
+</td>
+<td>
+<p>visibility</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uczestnicy ruchu</p>
+</td>
+<td>
+<p>traffic participants</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chodnik</p>
+</td>
+<td>
+<p>pavement</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>krawężnik</p>
+</td>
+<td>
+<p>kerb</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przejście dla pieszych, pasy, zebry</p>
+</td>
+<td>
+<p>pedestrian crossing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>opaski odblaskowe</p>
+</td>
+<td>
+<p>reflecting bands</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kask</p>
+</td>
+<td>
+<p>helmet</p>
+</td>
+</tr>
+</tbody>
+</table>

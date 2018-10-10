@@ -1,0 +1,132 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Rowerowa wyprawa</p>
+</td>
+<td>
+<p>bike trip</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podr&oacute;żnik i pisarz</p>
+</td>
+<td>
+<p>traveller and writer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozmaitość kulturowa świata</p>
+</td>
+<td>
+<p>cultural variety of the world</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>eksponaty</p>
+</td>
+<td>
+<p>exhibits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przywiezione</p>
+</td>
+<td>
+<p>brought</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kolejne wyprawy</p>
+</td>
+<td>
+<p>subsequent travels</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>otaczać</p>
+</td>
+<td>
+<p>to surround</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zewsząd</p>
+</td>
+<td>
+<p>everywhere</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rzeźby</p>
+</td>
+<td>
+<p>sculptures</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>maski obrzędowe</p>
+</td>
+<td>
+<p>ritual masks</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>trofea</p>
+</td>
+<td>
+<p>trophies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>osobliwości</p>
+</td>
+<td>
+<p>curios</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>replika żaglowca</p>
+</td>
+<td>
+<p>sailing ship</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>posąg</p>
+</td>
+<td>
+<p>statue</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kalendarz</p>
+</td>
+<td>
+<p>calendar</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>słupy totemiczne</p>
+</td>
+<td>
+<p>totem poles</p>
+</td>
+</tr>
+</tbody>
+</table>

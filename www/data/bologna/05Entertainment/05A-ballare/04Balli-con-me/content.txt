@@ -1,0 +1,15 @@
+{
+  "title": "Balli con me?",
+  "latitude": "44.512290",
+  "longitude": "11.388955",
+  "difficulty": "low",
+  "keyword": ["ballo",
+"CUSB",
+"Centro Universitario Sportivo Bologna"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

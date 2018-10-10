@@ -1,0 +1,108 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Parkuj (parkować)</p>
+</td>
+<td>
+<p>park (to park)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oświetlone (oświetlać)</p>
+</td>
+<td>
+<p>lamplit (to light)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kł&oacute;dki</p>
+</td>
+<td>
+<p>bike locks</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>łańcuchy</p>
+</td>
+<td>
+<p>chains</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ubezpieczenie</p>
+</td>
+<td>
+<p>insurance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przewozić</p>
+</td>
+<td>
+<p>to transport</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsca uczęszczane</p>
+</td>
+<td>
+<p>bustling spaces</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przypiąć rower do solidnej konstrukcji</p>
+</td>
+<td>
+<p>to attach a bike to solid parking racks</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stosuj (stosować) zapięcia rowerowe</p>
+</td>
+<td>
+<p>use (to use) bike locks</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>blokady tylnego koła</p>
+</td>
+<td>
+<p>rear wheel locks</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w przypadku kradzieży</p>
+</td>
+<td>
+<p>in case of theft</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wskazać numer identyfikacyjny</p>
+</td>
+<td>
+<p>to give serial number</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przymocować rower</p>
+</td>
+<td>
+<p>to fasten a bike</p>
+</td>
+</tr>
+</tbody>
+</table>

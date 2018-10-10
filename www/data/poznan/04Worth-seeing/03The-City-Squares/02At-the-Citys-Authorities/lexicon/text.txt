@@ -1,0 +1,180 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>wydawać się</p>
+</td>
+<td>
+<p>seems to be</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warto zajść i przyjrzeć się</p>
+</td>
+<td>
+<p>it is worth a visit to take a look</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>upamiętniać</p>
+</td>
+<td>
+<p>commemorate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozległe budynki</p>
+</td>
+<td>
+<p>vast buildings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być siedzibą</p>
+</td>
+<td>
+<p>to be the seat of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wewnętrzny dziedziniec</p>
+</td>
+<td>
+<p>inner courtyard</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>brama wjazdowa</p>
+</td>
+<td>
+<p>entrance gate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzwony</p>
+</td>
+<td>
+<p>bells</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zabudowania klasztorne</p>
+</td>
+<td>
+<p>cloister complex</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kataklizmy dziejowe</p>
+</td>
+<td>
+<p>historical cataclysms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>patronować</p>
+</td>
+<td>
+<p>to patron</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przekład na język polski</p>
+</td>
+<td>
+<p>translation to Polish</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kontynuator tradycji</p>
+</td>
+<td>
+<p>the tradition lives on in</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jeśli znuży Cię zwiedzanie</p>
+</td>
+<td>
+<p>If you get tired of sightseeing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wstąpić do</p>
+</td>
+<td>
+<p>step in to</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ciekawe menu</p>
+</td>
+<td>
+<p>original menu</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strawa duchowa</p>
+</td>
+<td>
+<p>food for thought</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Z pewnością zwr&oacute;cisz uwagę na&hellip;</p>
+</td>
+<td>
+<p>you wil surely notice&hellip;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>średniowieczne mury miejskie</p>
+</td>
+<td>
+<p>the medieval city walls</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przybliżać turystom</p>
+</td>
+<td>
+<p>tourists can acquaint themselves with</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>symbol miasta</p>
+</td>
+<td>
+<p>symbol of the city/ mascot</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przynosić szczęście</p>
+</td>
+<td>
+<p>to bring luck</p>
+</td>
+</tr>
+</tbody>
+</table>

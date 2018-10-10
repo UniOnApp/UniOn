@@ -1,0 +1,13 @@
+{
+  "title": "Police",
+  "latitude": "66.496313",
+  "longitude": "25.729542",
+  "difficulty": "",
+  "keyword": ["poliisi","rikos","crime"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

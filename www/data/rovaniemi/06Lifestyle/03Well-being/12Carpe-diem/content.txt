@@ -1,0 +1,13 @@
+{
+  "title": "Carpe diem",
+  "latitude": "66.491471",
+  "longitude": "25.726526",
+  "difficulty": "",
+  "keyword": ["summer","kesä","holiday","loma","vacation"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

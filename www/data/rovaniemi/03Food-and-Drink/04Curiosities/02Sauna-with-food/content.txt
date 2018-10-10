@@ -1,0 +1,13 @@
+{
+  "title": "Sauna with food",
+  "latitude": "66.511105",
+  "longitude": "25.788640",
+  "difficulty": "",
+  "keyword": ["swimming","food","midnight sun","Kemijoki","river","countable"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Count the words",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Here&rsquo;s some ice hockey vocabulary for you! Keep your ears open in the game and count how many of these words you hear!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>aikalis&auml;<\/strong> time-out<\/p>\r\n<p><strong>j&auml;&auml;<\/strong> ice<\/p>\r\n<p><strong>j&auml;&auml;kiekko<\/strong> ice hockey<\/p>\r\n<p><strong>hy&ouml;kk&auml;ys<\/strong> an attack<\/p>\r\n<p><strong>hy&ouml;kk&auml;&auml;j&auml; <\/strong>a forward (player)<\/p>\r\n<p><strong>h&auml;vit&auml;<\/strong> to lose<\/p>\r\n<p><strong>ilmaveivi <\/strong>the Michigan, the high wrap, the lacrosse move (the Finnish star player Mikael Granlund scored a goal with this technique at the 2011 IIHF World Championship semifinals agains Russia, helping Finland progress into the finals)<\/p>\r\n<p><strong>karvata <\/strong>to forecheck<\/p>\r\n<p><strong>kaukalo <\/strong>a rink<\/p>\r\n<p><strong>kiekko<\/strong> a puck<\/p>\r\n<p><strong>korkea maila<\/strong> high sticking<\/p>\r\n<p><strong>maali<\/strong> a goal<\/p>\r\n<p><strong>maalivahti, &ldquo;mokke&rdquo;, &ldquo;mokkeri&rdquo;, &ldquo;molari&rdquo;<\/strong> the goaltender, &ldquo;the goalie&rdquo;<\/p>\r\n<p><strong>maila<\/strong> a hockey stick<\/p>\r\n<p><strong>paitsio<\/strong> offside<\/p>\r\n<p><strong>pelaaja <\/strong>a player<\/p>\r\n<p><strong>poikittainen maila <\/strong>cross-checking<\/p>\r\n<p><strong>puolustaja <\/strong>a defenceman<\/p>\r\n<p><strong>puolustus<\/strong> defence<\/p>\r\n<p><strong>rangaistus<\/strong> a penalty<\/p>\r\n<p><strong>tilanne<\/strong> the score <em>Mik&auml; on tilanne? (What&rsquo;s the score?)<\/em><\/p>\r\n<p><strong>tuomari<\/strong> a referee<\/p>\r\n<p><strong>voittaa<\/strong> to win<\/p>\r\n<p><strong>ylivoima <\/strong>power play<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

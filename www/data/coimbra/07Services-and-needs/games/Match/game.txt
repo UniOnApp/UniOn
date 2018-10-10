@@ -1,0 +1,11 @@
+The washer is broke and you desperately need clean clothes? You’ve lost your passport? Check if you know which service will sort you out.
+[pair]SASUC_UC social services
+[pair]Conta_We open one to keep our money in a bank
+[pair]Lavandaria_Facility where clothes are washed and dried
+[pair]Multibanco_Portugal’s most common cashpoint or ATM
+[pair]SEF_Immigration and borders service
+[pair]Centro de Saúde_Where a group of general practitioners and nurses provide healthcare services to people in a certain area
+[pair]Exame_Type of medical procedure performed to detect, diagnose, or monitor diseases
+[pair]PSP_They have the mission of safeguarding the internal security and defending citizens’ rights
+[pair]Farmácia_Where to buy prescribed and over the counter medication
+[pair]CTT_National state-owned Portuguese postal service

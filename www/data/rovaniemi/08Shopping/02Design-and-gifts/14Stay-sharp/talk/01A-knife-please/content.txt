@@ -1,0 +1,13 @@
+{
+  "title": "A knife, please",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Hei, haluaisin ostaa puukon.<\/p>\r\n<p>Mihin tarkoitukseen se tulee?<\/p>\r\n<p>Se tulee lahjaksi.<\/p>\r\n<p>Kuinka suuren puukon haluat?<\/p>\r\n<p>Ei kovin suurta, mutta sen pit&auml;&auml; olla kaunis.<\/p>\r\n<p>T&auml;ss&auml; on hyvin suosittu malli. Se on visakoivua, ja tuppi on poronnahkaa.<\/p>\r\n<p>Onpa hieno! Paljonko se maksaa?<\/p>\r\n<p>Se maksaa kahdeksankymment&auml; euroa. Voit my&ouml;s ostaa puisen lahjapakkauksen, se maksaa seitsem&auml;n euroa.<\/p>\r\n<p>Siis yhteens&auml; kahdeksankymment&auml;seitsem&auml;n euroa? Otan molemmat, kiitos.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>haluaisin ostaa&hellip;<\/strong> I&rsquo;d like to buy&hellip;<\/p>\r\n<p><strong>haluta <\/strong>to want<\/p>\r\n<p><strong>hieno <\/strong>fine, wonderful<\/p>\r\n<p><strong>juustoh&ouml;yl&auml; <\/strong>a cheese cutter<\/p>\r\n<p><strong>kaunis<\/strong> beautiful<\/p>\r\n<p><strong>kirves <\/strong>an axe<\/p>\r\n<p><strong>lahja<\/strong> a gift<\/p>\r\n<p><strong>lahjapakkaus<\/strong> a gift box<\/p>\r\n<p><strong>mihin tarkoitukseen?<\/strong> for what purpose?<\/p>\r\n<p><strong>molemmat<\/strong> both<\/p>\r\n<p><strong>poronnahka<\/strong> reindeer skin<\/p>\r\n<p><strong>puinen<\/strong> wooden<\/p>\r\n<p><strong>puukko<\/strong> a knife<\/p>\r\n<p><strong>sakset<\/strong> scissors<\/p>\r\n<p><strong>suosittu<\/strong> popular<\/p>\r\n<p>suuri big<\/p>\r\n<p><strong>tuppi<\/strong> a sheath<\/p>\r\n<p><strong>veitsi<\/strong> a knife, a spreader<\/p>\r\n<p><strong>visakoivu <\/strong>curly birch<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

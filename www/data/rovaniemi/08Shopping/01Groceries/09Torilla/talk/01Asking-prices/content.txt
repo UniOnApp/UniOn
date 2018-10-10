@@ -1,0 +1,13 @@
+{
+  "title": "Asking prices",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>It&rsquo;s easy to ask in Finnish <em>what does it cost<\/em> &ndash; <strong>mit&auml; se maksaa<\/strong>?<\/p>\r\n<p>If you would like to ask prices of certain products &ndash; and rehearse your Finnish at the same time &ndash; you can simply do it this way:<\/p>\r\n<p><strong>Mit&auml; kahvi maksaa?<\/strong> What does coffee cost? <\/p>\r\n<p><strong>Mit&auml; mustikka maksaa? <\/strong>What does blueberry cost? <\/p>\r\n<p><strong>Ent&auml; mit&auml; lohi maksaa?<\/strong> And what does the salmon cost?<\/p>\r\n<p>Please take a look at the following dialogue. It could be useful for you to be able to ask and comment prices like this. Can you understand it with the help of the vocabulary?<\/p>\r\n<p>- Anteeksi, mit&auml; hilla maksaa?<\/p>\r\n<p>- Se maksaa kuusitoista euroa kilo.<\/p>\r\n<p>- Se on tosi kallis&hellip; ent&auml; mit&auml; puolukka maksaa?<\/p>\r\n<p>- Se maksaa nelj&auml; euroa kilo. <\/p>\r\n<p>- No&hellip; se on aika halpaa. Saanko alennusta jos ostan kolme kiloa?<\/p>\r\n<p>- Joo, se on sitten kymmenen euroa. <\/p>\r\n<p>- Min&auml; otan sen. Kiitos! <\/p>\r\n<p><strong>aika<\/strong> quite<\/p>\r\n<p><strong>alennus<\/strong> discount<\/p>\r\n<p><strong>anteeksi<\/strong> excuse me<\/p>\r\n<p><strong>halpa<\/strong> cheap<\/p>\r\n<p><strong>hilla <\/strong>cloudberry<\/p>\r\n<p><strong>joo<\/strong> yeah<\/p>\r\n<p><strong>jos<\/strong> if<\/p>\r\n<p><strong>kallis<\/strong> expensive<\/p>\r\n<p><strong>kiitos<\/strong> thank you<\/p>\r\n<p><strong>kolme <\/strong>three<\/p>\r\n<p><strong>kuusi<\/strong> six, also a spruce tree<\/p>\r\n<p><strong>kuusitoista<\/strong> sixteen<\/p>\r\n<p><strong>kuusikymment&auml;<\/strong> sixty<\/p>\r\n<p><strong>maksaa<\/strong> to pay, to cost<\/p>\r\n<p><strong>mustikka<\/strong> blueberry<\/p>\r\n<p><strong>nelj&auml;<\/strong> four<\/p>\r\n<p><strong>ostaa<\/strong> to buy<\/p>\r\n<p><strong>ottaa<\/strong> to take<\/p>\r\n<p><strong>saada <\/strong>to get<\/p>\r\n<p><strong>saanko<\/strong> &lsquo;do I get&hellip;?&rsquo;, also &lsquo;may I have&hellip;?&rsquo;<\/p>\r\n<p><strong>se<\/strong> it<\/p>\r\n<p><strong>sitten<\/strong> then<\/p>\r\n<p><strong>tosi<\/strong> true, really<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

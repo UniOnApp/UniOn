@@ -1,0 +1,76 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Miłośnik</p>
+</td>
+<td>
+<p>Fan, enthusiast</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gorące rytmy</p>
+</td>
+<td>
+<p>Hot rhythms</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>potańczyć</p>
+</td>
+<td>
+<p>to dance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bawić się</p>
+</td>
+<td>
+<p>To have fun</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nietuzinkowy</p>
+</td>
+<td>
+<p>Original</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>utytułowany</p>
+</td>
+<td>
+<p>Prize-winning</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>hiszpańskojęzyczny</p>
+</td>
+<td>
+<p>Spanish-speaking</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zabawa</p>
+</td>
+<td>
+<p>Fun</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>taniec</p>
+</td>
+<td>
+<p>Dance</p>
+</td>
+</tr>
+</tbody>
+</table>

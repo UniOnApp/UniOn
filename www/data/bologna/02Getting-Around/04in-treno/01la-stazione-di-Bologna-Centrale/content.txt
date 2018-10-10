@@ -1,0 +1,23 @@
+{
+  "title": "La Stazione di Bologna Centrale",
+  "latitude": "44.505841",
+  "longitude": "11.342868",
+  "difficulty": "low",
+  "keyword": ["Stazione di Bologna Centrale",
+"treni",
+"treno",
+"Trenitalia",
+"Italo Treno",
+"biglietto",
+"biglietti",
+"biglietteria ",
+"Piazza Medaglie d\u2019Oro",
+"via de\u2019 Carracci",
+"Kiss & Drive"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

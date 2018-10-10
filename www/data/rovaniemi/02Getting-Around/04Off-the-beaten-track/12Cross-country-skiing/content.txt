@@ -1,0 +1,13 @@
+{
+  "title": "Cross-country skiing",
+  "latitude": "66.507724",
+  "longitude": "25.787093",
+  "difficulty": "",
+  "keyword": ["ski","skiing","outdoors","cross-country","trails","Ounasvaara","latu","hiihtää","makkara","laavu"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

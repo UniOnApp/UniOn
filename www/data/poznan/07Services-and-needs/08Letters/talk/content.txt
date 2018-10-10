@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Dzie\u0144 dobry, w czym mog\u0119 pom&oacute;c?<\/p>\r\n<p>- Dzie\u0144 dobry, chcia\u0142abym za\u0142o\u017Cy\u0107 konto bankowe.<\/p>\r\n<p>- Dobrze, rozumiem. Przedstawi\u0119 Pani ofert\u0119 naszego banku, by mog\u0142a Pani wybra\u0107 najlepsz\u0105 ofert\u0119 dla siebie. Czy jest Pani studentk\u0105?<\/p>\r\n<p>- Tak, w pa\u017Adzierniku rozpoczn\u0119 studia na Uniwersytecie im. Adama Mickiewicza .<\/p>\r\n<p>- Gratuluj\u0119! Zaprezentuj\u0119 wi\u0119c Pani ofert\u0119 konta studenckiego oraz konta osobistego dla m\u0142odych os&oacute;b poni\u017Cej 26. roku \u017Cycia.<\/p>\r\n<p>- Dobrze, s\u0142ucham.<\/p>\r\n<p>- Prosz\u0119 chwil\u0119 poczeka\u0107, tylko odbior\u0119 telefon.<\/p>\r\n<p>- Dobrze, poczekam.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Chcia\u0142bym (chcie\u0107) za\u0142o\u017Cy\u0107 konto bankowe, przedstawi\u0107 ofert\u0119 banku, wybra\u0107 najlepsz\u0105 ofert\u0119, zaproponuj\u0119 (zaproponowa\u0107) ofert\u0119, konto studenckie, konto osobiste dla m\u0142odych os&oacute;b, odbior\u0119 (odebra\u0107) telefon.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

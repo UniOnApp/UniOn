@@ -1,0 +1,13 @@
+{
+  "title": "Sports and Recreation",
+  "latitude": "52.394438",
+  "longitude": "16.927928",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

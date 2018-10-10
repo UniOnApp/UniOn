@@ -1,0 +1,13 @@
+{
+  "title": "Write to Santa",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Write a letter to Santa Claus in Finnish<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Wouldn&rsquo;t it be handy to get the kind of present you&rsquo;ve always wished for next Christmas? We suggest you write to Santa Claus well in advance! Although he&rsquo;s definitely a polyglot, maybe it&rsquo;s worthwhile writing him in Finnish.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Below you have a template letter followed by some vocabulary. Tap on the template to see it in Finnish.<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n  <p>Dear Santa,<\/br><\/br>\r\nHow are you? Is it cold over there?<\/br><\/br>\r\nI&rsquo;ve been kind the whole year. I&rsquo;d love to get a good book for Christmas.<\/br>\r\nI live on Kuntotie, in Rovaniemi.<\/br><\/br>\r\nSee you next Christmas!<\/br><\/br>\r\nWarm greetings,<\/br>\r\nAndrea<\/br>\r\n<\/p>\r\n<p>Rakas Joulupukki,<\/br><\/br>\r\nMit&auml; kuuluu? Onko siell&auml; kylm&auml;?<\/br><\/br>\r\nMin&auml; olen ollut kiltti koko vuoden. Min&auml; toivon hyv&auml;&auml; kirjaa joululahjaksi.<\/br>\r\nMin&auml; asun Kuntotiell&auml;, Rovaniemell&auml;.<\/br><\/br>\r\nN&auml;hd&auml;&auml;n ensi jouluna!<\/br><\/br>\r\nL&auml;mpimin terveisin,<\/br>\r\nAndrea<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<p><strong>asua<\/strong> to live<\/p>\r\n<p><strong>ensi<\/strong> next<\/p>\r\n<p><strong>hyv&auml;<\/strong> good<\/p>\r\n<p><strong>joulu<\/strong> Christmas<\/p>\r\n<p><strong>Joulupukki<\/strong> Santa Claus<\/p>\r\n<p><strong>kiltti<\/strong> kind, good<\/p>\r\n<p><strong>kirja<\/strong> a book<\/p>\r\n<p><strong>koko vuoden<\/strong> (for) the whole year<\/p>\r\n<p><strong>kylm&auml;<\/strong> cold<\/p>\r\n<p><strong>lahja<\/strong> a present, a gift<\/p>\r\n<p><strong>lahja<\/strong><span style=\"background-color: #99ccff;\"><strong>ksi<\/strong><\/span> as a present<\/p>\r\n<p><strong>l&auml;mpimin terveisin<\/strong> warm greetings<\/p>\r\n<p><strong>n&auml;hd&auml;&auml;n<\/strong> see you<\/p>\r\n<p><strong>olla<\/strong> to be<\/p>\r\n<p><strong>olen ollut<\/strong> I have been<\/p>\r\n<p><strong>Onko?<\/strong> Is it?<\/p>\r\n<p><strong>siell&auml;<\/strong> over there<\/p>\r\n<p><strong>rakas <\/strong>dear<\/p>\r\n<p><strong>toivoa <\/strong>to hope<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Remember to write to Santa and send the letter!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

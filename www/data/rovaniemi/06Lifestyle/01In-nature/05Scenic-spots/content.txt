@@ -1,0 +1,13 @@
+{
+  "title": "Scenic spots",
+  "latitude": "66.501867",
+  "longitude": "25.78845",
+  "difficulty": "",
+  "keyword": ["nature","midnight sun","northern lights","aurora","Jätkänkynttilä","bridge","Ice age","wilderness"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

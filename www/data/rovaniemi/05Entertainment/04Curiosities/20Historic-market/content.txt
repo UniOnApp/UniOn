@@ -1,0 +1,13 @@
+{
+  "title": "Historic market",
+  "latitude": "66.504416",
+  "longitude": "25.734926",
+  "difficulty": "",
+  "keyword": ["history","market","settler","Kemijoki","Ounasjoki","marketplace","commerce","rillumarei"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

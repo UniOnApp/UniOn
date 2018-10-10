@@ -1,0 +1,13 @@
+{
+  "title": "Milk Bars",
+  "latitude": "52.407026",
+  "longitude": "16.920116",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

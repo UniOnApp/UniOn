@@ -1,0 +1,13 @@
+{
+  "title": "I Love Pierogi!",
+  "latitude": "52.411394",
+  "longitude": "16.896199",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

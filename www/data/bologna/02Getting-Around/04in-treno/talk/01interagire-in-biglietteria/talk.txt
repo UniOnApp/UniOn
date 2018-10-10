@@ -1,0 +1,1 @@
+<table class="talkTable"><tr><th>Talk</th><th>Answer Models</th></tr><tr><td>Buongiorno, un biglietto andata e ritorno per Milano per favore...</td><td></td></tr><tr><td>Buongiorno, dovrei cambiare il giorno di partenza del mio biglietto? È possibile?</td><td></td></tr><tr><td>Buongiorno, vorrei prenotare un viaggio sola andata per Parigi..</td><td></td></tr></table>

@@ -1,0 +1,36 @@
+Il treno è il mezzo di trasporto più sicuro. Tuttavia è opportuno adottare alcune regole di comportamento. In stazione e sul treno troverai alcuni cartelli che indicano che cosa fare e non fare per agire sempre in sicurezza. 
+Vediamone alcuni:<br><br>
+<b>Non oltrepassare la linea gialla</b><br>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/01.gif" alt=""/><br>
+La linea gialla indica la distanza di sicurezza dai binari e dai treni in transito. Non avvicinarti troppo perché può essere pericoloso. 
+<br><br>
+<b>Non tentare di salire al volo</b><br>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/02.gif" alt=""/><br>
+È vietato provare a salire sul treno se il personale (<span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/lexicon/")' >capo treno</span>, <span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/lexicon/")' >controllore</span>) è già a bordo. Non cercare di aprire le porte se il treno ha iniziato a muoversi. 
+<br><br>
+<b>Scendi solo quando il treno è completamente fermo in stazione</b><br>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/04.gif" alt=""/><br>
+È vietato aprire le porte e scendere con il treno ancora in movimento.
+<br><br>
+<b>Scendi dalla parte "giusta"</b><br>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/05.gif" alt=""/><br>
+È importante verificare che la porta di uscita si affacci sul marciapiede e  non sul binario.
+<br><br>
+<b>Ascolta i messaggi dell’altoparlante e <span class="internalLink" onclick='goto("data/bologna/02Getting-Around/04in-treno/lexicon/")' >tieni d’occhio</span> i tabelloni.</b><br> 
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/06.gif" alt=""/><br>
+Fai attenzione ai messaggi dell’altoparlante e leggi gli avvisi su tabelloni e monitor. Puoi controllare gli orari dei treni, vedere se sono puntuali, verificare il binario di partenza. 
+<br><br>
+<b>Non gettare oggetti dai finestrini</b><br>
+<img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/07.gif" alt=""/><br>
+Non buttare oggetti dai finestrini: è pericoloso ed antiecologico. 
+<br><br>
+<b>Non sporgerti dai finestrini</b><br>
+ <img src="data/bologna/02Getting-Around/04in-treno/03viaggiare-in-sicurezza/10.gif" alt=""/><br>
+Lungo il percorso ferroviario ci sono pali, tralicci, pareti delle gallerie, alberi ed altri treni in viaggio. Sporgersi o affacciarsi dai finestrini può essere molto pericoloso. 
+<br><br>
+**Ndr.: Questa sezione di testo è un adattamento del testo “Un viaggio sicuro parte da te”, a cura della redazione di Trenitalia. Le foto non sono state modificate.
+<br><br>
+Al binario: per facilitare la salita sul treno, avvicinati al monitor che riporta il numero della tua carrozza. Poi, prima di salire sul treno, accertati che tutti i passeggeri in arrivo siano scesi. Infine, se hai il biglietto cartaceo, ricordati di convalidarlo. Per convalidarlo devi timbrarlo nelle apposite macchinette. Le macchinette sono nell’atrio, lungo il sottopassaggio, e ai binari. In italiano ci sono altri verbi che indicano questa azione: “vidimare” un biglietto, oppure “obliterare” un biglietto; sono più specifici ma anche meno usati di “timbrare”. Fai sempre attenzione ai messaggi comunicati all’altoparlante. Possono annunciare dei cambi di binario, dei ritardi, o semplicemente l’arrivo dei treni.
+<div class="bottomQuestion">
+<p>Nel tuo paese ci sono le stesse regole? Ci sono altre regole che puoi descrivere?</p>
+</div>

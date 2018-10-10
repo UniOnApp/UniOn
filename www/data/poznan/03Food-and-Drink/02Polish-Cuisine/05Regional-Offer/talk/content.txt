@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Alex i Kasia s\u0105 w polskim bistro w czasie przerwy obiadowej<\/p>\r\n<p>-Alex, czy masz jakie\u015B <strong>ulubione polskie danie?<\/strong><u> <\/u><\/p>\r\n<p>- Ja lubi\u0119 wszystkie polskie potrawy, ale najbardziej chyba pierogi.<\/p>\r\n<p>- A mo\u017Ce dzisiaj <strong>spr&oacute;bujesz <\/strong>czego\u015B innego?<\/p>\r\n<p>- A co mi <strong>polecasz<\/strong>?<\/p>\r\n<p>- Zobacz, w karcie jest <strong>danie dnia<\/strong>: go\u0142\u0105bki w sosie pomidorowym.<\/p>\r\n<p>- Go\u0142\u0105bki?!<\/p>\r\n<p>- To tylko nazwa potrawy. <strong>Nie chodzi o<\/strong> go\u0142\u0119bie ze Starego Rynku, tylko mi\u0119so z ry\u017Cem zawini\u0119te w li\u015Bcie kapusty.<\/p>\r\n<p>- Jad\u0142em <strong>co\u015B podobnego<\/strong> w Grecji, wi\u0119c <strong>ch\u0119tnie spr&oacute;buj\u0119<\/strong>.<\/p>\r\n<p>- Ok, to mo\u017Ce <strong>zam&oacute;wisz <\/strong>dwie <strong>porcje<\/strong>?<\/p>\r\n<p>- Dobrze, ale potem <strong>koniecznie <\/strong>p&oacute;jdziemy jeszcze <strong>na kaw\u0119 i deser<\/strong>. <strong>Ja zapraszam!<\/strong><\/p>\r\n<p>- \u015Awietnie, dzi\u0119ki!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>- Przepraszam bardzo, czy mog\u0119 zap\u0142aci\u0107?<\/p>\r\n<p>- Naturalnie, zapraszam do kasy.<\/p>\r\n<p>- Za co Pan p\u0142aci?<\/p>\r\n<p>- Za dwie porcje go\u0142\u0105bk&oacute;w i dwie herbaty.<\/p>\r\n<p>- To b\u0119dzie 38 z\u0142otych i 60 groszy.<\/p>\r\n<p>- Prosz\u0119 bardzo.<\/p>\r\n<p>- Do widzenia!<\/p>\r\n<p>- Dzi\u0119kuj\u0119 i do widzenia.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Ulubione danie, potrawa, danie dnia, go\u0142\u0105bki, mi\u0119so, ry\u017C, li\u015Bcie kapusty, porcja, spr&oacute;bowa\u0107, poleca\u0107, zam&oacute;wi\u0107.<\/p>\r\n<p>nie chodzi mi o&hellip;, ja zapraszam (zapraszam), p&oacute;j\u015B\u0107 na kaw\u0119\/obiad\/kolacj\u0119, koniecznie!, czy mog\u0119 zap\u0142aci\u0107?<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Alex, Tomek, Kasia przygotowuj\u0105 wsp&oacute;lne \u015Bniadanie w kuchni w akademiku<\/strong>.<\/p>\r\n<p>Tomek&ndash; <strong>Co lubicie je\u015B\u0107 na \u015Bniadanie?<\/strong><\/p>\r\n<p>Kasia &ndash; Ja lubi\u0119 wszystko, najwa\u017Cniejsza jest dla mnie kawa.<\/p>\r\n<p>T. &ndash; To mo\u017Ce przygotujmy typowo polskie \u015Bniadanie? Wiesz, jajecznic\u0119, kanapki, par&oacute;wki...<\/p>\r\n<p>Alex&ndash; O nie, ja nigdy nie jem s\u0142onych rzeczy na \u015Bniadanie, wol\u0119 <strong>co\u015B na s\u0142odko<\/strong>, mo\u017Ce jakie\u015B ciastka?<\/p>\r\n<p>T. &ndash; Alex, ciastka b\u0119dziesz jad\u0142, gdy wr&oacute;cisz do W\u0142och! Ale mo\u017Ce znajd\u0119 jakie\u015B p\u0142atki z mlekiem.<\/p>\r\n<p>A. &ndash; Mog\u0105 by\u0107. Na pewno nie zjem jajecznicy.<\/p>\r\n<p>K. &ndash; Tomku, <strong>mam pomys\u0142<\/strong>! Mo\u017Ce <strong>p&oacute;jdziesz po dro\u017Cd\u017C&oacute;wki<\/strong>? Na pewno Alex je polubi!<\/p>\r\n<p>A. &ndash; A co to znaczy <em>dro\u017Cd\u017C&oacute;wki<\/em>?<\/p>\r\n<p>K. &ndash; To takie s\u0142odkie bu\u0142ki z serem lub owocami i lukrem.<\/p>\r\n<p>A. &ndash; A lukier?<\/p>\r\n<p>K. &ndash; To ju\u017C sam zobaczysz. Tomku, id\u017A ju\u017C, bo kawa <strong>wystygnie<\/strong>!<\/p>\r\n<p>T .&ndash; Ok! B\u0119d\u0119 za 10 minut!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk:<\/strong><\/p>\r\n<p>Na \u015Bniadanie, co\u015B na s\u0142odko\/co\u015B na s\u0142ono, mam (mie\u0107) pomys\u0142, p&oacute;j\u015B\u0107 po co\u015B (po chleb, po dro\u017Cd\u017C&oacute;wki, po p\u0105czki itp.), co lubisz je\u015B\u0107 na \u015Bniadanie\/ obiad\/ kolacj\u0119, s\u0142odkie bu\u0142ki z serem\/owocami, lukier, wystygn\u0105\u0107.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,22 @@
+{
+  "title": "Vita universitaria",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": [
+"Universit\u00E0 di Bologna","scuole",
+"scuola",
+"dipartimenti",
+"dipartimento",
+"ateneo",
+"biblioteche",
+"biblioteca",
+"sala studio",
+"sale studio"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

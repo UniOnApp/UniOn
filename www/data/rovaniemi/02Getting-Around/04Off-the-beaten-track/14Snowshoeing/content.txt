@@ -1,0 +1,13 @@
+{
+  "title": "Snowshoeing",
+  "latitude": "66.501210",
+  "longitude": "25.790027",
+  "difficulty": "",
+  "keyword": ["snowshoes","snow","freedom","hanki","Hellaakoski","poem","sport","lumikenkäily"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

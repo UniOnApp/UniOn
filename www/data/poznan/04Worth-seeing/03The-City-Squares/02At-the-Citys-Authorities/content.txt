@@ -1,0 +1,13 @@
+{
+  "title": "At the Citys Authorities",
+  "latitude": "52.406627",
+  "longitude": "16.935410",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

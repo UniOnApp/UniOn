@@ -1,0 +1,90 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Sezon wiosenno-letni</p>
+</td>
+<td>
+<p>spring and summer time</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koniecznie musisz się wybrać</p>
+</td>
+<td>
+<p>you shouldn&rsquo;t miss out on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>seans pod gołym niebem</p>
+</td>
+<td>
+<p>screening in the open air</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>r&oacute;żne rejony miasta</p>
+</td>
+<td>
+<p>various parts of the city</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>darmowy wstęp</p>
+</td>
+<td>
+<p>free entrance</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>niepowtarzalna atmosfera</p>
+</td>
+<td>
+<p>unique atmosphere</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>gwarantować</p>
+</td>
+<td>
+<p>to guarantee</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>maraton filmowy</p>
+</td>
+<td>
+<p>film marathon</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skwer</p>
+</td>
+<td>
+<p>square</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nieopodal</p>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+<p>pozostaje mieć nadzieję</p>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>

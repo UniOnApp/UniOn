@@ -1,0 +1,15 @@
+{
+  "title": "Dal medico",
+  "latitude": "44.502182",
+  "longitude": "11.342278",
+  "difficulty": "low",
+  "keyword": ["dottore",
+"ricetta",
+"tessera sanitaria"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

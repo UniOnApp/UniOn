@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Maria: Przepraszam, jak d\u0142ugo trwa <strong>zwiedzanie Palmiarni<\/strong>?<\/p>\r\n<p>Pracownik: Oko\u0142o godziny, ale dzisiaj jest te\u017C <strong>wystawa kot&oacute;w rasowych<\/strong>, na kt&oacute;r\u0105 zapraszamy.<\/p>\r\n<p>Maria: A czy trzeba mie\u0107 <strong>osobny bilet<\/strong>?<\/p>\r\n<p>Pracownik: Nie trzeba, <strong>wystarczy jeden bilet<\/strong> do Palmiarni.<\/p>\r\n<p>Maria: To \u015Bwietnie!<\/p>\r\n<p>Pracownik: Proponuj\u0119 zostawi\u0107 kurtk\u0119 w <strong>szatni<\/strong>, w \u015Brodku jest bardzo ciep\u0142o.<\/p>\r\n<p>Maria: Dzi\u0119kuj\u0119 za informacj\u0119. Podobno jest tu pi\u0119kne akwarium.<\/p>\r\n<p>Pracownik: Tak, akwarium jest w pawilonie nr 3. Musi Pani najpierw <strong>przej\u015B\u0107 przez pawilon <\/strong>ro\u015Blin tropikalnych.<\/p>\r\n<p>Maria: A czy s\u0105 te\u017C <strong>kaktusy<\/strong>?<\/p>\r\n<p>Pracownik: Oczywi\u015Bcie! I to <strong>wiele gatunk&oacute;w<\/strong>. Znajdzie je Pani tam, gdzie sukulenty Ameryki, to pawilon nr 4.<\/p>\r\n<p>Maria: Sukulenty? <strong>Co to znaczy?<\/strong><\/p>\r\n<p>Pracownik: To ro\u015Bliny, kt&oacute;re \u017Cyj\u0105 <strong>w skrajnej suszy<\/strong>.<\/p>\r\n<p>Maria: Aha, dzi\u0119kuj\u0119 bardzo!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Zwiedzanie Palmiarni, wystawa kot&oacute;w, osobny bilet, szatnia, w \u015Brodku, ciep\u0142o, pi\u0119kne akwarium, pawilon, ro\u015Bliny tropikalne, kaktusy, gatunki, sukulenty, susza.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,17 @@
+{
+  "title": "Alcuni caff\u00E8 storici",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "high",
+  "keyword": ["caff\u00E8",
+"pasticceria",
+"zanarini",
+"gamberini",
+"terzi"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

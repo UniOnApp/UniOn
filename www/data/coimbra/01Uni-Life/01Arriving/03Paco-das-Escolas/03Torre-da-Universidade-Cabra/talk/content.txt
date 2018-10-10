@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>How<\/strong> <strong>to<\/strong> <strong>ask<\/strong> <strong>for<\/strong> <strong>the<\/strong> <strong>time<\/strong><\/p>\r\n<p>Que horas s&atilde;o?<\/p>\r\n<p><em>What time is it?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>How to tell the time<\/strong><\/p>\r\n<p>S&atilde;o duas da tarde.<\/p>\r\n<p><em>It&rsquo;s 2 pm.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&Eacute; meio-dia [12:00]<\/p>\r\n<p><em>It&rsquo;s noon.<\/em><\/p>\r\n<p>&Eacute; meia-noite. [24:00]<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Period<\/strong> I <strong>Hour<\/strong><\/p>\r\n<p>de manh&atilde; | 5 da manh&atilde;&nbsp;<\/p>\r\n<p>in the morning | 5 am<\/p>\r\n<p>&agrave; tarde | 4 da tarde<\/p>\r\n<p>in the afternoon| 4 pm<\/p>\r\n<p>&agrave; noite | 10 da noite<\/p>\r\n<p>in the evening | 10 pm<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pronounciation<\/strong><\/p>\r\n<p>&lt;rr&gt; [r]<\/p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; [r] <strong>r<\/strong>ua<\/p>\r\n<p>&lt;r&gt;&nbsp; [\u027E] Unive<strong>r<\/strong>sidade, qua<strong>r<\/strong>to, ho<strong>r<\/strong>a<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Numbers<\/strong><\/p>\r\n<p>1 <strong>um<\/strong> [u\u0303]<\/p>\r\n<p>2 dois<\/p>\r\n<p>3 tr&ecirc;s<\/p>\r\n<p>4 quatro<\/p>\r\n<p>5 c<strong>in<\/strong>co [\u0129]<\/p>\r\n<p>6 seis<\/p>\r\n<p>7 sete<\/p>\r\n<p>8 oito<\/p>\r\n<p>9 nove<\/p>\r\n<p>10 dez<\/p>\r\n<p>11 <strong>on<\/strong>ze [&otilde;]<\/p>\r\n<p>12 doze<\/p>\r\n<p>13 treze<\/p>\r\n<p>14 catorze<\/p>\r\n<p>15 qui<strong>n<\/strong>ze <strong>[\u0129]<\/strong><\/p>\r\n<p>16 dezasseis<\/p>\r\n<p>17 dezassete<\/p>\r\n<p>18 dezoito<\/p>\r\n<p>19 dezanove<\/p>\r\n<p>20 v<strong>in<\/strong>te<\/p>\r\n<p>21 v<strong>in<\/strong>te e um<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>30 tr<strong>in<\/strong>ta<\/p>\r\n<p>40 quar<strong>en<\/strong>ta <strong>[e\u0303]<\/strong><\/p>\r\n<p>50 cinqu<strong>en<\/strong>ta<\/p>\r\n<p>60 sess<strong>en<\/strong>ta<\/p>\r\n<p>70 set<strong>en<\/strong>ta<\/p>\r\n<p>80 oit<strong>en<\/strong>ta<\/p>\r\n<p>90 nov<strong>en<\/strong>ta<\/p>\r\n<p>100 c<strong>em<\/strong> [\u0250\u0303j\u0303]<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

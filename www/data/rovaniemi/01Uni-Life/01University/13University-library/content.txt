@@ -1,0 +1,13 @@
+{
+  "title": "University Library",
+  "latitude": "66.485683",
+  "longitude": "25.713581",
+  "difficulty": "",
+  "keyword": ["studying","LUC","kirjasto","verb type","opiskella"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

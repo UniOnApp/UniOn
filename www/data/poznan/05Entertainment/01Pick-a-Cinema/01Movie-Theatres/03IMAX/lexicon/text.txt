@@ -1,0 +1,36 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Wieloformatowe kino</p>
+</td>
+<td>
+<p>widescreen cinema</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>sympatycy najnowszych technologii</p>
+</td>
+<td>
+<p>fans of the newest technologies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>być częstym gościem</p>
+</td>
+<td>
+<p>to be a regular guest</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>informacje o repertuarze</p>
+</td>
+<td>
+<p>repertoire info</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,13 @@
+{
+  "title": "Nearby Caf\u00E9s",
+  "latitude": "40.206737",
+  "longitude": "-8.4268957",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

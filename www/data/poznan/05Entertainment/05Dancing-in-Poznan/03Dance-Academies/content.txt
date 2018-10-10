@@ -1,0 +1,13 @@
+{
+  "title": "Dance Academies",
+  "latitude": "52.391627",
+  "longitude": "16.851881",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

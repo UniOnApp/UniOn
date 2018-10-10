@@ -1,0 +1,13 @@
+{
+  "title": "Postal Services",
+  "latitude": "40.2077179",
+  "longitude": "-8.4232936",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

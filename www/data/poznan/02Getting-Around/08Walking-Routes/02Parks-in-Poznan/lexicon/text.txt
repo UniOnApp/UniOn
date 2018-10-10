@@ -1,0 +1,76 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Laski miejskie</p>
+</td>
+<td>
+<p>city groves</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>leśne trakty</p>
+</td>
+<td>
+<p>forest trails</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jezioro</p>
+</td>
+<td>
+<p>lake</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odwiedź</p>
+</td>
+<td>
+<p>visit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wiosną</p>
+</td>
+<td>
+<p>in the spring</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>brzeg Warty</p>
+</td>
+<td>
+<p>Warta riverside</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rezerwat przyrody</p>
+</td>
+<td>
+<p>nature reserve</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>widoki</p>
+</td>
+<td>
+<p>sights</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na początku marca</p>
+</td>
+<td>
+<p>at the beginning of March</p>
+</td>
+</tr>
+</tbody>
+</table>

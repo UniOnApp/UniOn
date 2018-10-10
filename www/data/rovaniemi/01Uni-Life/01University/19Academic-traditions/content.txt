@@ -1,0 +1,13 @@
+{
+  "title": "Academic traditions",
+  "latitude": "66.485405",
+  "longitude": "25.714300",
+  "difficulty": "",
+  "keyword": ["doctoral","thesis","väitös","tutkija","research","building","root","profession"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

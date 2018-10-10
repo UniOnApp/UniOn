@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>-<strong> Mo\u017Ce wybraliby\u015Bmy si\u0119<\/strong> na jaki\u015B dobry koncert?<\/p>\r\n<p>- Ch\u0119tnie. Mo\u017Ce w pi\u0105tek wieczorem? <strong>Ch\u0119tnie pos\u0142ucha\u0142bym<\/strong> jazzu.<\/p>\r\n<p>- \u015Awietnie! W pi\u0105tek wieczorem w <em>Blue Note<\/em> b\u0119dzie Wasilewski Trio. To bardzo dobra i znana grupa.<\/p>\r\n<p>- W <em>Blue Note<\/em>? A to nie jest w Nowym Jorku?<\/p>\r\n<p>- Nie musimy <strong>lecie\u0107 za ocean<\/strong>. W Poznaniu jest klub jazzowy o tej samej nazwie.<\/p>\r\n<p>- <strong>Nie wiedzia\u0142em<\/strong>. Masz ju\u017C bilety?<\/p>\r\n<p>- Bilety mo\u017Cemy kupi\u0107 przez Internet albo w klubie. To bardzo blisko Collegium Maius.<\/p>\r\n<p>- Gdzie?<\/p>\r\n<p>-<strong> W budynku<\/strong> Zamku od ulicy Ko\u015Bciuszki <strong>w piwnicy<\/strong>.<\/p>\r\n<p>- To <strong>mo\u017Ce skoczymy<\/strong> tam po zaj\u0119ciach?<\/p>\r\n<p>- Dobrze, ko\u0144cz\u0119 o 17.00<\/p>\r\n<p>- Ja te\u017C. Przy Ko\u015Bciuszki jest bankomat, to jeszcze wyp\u0142ac\u0119 pieni\u0105dze na bilety. Ju\u017C <strong>nie mog\u0119 si\u0119 doczeka\u0107<\/strong> pi\u0105tku.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Mo\u017Ce wybraliby\u015Bmy si\u0119, ch\u0119tnie pos\u0142ucha\u0142bym, lecie\u0107 za ocean, nie wiedzia\u0142em\/\u0142am, w budynku, mo\u017Ce skoczymy, w piwnicy, nie mog\u0119 si\u0119 doczeka\u0107.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

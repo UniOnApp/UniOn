@@ -1,0 +1,13 @@
+{
+  "title": "Foodstuffs",
+  "latitude": "66.497634",
+  "longitude": "25.753903",
+  "difficulty": "",
+  "keyword": ["groceries","food","store","supermarket","shopping","kauppa"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

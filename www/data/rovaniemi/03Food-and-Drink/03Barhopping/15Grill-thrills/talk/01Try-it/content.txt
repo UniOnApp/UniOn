@@ -1,0 +1,13 @@
+{
+  "title": "Try it!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Let&rsquo;s practise a typical dialogue at a grill kiosk. Please note the short and even blunt expressions in Finnish. You&rsquo;re more likely to hear expressions such as them rather than eloquent verbiage when visiting a grill kiosk in the wee hours of the night. <\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Tap on the phrases to see the translations.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>&rdquo;Sausage delight&rdquo; and a milk please. <\/p>\r\n<p>Makkaraherkku ja maito!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>A half a litre of milk, please. <\/p>\r\n<p>Puolen litran maito!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>I&rsquo;ll eat here. <\/p>\r\n<p>Sy&ouml;n t&auml;&auml;ll&auml;!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>No, sorry, take away, please. <\/p>\r\n<p>Eiku mukaan!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>All spices, please. <\/p>\r\n<p>Kaikki mausteet!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>No mustard, please. <\/p>\r\n<p>Ei sinappia!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>May I have one &rdquo;Ropsilainen&rdquo; and a coffee, please.&nbsp;<\/p>\r\n<p>Ropsilainen ja kahvi!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p>Excuse me? <\/p>\r\n<p>T&auml;h!<\/p>\r\n  <p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

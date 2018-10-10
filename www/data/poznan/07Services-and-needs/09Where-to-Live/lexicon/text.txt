@@ -1,0 +1,156 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Ośrodek życia akademickiego</p>
+</td>
+<td>
+<p>academic hub</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wystarczyć</p>
+</td>
+<td>
+<p>to be enough</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>akademiki</p>
+</td>
+<td>
+<p>resident halls</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nie ma powodu do obaw</p>
+</td>
+<td>
+<p>no matter for concern</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prężnie działa rynek nieruchomości</p>
+</td>
+<td>
+<p>real estate market is thriving</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wynajem mieszkań lub pojedynczych pokoi</p>
+</td>
+<td>
+<p>apartments or single rooms for rent</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dostęp do komunikacji miejskiej</p>
+</td>
+<td>
+<p>access to public transportation system</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lokalizacja</p>
+</td>
+<td>
+<p>location</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>standard mieszkania</p>
+</td>
+<td>
+<p>housing quality</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ścisłe centrum</p>
+</td>
+<td>
+<p>downtown</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>minusy</p>
+</td>
+<td>
+<p>cons</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>plusy</p>
+</td>
+<td>
+<p>pros</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dzielnice</p>
+</td>
+<td>
+<p>districts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>bloki i wieżowce</p>
+</td>
+<td>
+<p>blocks of flats and high-rise buildings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Poznański Szybki Tramwaj</p>
+</td>
+<td>
+<p>Poznań Fast Tram</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>biuro nieruchomości</p>
+</td>
+<td>
+<p>real estate agency</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>załatwianie formalności</p>
+</td>
+<td>
+<p>completing the formalities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pośredniczenie w kontakcie z właścicielem</p>
+</td>
+<td>
+<p>intermediating with the flat&rsquo;s owner</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wsp&oacute;łlokator</p>
+</td>
+<td>
+<p>roommate</p>
+</td>
+</tr>
+</tbody>
+</table>

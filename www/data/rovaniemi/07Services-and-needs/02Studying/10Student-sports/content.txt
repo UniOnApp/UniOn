@@ -1,0 +1,13 @@
+{
+  "title": "Student sports",
+  "latitude": "66.486778",
+  "longitude": "25.710689",
+  "difficulty": "",
+  "keyword": ["LYY","student union","events","ylioppilaskunta","liikunta"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

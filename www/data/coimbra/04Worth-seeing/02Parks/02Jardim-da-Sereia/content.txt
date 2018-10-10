@@ -1,0 +1,13 @@
+{
+  "title": "Jardim da Sereia",
+  "latitude": "40.2094834",
+  "longitude": "-8.4212535",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

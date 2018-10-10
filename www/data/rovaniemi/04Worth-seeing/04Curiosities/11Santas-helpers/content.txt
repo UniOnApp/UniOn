@@ -1,0 +1,13 @@
+{
+  "title": "Santa\u2019s helpers",
+  "latitude": "66.539630",
+  "longitude": "25.797355",
+  "difficulty": "",
+  "keyword": ["christmas","joulupukki","elf","tourist","SantaPark","ice"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

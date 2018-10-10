@@ -1,0 +1,13 @@
+{
+  "title": "Eastern Market Sq.",
+  "latitude": "52.42188",
+  "longitude": "16.97127",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

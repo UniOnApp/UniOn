@@ -1,0 +1,13 @@
+{
+  "title": "Bridges",
+  "latitude": "66.501918",
+  "longitude": "25.746096",
+  "difficulty": "",
+  "keyword": ["bridge", "silta","Ounasjoki","Kemijoki","cycle","bike","pyöräillä","riverside","Saarenkylä"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

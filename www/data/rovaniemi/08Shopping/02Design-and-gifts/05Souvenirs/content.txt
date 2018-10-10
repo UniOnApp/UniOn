@@ -1,0 +1,13 @@
+{
+  "title": "Souvenirs",
+  "latitude": "66.543130",
+  "longitude": "25.842456",
+  "difficulty": "",
+  "keyword": ["gifts","shopping","Arctic Circle"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

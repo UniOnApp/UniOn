@@ -1,0 +1,13 @@
+{
+  "title": "Vocabulary",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>ametistikoru <\/strong>a piece of amethyst jewellery<\/p>\r\n<p><strong>hillakarkki <\/strong>a cloudberry candy<\/p>\r\n<p><strong>hopea<\/strong> silver<\/p>\r\n<p><strong>joulukoriste<\/strong> a Christmas decoration<\/p>\r\n<p><strong>juustoh&ouml;yl&auml; <\/strong>a slicer, a cheese-cutter<\/p>\r\n<p><strong>koru<\/strong> a piece of jewellery<\/p>\r\n<p><strong>korurasia <\/strong>a jewellery box<\/p>\r\n<p><strong>kuksa<\/strong> a (traditional) wooden cup<\/p>\r\n<p><strong>kulta<\/strong> gold<\/p>\r\n<p><strong>k&auml;sit&ouml;it&auml; <\/strong>handicrafts<\/p>\r\n<p><strong>nelj&auml;ntuulenlakki<\/strong> a traditional S&aacute;mi hat (lit. four wind cap)<\/p>\r\n<p><strong>nutukkaat<\/strong> traditional fur boots<\/p>\r\n<p><strong>pehmolelu<\/strong> a soft toy<\/p>\r\n<p><strong>pipo<\/strong> a beanie<\/p>\r\n<p><strong>porokello<\/strong> a reindeer bell<\/p>\r\n<p><strong>poronnahka<\/strong> reindeer leather <\/p>\r\n<p><strong>poronsarvet<\/strong> reindeer antlers<\/p>\r\n<p><strong>puukko<\/strong> a knife<\/p>\r\n<p><strong>tonttu <\/strong>an elf<\/p>\r\n<p><strong>vaskooli<\/strong> a pan (for gold panning)<\/p>\r\n<p><strong>villasukat<\/strong> woollen socks<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

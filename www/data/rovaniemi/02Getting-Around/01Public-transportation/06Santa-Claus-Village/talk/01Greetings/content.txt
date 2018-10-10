@@ -1,0 +1,13 @@
+{
+  "title": "Greetings",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>When you meet a friend or a teacher you&rsquo;ve already met earlier, informal greetings work best.<\/p>\r\n<p><strong>Hei!<\/strong> \/ <strong>Moi!<\/strong> \/ <strong>Terve!<\/strong> Hi! \/ Hello!<\/p>\r\n<p><strong>Hei hei!<\/strong> \/ <strong>Heippa!<\/strong> Bye bye!<\/p>\r\n<p><strong>N&auml;hd&auml;&auml;n!<\/strong> See you!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>When you start a conversation with someone you&rsquo;ve never met before, on a bus, in a shop or restaurant, you can be a bit more formal.<\/p>\r\n<p><strong>Hyv&auml;&auml; huomenta!<\/strong> \/ <strong>Huomenta!<\/strong> Good morning! (until noon)<\/p>\r\n<p><strong>Hyv&auml;&auml; p&auml;iv&auml;&auml;!<\/strong> Good afternoon! (until 5&ndash;6 p.m.)<\/p>\r\n<p><strong>Hyv&auml;&auml; iltaa!<\/strong> Good evening! (until bedtime)<\/p>\r\n<p><strong>Hyv&auml;&auml; y&ouml;t&auml;!<\/strong> Good night! (before bedtime)<\/p>\r\n<p><strong>N&auml;kemiin!<\/strong> Goodbye!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p>When you&rsquo;re not starting a conversation, but enter a quick customer service situation, the cashier in the supermarket or the bus driver will usually greet you by saying <strong>Hei! <\/strong>&ndash; the same applies to many other customer service situations. Of course, it&rsquo;s polite of you to reply and say <strong>Hei!<\/strong><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

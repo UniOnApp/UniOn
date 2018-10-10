@@ -1,0 +1,13 @@
+{
+  "title": "Interagire con il vicino",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Mi scusi, dovrei uscire, mi fa passare per favore?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Mi scusi, pu&ograve; spegnere il cellulare per favore?<\/p><\/td><td>&nbsp;<\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

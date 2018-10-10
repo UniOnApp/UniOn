@@ -1,0 +1,164 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>dawna rezydencja</p>
+</td>
+<td>
+<p>former residence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rezydencja kr&oacute;lewska</p>
+</td>
+<td>
+<p>kings&rsquo; residence</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>siedziba</p>
+</td>
+<td>
+<p>seat</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wznieść na wzg&oacute;rzu</p>
+</td>
+<td>
+<p>to erect on a hill</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>włączyć w system mur&oacute;w obronnych</p>
+</td>
+<td>
+<p>to incorporate in city fortifications</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podkreślać znaczenie</p>
+</td>
+<td>
+<p>to emphasize meaning</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>uznawać za&hellip;</p>
+</td>
+<td>
+<p>to be considered as&hellip;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsce zaślubin</p>
+</td>
+<td>
+<p>the place where weddings take place</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>polityczne spotkania</p>
+</td>
+<td>
+<p>political meetings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>popaść w zapomnienie</p>
+</td>
+<td>
+<p>to fall into oblivion</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dyskusyjna rekonstrukcja</p>
+</td>
+<td>
+<p>controversial reconstruction</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skrajne emocje</p>
+</td>
+<td>
+<p>extreme emotions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>skomplikowana</p>
+</td>
+<td>
+<p>complicated</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dramatyczna historia</p>
+</td>
+<td>
+<p>tragic history</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ironicznie</p>
+</td>
+<td>
+<p>ironically</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>klątwa</p>
+</td>
+<td>
+<p>curse</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieścić się</p>
+</td>
+<td>
+<p>to be situated </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>możliwość przymierzenia historycznych stroj&oacute;w</p>
+</td>
+<td>
+<p>a chance to try on historic outfits</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>warto zobaczyć</p>
+</td>
+<td>
+<p>worth seeing</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>taras widokowy</p>
+</td>
+<td>
+<p>observation deck</p>
+</td>
+</tr>
+</tbody>
+</table>

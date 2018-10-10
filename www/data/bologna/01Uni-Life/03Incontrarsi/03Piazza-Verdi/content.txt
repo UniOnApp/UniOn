@@ -1,0 +1,15 @@
+{
+  "title": "Piazza Verdi",
+  "latitude": "44.496161",
+  "longitude": "11.350665",
+  "difficulty": "mid",
+  "keyword": ["Teatro Comunale",
+"Palazzo Paleotti",
+"Basilica di San Giacomo Maggiore"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

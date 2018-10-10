@@ -1,0 +1,13 @@
+{
+  "title": "AMU for International Students",
+  "latitude": "52.407404",
+  "longitude": "16.919518",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

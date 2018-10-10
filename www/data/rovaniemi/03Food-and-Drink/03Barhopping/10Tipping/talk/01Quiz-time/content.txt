@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Are these claims oikein (correct) or v&auml;&auml;rin (incorrect)? Tap to check.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>Tipping has been very common in Finland for a long time.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> Tipping has not been customary here because service has always been included in the price. Tips as an extra source of income have not played a part in the employee&rsquo;s montly income either, since the service sector has traditionally been heavily regulated through collective agreements, ensuring key things such as employees&rsquo; rights and minimum wages. The tipping culture seems to be changing little by little, though, and you can tip if you feel that you&rsquo;ve received exceptionally good service.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>It&rsquo;s a breach of etiquette to tip in Finland.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> It&rsquo;s not a breach of etiquette, even though tipping is not the norm here. You can tip, of course, if you feel that the service you&rsquo;ve received has been very good. Just remember to be discreet, as they may not be used to getting tipped.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>The Finnish word for a cup is <em>kuppi<\/em>.<\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> Keep an eye out for a tip jar, <em>tippikuppi<\/em>, that you might see at the counter in restaurants, hotels or shops. Can you guess what the word <em>kahvikuppi <\/em>could mean?<\/p>\r\n  <p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

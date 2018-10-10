@@ -1,0 +1,172 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Koordynować mobilność zagraniczną student&oacute;w i pracownik&oacute;w naukowych</p>
+</td>
+<td>
+<p>to coordinate international mobility of students and staff</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>erasmusowa rekrutacja online</p>
+</td>
+<td>
+<p>online Erasmus recruitment</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zapewnienie zakwaterowania w akademiku</p>
+</td>
+<td>
+<p>arranging accommodation in residence halls</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prezentacja interdyscyplinarnego programu AMU-PIE</p>
+</td>
+<td>
+<p>providing information about the interdisciplinary AMU-PIE program</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>koordynatorzy wydziałowi</p>
+</td>
+<td>
+<p>faculty coordinators</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>aplikacja (Erasmus App)</p>
+</td>
+<td>
+<p>Erasmus mobile app</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>formalna nominacja</p>
+</td>
+<td>
+<p>formal nomination</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypełnić obligatoryjną aplikację online</p>
+</td>
+<td>
+<p>fill the obligatory online application</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>status aplikacji online (rozpatrywana, zatwierdzona lub odrzucona)</p>
+</td>
+<td>
+<p>status of your application online (examined, accepted or rejected)</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oferta wykład&oacute;w i konwersatori&oacute;w</p>
+</td>
+<td>
+<p>offer of lectures and practical classes</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zapewniająca zbudowanie sp&oacute;jnego interdyscyplinarnego programu naukowego pobytu</p>
+</td>
+<td>
+<p>design a coherent interdisciplinary program of study</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Wydział Prawa i Administracji</p>
+</td>
+<td>
+<p>Faculty of Law and Administration</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Z kt&oacute;rego wydziału?,</p>
+</td>
+<td>
+<p>from which faculty?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>serdecznie witam</p>
+</td>
+<td>
+<p>welcome</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prawo cywilne</p>
+</td>
+<td>
+<p>civil law</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Czy ma Pan już plan zajęć?</p>
+</td>
+<td>
+<p>Did you receive your schedule already?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Czy można jeszcze zmienić grupę?</p>
+</td>
+<td>
+<p>Can I still switch the group?&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>system USOS</p>
+</td>
+<td>
+<p>USOS system</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pasować</p>
+</td>
+<td>
+<p>to fit</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Kiedy będzie spotkanie informacyjne?</p>
+</td>
+<td>
+<p>When will the organizational meeting be held?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>za dwa tygodnie</p>
+</td>
+<td>
+<p>in two weeks</p>
+</td>
+</tr>
+</tbody>
+</table>

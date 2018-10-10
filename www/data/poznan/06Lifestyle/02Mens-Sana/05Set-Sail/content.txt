@@ -1,0 +1,13 @@
+{
+  "title": "Set Sail!",
+  "latitude": "52.411728",
+  "longitude": "16.943289",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

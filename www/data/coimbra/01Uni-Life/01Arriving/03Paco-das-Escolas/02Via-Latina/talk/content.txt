@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Desculpe, <strong>podia<\/strong> <strong>tirar<\/strong>-me\/nos uma fotografia?<\/p>\r\n<p><em>Excuse me, could you take me\/us a photo?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong><em>Podia + verb <\/em><\/strong><\/p>\r\n<p><em>Could <\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pronounciation &lt;s&gt;<\/strong><\/p>\r\n<p>[s] &mdash; senha<\/p>\r\n<p>[z] &mdash; casa<\/p>\r\n<p>[\u0283] &mdash; desculpe, f&eacute;rias, aulas<\/p>\r\n<p>[\u0292] &mdash; desde (<em>since<\/em>)<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong><em>tirar<\/em> <\/strong><\/p>\r\n<p><em>tirar <\/em>uma fotografia = take a photo<\/p>\r\n<p><em>tirar<\/em> a senha = take a ticket<\/p>\r\n<p><em>tirar<\/em> f&eacute;rias = take holidays<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

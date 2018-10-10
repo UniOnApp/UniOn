@@ -1,0 +1,196 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>uczelnia</p>
+</td>
+<td>
+<p>institution of higher education</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jednoczyć tradycję z innowacyjnością</p>
+</td>
+<td>
+<p>to combine tradition with innovation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wykładowcy</p>
+</td>
+<td>
+<p>lecturers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>myśl regionalna</p>
+</td>
+<td>
+<p>regional thought</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wybitne osobowości badawcze</p>
+</td>
+<td>
+<p>outstanding researchers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozmaitość programowa</p>
+</td>
+<td>
+<p>variety of programs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>interdyscyplinarność</p>
+</td>
+<td>
+<p>interdisciplinary nature</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ośrodek akademicki</p>
+</td>
+<td>
+<p>academic center</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>relacja mistrz-uczeń</p>
+</td>
+<td>
+<p>relationship between master and student</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>partnerstwo w badaniach</p>
+</td>
+<td>
+<p>partnership in research</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>promować odwagę stawiania niestandardowych pytań</p>
+</td>
+<td>
+<p>to advocate courage to raise unconventional questions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>prestiżowa nagroda</p>
+</td>
+<td>
+<p>prestigious award</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jakość kształcenia</p>
+</td>
+<td>
+<p>quality of teaching</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oferta programowa</p>
+</td>
+<td>
+<p>program offer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>doktoranci</p>
+</td>
+<td>
+<p>PhD students</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>otwartość</p>
+</td>
+<td>
+<p>openness</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dialogowość</p>
+</td>
+<td>
+<p>dialogue</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strategiczne cele</p>
+</td>
+<td>
+<p>strategic goals</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czerpać z wyjątkowości swego położenia geograficznego</p>
+</td>
+<td>
+<p>to avails oneself of the unique geographical setting</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dysponować stylowymi, historycznymi budynkami</p>
+</td>
+<td>
+<p>to own fine historical buildings</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przywr&oacute;cić dawną świetność</p>
+</td>
+<td>
+<p>to restore to former glory</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>powiązanie program&oacute;w studi&oacute;w z wymogami rynku pracy</p>
+</td>
+<td>
+<p>linking the study programs to the needs of the job market</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wspieranie przedsiębiorczości akademickiej</p>
+</td>
+<td>
+<p>supporting academic entrepreneurship</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>promocja edukacji</p>
+</td>
+<td>
+<p>promotion of education</p>
+</td>
+</tr>
+</tbody>
+</table>

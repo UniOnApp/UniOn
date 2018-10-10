@@ -1,0 +1,13 @@
+{
+  "title": "Berries",
+  "latitude": "66.497697",
+  "longitude": "25.781493",
+  "difficulty": "",
+  "keyword": ["berry","traditional","delicacy","everyman","chocolate","ice cream","dessert","pie","piirakka"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

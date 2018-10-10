@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Cze\u015B\u0107, Marku, dzwoni\u0119 do Ciebie i dzwoni\u0119.<\/p>\r\n<p>- Cze\u015B\u0107, <strong>nie mog\u0142em odebra\u0107<\/strong>, mia\u0142em zaj\u0119cia. Co tam?<\/p>\r\n<p>- Mam jutro <strong>wolny dzie\u0144<\/strong>, mo\u017Ce <strong>poka\u017C\u0119 Ci<\/strong> miasto i troch\u0119 <strong>opowiem<\/strong> o ciekawych miejscach?<\/p>\r\n<p>- <strong>\u015Awietny pomys\u0142<\/strong>, mieszkam tu ju\u017C kilka tygodni, ale jeszcze ma\u0142o wiem o Poznaniu.<\/p>\r\n<p>- Fajnie, lubi\u0119 opowiada\u0107 o moim mie\u015Bcie. Musimy <strong>si\u0119 um&oacute;wi\u0107<\/strong> gdzie\u015B w centrum.<\/p>\r\n<p>- Jasne. Od kt&oacute;rego miejsca zaczniemy?<\/p>\r\n<p>- Chyba od <strong>serca miasta<\/strong> &ndash; od Starego Miasta.<\/p>\r\n<p>- W kt&oacute;rym miejscu si\u0119 spotkamy? Stary Rynek jest do\u015B\u0107 du\u017Cy&hellip;<\/p>\r\n<p>- Na \u015Brodku, pod pr\u0119gierzem.<\/p>\r\n<p>- Pod pr\u0119gierzem? A co to?<\/p>\r\n<p>- To ten <strong>s\u0142up<\/strong> <strong>z rycerzem na szczycie<\/strong> przed ratuszem, pod kt&oacute;rym poznaniacy cz\u0119sto si\u0119 <strong>umawiaj\u0105<\/strong>. To b\u0119dzie pierwszy punkt naszego zwiedzania;).<\/p>\r\n<p>- No to do jutra!<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>Poka\u017C\u0119 Ci, wolny dzie\u0144, opowiem (opowiedzie\u0107), um&oacute;wi\u0107 si\u0119, nie mog\u0142em odebra\u0107, \u015Bwietny pomys\u0142, serce miasta, s\u0142up, rycerz, na szczycie, umawia\u0107 si\u0119.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

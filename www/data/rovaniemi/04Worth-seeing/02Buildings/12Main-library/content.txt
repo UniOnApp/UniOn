@@ -1,0 +1,13 @@
+{
+  "title": "Main library",
+  "latitude": "66.496487",
+  "longitude": "25.722752",
+  "difficulty": "",
+  "keyword": ["kirjasto","Alvar Aalto","architect","lapponica","exhibition","sami","origin","book"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

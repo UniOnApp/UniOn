@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Jeśli wolisz</p>
+</td>
+<td>
+<p>if you prefer</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>port lotniczy, lotnisko</p>
+</td>
+<td>
+<p>airport</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>na zach&oacute;d od</p>
+</td>
+<td>
+<p>west of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>polecieć</p>
+</td>
+<td>
+<p>to fly</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>miejsce na świecie</p>
+</td>
+<td>
+<p>place in the world</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lot</p>
+</td>
+<td>
+<p>flight</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>rozkład lot&oacute;w</p>
+</td>
+<td>
+<p>timetable of flights </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>znaleźć</p>
+</td>
+<td>
+<p>to find</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>jest połączony</p>
+</td>
+<td>
+<p>connected</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>komunikacja publiczna</p>
+</td>
+<td>
+<p>public transport</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przystanki autobusowe</p>
+</td>
+<td>
+<p>bus stops</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>tuż obok</p>
+</td>
+<td>
+<p>nearby</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odprawa paszportowa</p>
+</td>
+<td>
+<p>customs</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Jaki jest cel Pana przyjazdu do Polski?</p>
+</td>
+<td>
+<p>What is the purpose of your visit in Poland?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Gdzie się Pan zatrzyma?</p>
+</td>
+<td>
+<p>Where will you be staying at?</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Na jak długo przyjechał Pan do Polski?</p>
+</td>
+<td>
+<p>How long will you be staying? </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Czy ma Pan coś do oclenia?</p>
+</td>
+<td>
+<p>Do you have anything to declare?</p>
+</td>
+</tr>
+</tbody>
+</table>

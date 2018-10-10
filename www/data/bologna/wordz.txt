@@ -1,0 +1,1403 @@
+[{
+		"word": "Capodanno",
+		"text": "il primo giorno dell'anno"
+	}, {
+		"word": "la stazione",
+		"text": "dove arrivano e partono i treni"
+	}, {
+		"word": "l'autostazione",
+		"text": "dove arrivano e partono gli autobus"
+	}, {
+		"word": "l'autobus",
+		"text": "corriera, navetta"
+	}, {
+		"word": "il biglietto",
+		"text": "titolo di viaggio "
+	}, {
+		"word": "la Befana",
+		"text": "donna anziana che vola su una scopa e porta doni ai bambini"
+	},
+	{
+		"word": "il pendolare",
+		"text": "chi si sposta in treno dalla città in cui vive alla città in cui lavora"
+	},
+	{
+		"word": "il pendolare",
+		"text": "faccio la pendolare da Prato tutti i giorni"
+	},
+	{
+		"word": "il pendolare",
+		"text": "es: sono pendolare da Forlì"
+	},
+	{
+		"word": "i servizi igienici",
+		"text": "toilette, bagni"
+	},
+	{
+		"word": "la pioggia",
+		"text": "eng. rain"
+	},
+	{
+		"word": "l'abbonamento",
+		"text": "biglietto settimanale, mensile o annuale "
+	}, {
+		"word": "il citypass",
+		"text": "biglietto per 10 corse in autobus "
+	}, {
+		"word": "il treno regionale",
+		"text": "treno lento che effettua molte fermate"
+	},
+	{
+		"word": "il treno intercity",
+		"text": "treno che effettua poche fermate intermedie"
+	},
+	{
+		"word": "la freccia rossa",
+		"text": "treno ad alta velocità"
+	},
+	{
+		"word": "al volo",
+		"text": "indica azioni che si svolgono molto velocemente"
+	}, {
+		"word": "al volo",
+		"text": "es: salire al volo "
+	}, {
+		"word": "al volo",
+		"text": "es: salutare al volo "
+	}, {
+		"word": "al volo",
+		"text": "es: passare al volo "
+	}, {
+		"word": "al volo",
+		"text": "es: partire al volo "
+	}, {
+		"word": "al volo",
+		"text": "es: prendere il treno al volo "
+	}, {
+		"word": "tenere d’occhio",
+		"text": "controllare, verificare, osservare "
+	}, {
+		"word": "la biglietteria",
+		"text": "dove si comprano i biglietti "
+	}, {
+		"word": "il deposito bagagli",
+		"text": "luogo in cui lasciare le valigie alcune ore "
+	}, {
+		"word": "stare in compagnia",
+		"text": "stare insieme agli altri, in compagnia di altre persone"
+	},
+	{
+		"word": "il binario",
+		"text": "le rotaie su cui viaggia il treno; è associato a un numero a cui recarsi per prendere il treno"
+	},
+	{
+		"word": "cavarsela",
+		"text": "riuscire a superare una difficoltà"
+	},
+	{
+		"word": "la carrozza",
+		"text": "vagone del treno"
+	},
+	{
+		"word": "fare due chiacchiere",
+		"text": "parlare in modo informale, tra amici"
+	},
+	{
+		"word": "il tabellone",
+		"text": "schermo per consultare gli orari, il numero di binario, i ritardi"
+	},
+	{
+		"word": "la strada",
+		"text": "dove circolano le macchine"
+	},
+	{
+		"word": "la via",
+		"text": "eng. street"
+	},
+	{
+		"word": "andare a spasso",
+		"text": "passeggiare"
+	},
+	{
+		"word": "la piazza",
+		"text": "eng. square"
+	},
+	{
+		"word": "andare a zonzo",
+		"text": "camminare, andare in giro"
+	},
+	{
+		"word": "il marciapiede",
+		"text": "parte a lato della strada, dove camminano i pedoni"
+	},
+	{
+		"word": "il portico/i portici ",
+		"text": "eng. covered walkway"
+	},
+	{
+		"word": "area pedonale",
+		"text": "zona dove non passano veicoli"
+	},
+	{
+		"word": "il quartiere",
+		"text": "eng. city area, district"
+	},
+	{
+		"word": "la bici",
+		"text": "bicicletta, mezzo a due ruote"
+	},
+	{
+		"word": "la bici",
+		"text": "da corsa, da strada, elettrica..."
+	},
+	{
+		"word": "il semaforo",
+		"text": "eng. traffic light"
+	},
+	{
+		"word": "la rastrelliera",
+		"text": "dove si parcheggiano le biciclette"
+	},
+	{
+		"word": "l'amore",
+		"text": "eng. love"
+	},
+	{
+		"word": "girare per la città",
+		"text": "passeggiare, camminare in città"
+	},
+	{
+		"word": "la pista ciclabile",
+		"text": "strade per le biciclette"
+	},
+	{
+		"word": "la neve",
+		"text": "eng. snow"
+	},
+	{
+		"word": "la graziella",
+		"text": "tipo di bicicletta"
+	},
+	{
+		"word": "girare in bicicletta",
+		"text": "andare in bicicletta"
+	},
+	{
+		"word": "l'incrocio",
+		"text": "eng. crossing, intersection"
+	},
+	{
+		"word": "le strisce pedonali",
+		"text": "strisce bianche dove poter attraversare la strada"
+	},
+	{
+		"word": "chiedere informazioni",
+		"text": "eng. ask for information"
+	},
+	{
+		"word": "il parcheggio",
+		"text": "luogo dove lasciare la macchina"
+	},
+	{
+		"word": "la ruota",
+		"text": "eng. wheel"
+	},
+	{
+		"word": "la distanza di sicurezza",
+		"text": "distanza da tenere dal veicolo che procede davanti a noi"
+	},
+	{
+		"word": "avere un dubbio/dei dubbi",
+		"text": "essere incerti, non essere sicuri"
+	},
+	{
+		"word": "il mercato nero",
+		"text": "mercato irregolare, clandestino"
+	},
+	{
+		"word": "corsia preferenziale",
+		"text": "la parte di strada riservata alla circolazione dei mezzi pubblici"
+	},
+	{
+		"word": "timbrare il biglietto",
+		"text": "validare, obliterare il biglietto sull'autobus"
+	},
+	{
+		"word": "l'autista",
+		"text": "chi guida l'autobus, il taxi, la macchina"
+	},
+	{
+		"word": "il passeggero ",
+		"text": "chi viaggia sull'autobus, sul treno, sull'aereo"
+	},
+	{
+		"word": "il controllore ",
+		"text": "persona che verifica il regolare possesso del biglietto su un mezzo pubblico"
+	},
+	{
+		"word": "rallentare",
+		"text": "diminuire la velocità"
+	},
+	{
+		"word": "il meccanico",
+		"text": "persona che aggiusta le macchine, le bici, ecc."
+	},
+	{
+		"word": "frenare",
+		"text": "eng. to brake"
+	},
+	{
+		"word": "fare un cenno",
+		"text": "fare un gesto per comunicare qualcosa senza parlare "
+	}, {
+		"word": "fare un cenno",
+		"text": "es: fai un cenno quando vuoi andare via "
+	}, {
+		"word": "fare un cenno",
+		"text": "es: fai un cenno all’ autista per prenotare la fermata "
+	}, {
+		"word": "la pizza al tavolo",
+		"text": "pizza servita nel piatto a persone sedute a tavola"
+	},
+	{
+		"word": "la pizza da asporto",
+		"text": "ordinata al telefono e portata a casa, di solito nei cartoni"
+	},
+	{
+		"word": "la pizza al taglio",
+		"text": "trancio di pizza da mangiare anche mentre si passeggia"
+	},
+	{
+		"word": "la pizza surgelata",
+		"text": "pizza che è stata messa nel congelatore per conservarsi"
+	},
+	{
+		"word": "il forno a legna",
+		"text": "eng. wood oven"
+	},
+	{
+		"word": "il gelato",
+		"text": "eng. icecream"
+	},
+	{
+		"word": "la gelateria",
+		"text": "luogo in cui si vende il gelato"
+	},
+	{
+		"word": "il gelataio/la gelataia",
+		"text": "persona che vende i gelati"
+	},
+	{
+		"word": "il cono",
+		"text": "contenitore per gelato, spesso commestibile"
+	},
+	{
+		"word": "la coppetta",
+		"text": "contenitore per gelato"
+	},
+	{
+		"word": "la paletta",
+		"text": "cucchiaino in plastica per mangiare il gelato nella coppetta"
+	},
+	{
+		"word": "la primavera",
+		"text": "eng. spring"
+	},
+	{
+		"word": "i buoni pasto",
+		"text": "ticket utilizzati al posto dei soldi per pagare il pasto"
+	},
+	{
+		"word": "usare il buon senso",
+		"text": "farsi guidare dalla razionalità e dall’istinto"
+	},
+	{
+		"word": "stare attenti alla linea",
+		"text": "controllare l’alimentazione per evitare di ingrassare"
+	},
+	{
+		"word": "le posate",
+		"text": "forchetta, coltello, cucchiaio, cucchiaino"
+	},
+	{
+		"word": "la tovaglietta",
+		"text": "piccola tovaglia di carta che si mette sul vassoio o sul tavolo"
+	},
+	{
+		"word": "il vassoio",
+		"text": "piccolo ripiano per trasportare piatti, bicchieri, tazze"
+	},
+	{
+		"word": "l'antipasto",
+		"text": "piatto di piccola porzione, assaggio, che precede il pasto principale"
+	},
+	{
+		"word": "il primo",
+		"text": "piatto tipicamente a base di pasta, riso, zuppa"
+	},
+	{
+		"word": "il secondo",
+		"text": "piatto tipicamente a base di carne o pesce"
+	},
+	{
+		"word": "il contorno",
+		"text": "piatto tipicamente a base di verdure e legumi"
+	},
+	{
+		"word": "il dolce",
+		"text": "mousse, gelato, torte, dolci al cucchiaio, ecc."
+	},
+	{
+		"word": "il dolce",
+		"text": "macedonia, ananas, fragole, frutta mista, ecc."
+	},
+	{
+		"word": "avere appetito",
+		"text": "avere fame"
+	},
+	{
+		"word": "ora di punta",
+		"text": "moment della giornata in cui il traffico e/o l’afflusso di persone sono più alti"
+	},
+	{
+		"word": "pagare il conto",
+		"text": "eng. to pay the bill"
+	},
+	{
+		"word": "il conto",
+		"text": "il totale di una spesa"
+	},
+	{
+		"word": "il caffè",
+		"text": "alto, corto, corretto, decaffeinato, d’orzo, espresso, in tazza grande, lungo, macchiato, schiumato, ristretto, ..."
+	},
+	{
+		"word": "lo zucchero",
+		"text": "eng. sugar"
+	},
+	{
+		"word": "il bancone del bar",
+		"text": "eng. counter"
+	},
+	{
+		"word": "i pasti",
+		"text": "la colazione, il pranzo, la cena"
+	},
+	{
+		"word": "fare colazione",
+		"text": "fare il primo pasto della giornata"
+	},
+	{
+		"word": "lo spuntino",
+		"text": "piccolo pasto nell 'intervallo tra i pasti principali"
+	}, {
+		"word": "i tortellini",
+		"text": "pasta ripiena all’uovo, ottima in brodo o con la panna"
+	},
+	{
+		"word": "essere una buona forchetta",
+		"text": "essere un buon mangiatore"
+	},
+	{
+		"word": "le lasagne",
+		"text": "pasta al forno condita con besciamella e carne"
+	},
+	{
+		"word": "la trattoria",
+		"text": "ristorante dall'atmosfera casalinga"
+	},
+	{
+		"word": "a conduzione familiare",
+		"text": "quando la gestione del locale ed è affidata a una famiglia"
+	},
+	{
+		"word": "la mortadella",
+		"text": "salume tipico di Bologna"
+	},
+	{
+		"word": "stuzzicare l'appetito",
+		"text": "far venire voglia di mangiare"
+	},
+	{
+		"word": "chi più ne ha, più ne metta",
+		"text": "molto di più, per un elenco talmente vasto che non si può descrivere"
+	},
+	{
+		"word": "il menù",
+		"text": "elenco di piatti e pietanze disponibili, con i relativi prezzi "
+	},
+	{
+		"word": "il menù fisso",
+		"text": "menù con poche possibilità di scelta e di solito prezzo vantaggioso"
+	},
+	{
+		"word": "il menù del giorno",
+		"text": "piatti preparati in una specifica giornata"
+	},
+	{
+		"word": "il menù alla carta",
+		"text": "scelta tra tutti i piatti disponibili sul menù"
+	},
+	{
+		"word": "il piatto unico",
+		"text": "piatto con diverse tipologie di alimenti"
+	},
+	{
+		"word": "il vino",
+		"text": "fruttato, secco, amabile, fermo, frizzante..."
+	},
+	{
+		"word": "alla buona",
+		"text": "modesta, senza grosse pretese, ma anche affabile e gioviale"
+	},
+	{
+		"word": "il sole",
+		"text": "eng. sun"
+	},
+	{
+		"word": "il sale",
+		"text": "eng. salt"
+	},
+	{
+		"word": "il pizzaiolo/la pizzaiola ",
+		"text": "chi fa la pizza"
+	},
+	{
+		"word": "il lavoro",
+		"text": "attività attraverso cui si producono beni o servizi"
+	},
+	{
+		"word": "arrotondare le entrate",
+		"text": "fare un lavoretto per guadagnare un po’"
+	},
+	{
+		"word": "il pomodoro",
+		"text": "eng. tomato"
+	},
+	{
+		"word": "gli spiccioli",
+		"text": "soldi di piccola taglia, di solito monete"
+	},
+	{
+		"word": "la mensa",
+		"text": "eng. canteen, cafeteria"
+	},
+	{
+		"word": "l’olio extravergine di oliva ",
+		"text": "olio di alta qualità"
+	},
+	{
+		"word": "da capogiro",
+		"text": "da far girare la testa, stupefacente, sbalorditivo"
+	},
+	{
+		"word": "il miele",
+		"text": "eng. honey"
+	},
+	{
+		"word": "l'osteria",
+		"text": "dove si serve prevalentemente vino e a volte anche cibo"
+	},
+	{
+		"word": "la carne",
+		"text": "eng. meat"
+	},
+	{
+		"word": "fare a gara",
+		"text": "essere in competizione"
+	},
+	{
+		"word": "la mozzarella",
+		"text": "tipo di formaggio"
+	},
+	{
+		"word": "la farina",
+		"text": "eng. flour"
+	},
+	{
+		"word": "fare affidamento ",
+		"text": "contare su una persona"
+	},
+	{
+		"word": "l'aglio",
+		"text": "eng. garlic"
+	},
+	{
+		"word": "lo scudetto",
+		"text": "distintivo a forma di scudo assegnato alla squadra che vince il campionato nazionale "
+	}, {
+		"word": "l'albero",
+		"text": "eng. tree"
+	},
+	{
+		"word": "il fiore",
+		"text": "eng. flowerl"
+	},
+	{
+		"word": "il prato",
+		"text": "spazio verde all'aperto, con erba"
+	},
+	{
+		"word": "il giardino",
+		"text": "spazio verde con erba e fiori"
+	},
+	{
+		"word": "il parco",
+		"text": "grande giardino con alberi e prati"
+	},
+	{
+		"word": "l’orto",
+		"text": "piccolo appezzamento di terra dove si coltivano verdura e frutta"
+	},
+	{
+		"word": "l’orto botanico",
+		"text": "eng. botanic garden"
+	},
+	{
+		"word": "la serra",
+		"text": "luogo coperto e riscaldato, per coltivare ortaggi o fiori"
+	},
+	{
+		"word": "fare un pic-nic ",
+		"text": "mangiare all’aperto"
+	},
+	{
+		"word": "fare il pranzo al sacco",
+		"text": "portarsi i panini o altro da mangiare"
+	},
+	{
+		"word": "il teatro",
+		"text": "eng. theatre"
+	},
+	{
+		"word": "il cinema",
+		"text": "eng. cinema, movies"
+	},
+	{
+		"word": "l’attore/l’attrice",
+		"text": "chi recita in un film o a teatro"
+	},
+	{
+		"word": "recitare",
+		"text": "interpretare una parte"
+	},
+	{
+		"word": "lo spettatore/la spettatrice",
+		"text": "chi guarda un film o uno spettacolo"
+	},
+	{
+		"word": "lo spettacolo",
+		"text": "eng. show"
+	},
+	{
+		"word": "applaudire",
+		"text": "battere le mani in segno di apprezzamento"
+	},
+	{
+		"word": "fare un applauso",
+		"text": "applaudire"
+	},
+	{
+		"word": "il palco",
+		"text": "eng. stage"
+	},
+	{
+		"word": "lo spettacolo",
+		"text": "eng. show"
+	},
+	{
+		"word": "dietro le quinte",
+		"text": "eng. behind the scenes"
+	},
+	{
+		"word": "a 360 gradi",
+		"text": "a fondo, al massimo, in tutte le direzion"
+	},
+	{
+		"word": "il doppiaggio",
+		"text": "traduzione del film in una lingua diversa dall’originale"
+	},
+	{
+		"word": "i sottotitoli",
+		"text": "trascrizione in lingua originale o in altre lingue dei dialoghi del film"
+	},
+	{
+		"word": "la recensione",
+		"text": "critica, opinione sulle caratteristiche di un film, di un libro o di una opera"
+	},
+	{
+		"word": "di nicchia",
+		"text": "rivolto a particolari gruppi di persone, di solito poche"
+	},
+	{
+		"word": "il regista/la regista",
+		"text": "chi si occupa della regia di uno spettacolo, direttore artistico"
+	},
+	{
+		"word": "lo schermo",
+		"text": "dove si proiettano le immagini"
+	},
+	{
+		"word": "il grande schermo",
+		"text": "cinema"
+	},
+	{
+		"word": "il catalogo",
+		"text": "libro che elenca e descrive le opere, gli autori, ecc."
+	},
+	{
+		"word": "il dipinto",
+		"text": "quadro, opera pittorica"
+	},
+	{
+		"word": "l'opera d'arte",
+		"text": "eng. work of art"
+	},
+	{
+		"word": "l’audioguida",
+		"text": "guida in formato audio, con cuffie o auricolari, per visitare il museo in autonomia"
+	},
+	{
+		"word": "la visita guidata",
+		"text": "visita con una persona esperta che spiega e descrive le opere"
+	},
+	{
+		"word": "battere il record",
+		"text": "eng. to break, to beat a record"
+	},
+	{
+		"word": "l'estate",
+		"text": "eng. summer"
+	},
+	{
+		"word": "gettonato",
+		"text": "che ha molto successo"
+	},
+	{
+		"word": "il nottambulo/la nottambula",
+		"text": "chi ama vivere di notte, o fare molto tardi"
+	},
+	{
+		"word": "la discoteca",
+		"text": "locale dove si balla"
+	},
+	{
+		"word": "la pista",
+		"text": "area della discoteca in cui le persone ballano"
+	},
+	{
+		"word": "il buttafuori",
+		"text": "persona addetta alla sicurezza della discoteca"
+	},
+	{
+		"word": "il/la DJ",
+		"text": "disk jockey"
+	},
+	{
+		"word": "il/la vocalist",
+		"text": "chi si occupa di musica e intrattenimento insieme al dj"
+	},
+	{
+		"word": "il/la cubista",
+		"text": "persona che balla sui cubi"
+	},
+	{
+		"word": "il/la barista",
+		"text": "persona che serve al bar"
+	},
+	{
+		"word": "la lista",
+		"text": "elenco di nomi o cose"
+	},
+	{
+		"word": "essere in lista",
+		"text": "avere il proprio nome in una lista per ingressi agevolati in un locale"
+	},
+	{
+		"word": "l’ingresso libero",
+		"text": "entrare senza pagare il biglietto"
+	},
+	{
+		"word": "la consumazione",
+		"text": "quello che si ordina, di solito bevanda, al bar o al bancone"
+	},
+	{
+		"word": "la serata a tema: ",
+		"text": "evento incentrato su una tematica"
+	},
+	{
+		"word": "il guardaroba",
+		"text": "zona del locale dove è possibile lasciare giacche e borse"
+	},
+	{
+		"word": "farsi da parte",
+		"text": "spostarsi per lasciare spazio a qualcuno o a qualcosa"
+	},
+	{
+		"word": "essere in tiro",
+		"text": "essere particolarmente elegante, ricercato o appariscente nell'abbigliamento"
+	},
+	{
+		"word": "in senso stresso",
+		"text": "strictu sensu, si usa per circoscrivere il significato"
+	},
+	{
+		"word": "la bella stagione",
+		"text": "la stagione in cui il tempo è bello, estate o primavera"
+	},
+	{
+		"word": "fare la fila",
+		"text": "mettersi in coda e aspettare il proprio turno"
+	},
+	{
+		"word": "saltare la fila",
+		"text": "passare davanti a chi sta già aspettando"
+	},
+	{
+		"word": "doppio senso",
+		"text": "che può avere due interpretazioni"
+	},
+	{
+		"word": "la birra",
+		"text": "grande, media, piccola, in bottiglia, alla spina..."
+	},
+	{
+		"word": "la birra",
+		"text": "ambrata, chiara, doppio malto, rossa..."
+	},
+	{
+		"word": "a tutta birra",
+		"text": "a tutta velocità, molto rapidamente"
+	},
+	{
+		"word": "a colpo sicuro",
+		"text": "senza incertezza, senza dubbio"
+	},
+	{
+		"word": "l’imbarazzo della scelta",
+		"text": "scelta difficile perché ci sono tante opportunità interessanti"
+	},
+	{
+		"word": "reggere l’alcool",
+		"text": "poter bere tanti alcolici senza ubriacarsi o senza stare male"
+	},
+	{
+		"word": "la bottiglia",
+		"text": "eng. bottle"
+	},
+	{
+		"word": "il mare",
+		"text": "eng. sea"
+	},
+	{
+		"word": "urtare la sensibilità",
+		"text": "ferire, andare contro, non rispettare"
+	},
+	{
+		"word": "l'onda",
+		"text": "eng. wave"
+	},
+	{
+		"word": "su appuntamento",
+		"text": "è necessario concordare una data e un orario"
+	},
+	{
+		"word": "offerta libera",
+		"text": "quando è possibile decidere liberamente quanti soldi pagare"
+	},
+	{
+		"word": "la spiaggia",
+		"text": "eng. beach"
+	},
+	{
+		"word": "essere intatto",
+		"text": "essere integro, ben conservato"
+	},
+	{
+		"word": "degno di nota",
+		"text": "che merita particolare attenzione, considerazione"
+	},
+	{
+		"word": "la notte",
+		"text": "eng. night"
+	},
+	{
+		"word": "la chiesa",
+		"text": "eng. church"
+	},
+	{
+		"word": "rimanere traccia",
+		"text": "lasciare segni, resti, indizi"
+	},
+	{
+		"word": "le vacanze",
+		"text": "eng. holiday"
+	},
+	{
+		"word": "il costume da bagno",
+		"text": "eng. beachwear"
+	},
+	{
+		"word": "a spese di",
+		"text": "a carico di qualcuno"
+	},
+	{
+		"word": "prestare attenzione",
+		"text": "stare in allerta, stare attenti"
+	},
+	{
+		"word": "strada panoramica",
+		"text": "strada da cui si gode la vista di un bel panorama"
+	},
+	{
+		"word": "caldo",
+		"text": "eng. hot"
+	},
+	{
+		"word": "avere il pollice verde",
+		"text": "avere una particolare predisposizione per la cura delle piante"
+	},
+	{
+		"word": "la stella",
+		"text": "eng. star"
+	},
+	{
+		"word": "la luna",
+		"text": "eng. moon"
+	},
+	{
+		"word": "le stelle cadenti",
+		"text": "stelle che cadono dal cielo e sono visibili agli occhi delle persone"
+	},
+	{
+		"word": "tortuoso",
+		"text": "pieno di curve, a destra e sinistra"
+	},
+	{
+		"word": "pianta sempreverde",
+		"text": "pianta che non perde mai tutte le foglie"
+	},
+	{
+		"word": "spiccare",
+		"text": "distinguersi, emergere, farsi notare"
+	},
+	{
+		"word": "il panificio",
+		"text": "il luogo in cui si produce il pane"
+	},
+	{
+		"word": "il panettiere",
+		"text": "il luogo in cui si vende il pane"
+	},
+	{
+		"word": "il pane",
+		"text": "eng. bread"
+	},
+	{
+		"word": "viaggiare",
+		"text": "eng. to travel"
+	},
+	{
+		"word": "a caccia di",
+		"text": "in cerca di, alla ricerca di qualcosa"
+	},
+	{
+		"word": "a due passi da",
+		"text": "molto vicino, in prossimità"
+	},
+	{
+		"word": "riportare alla luce",
+		"text": "scoprire qualcosa che era rimasto nascosto, far riemergere"
+	},
+	{
+		"word": "affollato",
+		"text": "pieno di"
+	},
+	{
+		"word": "la gente",
+		"text": "persone"
+	},
+	{
+		"word": "a stomaco pieno",
+		"text": "dopo i pasti"
+	},
+	{
+		"word": "la mano",
+		"text": "eng. hand"
+	},
+	{
+		"word": "perdere il turno",
+		"text": "si perde il turno quando, dopo un’attesa, saltano alla persona successiva"
+	},
+	{
+		"word": "il mondo",
+		"text": "eng.world "
+	}, {
+		"word": "la città",
+		"text": "eng.city, town"
+	}, {
+		"word": "il/la musicista",
+		"text": "chi fa musica "
+	}, {
+		"word": "la musica",
+		"text": "music "
+	}, {
+		"word": "all'aria aperta",
+		"text": "all 'esterno, in spazi verdi"
+	}, {
+		"word": "giocare a carte",
+		"text": "fare un gioco con le carte"
+	},
+	{
+		"word": "l'università",
+		"text": "eng. university"
+	},
+	{
+		"word": "lo studio",
+		"text": "ufficio dove i professori ricevono gli studenti"
+	},
+	{
+		"word": "il dipartimento",
+		"text": "eng. department"
+	},
+	{
+		"word": "la sala studio",
+		"text": "stanza dove si può studiare in tranquillità"
+	},
+	{
+		"word": "la biblioteca",
+		"text": "eng. library"
+	},
+	{
+		"word": "l'aula",
+		"text": "stanza dove si svolgono le lezioni"
+	},
+	{
+		"word": "la portineria",
+		"text": "ufficio che accoglie e offre informazioni"
+	},
+	{
+		"word": "l'esame",
+		"text": "eng. exam"
+	},
+	{
+		"word": "gli appelli d’esame ",
+		"text": "giorni in cui si possono sostenere gli esami"
+	},
+	{
+		"word": "le sessioni d’esame ",
+		"text": "periodi dell'anno in cui si possono sostenere gli esami"
+	},
+	{
+		"word": "sostenere un esame ",
+		"text": "fare, dare un esame"
+	},
+	{
+		"word": "l'esame orale",
+		"text": "esame in cui si risponde a voce alle domande"
+	},
+	{
+		"word": "l'esame scritto",
+		"text": "esame in cui si risponde alle domande per iscritto"
+	},
+	{
+		"word": "passare l’esame",
+		"text": "superare la prova"
+	},
+	{
+		"word": "essere bocciati all’esame",
+		"text": "non superare la prova"
+	},
+	{
+		"word": "verbalizzare il voto",
+		"text": "registrare il voto"
+	},
+	{
+		"word": "il quarto d’ora accademico",
+		"text": "inizio della lezione ritardato di un quarto d'ora"
+	},
+	{
+		"word": "il libro",
+		"text": "eng. book"
+	},
+	{
+		"word": "il semestre",
+		"text": "periodo di sei mesi in cui è diviso l'anno accademico"
+	},
+	{
+		"word": "la lezione",
+		"text": "ora in cui il docente svolge un insegnamento"
+	},
+	{
+		"word": "l'autunno",
+		"text": "eng. autumn, fall"
+	},
+	{
+		"word": "fuori sede",
+		"text": "studenti che studiano in una città diversa da quella d’origine"
+	},
+	{
+		"word": "il professore/la professoressa",
+		"text": "eng. professor"
+	},
+	{
+		"word": "lo studente/la studentessa",
+		"text": "eng. student"
+	},
+	{
+		"word": "gli studenti in mobilità",
+		"text": "studenti che trascorrono un periodo in un'università di un altro paese"
+	},
+	{
+		"word": "iscriversi",
+		"text": "eng. to register, to enrol"
+	},
+	{
+		"word": "iscriversi",
+		"text": "all’università, a un corso, in biblioteca, al laboratorio di elettronica, all’esame"
+	},
+	{
+		"word": "il quaderno",
+		"text": "eng. notebook"
+	},
+	{
+		"word": "prendere appunti",
+		"text": "annotare ciò che viene detto durante la lezione"
+	},
+	{
+		"word": "scambiarsi gli appunti",
+		"text": "tra compagni di corso, dare e ricevere appunti"
+	},
+	{
+		"word": "frequentare i corsi",
+		"text": "andare alle lezioni"
+	},
+	{
+		"word": "la penna",
+		"text": "eng. pen"
+	},
+	{
+		"word": "la borsa di studio",
+		"text": "somma di denaro per poter studiare"
+	},
+	{
+		"word": "il patrono",
+		"text": "protettore, difensore "
+	}, {
+		"word": "la finestra",
+		"text": "eng. window"
+	},
+	{
+		"word": "l'acqua",
+		"text": "eng.water "
+	}, {
+		"word": "a rate",
+		"text": "a piccole tranche "
+	}, {
+		"word": "la bolletta",
+		"text": "canone da pagare per l’ erogazione di acqua, luce, gas "
+	}, {
+		"word": "le utenze",
+		"text": "bollette di acqua, luce, gas "
+	}, {
+		"word": "la caparra",
+		"text": "acconto, versamento anticipato"
+	},
+	{
+		"word": "la porta",
+		"text": "eng. door"
+	},
+	{
+		"word": "il canone di affitto",
+		"text": "importo che si paga per abitare in un alloggio"
+	},
+	{
+		"word": "l'alloggio",
+		"text": "abitazione, casa"
+	},
+	{
+		"word": "la stanza",
+		"text": "eng. room"
+	},
+	{
+		"word": "la stanza singola",
+		"text": "stanza con un posto letto"
+	},
+	{
+		"word": "la stanza doppia",
+		"text": "stanza con due posti letto"
+	},
+	{
+		"word": "la stanza tripla",
+		"text": "stanza con tre posti letto"
+	},
+	{
+		"word": "dare la disdetta",
+		"text": "informare il proprietario che si lascerà la casa prima della scadenza del contratto"
+	},
+	{
+		"word": "il prezzo",
+		"text": "quantità di denaro da pagare per un articolo "
+	}, {
+		"word": "lo sconto",
+		"text": "riduzione del prezzo di partenza, del costo originario della merce "
+	}, {
+		"word": "il letto",
+		"text": "eng.bed"
+	}, {
+		"word": "il francobollo",
+		"text": "affrancatura, bollo, da applicare su cartoline, lettere, pacchi, ecc. per pagarne la spedizione "
+	}, {
+		"word": "il sogno",
+		"text": "eng.dream "
+	}, {
+		"word": "il montepremi",
+		"text": "l’ importo di una vincita "
+	}, {
+		"word": "la bilancia",
+		"text": "strumento utilizzato per misurare il peso "
+	}, {
+		"word": "lo sport agonistico",
+		"text": "sport praticato dai professionisti, a livello alto, competitivo "
+	}, {
+		"word": "lo sport per diletto",
+		"text": "sport praticato per divertimento e non per competizione "
+	}, {
+		"word": "la piscina",
+		"text": "eng.swimming pool "
+	}, {
+		"word": "il campo da calcio",
+		"text": "eng.football field "
+	}, {
+		"word": "la pista di atletica",
+		"text": "eng.running track "
+	}, {
+		"word": "i tifosi",
+		"text": "i sostenitori di una squadra "
+	}, {
+		"word": "l'esame clinico",
+		"text": "in ambito medico, analisi finalizzata alla diagnosi "
+	}, {
+		"word": "la ricetta medica",
+		"text": "documento rilasciato dal medico per l’ acquisto di farmaci e / o per prescrivere esami "
+	}, {
+		"word": "la tessera sanitaria",
+		"text": "eng.health insurance card "
+	}, {
+		"word": "l’ambulanza",
+		"text": "veicolo che presta servizio di emergenza per soccorrere chi sta male "
+	}, {
+		"word": "il medico di base",
+		"text": "eng.general practitioner "
+	}, {
+		"word": "il medico di famiglia",
+		"text": "medico di fiducia, che presta assistenza medica di primo livello "
+	}, {
+		"word": "il medicinale",
+		"text": "prodotto somministrato per curare un malessere o una malattia "
+	}, {
+		"word": "il farmaco",
+		"text": "medicinale "
+	}, {
+		"word": "il/la farmacista",
+		"text": "chi lavora in farmacia "
+	}, {
+		"word": "la farmacia",
+		"text": "luogo dove si vendono i farmaci "
+	}, {
+		"word": "soccorrere",
+		"text": "prestare aiuto a chi ha bisogno "
+	}, {
+		"word": "l'ambulatorio",
+		"text": "luogo in cui il medico riceve i pazienti per le visite "
+	}, {
+		"word": "il/la paziente",
+		"text": "persona che si rivolge al dottore per ricevere cure mediche "
+	}, {
+		"word": "il bugiardino ",
+		"text": "foglietto illustrativo che descrive le caratteristiche delle medicine "
+	}, {
+		"word": "essere a buon mercato",
+		"text": "economico, che non costa molto"
+	},
+	{
+		"word": "la busta",
+		"text": "piccolo contenitore di carta in cui si inseriscono le lettere o altri documenti "
+	}, {
+		"word": "pagare in contanti",
+		"text": "pagare con soldi in carta moneta"
+	},
+	{
+		"word": "il supermercato",
+		"text": "negozio molto grande in cui si va a fare acquisti"
+	},
+	{
+		"word": "il discount",
+		"text": "negozio in cui i prodotti hanno prezzi più bassi"
+	},
+	{
+		"word": "il carrello ",
+		"text": "viene usato al supermercato per trasportare i prodotti mentre si fa la spesa"
+	},
+	{
+		"word": "centro commerciale",
+		"text": "centro molto grande con negozi per fare acquisti"
+	},
+	{
+		"word": "l’orario continuato ",
+		"text": "senza interruzione, 24 ore su 24"
+	},
+	{
+		"word": "il negozio",
+		"text": "locale in cui si vendono e acquistano alcuni prodotti"
+	},
+	{
+		"word": "la bottega",
+		"text": "negozio di prodotti tradizionali e artigianali"
+	},
+	{
+		"word": "la boutique",
+		"text": "negozio chic e ricercato"
+	},
+	{
+		"word": "la gioielleria",
+		"text": "negozio di gioielli"
+	},
+	{
+		"word": "la pasticceria",
+		"text": "negozio in cui si vendono i dolci"
+	},
+	{
+		"word": "la macelleria",
+		"text": "negozio in cui si vende la carne"
+	},
+	{
+		"word": "la pescheria",
+		"text": "negozio in cui si vende il pesce"
+	},
+	{
+		"word": "la cartoleria",
+		"text": "negozio che vende articoli di cancelleria"
+	},
+	{
+		"word": "la tabaccheria",
+		"text": "rivendita di tabacchi, francobolli, marche da bollo"
+	},
+	{
+		"word": "il mercato",
+		"text": "luogo all'aperto in cui si riuniscono venditori e compratori"
+	},
+	{
+		"word": "la bancarella",
+		"text": "banco per la vendita all’aperto"
+	},
+	{
+		"word": "la fiera",
+		"text": "una mostra-mercato dalle grandi dimensioni"
+	},
+	{
+		"word": "l’agricoltura biologica",
+		"text": "eng. organic farming"
+	},
+	{
+		"word": "la cassa",
+		"text": "nei negozi, dove si paga e ritira la merce comprata"
+	},
+	{
+		"word": "il cassiere/la cassiera",
+		"text": "persona che lavora alla cassa"
+	},
+	{
+		"word": "gli addobbi natalizi",
+		"text": "decorazioni come luci, palline, fili argentati"
+	},
+	{
+		"word": "le palline",
+		"text": "decorazioni a forma di sfera per l’albero di Natale"
+	},
+	{
+		"word": "le prelibatezze",
+		"text": "delizie, cibo o bevanda dal gusto squisito"
+	},
+	{
+		"word": "guardare le vetrine",
+		"text": "osservare gli articoli esposti nelle vetrine dei negozi"
+	},
+	{
+		"word": "l’abbigliamento",
+		"text": "indumenti, vestiti"
+	},
+	{
+		"word": "le scarpe",
+		"text": "calzature"
+	},
+	{
+		"word": "la borsa",
+		"text": "eng. bag"
+	},
+	{
+		"word": "il sacchetto",
+		"text": "borsa di plastica o di carta, con due manici"
+	},
+	{
+		"word": "freddo",
+		"text": "eng. cold"
+	},
+	{
+		"word": "il fruttivendolo",
+		"text": "negozio che vende frutta e verdura"
+	},
+	{
+		"word": "le luminarie",
+		"text": "luci che decorano edifici e strade"
+	}, {
+		"word": "il presepe",
+		"text": "rappresentazione della natività di Gesù Cristo"
+	},
+	{
+		"word": "l'orologio",
+		"text": "strumento per misurare il tempo"
+	},
+	{
+		"word": "l'inverno",
+		"text": "eng. winter"
+	},
+	{
+		"word": "il bonifico",
+		"text": "trasferimento di denaro"
+	},
+	{
+		"word": "la filiale",
+		"text": "sede secondaria"
+	},
+	{
+		"word": "la vigilia",
+		"text": "il giorno prima della festa"
+	},
+	{
+		"word": "il Natale",
+		"text": "eng. Christmas"
+	},
+	{
+		"word": "il codice segreto",
+		"text": "sequenza di numeri o di altri caratteri che si impostano per ragioni di sicurezza"
+	},
+	{
+		"word": "la collezione",
+		"text": "raccolta di oggetti unici o rari, a volte preziosi "
+	}, {
+		"word": "il mutuo",
+		"text": "prestito di denaro finalizzato all’acquisto di una casa"
+	},
+	{
+		"word": "lo stipendio",
+		"text": "salario che riceve un lavoratore"
+	},
+	{
+		"word": "per tutte le tasche",
+		"text": "adatto alla disponibilità economica di tutti "
+	}, {
+		"word": "da cima a fondo",
+		"text": "dall’inizio alla fine, in modo completo, integralmente "
+	}
+]

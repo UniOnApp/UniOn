@@ -1,0 +1,13 @@
+{
+  "title": "Muzeum Narodowe",
+  "latitude": "52.408546",
+  "longitude": "16.929427",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

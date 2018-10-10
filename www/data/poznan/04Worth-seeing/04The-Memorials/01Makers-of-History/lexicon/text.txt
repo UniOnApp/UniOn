@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>powstać ku pamięci</p>
+</td>
+<td>
+<p>erected to commemorate</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wydarzenia polityczne</p>
+</td>
+<td>
+<p>political events</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieć miejsce</p>
+</td>
+<td>
+<p>take place</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>strajk generalny</p>
+</td>
+<td>
+<p>general strike</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>demonstracje uliczne</p>
+</td>
+<td>
+<p>street demonstrations</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>protest przeciwko władzy</p>
+</td>
+<td>
+<p>protests against the authorities</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wyjść na ulicę</p>
+</td>
+<td>
+<p>go out in the street</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>protestujący</p>
+</td>
+<td>
+<p>protesters</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>domagać się</p>
+</td>
+<td>
+<p>to demand</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>narzucone normy pracy</p>
+</td>
+<td>
+<p>imposed efficiency rates</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>obniżenie cen</p>
+</td>
+<td>
+<p>lowering the prices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podwyższenie płac</p>
+</td>
+<td>
+<p>raising wages</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>użycie siły</p>
+</td>
+<td>
+<p>using force</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pacyfikacja demonstracji</p>
+</td>
+<td>
+<p>suppressing the demonstration</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>składać się z</p>
+</td>
+<td>
+<p>to consist of</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>umieścić daty</p>
+</td>
+<td>
+<p>to put the dates</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>hasła protestujących</p>
+</td>
+<td>
+<p>protesters&rsquo; slogans</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,14 @@
+{
+  "title": "San Luca",
+  "latitude": "44.479238",
+  "longitude": "11.298053",
+  "difficulty": "mid",
+  "keyword": ["pellegrinaggio",
+"Arco del Meloncello"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>Onde <strong>&eacute; que <\/strong>posso comprar bilhetes para visitar a universidade?<\/p>\r\n<p><em>Where can I buy tickets to visit the university?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>&eacute; que<\/strong><\/p>\r\n<ul>\r\n<li>used in questions with Q-words;<\/li>\r\n<li>it maintains the usual Subject-Verb order in questions.<\/li>\r\n<\/ul>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Pronounciation<\/strong><\/p>\r\n<p>&lt;qu&gt;: [k] que [k\u0268]<\/p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [kw] tranquilo [t\u027Ekw\u0268lu]<\/p>\r\n<p>&lt;nh&gt;: [\u0272] banho [\u0272]<\/p>\r\n<p>&lt;gu&gt;: [g] gato [gatu]<\/p>\r\n<p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [gw] &aacute;gua [agw\u0250]<\/p>\r\n<p>&lt;ss&gt;: [s] posso [p\u0254su]<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

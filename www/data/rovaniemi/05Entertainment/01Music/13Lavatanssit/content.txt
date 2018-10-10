@@ -1,0 +1,13 @@
+{
+  "title": "Lavatanssit",
+  "latitude": "66.517880",
+  "longitude": "25.781243",
+  "difficulty": "",
+  "keyword": ["personal space","tanssi","dance","dancehall","tanssilava","dance platform","lavatanssit"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

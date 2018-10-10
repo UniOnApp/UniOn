@@ -1,0 +1,22 @@
+{
+  "title": "Nastri, luci e palline",
+  "latitude": "44.492387",
+  "longitude": "11.352433",
+  "difficulty": "mid",
+  "keyword": ["luci",
+"addobbo",
+"addobbi ",
+"mercati tradizionali natalizi",
+"Fiera di Santa Lucia",
+"stand",
+"albero di Natale",
+"presepe",
+"Fiera di Natale",
+"mercato natalizio"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

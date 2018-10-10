@@ -1,0 +1,13 @@
+{
+  "title": "Chiedere informazioni sull’aperitivo",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>A che ora inizia l&rsquo;aperitivo stasera?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Che piatti proponete per l&rsquo;aperitivo?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Quanto costa l&rsquo;aperitivo?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Fate musica dal vivo ?<\/p><\/td><td>&nbsp;<\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

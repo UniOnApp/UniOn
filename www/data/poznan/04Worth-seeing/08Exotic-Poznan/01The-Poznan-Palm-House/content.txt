@@ -1,0 +1,13 @@
+{
+  "title": "The Poznan Palm House",
+  "latitude": "52.401977",
+  "longitude": "16.901408",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

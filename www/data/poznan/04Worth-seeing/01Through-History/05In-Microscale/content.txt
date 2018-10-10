@@ -1,0 +1,13 @@
+{
+  "title": "In Microscale",
+  "latitude": "52.408204",
+  "longitude": "16.934111",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

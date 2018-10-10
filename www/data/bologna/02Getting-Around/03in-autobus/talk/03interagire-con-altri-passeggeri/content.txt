@@ -1,0 +1,13 @@
+{
+  "title": "Interagire con altri passeggeri",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Mi scusi, scende alla prossima fermata?<\/p><\/td><td><\/td><\/tr><tr><td><p>Mi scusi, dovrei scendere alla prossima fermata...<\/p><\/td><td><\/td><\/tr><tr><td><p>Mi scusi, quante fermate ci sono pi\u00F9 o meno prima di Piazza Maggiore?<\/p><\/td><td><\/td><\/tr><tr><td><p>Mi scusi, devo andare in via Indipendenza. Va bene questo autobus?<\/p><\/td><td><\/td><\/tr><tr><td><p>Ha due euro da cambiare? Devo fare il biglietto...<\/p><\/td><td><\/td><\/tr><tr><td><p>Prego, vuole sedersi? Prego, si sieda!<\/p><\/td><td><\/td><\/tr><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

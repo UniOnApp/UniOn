@@ -1,0 +1,13 @@
+{
+  "title": "In biglietteria",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Ci sono ancora posti liberi in Platea?<\/p><\/td><td><\/td><\/tr><tr><td><p>Vorrei tre posti in  Galleria, i migliori per favore.<\/p><\/td><td><\/td><\/tr><tr><td><p>Quante repliche ci saranno de La Traviata?<\/p><\/td><td><\/td><\/tr><tr><td><p>Quanto costa un abbonamento per l&rsquo;intera Stagione?<\/p><\/td><td><\/td><\/tr><tr><td><p>Ci sono riduzioni per studenti?<\/p><\/td><td><\/td><\/tr><tr><td><p>Si vede e si sente bene dai Palchi?<\/p><\/td><td><\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

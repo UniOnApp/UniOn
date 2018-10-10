@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>N&atilde;o sei como entrar no sistema.<\/p>\r\n<p><em>I don&rsquo;t know how to access the system.<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Para estudar, tenho de requisitar um livro ou basta escolher um lugar?<\/p>\r\n<p><em>Do I have to borrow a book or can I just pick a seat if I want to study?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>Onde entrego a <strong>ficha<\/strong>?<\/p>\r\n<p><em>Where do I hand in my token?<\/em><\/p>\r\n<p>&nbsp;<\/p>\r\n<p>ficha&nbsp; (<em>numbered place token)<\/em><\/p>\r\n<p>ficha (<em>plug)<\/em><\/p>\r\n<p>tomada (<em>socket)<\/em><\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

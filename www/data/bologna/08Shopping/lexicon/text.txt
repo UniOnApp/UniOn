@@ -1,0 +1,139 @@
+<p><strong>I luoghi:</strong></p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/01super-iper-discount/&quot;)" style="color: #3366ff;">IL supermercato, L'ipermercato, Il centro commerciale, Il parco commerciale (eng. supermarket, hypermarket, shopping center, shopping park)</span>: centri coperti e di solito molto grandi in cui si va a fare acquisti, non solo di alimentari.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/01super-iper-discount/&quot;)" style="color: #3366ff;">Il discount</span>: negozio o magazzino in cui i prodotti hanno prezzi pi&ugrave; bassi rispetto alla media.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/01super-iper-discount/&quot;)" style="color: #3366ff;">Il megastore, Lo store</span>: termine inglese utilizzato per indicare un grande magazzino, principalmente monomarca, cio&egrave; con prodotti di una sola marca. Per esempio lo store di Nike.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/01super-iper-discount/&quot;)" style="color: #3366ff;">Il punto vendita (eng. shop)</span>: altro modo per dire negozio.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/01super-iper-discount/&quot;)" style="color: #3366ff;">Il negozio (eng. shop)</span>: locale in cui si vendono e acquistano alcuni prodotti, per esempio un negozio di abbigliamento, di scarpe, di biancheria intima, di biancheria per la casa, ecc.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" style="color: #3366ff;">La bottega, L'atelier, La boutique</span>: sono sinonimi di negozio. La bottega di solito propone prodotti tradizionali e di fattura artigianale, mentre atelier e boutique conferiscono al termine neutro &lsquo;negozio&rsquo; una connotazione pi&ugrave; chic e ricercata.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/01prodotti-del-territorio/&quot;)" style="color: #3366ff;">Il mercato (eng. market)</span>: il luogo, generalmente all&rsquo;aperto, in cui si riuniscono venditori e compratori. Il mercato si svolge di solito con regolarit&agrave; nello stesso luogo, giorno e fascia oraria. Per esempio: il mercato ortofrutticolo, il mercato settimanale, il mercatino vintage, ecc. A volte si parla di mercato coperto per indicare alcune tipologie di grandi magazzini.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/01prodotti-del-territorio/&quot;)" style="color: #3366ff;">La bancarella (eng. stand, stall)</span>: banco per la vendita all&rsquo;aperto, di solito utilizzato nei mercati o dai venditori ambulanti.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/02Gusti-vintage/&quot;)" style="color: #3366ff;">La fiera (eng. fair, exibition)</span>: una mostra-mercato di solito dalle grandi dimensioni. Per esempio la Fiera del Libro per Ragazzi, la Fiera dell&rsquo;Antiquariato, ecc.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/02Gusti-vintage/&quot;)" style="color: #3366ff;">Il magazzino (eng. storehouse)</span>: locale per il deposito e la conservazione di grandi quantit&agrave; di merce e di materiali di ogni genere.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" style="color: #3366ff;">Il reparto (eng. department)</span>: in un supermercato indica il settore dedicato alla vendita di determinati prodotti. Per esempio, il reparto alimentare, elettrodomestici, prodotti per la casa.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" style="color: #3366ff;">La corsia (eng. lane)</span>: in un supermercato indica il corridoio numerato e dedicato alla vendita di determinati prodotti.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Tipi di negozi:</strong></p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" style="color: #3366ff;">In Gioielleria/dal Gioielliere (eng. jeweller)</span>: negozio di gioielli. A volte si usa anche Orefice, per riferirsi pi&ugrave; nello specifico all&rsquo;artigiano che crea e ripara gioielli in oro.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" style="color: #3366ff;">In Drogheria/Dal droghiere (eng. grocers&rsquo; shop)</span>: negozio per la vendita al dettaglio di generi alimentari misti, tra cui le spezie, il caff&egrave;, lo zucchero, il sale, e spesso anche prodotti freschi.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" style="color: #3366ff;">In Tappezzeria/Dal Tappezziere (eng. upholstery)</span>: laboratorio del tappezziere, artigiano che lavora i tessuti, per esempio le tende, i tappeti, i rivestimenti di poltrone e divani.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/02Botteghe-alimentari/&quot;)" style="color: #3366ff;">Al Panificio/Dal panettiere (eng. bakery)</span>: il panificio indica il luogo in cui si produce il pane, mentre il panettiere &egrave; il negozio dove si vende il pane prodotto in proprio o acquistato al panificio.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/02Botteghe-alimentari/&quot;)" style="color: #3366ff;">Al Forno/Dal Fornaio</span>: un altro modo per dire panificio e panettiere. In questo caso si indica il luogo di cottura del pane, cio&egrave; il forno.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/02Botteghe-alimentari/&quot;)" style="color: #3366ff;">In Pasticceria/Dal pasticciere (eng. bakery, pastry shop)</span>: negozio in cui si vendono pasticcini, dolci, torte, biscotti. Talvolta la pasticceria ha anche il laboratorio interno di produzione dei dolci.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/02Botteghe-alimentari/&quot;)" style="color: #3366ff;">In Pescheria/Dal pescivendolo (eng. fish shop, fish market)</span>: negozio adibito alla vendita del pesce fresco.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/02Botteghe-alimentari/&quot;)" style="color: #3366ff;">In Macelleria/Dal macellaio (eng. butcher shop)</span>: luogo per la vendita di carni macellate.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/02Botteghe-alimentari/&quot;)" style="color: #3366ff;">All&rsquo;Ortofrutta/Dal fruttivendolo (eng. greengrocer)</span>: &lsquo;Ortofrutta&rsquo; indica l&rsquo;insieme di frutta e verdura. Per estensione &lsquo;ortofrutta&rsquo; &egrave; a volte utilizzato nelle insegne dei fruttivendoli, come sinonimo di fruttivendolo, cio&egrave; del negozio che vende frutta e verdura.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/03Dal-tabaccaio/&quot;)" style="color: #3366ff;">In tabaccheria/Dal tabaccaio (eng. tobacconist)</span>: rivendita di tabacchi, francobolli, marche da bollo e altri generi di monopolio statale.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/03Dal-tabaccaio/&quot;)" style="color: #3366ff;">In Cartoleria (eng. stationery shop)</span>: negozio che vende articoli di cancelleria, cio&egrave; quaderni, penne, matite, colori, astucci, ecc.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Gli oggetti e i Prodotti:</strong></p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" >La bilancia (eng. scale)</span>: strumento utilizzato per misurare il peso.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" >La cassa (eng. cashier)</span>: al supermercato, nei negozi, ecc. &egrave; lo strumento usato per fare il calcolo dell&rsquo;importo da pagare per la merce comprata, pagare, e rilasciare lo scontrino fiscale.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" >La tessera (eng. membership card)</span>: &egrave; la tessera di affiliazione a un supermercato, che consente di accumulare punti, per esempio per il ritiro di premi.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" >L'articolo (eng. item, good)</span>: prodotto, bene, merce.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" >Il sacchetto (eng. bag)</span>: sinonimo di &lsquo;sporta&rsquo; o &lsquo;sportina&rsquo;, cio&egrave; borsa di plastica o di carta, con due manici, per trasportare oggetti, spesso usa e getta.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" >Il carrello (eng. shopping cart)</span>: viene usato al supermercato per trasportare i prodotti mentre si fa la spesa.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/01super-iper-discount/&quot;)" >Il prodotto sottomarca (eng. sub-brand item)</span>: prodotto di una marca poco conosciuta o secondaria, di solito meno costoso e di qualit&agrave; inferiore.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/01super-iper-discount/&quot;)" >Il packaging</span>: confezione, pacco, involucro che avvolge il prodotto.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/02Botteghe-alimentari/&quot;)" >Le prelibatezze (eng. delicacies)</span>: delizie, cibo o bevanda dal gusto squisito, molto buono.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/02Gusti-vintage/&quot;)" >La collezione, L'articolo da collezione (eng. collection item)</span>: raccolta di oggetti unici o rari, a volte preziosi.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" >L'abbigliamento (eng. clothes)</span>: indumenti, vestiti.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" >Le scarpe (eng. shoes)</span>: calzatura.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" >La borsa (eng. bags)</span>: cfr. Glossario visuale.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" >La biancheria (eng. linen, sheets)</span>: tessuti e indumenti per la casa o per uso personale.</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Altri termini:</strong></p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/01prodotti-del-territorio/&quot;)" >L'agricoltura biologica (eng. organic farming)</span>: metodo di coltivazione che esclude qualsiasi utilizzo di fertilizzanti e sostanze chimiche.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/02Gusti-vintage/&quot;)" >Gli espositori (eng. exhibitor)</span>: chi espone, mostra, presenta al pubblico dei prodotti.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" >La marca/Il marchio (eng. brand)</span>: segno, contrassegno per indicare l&rsquo;azienda, l&rsquo;artigiano o la casa<br />
+produttrice di un articolo.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/01super-iper-discount/&quot;)" >L'orario continuato (eng. 24h opening)</span>: senza interruzione, 24 ore su 24.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" >Il prezzo (eng. cost)</span>: costo, quantit&agrave; di denaro da pagare per un articolo o altro.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" >Lo sconto (eng. discount)</span>: riduzione del prezzo di partenza, del costo originario della merce.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/01prodotti-del-territorio/&quot;)" >La spesa/fare la spesa (eng. do shopping)</span>: fare acquisti, fare compere, acquistare, di solito generi alimentari.</p>
+
+<p>&nbsp;</p>
+<p><strong>Gli articoli natalizi:</strong></p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/03nastri-luci-palline/&quot;)" >Gli addobbi natalizi (eng. Christmas ornments)</span>: decorazioni natalizie come luci, palline, fili argentati.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/03nastri-luci-palline/&quot;)">Le luminarie (eng. Christmas lights)</span>: sinonimo di luci. Nel periodo natalizio le luminarie sono applicate sugli edifici, sulle torri e nelle strade, come elementi decorativi di festa.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/03nastri-luci-palline/&quot;)" >Le palline (eng. baubles)</span>: decorazioni natalizie a forma di sfera che servono a decorare l&rsquo;albero di Natale.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/03nastri-luci-palline/&quot;)" >Il presepe (eng. Christmas crib)</span>: rappresentazione della nativit&agrave; di Ges&ugrave; Cristo.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/03nastri-luci-palline/&quot;)" >Le statuine (eng. Santons)</span>: piccole statue figurative di terracotta che animano il presepe.</p>
+
+<p>&nbsp;</p>
+
+<p style="text-align: center;"><strong>Espressioni e Modi di dire</strong></p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/01al-supermercato/02lista-della-spesa/&quot;)" style="color: #ff6600;">Fare la lista della spesa</span> (eng. do the shopping list): &ldquo;<em>Hai fatto la lista della spesa</em>&rdquo;?; &ldquo;<em>Aggiungi il latte nella lista della spesa</em>&rdquo;.<br />
+Appuntare, di solito su un foglio, un bloc-notes o su una lavagna, l&rsquo;elenco di cose da comprare.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/02al-mercato/03nastri-luci-palline/&quot;)" style="color: #ff6600;">Da cima a fondo</span> (eng. from top to bottom): &ldquo;<em>Ho controllato la stanza da cima a fondo ma la borsa non c&rsquo;&egrave;</em>&rdquo;; <em>Ho letto il libro da cima a fondo, in pochi giorni</em>&rdquo;.<br />
+Dall&rsquo;inizio alla fine, in modo completo, integralmente.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" style="color: #ff6600;">In giro per</span> (eng. around): &ldquo;<em>Mi sono persa in giro per la citt&agrave;</em>&rdquo;, &ldquo;<em>Sono andata in giro per negozi tutta la mattina</em>&rdquo;.<br />
+Passeggiare, spostarsi, vagare, senza una meta precisa.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" style="color: #ff6600;">Guardare le vetrine</span> (eng. window shopping): &ldquo;<em>Mi piace guardare le vetrine di via d&rsquo;Azeglio</em>&rdquo;, &ldquo;<em>Guardo le vetrine delle gioiellerie senza entrare</em>&rdquo;.<br />
+Osservare gli articoli esposti nelle vetrine dei negozi.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" style="color: #ff6600;">Per tutte le tasche</span> (eng. for all budgets): &ldquo;<em>Ci sono automobili usate per tutte le tasche</em>&rdquo;; &ldquo;<em>Questo negozio di abbigliamento vende vestiti per tutte le tasche</em>&rdquo;.<br />
+Adatto alla disponibilit&agrave; economica di tutti, per tutti i budget.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/02Botteghe-alimentari/&quot;)" style="color: #ff6600;">Non a caso</span> (eng. not by chance): &ldquo;<em>&egrave; stata promossa non a caso</em>&rdquo;, &ldquo;<em>non a caso &egrave; arrivata in ritardo</em>&rdquo;.<br />
+In modo volontario, premeditato.</p>
+
+<p><span class="internalLink" onclick="goto(&quot;data/bologna/08Shopping/03negozi-e-botteghe/01In-giro-per-negozi/&quot;)" style="color: #ff6600;">Shopping altolocato</span> (eng. high-ranking shopping): acquisti costosi, in boutique di marca.</p>

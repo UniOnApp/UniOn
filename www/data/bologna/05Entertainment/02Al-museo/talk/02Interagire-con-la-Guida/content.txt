@@ -1,0 +1,13 @@
+{
+  "title": "Interagire con la Guida",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<table class=\"talkTable\"><tbody><tr><th>Talk<\/th><th>Answer Models<\/th><\/tr><tr><td><p>Di che epoca \u00E8 questo dipinto?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Quale tecnica pittorica ha usato l\u2019autore?<\/p><\/td><td>&nbsp;<\/td><\/tr><tr><td><p>Quella scultura \u00E8 originale o in copia?<\/p><\/td><td>&nbsp;<\/td><\/tr><\/tbody><\/table>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

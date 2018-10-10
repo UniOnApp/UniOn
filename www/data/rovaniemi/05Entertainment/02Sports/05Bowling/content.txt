@@ -1,0 +1,13 @@
+{
+  "title": "Bowling",
+  "latitude": "66.497527",
+  "longitude": "25.767476",
+  "difficulty": "",
+  "keyword": ["bowling","keilaus","kyykkä","mölkky","karttu","game"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

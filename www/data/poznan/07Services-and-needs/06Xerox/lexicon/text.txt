@@ -1,0 +1,140 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Oferujący</p>
+</td>
+<td>
+<p>offering</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>usługi kserograficzne</p>
+</td>
+<td>
+<p>copy and print services</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>oprawić</p>
+</td>
+<td>
+<p>to bind</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wydrukowane</p>
+</td>
+<td>
+<p>printed out</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>kolorowe ksero</p>
+</td>
+<td>
+<p>color photocopies</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>materiały ikonograficzne</p>
+</td>
+<td>
+<p>iconographic materials</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ceny wyg&oacute;rowane</p>
+</td>
+<td>
+<p>exorbitant prices</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zniżki</p>
+</td>
+<td>
+<p>discounts</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ceny wahają się</p>
+</td>
+<td>
+<p>the prices vary</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w zależności od&hellip;</p>
+</td>
+<td>
+<p>depending on</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>im więcej, tym taniej</p>
+</td>
+<td>
+<p>the more, the cheaper</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wydruk</p>
+</td>
+<td>
+<p>printout</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>nocny marek</p>
+</td>
+<td>
+<p>night owl</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zapominalski</p>
+</td>
+<td>
+<p>scatterbrained</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>czynne całodobowo</p>
+</td>
+<td>
+<p>open round-the-clock</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>w środku nocy</p>
+</td>
+<td>
+<p>in the middle of the night</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>mieszczące się</p>
+</td>
+<td>
+<p>to be placed at</p>
+</td>
+</tr>
+</tbody>
+</table>

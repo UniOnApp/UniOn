@@ -1,0 +1,13 @@
+{
+  "title": "Dialogue: calling a taxi",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>This is a typical dialogue of calling a taxi in Rovaniemi. Tap on the phrase to see the translation:<\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p>-Taksi Rovaniemi.<\/p>\r\n<p>Taxi Rovaniemi.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Hyv&auml;&auml; iltaa. Saanko taksin Kuntotielle?<\/p>\r\n<p>Good evening. Can I get a taxi to Kuntotie?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>-Anteeksi, mik&auml; on osoite?<\/p>\r\n<p>Excuse me, what is the address?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Osoite on Kuntotie viisi.<\/p>\r\n<p>The address is Kuntotie five.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>-Ja mik&auml; teid&auml;n nimi on?<\/p>\r\n<p>And what&rsquo;s your name?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Minun nimi on Jaana J&auml;rvinen.<\/p>\r\n<p>My name is Jaana J&auml;rvinen.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>-Kiitos, taksi tulee.<\/p>\r\n<p>Thank you, the taxi will come.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Kauanko se kest&auml;&auml;?<\/p>\r\n<p>How long does it take?<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>-Vaikea sanoa, kymmenen minuuttia ehk&auml;.<\/p>\r\n<p>Difficult to say, ten minutes maybe.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Ai, se on nopea, kiitos!<\/p>\r\n<p>Oh, it&rsquo;s quick, thanks!<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>-Kiitos, hei.<\/p>\r\n<p>Thanks, bye.<\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<p>Next time when you&rsquo;re calling a taxi, impress your friends by doing it in Finnish!<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

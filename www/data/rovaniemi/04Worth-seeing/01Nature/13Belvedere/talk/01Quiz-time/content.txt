@@ -1,0 +1,13 @@
+{
+  "title": "Quiz time!",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong>Are these claims oikein (correct) or v&auml;&auml;rin (incorrect)? Tap to check.<\/strong><\/p>\r\n<p>&nbsp;<\/p>\r\n<div class=\"ht\">\r\n<p><strong>You can spot J&auml;tk&auml;nkynttil&auml; &ndash; the Lumberjack&rsquo;s Candle Bridge &ndash; from the belvedere.<\/strong><\/p>\r\n<p><strong> Oikein. Correct.<\/strong> You can easily spot J&auml;tk&auml;nkynttil&auml; &ndash; one of the symbols of Rovaniemi &ndash; from the belvedere. <\/p>\r\n<p>&nbsp;<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p><strong>Birds are not uncommon at the belvedere. <\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> After all, you&rsquo;re in the middle of a pristine forest!<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>You can see all the way to the Baltic Sea from the belvedere. <\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> As you know, the Baltic Sea is further away, but you can see the confluence of our two major rivers: Ounasjoki and Kemijoki. <\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>There&rsquo;s a grill kiosk next to the belvedere.<\/strong><\/p>\r\n<p><strong>V&auml;&auml;rin. Incorrect.<\/strong> Almost true! There&rsquo;s a <strong>laavu<\/strong> &ndash; a lean-to &ndash; next to the belvedere, and you can freely use it to grill sausages yourself.<\/p>\r\n<p>&nbsp;<\/p>\r\n  <\/div>\r\n<div class=\"ht\">\r\n<p><strong>You may find some stone sculptures on the ground. <\/strong><\/p>\r\n<p><strong>Oikein. Correct.<\/strong> Visitors like to make heart-shaped stone sculptures on the ground. Naturally, in winter it&rsquo;s more practical to make snowmen! <\/p>\r\n  <p>&nbsp;<\/p>\r\n  <\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Long vowels",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p><strong><em>Pronunciation of long vowels<\/em><\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<p>Practice the pronunciation of short and long vowels. Tap on the phrase\u00A0to see it in Finnish and try pronouncing it.<\/p>\r\n<p>\u00A0<\/p>\r\n<div class=\"ht\">\r\n<p>Excuse me, may I ask something?<\/p>\r\n<p><strong>Anteeksi, saanko kysy\u00E4?<\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Excuse me, what is \u201Cuniversity\u201D in Finnish?<\/p>\r\n<p><strong>Anteeksi, mit\u00E4 \u201Cuniversity\u201D on suomeksi?<\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>It\u2019s \u201Cyliopisto\u201D in Finnish.<\/p>\r\n<p><strong>Se on suomeksi \u201Cyliopisto\u201D.<\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Excuse me, what is \u201Cviisitoista\u201D in English?<\/p>\r\n<p><strong>Anteeksi, mit\u00E4 \u201Cviisitoista\u201D on englanniksi?<\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>It\u2019s \u201Cfifteen\u201D in English.<\/p>\r\n<p><strong>Se on englanniksi \u201Cviisitoista\u201D.<\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Sorry, I don\u2019t understand.<\/p>\r\n<p><strong>Anteeksi, min\u00E4 en ymm\u00E4rr\u00E4.<\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Excuse me, could you repeat that, please?<\/p>\r\n<p><strong>Anteeksi, voisitko toistaa?<\/strong><\/p>\r\n<p>\u00A0<\/p>\r\n<\/div>\r\n<div class=\"ht\">\r\n<p>Excuse me, how do you spell it?<\/p>\r\n<p><strong>Anteeksi, miten se kirjoitetaan? \u00A0<\/strong><\/p>\r\n<\/div>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

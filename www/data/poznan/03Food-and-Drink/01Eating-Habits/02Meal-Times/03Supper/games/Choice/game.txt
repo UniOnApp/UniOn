@@ -1,0 +1,5 @@
+[
+  { "question": "NA \u015ANIADANIE:", "answers": ["par\u00F3wki", "zupa pomidorowa", "kotlet", "kapusta zasma\u017Cana"] },
+  { "question": "NA OBIAD:", "answers": ["kotlet", "p\u0105czek", "dro\u017Cd\u017C\u00F3wka", "kanapki"] },
+  { "question": "NA KOLACJ\u0118:", "answers": ["kanapki", "ros\u00F3\u0142", "dro\u017Cd\u017C\u00F3wka", "kotlet"] }
+]

@@ -1,0 +1,13 @@
+{
+  "title": "Frisbee golf",
+  "latitude": "66.475136",
+  "longitude": "25.849230",
+  "difficulty": "",
+  "keyword": ["frisbee","midnight sun","SantaSport"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

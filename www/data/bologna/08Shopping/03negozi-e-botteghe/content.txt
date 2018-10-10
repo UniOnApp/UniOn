@@ -1,0 +1,13 @@
+{
+  "title": "Negozi e botteghe",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "data/bologna/08Shopping/lexicon/",
+  "lexiconTranslation": ""
+}

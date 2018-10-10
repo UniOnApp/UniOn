@@ -1,0 +1,13 @@
+{
+  "title": "Vintikki",
+  "latitude": "66.494499",
+  "longitude": "25.709639",
+  "difficulty": "",
+  "keyword": ["clothes","clothing","vaatteet","second hand","flea market","vintage","kirpputori","charity"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

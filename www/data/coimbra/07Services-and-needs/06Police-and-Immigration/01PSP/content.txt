@@ -1,0 +1,13 @@
+{
+  "title": "PSP",
+  "latitude": "40.2105949",
+  "longitude": "-8.4244547",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

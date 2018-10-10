@@ -1,0 +1,21 @@
+<p><strong>Oggetti in mensa</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >I buoni pasto</span>: ticket utilizzati al posto dei soldi per pagare il pasto in mensa, al ristorante, in pizzeria. Sono dei benefit per i lavoratori che li ricevono dall&rsquo;azienda o da altri datori di lavoro.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >La cassa</span>: luogo in cui si paga il conto. La persona che lavora alla cassa si chiama cassiere/a.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Il men&ugrave;</span>: carta che contiene l&rsquo;elenco di piatti e pietanze disponibili, con i relativi prezzi.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Le posate</span>: forchetta, coltello, cucchiaio, cucchiaino.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >La tovaglietta</span>: piccola tovaglia di carta, spesso usa e getta, che si mette sul vassoio prima di appoggiare i piatti.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Il vassoio</span>: piccolo ripiano di solito in plastica utilizzato per trasportare piatti e bicchieri al tavolo.</p>
+<p>&nbsp;</p>
+<p><strong>Le portate/I piatti</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >L&rsquo;antipasto</span>: piatto di piccola porzione, assaggio, che precede il pasto principale.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Il primo</span>: tipicamente a base di pasta, riso, zuppa.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Il secondo</span>: tipicamente a base di carne o pesce.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Il contorno</span>: tipicamente a base di verdure e legumi cucinati in vari modi.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Il dolce</span>: mousse, gelato, torte, dolci al cucchiaio, ecc.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >La frutta</span>: macedonia, ananas, fragole, frutta mista.</p>
+<p>&nbsp;</p>
+<p style="text-align: center;"><strong>Espressioni e modi di dire</strong></p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Avere appetito (eng. to be hungry)</span>: <em>&ldquo;&Egrave; quasi l&rsquo;una, ho appetito&rdquo;, &ldquo;Il mio bimbo piange perch&eacute; ha appetito&rdquo;...</em><br />Avere appetito significa avere fame, avere bisogno di mangiare.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Ore di punta (eng. peak hours)</span>: <em>&ldquo;C&rsquo;&egrave; sempre tanta gente in centro nelle ore di punta&rdquo;, &ldquo;Evitiamo le ore di punta, c&rsquo;&egrave; sempre troppo traffico&rdquo;.</em><br />Le ore di punta indicano i momenti della giornata in cui il traffico di veicoli e/o l&rsquo;afflusso di persone sono pi&ugrave; alti. Le ore di punta in mensa sono le ore centrali della pausa pranzo.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Fare la fila/Mettersi in fila (eng. to be in line)</span>: <em>&ldquo;Alla cassa c&rsquo;&egrave; una lunga fila di persone in attesa&rdquo;, &ldquo;Ci mettiamo in fila per il check-in? L&rsquo;aereo parte tra quaranta minuti&rdquo;</em><br />Fare la fila significa disporsi o mettersi dietro ad altre persone o ad altri veicoli per aspettare il proprio turno. Si fa la fila all&rsquo;entrata e all&rsquo;uscita, alla cassa, in autostrada se c&rsquo;&egrave; traffico, ecc.</p>
+<p><span class="internalLink" onclick='goto("data/bologna/03Food-and-Drink/01A-mensa/")' >Pagare il conto (eng. to pay the bill)</span>: <em>&ldquo;Le regole del Galateo al ristorante: chi paga il conto?&rdquo;</em><br />Il conto indica il totale di una spesa, per esempio il conto di un pranzo o di una cena al ristorante. Per chiedere di pagare si pu&ograve; dire: &ldquo;Mi fa il conto per favore?&rdquo;, &ldquo;Il conto, per favore&rdquo;.</p>

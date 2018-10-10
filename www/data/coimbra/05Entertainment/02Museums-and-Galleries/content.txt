@@ -1,0 +1,13 @@
+{
+  "title": "Museums & Galleries",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": ["museum","art","museu","criptopórtico","visita","discounts"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

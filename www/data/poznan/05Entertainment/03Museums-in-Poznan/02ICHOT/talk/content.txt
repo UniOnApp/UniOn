@@ -1,0 +1,13 @@
+{
+  "title": "talk",
+  "latitude": "",
+  "longitude": "",
+  "difficulty": "",
+  "keyword": "",
+  "text": "",
+  "textTranslation": "",
+  "talk": "<p>- Marku, mo\u017Ce jutro wybierzemy si\u0119 na wypraw\u0119 w g\u0142\u0105b czasu i odwiedzimy miejsce, gdzie odtwarza si\u0119 histori\u0119 sprzed tysi\u0105ca lat.<\/p>\r\n<p>- Kolekcje archaicznych narz\u0119dzi, rekonstrukcje wykopaliskowe, mapy przesz\u0142o\u015Bci... przepraszam Ci\u0119, ale to nie dla mnie.<\/p>\r\n<p>- Zapraszam Ci\u0119 do nowoczesnej przestrzeni, do nietypowego muzeum, zapewniam &ndash; zmienisz swoje nastawienie!<\/p>\r\n<p>- My\u015Blisz, \u017Ce sami poradzimy sobie ze<\/p>\r\n<p>s\u0142owia\u0144sk\u0105 przesz\u0142o\u015Bci\u0105?<\/p>\r\n<p>- Z pewno\u015Bci\u0105, muzeum zapewnia audioprzewodniki w obcych j\u0119zykach, a poza tym pos\u0142uguje si\u0119 metaforycznym przekazem. To b\u0119dzie \u0107wiczenie wyobra\u017Ani.<\/p>\r\n<p>- Gdzie sie spotkamy?<\/p>\r\n<p>- Mo\u017Ce przed samym muzeum, na skwerze przed budynkiem. To ciekawa architektonicznie bry\u0142a! Pami\u0119taj, by\u015Bmy z tej perspektywy zobaczyli katedr\u0119.<\/p>\r\n<p>&nbsp;<\/p>\r\n<p><strong>Talk and Tips to Talk<\/strong>:<\/p>\r\n<p>W g\u0142\u0105b czasu, odwied\u017A (odwiedzi\u0107), odtwarza si\u0119 (odtwarza\u0107) histori\u0119, kolekcje archaicznych narz\u0119dzi, rekonstrukcje wykopaliskowe, mapy przesz\u0142o\u015Bci, co\u015B nie jest dla mnie, nowoczesna przestrze\u0144, nietypowe muzeum, zapewnia (zapewnia\u0107), zmienisz (zmienia\u0107) nastawienie, poradzimy (poradzi\u0107) sobie, s\u0142owia\u0144ska przesz\u0142o\u015B\u0107, pos\u0142uguje (pos\u0142ugiwa\u0107) si\u0119, \u0107wiczenie wyobra\u017Ani, skwer przed budynkiem, ciekawa architektonicznie bry\u0142a, z tej perspektywy.<\/p>",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}

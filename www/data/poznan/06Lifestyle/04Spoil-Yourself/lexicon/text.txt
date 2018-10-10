@@ -1,0 +1,156 @@
+<table class="tableNoAdd">
+<tbody>
+<tr>
+<td>
+<p>Bioregeneracja</p>
+</td>
+<td>
+<p>bio-regeneration</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odprężenie</p>
+</td>
+<td>
+<p>relaxation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stymulacja</p>
+</td>
+<td>
+<p>stimulation</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>odnowa biologiczna</p>
+</td>
+<td>
+<p>biological regeneration</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>chwila relaksu</p>
+</td>
+<td>
+<p>time to relax</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>wypoczynek</p>
+</td>
+<td>
+<p>leisure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>podążanie za ideą</p>
+</td>
+<td>
+<p>follow the concept</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>stosowanie ekologicznych kosmetyk&oacute;w</p>
+</td>
+<td>
+<p>using eco cosmetics</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zabiegi</p>
+</td>
+<td>
+<p>procedures</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>promocyjne oferty</p>
+</td>
+<td>
+<p>promotions</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>ascetyczna konwencja</p>
+</td>
+<td>
+<p>minimalistic style</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dawna manufaktura</p>
+</td>
+<td>
+<p>old hand manufacture</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>aromaterapia</p>
+</td>
+<td>
+<p>aromatherapy</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pielęgnacja</p>
+</td>
+<td>
+<p>treatment</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>pobudzić witalność</p>
+</td>
+<td>
+<p>to boost vitality</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>lecznicza przyjemność</p>
+</td>
+<td>
+<p>therapeutic pleasure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>zaznać</p>
+</td>
+<td>
+<p>to sense/ experience</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>dotyk</p>
+</td>
+<td>
+<p>touch</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>przekonać się</p>
+</td>
+<td>
+<p>to ascertain</p>
+</td>
+</tr>
+</tbody>
+</table>

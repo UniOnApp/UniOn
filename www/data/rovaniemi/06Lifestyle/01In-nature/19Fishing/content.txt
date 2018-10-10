@@ -1,0 +1,13 @@
+{
+  "title": "Fishing",
+  "latitude": "66.618876",
+  "longitude": "26.183751",
+  "difficulty": "",
+  "keyword": ["fishing","river","lake","permit","kala"],
+  "text": "",
+  "textTranslation": "",
+  "talk": "",
+  "talkTranslation": "",
+  "lexicon": "",
+  "lexiconTranslation": ""
+}
